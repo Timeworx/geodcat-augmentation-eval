@@ -1,0 +1,673 @@
+{
+  "identifier": [
+    "infrastrukturbetreiberinnen@schweizerische-bundesbahnen-sbb"
+  ],
+  "country": {
+    "label": "Switzerland",
+    "id": "ch",
+    "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/infrastrukturbetreiberinnen-schweizerische-bundesbahnen-sbb",
+  "catalog": {
+    "id": "opendata-swiss",
+    "description": {
+      "en": "Open Data Portal Switzerland"
+    },
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:opendata@bfs.admin.ch",
+      "name": "Federal Statistical Office",
+      "homepage": "https://www.bfs.admin.ch"
+    },
+    "source_type": "dcat-ap",
+    "title": {
+      "de": "opendata.swiss"
+    },
+    "modified": "2024-03-12T10:32:33Z",
+    "homepage": "https://opendata.swiss",
+    "issued": "2024-03-12T10:32:33Z",
+    "country": {
+      "label": "Switzerland",
+      "id": "ch",
+      "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+    },
+    "spatial_resource": [
+      {
+        "label": "Switzerland",
+        "id": "ch",
+        "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "de",
+        "label": "German",
+        "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+      }
+    ]
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": false,
+        "received": "2026-05-03T16:13:32Z",
+        "issued": "2026-02-11T20:07:48Z"
+      }
+    },
+    "full_available_languages": [
+      "de"
+    ],
+    "status": "completed"
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.sbb.ch/explore/dataset/infrastrukturbetreiberinnen/"
+    }
+  ],
+  "description": {
+    "de": "Welche Strecke wird von welcher Infrastrukturbetreiberin verantwortet"
+  },
+  "index": "dataset",
+  "language": [
+    {
+      "id": "de",
+      "label": "German",
+      "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+    }
+  ],
+  "title": {
+    "de": "Infrastrukturbetreiberinnen"
+  },
+  "distributions": [
+    {
+      "id": "5112705a-fc08-4439-9691-8b3b3d7b5e9a",
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (fgb)"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/fgb"
+      ],
+      "issued": "2026-05-31T01:00:50+00:00",
+      "format": {
+        "id": "OCTET",
+        "label": "Octet Stream",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/OCTET"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/fgb"
+      ],
+      "title": {
+        "de": "fgb"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "modified": "2026-05-31T01:00:50+00:00"
+    },
+    {
+      "id": "32203cf2-a1c0-4db1-9662-1e5d125e0752",
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/rdfxml"
+      ],
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/rdfxml"
+      ],
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (rdfxml)"
+      },
+      "modified": "2026-05-31T01:00:50+00:00",
+      "format": {
+        "id": "RDF_XML",
+        "label": "RDF XML",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_XML"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/rdf+xml",
+      "title": {
+        "de": "rdfxml"
+      },
+      "issued": "2026-05-31T01:00:50+00:00",
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ]
+    },
+    {
+      "id": "7bef20fe-8fc0-4d14-afd4-bf87474f0306",
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "modified": "2026-05-31T01:00:50+00:00",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/ov2"
+      ],
+      "format": {
+        "id": "TXT",
+        "label": "Plain text",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/TXT"
+      },
+      "title": {
+        "de": "ov2"
+      },
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (ov2)"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/ov2"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "http://www.iana.org/assignments/media-types/text/plain",
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "issued": "2026-05-31T01:00:50+00:00"
+    },
+    {
+      "id": "e3c6cab0-8615-40a3-8f75-cdf02a6d13f7",
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "id": "GPX",
+        "label": "GPX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/GPX"
+      },
+      "title": {
+        "de": "gpx"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/gpx"
+      ],
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (gpx)"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "issued": "2026-05-31T01:00:50+00:00",
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/gpx"
+      ],
+      "modified": "2026-05-31T01:00:50+00:00",
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ]
+    },
+    {
+      "id": "e0e7756b-b097-4520-8b9c-00e9bafd0324",
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (kml)"
+      },
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "modified": "2026-05-31T01:00:50+00:00",
+      "issued": "2026-05-31T01:00:50+00:00",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "id": "KML",
+        "label": "KML",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/KML"
+      },
+      "title": {
+        "de": "kml"
+      },
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/kml"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/kml"
+      ]
+    },
+    {
+      "id": "8f1acdfd-13d9-4312-a931-13550a95a5b9",
+      "format": {
+        "id": "JSON_LD",
+        "label": "JSON-LD",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON_LD"
+      },
+      "title": {
+        "de": "jsonld"
+      },
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (jsonld)"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/jsonld"
+      ],
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "modified": "2026-05-31T01:00:50+00:00",
+      "issued": "2026-05-31T01:00:50+00:00",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/jsonld"
+      ]
+    },
+    {
+      "id": "7c872473-54ce-4152-bb1f-df58e149f6bf",
+      "title": {
+        "de": "shp"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/shp"
+      ],
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "media_type": "application/zip",
+      "issued": "2026-05-31T01:00:50+00:00",
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (shp)"
+      },
+      "modified": "2026-05-31T01:00:50+00:00",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/shp"
+      ],
+      "format": {
+        "id": "ZIP",
+        "label": "ZIP",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/ZIP"
+      }
+    },
+    {
+      "id": "38f8eae3-cd54-4b15-8f7b-c5d52e2d284e",
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (turtle)"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/turtle"
+      ],
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/turtle",
+      "issued": "2026-05-31T01:00:50+00:00",
+      "format": {
+        "id": "RDF_TURTLE",
+        "label": "RDF Turtle",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "modified": "2026-05-31T01:00:50+00:00",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/turtle"
+      ],
+      "title": {
+        "de": "turtle"
+      }
+    },
+    {
+      "id": "00b7d0c4-228c-43d7-a770-0daf6c07394a",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/jsonl"
+      ],
+      "modified": "2026-05-31T01:00:50+00:00",
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (jsonl)"
+      },
+      "media_type": "application/json",
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "issued": "2026-05-31T01:00:50+00:00",
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/jsonl"
+      ],
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "title": {
+        "de": "jsonl"
+      }
+    },
+    {
+      "id": "2df2508d-1a91-4dd4-bed5-ba95a1a99497",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/xls?use_labels=true"
+      ],
+      "format": {
+        "id": "XLS",
+        "label": "Excel XLS",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLS"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/xls?use_labels=true"
+      ],
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "media_type": "application/vnd.ms-excel",
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (xls)"
+      },
+      "issued": "2026-05-31T01:00:50+00:00",
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "title": {
+        "de": "xls"
+      },
+      "modified": "2026-05-31T01:00:50+00:00"
+    },
+    {
+      "id": "d3795302-8f94-4b4b-81f9-242d14cdd5ca",
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "media_type": "application/json",
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "modified": "2026-05-31T01:00:50+00:00",
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (geojson)"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/geojson"
+      ],
+      "issued": "2026-05-31T01:00:50+00:00",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/geojson"
+      ],
+      "title": {
+        "de": "geojson"
+      },
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      }
+    },
+    {
+      "id": "08a2ca0f-2557-42d6-a34d-6b5be37b8406",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "title": {
+        "de": "csv"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/csv?use_labels=true"
+      ],
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "issued": "2026-05-31T01:00:50+00:00",
+      "modified": "2026-05-31T01:00:50+00:00",
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/csv?use_labels=true"
+      ],
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (csv)"
+      }
+    },
+    {
+      "id": "9f5e80d7-d959-40bb-9d24-ab043e246cf7",
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      },
+      "modified": "2026-05-31T01:00:50+00:00",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/json"
+      ],
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "title": {
+        "de": "json"
+      },
+      "issued": "2026-05-31T01:00:50+00:00",
+      "media_type": "application/json",
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (json)"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/json"
+      ],
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      }
+    },
+    {
+      "id": "984ff7a4-e0c1-41be-9a22-c545839851f7",
+      "media_type": "text/n3",
+      "issued": "2026-05-31T01:00:50+00:00",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/n3"
+      ],
+      "title": {
+        "de": "n3"
+      },
+      "format": {
+        "id": "N3",
+        "label": "N3",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/N3"
+      },
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (n3)"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/n3"
+      ],
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "modified": "2026-05-31T01:00:50+00:00"
+    },
+    {
+      "id": "d6f80450-84de-461b-b16d-3e7cd981f5cb",
+      "format": {
+        "id": "PARQUET",
+        "label": "Parquet",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/PARQUET"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "issued": "2026-05-31T01:00:50+00:00",
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/parquet"
+      ],
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/infrastrukturbetreiberinnen/exports/parquet"
+      ],
+      "title": {
+        "de": "parquet"
+      },
+      "description": {
+        "de": "Infrastrukturbetreiberinnen (parquet)"
+      },
+      "modified": "2026-05-31T01:00:50+00:00"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 275
+  },
+  "publisher": {
+    "type": "Agent",
+    "name": "schweizerische-bundesbahnen-sbb",
+    "resource": "https://data.sbb.ch/explore/?refine.dcat_ap_ch.domain=schweizerische-bundesbahnen-sbb"
+  },
+  "modified": "2026-05-31T01:00:50+00:00",
+  "id": "infrastrukturbetreiberinnen-schweizerische-bundesbahnen-sbb",
+  "issued": "2026-05-31T01:00:50+00:00",
+  "catalog_record": {
+    "issued": "2025-06-17T20:09:18Z",
+    "modified": "2026-05-31T20:05:03Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "name": "Ansprechstelle für Daten",
+      "email": "mailto:data@sbb.ch"
+    }
+  ]
+}

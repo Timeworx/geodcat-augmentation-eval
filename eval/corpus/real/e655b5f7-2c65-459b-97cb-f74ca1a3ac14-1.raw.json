@@ -1,0 +1,499 @@
+{
+  "identifier": [
+    "e655b5f7-2c65-459b-97cb-f74ca1a3ac14"
+  ],
+  "country": {
+    "label": "Ukraine",
+    "id": "ua",
+    "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+  },
+  "keywords": [
+    {
+      "id": "аудит",
+      "label": "аудит",
+      "language": "uk"
+    },
+    {
+      "id": "перелік",
+      "label": "перелік",
+      "language": "uk"
+    },
+    {
+      "id": "кваліфікація",
+      "label": "кваліфікація",
+      "language": "uk"
+    },
+    {
+      "id": "стягнення",
+      "label": "стягнення",
+      "language": "uk"
+    },
+    {
+      "id": "перевірка",
+      "label": "перевірка",
+      "language": "uk"
+    },
+    {
+      "id": "аудитор",
+      "label": "аудитор",
+      "language": "uk"
+    },
+    {
+      "id": "освіта",
+      "label": "освіта",
+      "language": "uk"
+    },
+    {
+      "id": "реєстр",
+      "label": "реєстр",
+      "language": "uk"
+    },
+    {
+      "id": "оснад",
+      "label": "оснад",
+      "language": "uk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/e655b5f7-2c65-459b-97cb-f74ca1a3ac14~~1",
+  "catalog": {
+    "id": "data-gov-ua",
+    "modified": "2023-02-10T20:19:48.373074",
+    "issued": "2022-11-21T05:36:39Z",
+    "publisher": {
+      "type": "Agent",
+      "name": "States site of Ukraine",
+      "email": "mailto:admin@data.gov.ua",
+      "homepage": "https://www.kmu.gov.ua/en"
+    },
+    "language": [
+      {
+        "id": "uk",
+        "label": "Ukrainian",
+        "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+      }
+    ],
+    "homepage": "https://data.gov.ua",
+    "source_type": "dcat-ap",
+    "description": {
+      "en": "Open Data Portal Ukraine"
+    },
+    "title": {
+      "en": "data.gov.ua"
+    },
+    "country": {
+      "label": "Ukraine",
+      "id": "ua",
+      "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ukraine",
+        "id": "ua",
+        "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+      }
+    ],
+    "spatial": []
+  },
+  "translation_meta": {
+    "details": {
+      "fr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "uk": {
+        "machine_translated": false,
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-31T20:50:01Z",
+        "issued": "2025-11-13T20:15:25Z"
+      }
+    },
+    "full_available_languages": [
+      "fr",
+      "cs",
+      "sk",
+      "sl",
+      "ro",
+      "et",
+      "ga",
+      "uk",
+      "hr",
+      "sv",
+      "lv",
+      "lt",
+      "hu",
+      "fi",
+      "pt",
+      "pl",
+      "mt",
+      "nl",
+      "bg",
+      "es",
+      "de",
+      "it",
+      "el",
+      "da",
+      "en"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "fi": "Tietokokonaisuus sisältää tietoja tilintarkastusrekisteristä ja ʼ-osatarkastusyksiköistä. Aineistossa on kaksi resurssia: aiheet - tiedot ʼ-kohteista ja tilintarkastajista - tiedot tilintarkastajista. Rekisteriin pääsee myös OSNADin virallisella verkkosivustolla olevan julkisen verkkokäyttöliittymän kautta seuraavasta linkistä: https://register.apob.org.ua/uk/search",
+    "pt": "O conjunto de dados contém informações do Registo de Auditores e das Entidades da Subauditoria ʼ. Existem dois recursos no conjunto de dados: disciplinas - informações sobre ʼ disciplinas de atividades de auditoria e auditores - informações sobre auditores. O acesso ao registo também é possível através de uma interface Web pública no sítio Web oficial do OSNAD, na ligação: https://register.apob.org.ua/uk/search",
+    "lv": "Datu kopā ir iekļauta informācija no Revidentu reģistra un ʼ apakšrevīzijas struktūrām. Datu kopā ir divi resursi: tēmas - informācija par ʼ revīzijas darbības priekšmetiem un revidentiem - informācija par revidentiem. Piekļuve reģistram ir iespējama arī, izmantojot publisku tīmekļa saskarni OSNAD oficiālajā tīmekļa vietnē: https://register.apob.org.ua/uk/search",
+    "uk": "В наборі даних міститься інформація із “Реєстру аудиторів та субʼєктів аудиторської діяльності”. В наборі даних два ресурси: subjects - інформація про субʼєктів аудиторської діяльності та auditors - інформація про аудиторів. Доступ до реєстру також можливий через публічний вебінтерфейс на офіційному вебсайті ОСНАД, за посиланням: https://register.apob.org.ua/uk/search",
+    "sv": "Datauppsättningen innehåller information från ”Revisorsregister och ʼ-underrevisorer. Det finns två resurser i datasetet: Ämnen - information om ʼ-ämnen för revisionsverksamhet och revisorer - information om revisorer. Tillgång till registret är också möjlig via ett offentligt webbgränssnitt på OSNAD:s officiella webbplats, på följande länk: https://register.apob.org.ua/uk/search",
+    "sl": "Podatkovni niz vsebuje informacije iz registra revizorjev in podrevizijskih subjektov ʼ. V naboru podatkov sta dva vira: subjekti - informacije o ʼ subjektih revizijskih dejavnosti in revizorjih - informacije o revizorjih. Dostop do registra je mogoč tudi prek javnega spletnega vmesnika na uradni spletni strani OSNAD na povezavi: https://register.apob.org.ua/uk/search",
+    "mt": "Is-sett ta' data fih informazzjoni mir-\"Reġistru tal-Awdituri u l-Entitajiet tas-Sottoawditjar tal-ʼ. Hemm żewġ riżorsi fis-sett tad-data: - issoġġetta informazzjoni dwar is-suġġetti tal-ʼ tal-attivitajiet tal-awditjar u l-awdituri - informazzjoni dwar l-awdituri. L-aċċess għar-reġistru huwa possibbli wkoll permezz ta’ interfaċċa tal-web pubblika fuq is-sit web uffiċjali tal-OSNAD, fil-link: https://register.apob.org.ua/uk/search",
+    "pl": "Zbiór danych zawiera informacje pochodzące z „Rejestru audytorów i jednostek podaudytu ʼ. W zbiorze danych znajdują się dwa zasoby: tematy - informacje o podmiotach ʼ objętych czynnościami audytowymi i audytorach - informacje o audytorach. Dostęp do rejestru jest również możliwy za pośrednictwem publicznego interfejsu internetowego na oficjalnej stronie internetowej OSNAD, pod linkiem: https://register.apob.org.ua/uk/search",
+    "it": "La serie di dati contiene informazioni provenienti dal registro dei revisori dei conti e dalle sottoentità di controllo ʼ. Ci sono due risorse nel set di dati: soggetti - informazioni su ʼ soggetti di attività di audit e revisori - informazioni sui revisori. L'accesso al registro è possibile anche attraverso un'interfaccia web pubblica sul sito ufficiale dell'OSNAD, al link: https://register.apob.org.ua/uk/search",
+    "hu": "Az adatkészlet a „Register of Auditors and ʼ Sub-Audit Entities” adatbázisból származó információkat tartalmaz. Az adatkészletben két erőforrás található: a vizsgálati alanyok - információ a ʼ vizsgálati alanyairól és az ellenőrökről - információ a vizsgálati alanyokról. A nyilvántartáshoz való hozzáférés az OSNAD hivatalos honlapján található nyilvános webes felületen keresztül is lehetséges, a következő linken: https://register.apob.org.ua/uk/search",
+    "ga": "Tá faisnéis sa tacar sonraí ó ‘Clár na nIniúchóirí agus Fo-Eintitis Iniúchóireachta ʼ. Tá dhá acmhainn sa tacar sonraí: ábhair - faisnéis faoi ábhair ʼ de ghníomhaíochtaí iniúchóireachta agus iniúchóirí - faisnéis faoi iniúchóirí. Is féidir rochtain a fháil ar an gclárlann freisin trí chomhéadan gréasáin poiblí ar shuíomh gréasáin oifigiúil OSNAD, ag an nasc: https://register.apob.org.ua/uk/search",
+    "bg": "Наборът от данни съдържа информация от „Регистър на одиторите и пододитите на ʼ. В набора от данни има два ресурса: теми - информация за ʼ теми на одиторските дейности и одитори - информация за одиторите. Достъп до регистъра е възможен и чрез публичен уеб интерфейс на официалния уебсайт на OSNAD на следния адрес: https://register.apob.org.ua/uk/search",
+    "en": "The data set contains information from “Register of Auditors and ʼ Sub-Audit Entities. There are two resources in the dataset: subjects - information about ʼ subjects of audit activities and auditors - information about auditors. Access to the registry is also possible through a public web interface on the official website of OSNAD, at the link: https://register.apob.org.ua/uk/search",
+    "ro": "Acest set de date conține informații din „Registrul auditorilor și al entităților de subaudit ʼ”. Există două resurse în setul de date: subiecți - informații despre ʼ subiecții activităților de audit și auditori - informații despre auditori. Accesul la registru este posibil și prin intermediul unei interfețe web publice pe site-ul oficial al OSNAD, la adresa: https://register.apob.org.ua/uk/search",
+    "sk": "Súbor údajov obsahuje informácie z „Register audítorov a subjekty podauditu ʼ. V súbore údajov sú dva zdroje: predmety - informácie o ʼ predmetoch audítorských činností a audítoroch - informácie o audítoroch. Prístup do registra je možný aj prostredníctvom verejného webového rozhrania na oficiálnom webovom sídle OSNAD na odkaze: https://register.apob.org.ua/uk/search",
+    "es": "«Register of Auditors and ʼ Sub-Audit Entities» (Registro de Auditores y Entidades de Subauditoría ). Hay dos recursos en el conjunto de datos: a) sujetos - información sobre ʼ sujetos de actividades de auditoría y auditores - información sobre auditores. El acceso al registro también es posible a través de una interfaz web pública en el sitio web oficial de OSNAD, en el enlace: https://register.apob.org.ua/uk/search",
+    "cs": "Soubor údajů obsahuje informace z „Rejstříku auditorů a subjektů dílčího auditu ʼ. V datovém souboru jsou dva zdroje: předměty - informace o ʼ předmětech auditorské činnosti a auditorech - informace o auditorech. Přístup do registru je rovněž možný prostřednictvím veřejného webového rozhraní na oficiálních internetových stránkách OSNAD na adrese: https://register.apob.org.ua/uk/search",
+    "fr": "L'ensemble de données contient des informations provenant du «Registre des auditeurs et des sous-entités d'audit de la ʼ. Il y a deux ressources dans l'ensemble de données: sujets - informations sur les ʼ sujets des activités d'audit et auditeurs - informations sur les auditeurs. L'accès au registre est également possible via une interface web publique sur le site officiel de l'OSNAD, à l'adresse suivante: https://register.apob.org.ua/uk/search",
+    "de": "Der Datensatz enthält Informationen aus dem „Register of Auditors and ʼ Sub-Audit Entities. Es gibt zwei Ressourcen im Datensatz: Themen – Informationen über ʼ-Themen der Prüfungstätigkeiten und Abschlussprüfer – Informationen über Abschlussprüfer. Der Zugang zur Registrierung ist auch über eine öffentliche Web-Schnittstelle auf der offiziellen Website von OSNAD unter folgendem Link möglich: https://register.apob.org.ua/uk/search",
+    "lt": "Duomenų rinkinyje pateikiama informacija iš „Auditorių registro ir ʼ pavaldžių audito subjektų. Duomenų rinkinyje yra du ištekliai: dalykai - informacija apie ʼ audito veiklos subjektus ir auditorius - informacija apie auditorius. Prieiga prie registro taip pat galima per viešą interneto sąsają oficialioje OSNAD svetainėje adresu https://register.apob.org.ua/uk/search",
+    "nl": "De gegevensset bevat informatie van “Register of Auditors and ʼ Sub-Audit Entities. Er zijn twee bronnen in de dataset: onderwerpen - informatie over ʼ-onderwerpen van controleactiviteiten en auditors - informatie over auditors. Toegang tot het register is ook mogelijk via een openbare webinterface op de officiële website van OSNAD, via de link: https://register.apob.org.ua/uk/search",
+    "el": "Το σύνολο δεδομένων περιέχει πληροφορίες από το «Μητρώο Ελεγκτών και Επιμέρους Ελεγκτικών Οντοτήτων ʼ. Υπάρχουν δύο πόροι στο σύνολο δεδομένων: θέματα - πληροφορίες σχετικά με τα θέματα ʼ των ελεγκτικών δραστηριοτήτων και των ελεγκτών - πληροφορίες σχετικά με τους ελεγκτές. Η πρόσβαση στο μητρώο είναι επίσης δυνατή μέσω δημόσιας διαδικτυακής διεπαφής στον επίσημο ιστότοπο του OSNAD, στον σύνδεσμο: https://register.apob.org.ua/uk/search",
+    "da": "Datasættet indeholder oplysninger fra \"Register over revisorer og ʼ-underrevisionsenheder. Der er to ressourcer i datasættet: emner - oplysninger om ʼ-emner for revisionsaktiviteter og revisorer - oplysninger om revisorer. Adgang til registret er også mulig via en offentlig webgrænseflade på OSNAD's officielle websted på linket: https://register.apob.org.ua/uk/search",
+    "et": "Andmekogum sisaldab teavet dokumendist „Register of Auditors and ʼ Sub-Audit Entit Entities. Andmestikus on kaks allikat: teemad - informatsioon ʼ auditeeritavate ja audiitorite kohta - informatsioon audiitorite kohta. Juurdepääs registrile on võimalik ka avaliku veebiliidese kaudu OSNADi ametlikul veebisaidil aadressil https://register.apob.org.ua/uk/search",
+    "hr": "Skup podataka sadržava informacije iz „Registra revizora i podrevizijskih subjekata ʼ-a. U skupu podataka postoje dva resursa: subjekti - informacije o subjektima revizije i revizorima ʼ - informacije o revizorima. Pristup registru moguć je i putem javnog web sučelja na službenim stranicama OSNAD-a, na poveznici: https://register.apob.org.ua/uk/search"
+  },
+  "index": "dataset",
+  "language": [
+    {
+      "id": "ua",
+      "label": "ua"
+    }
+  ],
+  "version_info": "1.0",
+  "title": {
+    "fr": "Registre des auditeurs et sous-sections de l’activité d’audit",
+    "cs": "Rejstřík auditorů a podobor auditorské činnosti",
+    "sk": "Register audítorov a podkategórie audítorskej činnosti",
+    "sl": "Register revizorjev in podrevizijska dejavnost",
+    "ro": "Registrul auditorilor și subdiviziunile activității de audit",
+    "et": "Audiitorite register ja auditi alltegevus",
+    "ga": "Clár na nIniúchóirí agus Fo-Chlár na Gníomhaíochta Iniúchóireachta",
+    "uk": "Реєстр аудиторів та суб’єктів аудиторської діяльності",
+    "hr": "Registar revizora i podrevizije revizijskih aktivnosti",
+    "sv": "Revisorsregister och delrevisorsregister över revisionsverksamhet",
+    "lv": "Revidentu reģistrs un revīzijas darbības apakšreģistrs",
+    "lt": "Auditorių registras ir audito veiklos pogrupiai",
+    "hu": "Könyvvizsgálói nyilvántartás és az ellenőrzési tevékenység részegységei",
+    "fi": "Tilintarkastajarekisteri ja tarkastustoiminnan alaosastot",
+    "pt": "Registo de auditores e sub-actividades de auditoria",
+    "pl": "Rejestr biegłych rewidentów i podwykonawców działań audytowych",
+    "mt": "Ir-Reġistru tal-Awdituri u s-Sottokategoriji tal-Attività tal-Awditjar",
+    "nl": "Register van auditors en sub-auditactiviteiten",
+    "bg": "Регистър на одиторите и подразделенията по одитна дейност",
+    "es": "Registro de Auditores y Subrúbricas de Actividad de Auditoría",
+    "de": "Register der Rechnungsprüfer und Teilberichte über die Prüfungstätigkeit",
+    "it": "Registro dei revisori dei conti e sottoattività di revisione contabile",
+    "el": "Μητρώο Ελεγκτών και Επιμέρους Ελεγκτικής Δραστηριότητας",
+    "da": "Register over revisorer og underafdelinger af revisionsaktiviteter",
+    "en": "Register of Auditors and Sub-’s of Audit Activity"
+  },
+  "distributions": [
+    {
+      "id": "033e3d81-e824-42b7-802a-e5dabd41e72b",
+      "title": {
+        "cs": "předměty_2026-05-31.json",
+        "pl": "Przedmioty_2026-05-31.json",
+        "nl": "Onderwerpen_2026-05-31.json",
+        "fi": "aiheita_2026-05-31.json",
+        "da": "emner_2026-05-31.json",
+        "bg": "предмети_2026-05-31.json",
+        "it": "Soggetti _2026-05-31.json",
+        "sv": "ämnen_2026-05-31.json",
+        "sl": "subjekta_2026-05-31.json",
+        "mt": "Suġġetti_2026-05-31.json",
+        "ga": "_2026-05-31.json Ábhair 2026-05-31.json",
+        "ro": "subiecte_2026-05-31.json",
+        "pt": "(em inglês)_2026-05-31.json",
+        "lv": "subjects_2026-05-31.json",
+        "fr": "sujets_2026-05-31.json",
+        "uk": "subjects_2026-05-31.json",
+        "hr": "Predmeti_2026-05-31.json",
+        "sk": "Predmety_2026-05-31.json",
+        "de": "Themen_2026-05-31.json",
+        "en": "subjects_2026-05-31.json",
+        "es": "_2026-05-31.json (en inglés).",
+        "et": "teemad _2026-05-31.json",
+        "el": "θέματα_2026-05-31.json",
+        "lt": "tiriamieji_2026-05-31.json",
+        "hu": "témák_2026-05-31.json"
+      },
+      "description": {
+        "ro": "Setul de date conține informații despre entitățile de audit subordonate",
+        "fi": "Tietokokonaisuus sisältää tietoja alatason tilintarkastusyksiköistä.",
+        "sv": "Datauppsättningen innehåller information om underställda revisionsföretag",
+        "en": "The data set contains information about subʼ audit entities",
+        "pt": "O conjunto de dados contém informações sobre as entidades de subauditoria",
+        "hu": "Az adatkészlet a „részleges” könyvvizsgáló jogalanyokra vonatkozó információkat tartalmaz.",
+        "it": "La serie di dati contiene informazioni sugli enti di revisione contabile secondari",
+        "cs": "Soubor údajů obsahuje informace o dílčích auditorských subjektech",
+        "hr": "Skup podataka sadržava informacije o revizorskim subjektima podrazreda",
+        "lt": "Duomenų rinkinyje pateikiama informacija apie smulkesnius audito subjektus",
+        "es": "El conjunto de datos contiene información sobre las entidades de auditoría secundarias",
+        "nl": "De gegevensverzameling bevat informatie over sub-auditentiteiten",
+        "uk": "Набір даних містить інформацію про субʼєктів аудиторської діяльності",
+        "lv": "Datu kopa satur informāciju par revīzijas apakšstruktūrām",
+        "de": "Der Datensatz enthält Informationen über Unterprüfungsgesellschaften",
+        "sl": "Podatkovni niz vsebuje informacije o revizijskih subjektih, ki so podrejeni",
+        "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις επιμέρους ελεγκτικές οντότητες",
+        "fr": "L’ensemble de données contient des informations sur les entités d’audit secondaires.",
+        "et": "Andmekogum sisaldab teavet all-auditeerivate üksuste kohta",
+        "da": "Datasættet indeholder oplysninger om underordnede revisionsfirmaer",
+        "ga": "Tá faisnéis sa tacar sonraí faoi eintitis iniúchóireachta fo’",
+        "pl": "Zbiór danych zawiera informacje o podjednostkach audytorskich",
+        "bg": "Наборът от данни съдържа информация за под-одиторските дружества",
+        "sk": "Súbor údajov obsahuje informácie o subaudítorských subjektoch",
+        "mt": "Is-sett ta’ data fih informazzjoni dwar l-entitajiet tal-awditjar tas-sub”"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/e655b5f7-2c65-459b-97cb-f74ca1a3ac14/resource/e7025405-fc5a-46cc-9399-3987d49444ce/download/subjects_2024-07-04.json"
+      ],
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      },
+      "byte_size": 1750100,
+      "media_type": "application/json"
+    },
+    {
+      "id": "03a618b2-c4eb-4d37-a4e2-7083a05d08ba",
+      "title": {
+        "lv": "revidenti_2026-05-31.json",
+        "el": "ελεγκτές_2026-05-31.json",
+        "mt": "awdituri_2026-05-31.json",
+        "ga": "iniúchóirí_2026-05-31.json",
+        "fr": "auditeurs_2026-05-31.json",
+        "sl": "revizorji_2026-05-31.json",
+        "et": "audiitorid_2026-05-31.json",
+        "bg": "одитори_2026-05-31.json",
+        "lt": "auditoriai_2026-05-31.json",
+        "pt": "auditors_2026-05-31.json",
+        "uk": "auditors_2026-05-31.json",
+        "da": "revisorer_2026-05-31.json",
+        "cs": "auditoři_2026-05-31.json",
+        "hu": "könyvvizsgálók_2026-05-31.json",
+        "nl": "auditors_2026-05-31.json",
+        "sk": "audítori_2026-05-31.json",
+        "pl": "Audytorzy_2026-05-31.json",
+        "de": "Wirtschaftsprüfer_2026-05-31.json",
+        "ro": "auditors_2026-05-31.json",
+        "es": "31.json auditores_2026-05-31.json",
+        "fi": "tilintarkastajat_2026-05-31.json",
+        "it": "auditor _2026-05-31.json",
+        "hr": "auditori_2026-05-31.json",
+        "sv": "revisorer_2026-05-31.json",
+        "en": "auditors_2026-05-31.json"
+      },
+      "description": {
+        "ga": "Tá faisnéis san acmhainn faoi iniúchóirí ó Chlár na nIniúchóirí agus na bhFo-Iniúchóirí",
+        "nl": "De informatiebron bevat informatie over auditors uit het register van auditors en subauditors",
+        "hr": "Resurs sadržava informacije o revizorima iz registra revizora i podrevizora",
+        "lt": "Ištekliuje pateikiama informacija apie auditorius iš Auditorių registro ir auditorių pavaduotojų.",
+        "hu": "A forrás a Könyvvizsgálói és Alkönyvvizsgálói Nyilvántartásból származó, könyvvizsgálókra vonatkozó információkat tartalmaz.",
+        "sk": "Zdroj obsahuje informácie o audítoroch z registra audítorov a podaudítorov.",
+        "uk": "Ресурс містить інформацію про аудиторів із Реєстру аудиторів та субʼєктів аудиторської діяльності",
+        "fi": "Resurssi sisältää tietoja tilintarkastajista tilintarkastusrekisteristä ja alitilintarkastajista.",
+        "el": "Ο πόρος περιέχει πληροφορίες σχετικά με τους ελεγκτές από το Μητρώο Ελεγκτών και Υποελεγκτών",
+        "da": "Ressourcen indeholder oplysninger om revisorer fra revisorregistret og underrevisorer",
+        "mt": "Ir-riżorsa fiha informazzjoni dwar l-awdituri mir-Reġistru tal-Awdituri u s-Sub-Awdituri",
+        "sv": "Resursen innehåller information om revisorer från registret över revisorer och underrevisorer",
+        "sl": "Vir vsebuje informacije o revizorjih iz registra revizorjev in podrevizijskih revizorjev.",
+        "es": "El recurso contiene información sobre los auditores del Registro de Auditores y Sub-Auditores.",
+        "lv": "Resursā ir informācija par revidentiem no Revidentu reģistra un apakšrevidentiem.",
+        "ro": "Resursa conține informații despre auditori din Registrul auditorilor și al subauditori",
+        "pt": "O recurso contém informações sobre os auditores do Registo de Auditores e dos Subauditores.",
+        "en": "The resource contains information about auditors from the Register of Auditors and Sub-ʼ Auditors",
+        "de": "Die Ressource enthält Informationen über Prüfer aus dem Register der Prüfer und Unterprüfer.",
+        "cs": "Zdroj obsahuje informace o auditorech z Rejstříku auditorů a dílčích auditorů",
+        "pl": "Zasób ten zawiera informacje na temat biegłych rewidentów z rejestru biegłych rewidentów i podrzędnych biegłych rewidentów.",
+        "it": "La risorsa contiene informazioni sui revisori dei conti contenute nel registro dei revisori dei conti e dei subrevisori dei conti.",
+        "bg": "Ресурсът съдържа информация за одиторите от Регистъра на одиторите и пододиторите",
+        "fr": "La ressource contient des informations sur les auditeurs provenant du registre des auditeurs et des sous-auditeurs.",
+        "et": "Ressurss sisaldab teavet audiitorite ja allaudiitorite registri audiitorite kohta"
+      },
+      "media_type": "application/json",
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      },
+      "byte_size": 2125983,
+      "access_url": [
+        "https://data.gov.ua/dataset/e655b5f7-2c65-459b-97cb-f74ca1a3ac14/resource/c77e0683-1fe6-4e49-a9af-df0b5269d1fa/download/auditors_2024-07-04.json"
+      ]
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 205
+  },
+  "modified": "2026-05-31T19:10:04.948049",
+  "publisher": {
+    "type": "Organization",
+    "name": "Державна установа \"Орган суспільного нагляду за аудиторською діяльністю\"",
+    "resource": "https://data.gov.ua/organization/f26c3aa1-2386-4dac-b3e8-122b0b74ffc6"
+  },
+  "id": "e655b5f7-2c65-459b-97cb-f74ca1a3ac14~~1",
+  "issued": "2024-07-04T13:06:42.151642",
+  "catalog_record": {
+    "issued": "2025-04-25T20:15:15Z",
+    "modified": "2026-05-31T20:50:01Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "email": "mailto:anton.rudakov@apob.org.ua",
+      "name": "Рудаков Антон Андрійович"
+    }
+  ]
+}

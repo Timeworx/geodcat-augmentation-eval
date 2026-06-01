@@ -1,0 +1,98 @@
+{
+  "identifier": [
+    "qs-bestandesaufnahme-tu@schweizerische-bundesbahnen-sbb"
+  ],
+  "country": {
+    "label": "Switzerland",
+    "id": "ch",
+    "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/qs-bestandesaufnahme-tu-schweizerische-bundesbahnen-sbb",
+  "catalog": {
+    "id": "opendata-swiss",
+    "description": {
+      "en": "Open Data Portal Switzerland"
+    },
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:opendata@bfs.admin.ch",
+      "name": "Federal Statistical Office",
+      "homepage": "https://www.bfs.admin.ch"
+    },
+    "source_type": "dcat-ap",
+    "title": {
+      "de": "opendata.swiss"
+    },
+    "modified": "2024-03-12T10:32:33Z",
+    "homepage": "https://opendata.swiss",
+    "issued": "2024-03-12T10:32:33Z",
+    "country": {
+      "label": "Switzerland",
+      "id": "ch",
+      "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+    },
+    "spatial_resource": [
+      {
+        "label": "Switzerland",
+        "id": "ch",
+        "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "de",
+        "label": "German",
+        "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+      }
+    ]
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": false,
+        "received": "2026-05-12T19:46:28Z",
+        "issued": "2026-02-21T20:05:55Z"
+      }
+    },
+    "full_available_languages": [
+      "de"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Visualisiert die Datenqualität der Bestandeserfassung BehiGDie Daten stammen von opentransportdata.swiss und werden täglich (6 Uhr) aktualisiert. Datenquellen- [https://opentransportdata.swiss/de/dataset/didok/resource_permalink/dienststellen_actualdate.csv](https://opentransportdata.swiss/de/dataset/didok/resource_permalink/dienststellen_actualdate.csv)- [https://opentransportdata.swiss/de/dataset/didok/resource_permalink/verkehrspunktelemente_actualdate.csv](https://opentransportdata.swiss/de/dataset/didok/resource_permalink/verkehrspunktelemente_actualdate.csv)- https://opentransportdata.swiss/de/dataset/prm_data/resource_permalink/prm_platforms.csv"
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.sbb.ch/explore/dataset/qs-bestandesaufnahme-tu/"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "id": "de",
+      "label": "German",
+      "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+    }
+  ],
+  "title": {
+    "de": "QS Bestandesaufnahme Behig für Transportunternehmungen"
+  },
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 50
+  },
+  "modified": "2026-05-31T08:00:17.803848+00:00",
+  "publisher": {
+    "type": "Agent",
+    "name": "SBB",
+    "resource": "https://data.sbb.ch/explore/?refine.publisher=SBB"
+  },
+  "id": "qs-bestandesaufnahme-tu-schweizerische-bundesbahnen-sbb",
+  "issued": "2026-05-31T08:00:17.803848+00:00",
+  "catalog_record": {
+    "modified": "2026-05-31T20:05:05Z",
+    "issued": "2026-02-21T20:05:55Z"
+  }
+}

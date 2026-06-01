@@ -1,0 +1,720 @@
+{
+  "identifier": [
+    "dienststellen-gemass-opentransportdataswiss@schweizerische-bundesbahnen-sbb"
+  ],
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/CHE",
+    "label": "Switzerland",
+    "id": "ch"
+  },
+  "keywords": [
+    {
+      "language": "de",
+      "id": "verkehr",
+      "label": "verkehr"
+    },
+    {
+      "language": "de",
+      "id": "infrastruktur",
+      "label": "infrastruktur"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/dienststellen-gemass-opentransportdataswiss-schweizerische-bundesbahnen-sbb~~1",
+  "catalog": {
+    "id": "opendata-swiss",
+    "description": {
+      "en": "Open Data Portal Switzerland"
+    },
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:opendata@bfs.admin.ch",
+      "name": "Federal Statistical Office",
+      "homepage": "https://www.bfs.admin.ch"
+    },
+    "source_type": "dcat-ap",
+    "title": {
+      "de": "opendata.swiss"
+    },
+    "modified": "2024-03-12T10:32:33Z",
+    "homepage": "https://opendata.swiss",
+    "issued": "2024-03-12T10:32:33Z",
+    "country": {
+      "label": "Switzerland",
+      "id": "ch",
+      "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+    },
+    "spatial_resource": [
+      {
+        "label": "Switzerland",
+        "id": "ch",
+        "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "de",
+        "label": "German",
+        "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+      }
+    ]
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": false,
+        "received": "2026-05-12T19:46:23Z",
+        "issued": "2026-02-11T20:07:48Z"
+      }
+    },
+    "full_available_languages": [
+      "de"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Liste der Haltestellen der Schweiz. Die Didok-Liste wird vom Bundesamt für Verkehr erstellt. Das Original kann unter [https://opendata.swiss/de/dataset/haltestellen-des-offentlichen-verkehrs](https://opendata.swiss/de/dataset/haltestellen-des-offentlichen-verkehrs) bezogen werden."
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.sbb.ch/explore/dataset/dienststellen-gemass-opentransportdataswiss/"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+      "id": "de",
+      "label": "German"
+    }
+  ],
+  "title": {
+    "de": "Service Points (Didok) based on opentransportdata.swiss"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/rdf+xml",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/rdfxml"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/rdfxml"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+        "id": "RDF_XML",
+        "label": "RDF XML"
+      },
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (rdfxml)"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "a457ccac-5fd3-4e81-a6b7-9c81d1af80c6",
+      "title": {
+        "de": "rdfxml"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/geojson"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/geojson"
+      ],
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (geojson)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "05b6f8aa-319e-4007-99f8-c2a7e3f6794f",
+      "title": {
+        "de": "geojson"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/turtle",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/turtle"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/turtle"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
+        "id": "RDF_TURTLE",
+        "label": "RDF Turtle"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (turtle)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "f469d7d5-eac7-4960-8d8d-278c63f8e91a",
+      "title": {
+        "de": "turtle"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/csv",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/csv?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV",
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/csv?use_labels=true"
+      ],
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (csv)"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "3407b033-28d4-481a-adc8-7d111d6bbc39",
+      "issued": "2026-05-31T04:04:50+00:00",
+      "title": {
+        "de": "csv"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/jsonld"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/jsonld"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+        "id": "JSON_LD",
+        "label": "JSON-LD"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (jsonld)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "1cc96cf2-12aa-420e-8c88-52227d39ee28",
+      "title": {
+        "de": "jsonld"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/vnd.ms-excel",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/xls?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLS",
+        "id": "XLS",
+        "label": "Excel XLS"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/xls?use_labels=true"
+      ],
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (xls)"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "9015f817-fe30-41ed-b8ee-433140051cfd",
+      "issued": "2026-05-31T04:04:50+00:00",
+      "title": {
+        "de": "xls"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "http://www.iana.org/assignments/media-types/text/plain",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/ov2"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/TXT",
+        "id": "TXT",
+        "label": "Plain text"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/ov2"
+      ],
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (ov2)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "686c7dde-dbe8-483f-98bb-ab59ddaae45f",
+      "title": {
+        "de": "ov2"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/fgb"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/fgb"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/OCTET",
+        "id": "OCTET",
+        "label": "Octet Stream"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (fgb)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "a26340ff-4de1-40ad-9e37-9e1143bafecb",
+      "title": {
+        "de": "fgb"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/json"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/json"
+      ],
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (json)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "2029450b-14f3-4a46-b84b-8b8a00a93381",
+      "issued": "2026-05-31T04:04:50+00:00",
+      "title": {
+        "de": "json"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/kml"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/KML",
+        "id": "KML",
+        "label": "KML"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/kml"
+      ],
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (kml)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "e2635543-fabe-4d85-b95e-237c74345b7a",
+      "issued": "2026-05-31T04:04:50+00:00",
+      "title": {
+        "de": "kml"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/gpx"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/gpx"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/GPX",
+        "id": "GPX",
+        "label": "GPX"
+      },
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (gpx)"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "efdb9642-5535-4faa-b300-3a3fe86a8167",
+      "title": {
+        "de": "gpx"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/parquet"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/PARQUET",
+        "id": "PARQUET",
+        "label": "Parquet"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/parquet"
+      ],
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (parquet)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "45ac007d-f37f-4651-905b-71307fc36f3b",
+      "title": {
+        "de": "parquet"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/zip",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/shp"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/shp"
+      ],
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (shp)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "91ddd7bb-a5d4-42da-88bd-924a6b0bed02",
+      "issued": "2026-05-31T04:04:50+00:00",
+      "title": {
+        "de": "shp"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/n3",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/n3"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/N3",
+        "id": "N3",
+        "label": "N3"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/n3"
+      ],
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (n3)"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "8ae21159-54d5-4520-9d32-46730a80706e",
+      "title": {
+        "de": "n3"
+      },
+      "issued": "2026-05-31T04:04:50+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/jsonl"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/dienststellen-gemass-opentransportdataswiss/exports/jsonl"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "modified": "2026-05-31T04:04:50+00:00",
+      "description": {
+        "de": "Service Points (Didok) based on opentransportdata.swiss (jsonl)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "e87ed8d8-7053-4cdf-9a91-374b586fd1a5",
+      "issued": "2026-05-31T04:04:50+00:00",
+      "title": {
+        "de": "jsonl"
+      }
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 335
+  },
+  "modified": "2026-05-31T04:04:50+00:00",
+  "publisher": {
+    "resource": "https://data.sbb.ch/explore/?refine.dcat_ap_ch.domain=schweizerische-bundesbahnen-sbb",
+    "name": "schweizerische-bundesbahnen-sbb",
+    "type": "Agent"
+  },
+  "id": "dienststellen-gemass-opentransportdataswiss-schweizerische-bundesbahnen-sbb~~1",
+  "categories": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+      "id": "TRAN",
+      "label": {
+        "nn": "Transport",
+        "de": "Verkehr",
+        "no": "Transport",
+        "fi": "Liikenne",
+        "pt": "Transportes",
+        "bg": "Транспорт",
+        "lt": "Transportas",
+        "lv": "Transports",
+        "hr": "Promet",
+        "fr": "Transports",
+        "hu": "Közlekedés",
+        "sk": "Doprava",
+        "sl": "Transport",
+        "ga": "Iompar",
+        "sv": "Transport",
+        "mt": "Trasport",
+        "el": "Μεταφορές",
+        "en": "Transport",
+        "it": "Trasporti",
+        "es": "Transporte",
+        "et": "Transport",
+        "cs": "Doprava",
+        "nb": "Transport",
+        "pl": "Transport",
+        "ro": "Transport",
+        "da": "Transport",
+        "nl": "Vervoer"
+      }
+    }
+  ],
+  "issued": "2026-05-31T04:04:50+00:00",
+  "catalog_record": {
+    "modified": "2026-05-31T20:05:05Z",
+    "issued": "2025-06-17T20:09:33Z"
+  },
+  "contact_point": [
+    {
+      "name": "Ansprechsstelle für Daten",
+      "type": "Organization",
+      "email": "mailto:data@sbb.ch"
+    }
+  ]
+}

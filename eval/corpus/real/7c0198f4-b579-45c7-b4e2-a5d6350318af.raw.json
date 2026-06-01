@@ -1,0 +1,194 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/7c0198f4-b579-45c7-b4e2-a5d6350318af",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:19Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:19Z",
+        "issued": "2024-06-11T17:48:08Z"
+      }
+    },
+    "full_available_languages": [
+      "en",
+      "nor"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Karttjenesten viser data fra datasettet Fjordkatalogen. Fjordkatalogen inneholder inndeling av norske fjorder og sjøområder i enheter som er avgrenset i enhetlige «basseng» av kystlinje, terskler og andre naturlige, fysiske skiller. Det er etablert egne faktaark for denne tjenesten som viser detaljert informasjon om den enkelte fjord-id."
+  },
+  "index": "dataset",
+  "title": {
+    "nor": "Fjordkatalogen WMS",
+    "en": "Coastal zone physical division WMS"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "label": "annual"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://kart.miljodirektoratet.no/geoserver/fjordkatalogen/wms?service=wms&request=getcapabilities"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2011-11-01T00:00:00Z",
+      "id": "a6b85280-815f-4224-8847-ddf6fffc7872",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://kart.miljodirektoratet.no/geoserver/fjordkatalogen/wms"
+          ],
+          "endpoint_description": [
+            "https://kart.miljodirektoratet.no/geoserver/fjordkatalogen/wms?service=wms&request=getcapabilities"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "lv": "apskatīt",
+        "hr": "pogled",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "mt": "ħarsa",
+        "el": "προβολή",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 190
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Miljødirektoratet",
+    "type": "Organization",
+    "email": "mailto:wms@miljodir.no"
+  },
+  "modified": "2011-11-01T00:00:00Z",
+  "id": "7c0198f4-b579-45c7-b4e2-a5d6350318af",
+  "categories": [],
+  "issued": "0001-01-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            72
+          ],
+          [
+            33,
+            72
+          ],
+          [
+            33,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:08Z",
+    "issued": "2021-10-15T08:49:25Z"
+  }
+}

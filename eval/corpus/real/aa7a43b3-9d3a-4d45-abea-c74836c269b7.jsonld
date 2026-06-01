@@ -1,0 +1,110 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/aa7a43b3-9d3a-4d45-abea-c74836c269b7",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "aa7a43b3-9d3a-4d45-abea-c74836c269b7"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Consumption of communal resources of Pavlohrad TV and Radio Company of Pavlohrad City Council"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "Data on consumption of communal resources: electricity, heating, water supply and sewerage\r\n"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/ba2d80b6-99c3-4d3f-9be3-5d6e68a4a168",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "КП „Павлоградська ТРК” Павлоградської міської ради"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "споживання"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:version_info": "1.0",
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 135
+      },
+      "deuropa:catalog_record": {
+        "issued": "2026-05-08T20:19:30Z",
+        "modified": "2026-05-10T18:26:15Z"
+      }
+    }
+  ]
+}

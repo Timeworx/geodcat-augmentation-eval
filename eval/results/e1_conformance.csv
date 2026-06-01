@@ -1,0 +1,4 @@
+output_type,origin,n_records,n_conforming,conformance_rate,n_records_with_warnings,total_violations,total_warnings,n_distinct_warning_shapes
+ai_ready,real,50,50,1.000,0,0,0,0
+ai_ready,synthetic,7,6,0.857,0,4,0,0
+legacy,synthetic,3,3,1.000,0,0,0,0

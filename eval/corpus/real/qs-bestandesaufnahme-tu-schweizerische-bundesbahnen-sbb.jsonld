@@ -1,0 +1,109 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/qs-bestandesaufnahme-tu-schweizerische-bundesbahnen-sbb",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "qs-bestandesaufnahme-tu@schweizerische-bundesbahnen-sbb"
+      ],
+      "dct:title": {
+        "@language": "de",
+        "@value": "QS Bestandesaufnahme Behig für Transportunternehmungen"
+      },
+      "dct:description": {
+        "@language": "de",
+        "@value": "Visualisiert die Datenqualität der Bestandeserfassung BehiGDie Daten stammen von opentransportdata.swiss und werden täglich (6 Uhr) aktualisiert. Datenquellen- [https://opentransportdata.swiss/de/dataset/didok/resource_permalink/dienststellen_actualdate.csv](https://opentransportdata.swiss/de/dataset/didok/resource_permalink/dienststellen_actualdate.csv)- [https://opentransportdata.swiss/de/dataset/didok/resource_permalink/verkehrspunktelemente_actualdate.csv](https://opentransportdata.swiss/de/dataset/didok/resource_permalink/verkehrspunktelemente_actualdate.csv)- https://opentransportdata.swiss/de/dataset/prm_data/resource_permalink/prm_platforms.csv"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.sbb.ch/explore/?refine.publisher=SBB",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "SBB"
+        }
+      },
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ch"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "opendata-swiss",
+        "description": {
+          "en": "Open Data Portal Switzerland"
+        },
+        "publisher": {
+          "type": "Agent",
+          "email": "mailto:opendata@bfs.admin.ch",
+          "name": "Federal Statistical Office",
+          "homepage": "https://www.bfs.admin.ch"
+        },
+        "source_type": "dcat-ap",
+        "title": {
+          "de": "opendata.swiss"
+        },
+        "modified": "2024-03-12T10:32:33Z",
+        "homepage": "https://opendata.swiss",
+        "issued": "2024-03-12T10:32:33Z",
+        "country": {
+          "label": "Switzerland",
+          "id": "ch",
+          "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+        },
+        "spatial_resource": [
+          {
+            "label": "Switzerland",
+            "id": "ch",
+            "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "de",
+            "label": "German",
+            "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+          }
+        ]
+      },
+      "deuropa:landing_page": [
+        {
+          "resource": "https://data.sbb.ch/explore/dataset/qs-bestandesaufnahme-tu/"
+        }
+      ],
+      "deuropa:language": [
+        {
+          "id": "de",
+          "label": "German",
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+        }
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 50
+      },
+      "deuropa:catalog_record": {
+        "modified": "2026-05-31T20:05:05Z",
+        "issued": "2026-02-21T20:05:55Z"
+      }
+    }
+  ]
+}

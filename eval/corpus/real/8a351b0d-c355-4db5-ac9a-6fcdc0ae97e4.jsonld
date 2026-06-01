@@ -1,0 +1,171 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/8a351b0d-c355-4db5-ac9a-6fcdc0ae97e4",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "8a351b0d-c355-4db5-ac9a-6fcdc0ae97e4"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "COVID-19 HPSC County Statistics Historic Point Geometry"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "<p>This dataset contains COVID-19 Daily Statistics for Ireland by County as reported by the Health Protection Surveillance Centre.  This data includes confirmed cases (PCR) only and does not include positive antigen results uploaded to the HSE portal.<br/> </p><p>Time series dataset from March 2020 to November 2023.<br/> </p><p><i><strong>Deaths</strong></i>: From 16th May 2022 to November 2023, reporting of Notified Deaths changed from daily to weekly. Data on deaths is based on the date on which a death was notified on CIDR, not the date on which the death occurred. Data on deaths by date of death is available on the HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>. <br/><br/> </p>"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Tailte Éireann"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "hpsc"
+        },
+        {
+          "@language": "id",
+          "@value": "covid"
+        },
+        {
+          "@language": "id",
+          "@value": "county"
+        },
+        {
+          "@language": "id",
+          "@value": "ireland"
+        },
+        {
+          "@language": "id",
+          "@value": "health"
+        },
+        {
+          "@language": "id",
+          "@value": "dgihealth"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ie"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ie",
+        "modified": "2023-02-10T20:35:45.162705",
+        "source_type": "dcat-ap",
+        "issued": "2022-06-24T12:25:17Z",
+        "publisher": {
+          "type": "Agent",
+          "homepage": "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform",
+          "email": "mailto:opendata@per.gov.ie",
+          "name": "Government Reform Unit, Dept of Public Expenditure & Reform"
+        },
+        "title": {
+          "ga": "Data.gov.ie"
+        },
+        "description": {
+          "ga": "Open Data Portal Ireland"
+        },
+        "homepage": "https://data.gov.ie",
+        "language": [
+          {
+            "id": "ga",
+            "label": "Irish",
+            "resource": "http://publications.europa.eu/resource/authority/language/GLE"
+          }
+        ],
+        "country": {
+          "label": "Ireland",
+          "id": "ie",
+          "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ireland",
+            "id": "ie",
+            "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+          }
+        ],
+        "spatial": [],
+        "count": 30287
+      },
+      "deuropa:landing_page": [
+        {
+          "resource": "https://opendata-geohive.hub.arcgis.com/datasets/5117479f97724d4ead6171ec2b8b912d_0"
+        }
+      ],
+      "deuropa:language": [
+        {
+          "id": "en",
+          "label": "English",
+          "resource": "http://publications.europa.eu/resource/authority/language/ENG"
+        }
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 220
+      },
+      "deuropa:categories": [
+        {
+          "id": "HEAL",
+          "label": {
+            "lv": "Veselība",
+            "hu": "Egészségügy",
+            "ga": "Sláinte",
+            "no": "Helse",
+            "mt": "Saħħa",
+            "et": "Tervis",
+            "fi": "Terveys",
+            "pt": "Saúde",
+            "es": "Salud",
+            "lt": "Sveikata",
+            "da": "Sundhed",
+            "el": "Υγεία",
+            "ro": "Sănătate",
+            "cs": "Zdraví",
+            "sv": "Hälsa",
+            "nl": "Gezondheid",
+            "de": "Gesundheit",
+            "nb": "Helse",
+            "sl": "Zdravje",
+            "hr": "Zdravlje",
+            "en": "Health",
+            "nn": "Helse",
+            "it": "Salute",
+            "pl": "Zdrowie",
+            "sk": "Zdravotníctvo",
+            "bg": "Здраве",
+            "fr": "Santé"
+          },
+          "resource": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+        }
+      ],
+      "deuropa:catalog_record": {
+        "issued": "2026-04-06T20:36:55Z",
+        "modified": "2026-05-31T20:25:05Z"
+      }
+    }
+  ]
+}

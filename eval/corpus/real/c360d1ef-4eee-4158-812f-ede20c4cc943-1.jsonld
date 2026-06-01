@@ -1,0 +1,130 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/c360d1ef-4eee-4158-812f-ede20c4cc943~~1",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "c360d1ef-4eee-4158-812f-ede20c4cc943"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Notification of bidding for the sale of confiscated and seized property and their results"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "Notification of bidding and their results on the sale of confiscated, arrested and voluntarily sold property in the SETAM system "
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/b1120ea1-be8a-4371-90ce-6182afca204e",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Державне підприємство \"СЕТАМ\""
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "аукціон"
+        },
+        {
+          "@language": "id",
+          "@value": "реалізація-арештованого-майна"
+        },
+        {
+          "@language": "id",
+          "@value": "торги"
+        },
+        {
+          "@language": "id",
+          "@value": "електроні-аукціони"
+        },
+        {
+          "@language": "id",
+          "@value": "реалізація-конфіскованого-майна"
+        },
+        {
+          "@language": "id",
+          "@value": "сетам"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:version_info": "1.0",
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 205
+      },
+      "deuropa:catalog_record": {
+        "modified": "2026-05-31T20:15:11Z",
+        "issued": "2025-04-25T20:15:14Z"
+      }
+    }
+  ]
+}

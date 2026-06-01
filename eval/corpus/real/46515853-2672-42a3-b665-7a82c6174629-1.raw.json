@@ -1,0 +1,386 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/46515853-2672-42a3-b665-7a82c6174629~~1",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      }
+    },
+    "full_available_languages": [
+      "en",
+      "lt",
+      "hr",
+      "fr",
+      "pl",
+      "sk",
+      "mt",
+      "bg",
+      "lv",
+      "ga",
+      "da",
+      "sl",
+      "es",
+      "et",
+      "nl",
+      "el",
+      "hu",
+      "sv",
+      "ro",
+      "de",
+      "cs",
+      "pt",
+      "uk",
+      "nor",
+      "fi",
+      "it"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Karttjeneste som viser vannforekomster for overflatevann og grunnvann.\n\nEn overflatevannforekomst er en betydelig mengde vann (tilsigsareal for elv og overflateareal for innsjø og kystvann). I tillegg til hydrografiske forhold defineres utstrekningen i henhold til kriterier for vanntype, påvirkninger, økologisk tilstand eller potensial (Sterkt modifiserte vannforekomster) og kjemisk tilstand. En grunnvannsforekomst defineres som en avgrenset forekomst som enten produserer 10m3 per døgn eller som kan forsyne 50 personer, påvirkningsbildet, kvantitativ og kjemisk tilstand. Vannforekomstene danner grunnenheten i vannforskriften, hvor hovedhensikten med vannforekomstene er å sikre en helhetlig vannforvaltning fra fjell til fjord. Vannforekomstene utgjør forvaltningsenhetene som skal forvaltes i samsvar med bestemmelsene gitt i vannforskriften. Felles for elementene som inngår i vannforekomster, er at de er homogene med tanke på kjemiske, biologiske og fysiske egenskaper samt antropogene påvirkninger innenfor et nedbørfelt.\n\nFor overflatevann ligger følgende informasjon på hver vannforekomst: opplysning om den er naturlig eller sterkt modifisert, økologisk tilstand eller potensial, kjemisk tilstand, miljømål og risikovurderingen om miljømålet vil bli nådd innen 2021. \n\nFor grunnvann ligger følgende informasjon på hver vannforekomst: kvantitativ tilstand, kjemisk tilstand, miljømål og risikovurderingen om miljømålet vil bli nådd innen 2021. \n\nDatasettets nøyaktighet tilsier at man ved bruk av bakgrunnsdata som inneholder bedre detaljeringsgrad enn 1:50 000 må ta hensyn til dette. Dataene vil i løpet av 2019 – 2020 bli oppdatert i henhold til nye vanntemadata fra Statens kartverk. Dette gjelder kategoriene kystvann, innsjø og elv."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Hydrologie - Standorte WMS",
+    "fi": "Hydrologia - sijainnit WMS",
+    "pt": "Hidrologia - locais WMS",
+    "bg": "Хидрология — местоположения WMS",
+    "lt": "Hidrologija - vietos WMS",
+    "hr": "Hidrologija - lokacije WMS",
+    "lv": "Hidroloģija - atrašanās vietas WMS",
+    "fr": "Hydrologie - localisations WMS",
+    "hu": "Hidrológia - helyszínek WMS",
+    "nor": "Vannforekomster WMS",
+    "uk": "Гідрологія — локації WMS",
+    "sk": "Hydrológia - lokality WMS",
+    "sl": "Hidrologija - lokacije WMS",
+    "ga": "Hidreolaíocht - suíomhanna WMS",
+    "sv": "Hydrologi - platser WMS",
+    "mt": "Idroloġija - postijiet WMS",
+    "el": "Υδρολογία — τοποθεσίες WMS",
+    "en": "Hydrology - locations WMS",
+    "it": "Idrologia - località WMS",
+    "es": "Hidrología - ubicaciones WMS",
+    "et": "Hüdroloogia - asukohad WMS",
+    "cs": "Hydrologie - lokality WMS",
+    "pl": "Hydrologia - lokalizacje WMS",
+    "da": "Hydrologi - beliggenheder WMS",
+    "ro": "Hidrologie - locații WMS",
+    "nl": "Hydrologie - locaties WMS"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/CONT",
+    "label": "continuous"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://kart3.miljodirektoratet.no/arcgis/services/vannforekomster/MapServer/WMSServer?request=GetCapabilities&service=WMS"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "72e637d6-2a95-4596-927a-439f1e2a0c3a",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://kart3.miljodirektoratet.no/arcgis/services/vannforekomster/MapServer/WMSServer"
+          ],
+          "endpoint_description": [
+            "https://kart3.miljodirektoratet.no/arcgis/services/vannforekomster/MapServer/WMSServer?request=GetCapabilities&service=WMS"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "lv": "apskatīt",
+        "hr": "pogled",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "mt": "ħarsa",
+        "el": "προβολή",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "2015-07-28T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 140
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosesshistorie tilgjengelig"
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "0001-01-01T00:00:00Z",
+  "publisher": {
+    "name": "Seksjon for miljødata og geoinformasjon",
+    "type": "Person",
+    "email": "mailto:wms@miljodir.no"
+  },
+  "id": "46515853-2672-42a3-b665-7a82c6174629~~1",
+  "categories": [],
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            72
+          ],
+          [
+            33,
+            72
+          ],
+          [
+            33,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "issued": "2015-07-28T00:00:00Z",
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:12Z",
+    "issued": "2023-07-28T17:49:44Z"
+  }
+}

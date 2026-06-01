@@ -1,0 +1,561 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "fjord",
+      "label": "Fjord"
+    },
+    {
+      "language": "nor",
+      "id": "mareano",
+      "label": "Mareano"
+    },
+    {
+      "language": "nor",
+      "id": "kystområder",
+      "label": "Kystområder"
+    },
+    {
+      "language": "en",
+      "id": "marine",
+      "label": "marine"
+    },
+    {
+      "language": "nor",
+      "id": "geologi",
+      "label": "Geologi"
+    },
+    {
+      "language": "nor",
+      "id": "havbunn",
+      "label": "Havbunn"
+    },
+    {
+      "language": "nor",
+      "id": "barentshavet",
+      "label": "Barentshavet"
+    },
+    {
+      "language": "en",
+      "id": "nature-types-in-norway",
+      "label": "Nature types in Norway"
+    },
+    {
+      "language": "en",
+      "id": "sea-floor",
+      "label": "sea floor"
+    },
+    {
+      "language": "en",
+      "id": "norway",
+      "label": "Norway"
+    },
+    {
+      "language": "nor",
+      "id": "norge",
+      "label": "Norge"
+    },
+    {
+      "language": "en",
+      "id": "seabed",
+      "label": "seabed"
+    },
+    {
+      "language": "en",
+      "id": "nin",
+      "label": "NiN"
+    },
+    {
+      "language": "nor",
+      "id": "ngu",
+      "label": "NGU"
+    },
+    {
+      "language": "nor",
+      "id": "nin",
+      "label": "NiN"
+    },
+    {
+      "language": "en",
+      "id": "shelf",
+      "label": "shelf"
+    },
+    {
+      "language": "en",
+      "id": "coastal-area",
+      "label": "coastal area"
+    },
+    {
+      "language": "en",
+      "id": "landscape",
+      "label": "landscape"
+    },
+    {
+      "language": "en",
+      "id": "fjord",
+      "label": "fjord"
+    },
+    {
+      "language": "en",
+      "id": "barents-sea",
+      "label": "Barents Sea"
+    },
+    {
+      "language": "nor",
+      "id": "sjø",
+      "label": "Sjø"
+    },
+    {
+      "language": "en",
+      "id": "ngu",
+      "label": "NGU"
+    },
+    {
+      "language": "en",
+      "id": "norwegian-sea",
+      "label": "Norwegian Sea"
+    },
+    {
+      "language": "nor",
+      "id": "landskap",
+      "label": "Landskap"
+    },
+    {
+      "language": "en",
+      "id": "maritime-zone",
+      "label": "maritime zone"
+    },
+    {
+      "language": "en",
+      "id": "sea",
+      "label": "sea"
+    },
+    {
+      "language": "en",
+      "id": "mareano",
+      "label": "MAREANO"
+    },
+    {
+      "language": "nor",
+      "id": "naturtyper-i-norge",
+      "label": "Naturtyper i Norge"
+    },
+    {
+      "language": "nor",
+      "id": "norskehavet",
+      "label": "Norskehavet"
+    },
+    {
+      "language": "nor",
+      "id": "marin",
+      "label": "Marin"
+    },
+    {
+      "language": "nor",
+      "id": "sjøbunn",
+      "label": "Sjøbunn"
+    },
+    {
+      "language": "nor",
+      "id": "havområder",
+      "label": "Havområder"
+    },
+    {
+      "language": "nor",
+      "id": "sokkel",
+      "label": "Sokkel"
+    },
+    {
+      "language": "nor",
+      "id": "mareano",
+      "label": "MAREANO"
+    },
+    {
+      "language": "en",
+      "id": "geology",
+      "label": "geology"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/af0f6a79-846c-4b24-bfd6-2d06dc103f71",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:06Z",
+        "issued": "2024-06-11T17:48:05Z"
+      }
+    },
+    "full_available_languages": [
+      "fi",
+      "fr",
+      "sk",
+      "el",
+      "uk",
+      "ro",
+      "hr",
+      "lt",
+      "cs",
+      "de",
+      "it",
+      "es",
+      "bg",
+      "mt",
+      "pl",
+      "sv",
+      "ga",
+      "pt",
+      "sl",
+      "da",
+      "lv",
+      "hu",
+      "et",
+      "nl",
+      "en",
+      "nor"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Karttjenesten viser en rekke landskapsformer på havbunnen. Marine landskap er definert som større geografiske områder med enhetlig visuelt preg. Tolkningen er basert på lavoppløselige dybdedata og parametre som kan hentes ut direkte fra disse. Klassifikasjonen som er gjordt, bygger på Naturtyper i Norge (NiN).",
+    "en": "The map service features wide variety of land forms and landscapes on the sea floor. Marine landscape is defined as a larger geographical area with visually uniform character. The interpretation is based on low-resolution depth data and parameters that can be extracted directly from these. The classification performed here is based on Naturtyper i Norge (NiN)."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Meereslandschaft WMS",
+    "fi": "Merimaisema WMS",
+    "pt": "Paisagem marinha WMS",
+    "bg": "Морски пейзаж WMS",
+    "lt": "Jūrų kraštovaizdžio WMS",
+    "hr": "Morski krajolik WMS",
+    "lv": "Jūras ainava WMS",
+    "fr": "Paysage marin WMS",
+    "hu": "Tengeri táj WMS",
+    "nor": "Marine landskap WMS",
+    "uk": "Морський пейзаж WMS",
+    "sk": "Morská krajina WMS",
+    "sl": "Marine Landscape WMS",
+    "ga": "WMS Tírdhreacha Mara",
+    "sv": "Marint landskap WMS",
+    "el": "Θαλάσσιο τοπίο WMS",
+    "mt": "Pajsaġġ tal-Baħar WMS",
+    "en": "Marine Landscape WMS",
+    "it": "Paesaggio marino WMS",
+    "es": "Paisaje marino WMS",
+    "et": "Mere maastik WMS",
+    "cs": "Námořní krajina WMS",
+    "pl": "Krajobraz morski WMS",
+    "ro": "Peisaj marin WMS",
+    "da": "Marine landskab WMS",
+    "nl": "Marine Landschap WMS"
+  },
+  "accrual_periodicity": {},
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://geo.ngu.no/mapserver/MarinLandskapWMS?REQUEST=GetCapabilities&SERVICE=WMS"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "01598c0a-cd9c-49e6-880d-b531114fe2aa",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://geo.ngu.no/mapserver/MarinLandskapWMS"
+          ],
+          "endpoint_description": [
+            "https://geo.ngu.no/mapserver/MarinLandskapWMS?REQUEST=GetCapabilities&SERVICE=WMS"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "lv": "apskatīt",
+        "hr": "pogled",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "mt": "ħarsa",
+        "el": "προβολή",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "da": "udsigt",
+        "ro": "vizualizare",
+        "nl": "Bekijk"
+      },
+      "issued": "2012-06-15T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "provenance": [
+    {
+      "label": "Ulike landskapstyper er klassifisert med utgangspunkt i batymetridata. For at grensene skal kunne trekkes opp på en måte som er reproduserbar og mest mulig tolkningsuavhengig, har vi kommet fram til en GIS-basert metode som benytter lavoppløselige dybdedata og parametere som kan hentes ut direkte fra disse."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "0001-01-01T00:00:00Z",
+  "publisher": {
+    "name": "Aave Lepland",
+    "type": "Person",
+    "email": "mailto:aave.lepland@ngu.no"
+  },
+  "id": "af0f6a79-846c-4b24-bfd6-2d06dc103f71",
+  "categories": [],
+  "issued": "2012-06-15T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            7,
+            72
+          ],
+          [
+            30,
+            72
+          ],
+          [
+            30,
+            67
+          ],
+          [
+            7,
+            67
+          ],
+          [
+            7,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-06T18:06:13Z",
+    "issued": "2021-10-15T08:49:22Z"
+  }
+}

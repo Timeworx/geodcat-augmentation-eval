@@ -1,0 +1,4 @@
+{
+  "rawDataUri": "s3://agrifoodtef-client-bucket/raw/wieselburg-2025/batch-01/",
+  "targetClass": "maize plant"
+}

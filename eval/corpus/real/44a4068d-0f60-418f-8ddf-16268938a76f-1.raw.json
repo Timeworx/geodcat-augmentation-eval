@@ -1,0 +1,279 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "fiskevernsonen-ved-svalbard",
+      "label": "Fiskevernsonen ved Svalbard"
+    },
+    {
+      "language": "nor",
+      "id": "svalbard",
+      "label": "Svalbard"
+    },
+    {
+      "language": "nor",
+      "id": "fisheries-protection-zone-around-svalbard",
+      "label": "Fisheries Protection Zone around Svalbard"
+    },
+    {
+      "language": "nor",
+      "id": "norges-maritime-grenser",
+      "label": "Norges maritime grenser"
+    },
+    {
+      "language": "nor",
+      "id": "200-milsgrense",
+      "label": "200 Milsgrense"
+    },
+    {
+      "language": "nor",
+      "id": "territorialgrense-(12nm)",
+      "label": "Territorialgrense (12nm)"
+    },
+    {
+      "language": "nor",
+      "id": "sjøområder",
+      "label": "sjøområder"
+    },
+    {
+      "language": "nor",
+      "id": "sjøgrenser",
+      "label": "sjøgrenser"
+    },
+    {
+      "language": "nor",
+      "id": "norwegian-maritime-boundaries",
+      "label": "Norwegian maritime boundaries"
+    },
+    {
+      "language": "nor",
+      "id": "grunnlinje",
+      "label": "Grunnlinje"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/44a4068d-0f60-418f-8ddf-16268938a76f~~1",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:58Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:58Z",
+        "issued": "2024-06-11T17:48:13Z"
+      }
+    },
+    "full_available_languages": [
+      "en",
+      "nor"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Ein benachbarter Gürtel auf See, dessen Breite von der äußeren Grenze der Hoheitsgewässer, berechnet 12 Seemeilen von den Basislinien von Spitzbergen, bis zur äußeren Grenze, berechnet 200 Seemeilen von derselben Basislinie, gemessen wird und der durch die Wirtschaftszone für Norwegen und die vereinbarten Abgrenzungslinien begrenzt wird, wenn es weniger als 400 nm zu einer anderen staatlichen Basislinie gibt",
+    "fi": "Viereinen merellä sijaitseva vyöhyke, jonka leveys mitataan aluevesien ulkorajalta laskettuna 12 merimailin etäisyydeltä Huippuvuorten perusviivoista 200 merimailin etäisyydelle samasta perusviivasta laskettuun ulkorajaan ja jota rajoittavat Norjan talousvyöhyke ja sovitut rajaviivat, jos ne ovat alle 400 nm toiseen valtion perusviivaan nähden.",
+    "pt": "Uma faixa adjacente no mar, cuja largura é medida a partir do limite exterior das águas territoriais, calculada em 12 milhas náuticas a partir das linhas de base de Svalbard, até ao limite exterior calculado em 200 milhas náuticas a partir da mesma linha de base, e que é delimitada pela zona económica da Noruega e pelas linhas de delimitação acordadas quando a distância entre as linhas de base de outro Estado é inferior a 400 nm.",
+    "bg": "Прилежащ пояс в морето, ширината на който се измерва от външната граница на териториалните води, изчислени на 12 морски мили от изходните линии на Свалбард, до външната граница, изчислена на 200 морски мили от същата базова линия, и който е ограничен от икономическата зона за Норвегия и договорените линии за определяне на границите, където има по-малко от 400 nm до друга изходна линия",
+    "lt": "Gretima jūroje esanti juosta, kurios plotis matuojamas nuo išorinės teritorinių vandenų ribos, apskaičiuotos 12 jūrmylių atstumu nuo Svalbardo bazinių linijų, iki išorinės ribos, apskaičiuotos 200 jūrmylių atstumu nuo tos pačios bazinės linijos, ir kurią riboja Norvegijos ekonominė zona ir sutartos skiriamosios linijos, kurių ilgis yra mažesnis nei 400 nm, iki kitos valstybinės bazinės linijos.",
+    "hr": "susjedni pojas na moru, čija se širina mjeri od vanjske granice teritorijalnih voda, izračunane na 12 nautičkih milja od polaznih crta Svalbarda, do vanjske granice izračunane na 200 nautičkih milja od iste polazne crte, i koji je omeđen gospodarskom zonom za Norvešku i dogovorenim crtama razgraničenja ako su manje od 400 nm do druge polazne crte stanja",
+    "lv": "Blakus esoša josta jūrā, kuras platumu mēra no teritoriālo ūdeņu ārējās robežas, kas aprēķināta 12 jūras jūdžu attālumā no Svalbāras bāzes līnijām, līdz ārējai robežai, kas aprēķināta 200 jūras jūdžu attālumā no tās pašas bāzes līnijas, un kuru ierobežo Norvēģijas Ekonomikas zona un apstiprinātās robežlīnijas, ja tās ir mazākas par 400 nm, līdz citai valsts bāzes līnijai.",
+    "fr": "Une ceinture adjacente en mer, dont la largeur est mesurée à partir de la limite extérieure des eaux territoriales, calculée à 12 milles nautiques des lignes de base du Svalbard, jusqu'à la limite extérieure calculée à 200 milles nautiques de la même ligne de base, et qui est délimitée par la zone économique pour la Norvège et les lignes de délimitation convenues où il y a moins de 400 nm à une autre ligne de base de l'État",
+    "hu": "Egy szomszédos tengeri övezet, amelynek szélességét a felségvizek külső határától mérik, a Svalbard alapvonalaitól számított 12 tengeri mérföldtől az ugyanazon alapvonaltól számított 200 tengeri mérföldig, és amelyet Norvégia gazdasági övezete és a megállapodás szerinti határvonalak határolnak, amennyiben 400 nm-nél kisebb távolságra vannak egy másik állam alapvonalától",
+    "nor": "Sone som dekker havområdet fra territorialgrensen 12 nm og ut til 200 nm beregnet utenfor og parallelt med grunnlinjene ved Svalbard, og er avgrenset av Norges økonomiske sone, samt avtalte avgrensningslinjer",
+    "uk": "Прилеглий пояс на морі, ширина якого вимірюється від зовнішньої межі територіальних вод, обчислюється 12 морських миль від базової лінії Шпіцбергена, до зовнішньої межі, розрахованої 200 морських миль від тієї ж базової лінії, і яка обмежена Економічною зоною для Норвегії і узгодженими лініями розмежування, де є менше 400 нм до іншого базового рівня держави.",
+    "sk": "Priľahlý pás na mori, ktorého šírka sa meria od vonkajšej hranice výsostných vôd vypočítanej 12 námorných míľ od základných línií Svalbardu po vonkajšiu hranicu vypočítanú 200 námorných míľ od tej istej základnej línie a ktorý je ohraničený hospodárskou zónou Nórska a dohodnutými delimitačnými čiarami, kde je menej ako 400 nm od inej základnej línie štátu",
+    "sl": "sosednji pas na morju, katerega širina se meri od zunanje meje teritorialnih voda, izračunane 12 navtičnih milj od temeljnih črt Svalbarda, do zunanje meje, izračunane 200 navtičnih milj od iste temeljne črte, in ki je omejen z ekonomsko cono za Norveško in dogovorjenimi razmejitvenimi črtami, kjer je manj kot 400 nm, do druge državne temeljne črte",
+    "ga": "Crios cóngarach ar muir, a dtomhaistear a leithead ó theorainn sheachtrach uiscí teorann, arna ríomh 12 Mhíle Loingseoireachta ó bhonnlínte Svalbard, go dtí an teorainn sheachtrach arna ríomh 200 Míle Loingseoireachta ón mbonnlíne chéanna, agus a theorannaítear leis an gCrios Eacnamaíoch le haghaidh na hIorua agus leis na línte teorannaithe comhaontaithe ina bhfuil níos lú ná 400 nm go bonnlíne stáit eile",
+    "sv": "Ett angränsande bälte till sjöss, vars bredd mäts från territorialvattnens yttre gräns, beräknad 12 nautiska mil från Svalbards baslinjer, till den yttre gräns som beräknas 200 nautiska mil från samma baslinje, och som begränsas av Norges ekonomiska zon och de överenskomna avgränsningslinjerna om det finns mindre än 400 nm till en annan delstats baslinje.",
+    "mt": "Ċinturin biswit il-baħar, li l-wisa’ tiegħu jitkejjel mil-limitu estern tal-ilmijiet territorjali, ikkalkolat 12-il Mil Nawtiku mil-linji bażi ta’ Svalbard, sal-limitu estern ikkalkolat 200 Mil Nawtiku mill-istess linja bażi, u li huwa kkonfinat miż-Żona Ekonomika għan-Norveġja u mil-linji ta’ delimitazzjoni miftiehma fejn ikun hemm inqas minn 400 nm sa linja bażi ta’ stat ieħor",
+    "el": "Παρακείμενη ζώνη εν πλω, το πλάτος της οποίας μετράται από το εξωτερικό όριο των χωρικών υδάτων, υπολογιζόμενη σε 12 ναυτικά μίλια από τις γραμμές βάσης του Svalbard, έως το εξωτερικό όριο που υπολογίζεται σε 200 ναυτικά μίλια από την ίδια γραμμή βάσης, και η οποία οριοθετείται από την οικονομική ζώνη για τη Νορβηγία και τις συμφωνηθείσες γραμμές οριοθέτησης όπου υπάρχουν λιγότερα από 400 nm σε άλλη γραμμή βάσης κράτους",
+    "en": "An adjacent belt at sea, the breadth of which is measured from the outer limit of territorial waters, calculated 12 Nautical Miles from the baselines of Svalbard, to the outer limit calculated 200 Nautical Miles from the same baseline, and which is bounded by the Economic Zone for Norway and the agreed delimitation lines where there are less than 400 nm to another state baseline",
+    "it": "Cintura adiacente in mare, la cui larghezza è misurata dal limite esterno delle acque territoriali, calcolato a 12 miglia nautiche dalle linee di base delle Svalbard, al limite esterno calcolato a 200 miglia nautiche dalla stessa linea di base, delimitata dalla zona economica per la Norvegia e dalle linee di delimitazione concordate in cui vi sono meno di 400 miglia nautiche dalla linea di base di un altro Stato",
+    "es": "Cinturón adyacente en el mar, cuya anchura se mide desde el límite exterior de las aguas territoriales, calculado a 12 millas náuticas de las líneas de base de Svalbard, hasta el límite exterior calculado a 200 millas náuticas de la misma línea de base, y que está limitado por la zona económica de Noruega y las líneas de delimitación acordadas en las que hay menos de 400 nm hasta otra línea de base estatal",
+    "et": "külgnev merevöönd, mille laiust mõõdetakse territoriaalvete välispiirist, arvutatuna 12 meremiili kaugusel Svalbardi lähtejoonest, kuni välispiirini, arvutatuna 200 meremiili kaugusel samast lähtejoonest, ning mis piirneb Norra majandusvööndiga ja kokkulepitud piirjoontega, kui lähtejoone pikkus on alla 400 meremiili muu riigi lähtejoonest;",
+    "cs": "přilehlý pás na moři, jehož šířka se měří od vnější hranice teritoriálních vod počítané 12 námořních mil od základních linií Svalbardu po vnější hranici počítanou 200 námořních mil od téže základní linie a který je ohraničen hospodářskou zónou pro Norsko a dohodnutými vymezovacími čarami tam, kde je méně než 400 nm od jiné základní linie státu;",
+    "pl": "sąsiedni pas na morzu, którego szerokość mierzona jest od zewnętrznej granicy wód terytorialnych, obliczonej w 12 milach morskich od linii podstawowych Svalbardu, do zewnętrznej granicy obliczonej w 200 milach morskich od tej samej linii podstawowej, i który jest ograniczony przez Strefę Ekonomiczną Norwegii i uzgodnione linie wyznaczające, w przypadku gdy jest mniej niż 400 nm, do innej linii podstawowej państwa;",
+    "ro": "O centură maritimă adiacentă, a cărei lățime este măsurată de la limita exterioară a apelor teritoriale, calculată la 12 mile marine de la liniile de bază ale Svalbard, până la limita exterioară calculată la 200 de mile marine de la aceeași linie de bază și care este delimitată de zona economică a Norvegiei și de liniile de delimitare convenite, în cazul în care există mai puțin de 400 nm față de o altă linie de bază a statului",
+    "da": "Et tilstødende søbælte, hvis bredde måles fra søterritoriets ydre grænse, beregnet 12 sømil fra Svalbards basislinjer, til den ydre grænse, beregnet 200 sømil fra samme basislinje, og som afgrænses af den økonomiske zone for Norge og de aftalte afgrænsningslinjer, hvor der er mindre end 400 nm til en anden statsbasislinje.",
+    "nl": "Een aangrenzende gordel op zee waarvan de breedte wordt gemeten vanaf de buitengrens van de territoriale wateren, berekend op 12 zeemijl vanaf de basislijnen van Spitsbergen, tot de buitengrens berekend op 200 zeemijl vanaf dezelfde basislijn, en die wordt begrensd door de economische zone voor Noorwegen en de overeengekomen afbakeningslijnen waar er minder dan 400 nm is naar een andere basislijn van de staat"
+  },
+  "index": "dataset",
+  "title": {
+    "nor": "Fiskevernsonen ved Svalbard",
+    "en": "Fisheries Protection Zone around Svalbard"
+  },
+  "accrual_periodicity": {},
+  "distributions": [
+    {
+      "license": {
+        "resource": "https://creativecommons.org/licenses/by/4.0/",
+        "id": "https://creativecommons.org/licenses/by/4.0/",
+        "label": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "access_url": [
+        "https://wms.geonorge.no/skwms1/wms.nmg?"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2012-08-10T00:00:00Z",
+      "id": "38daec72-157e-4c4c-9197-c8ee0dd2ab98",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://wms.geonorge.no/skwms1/wms.nmg"
+          ],
+          "endpoint_description": [
+            "https://wms.geonorge.no/skwms1/wms.nmg?"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "lv": "apskatīt",
+        "hr": "pogled",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "el": "προβολή",
+        "mt": "ħarsa",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 240
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Kartverket",
+    "type": "Organization",
+    "email": "mailto:kundesenter@kartverket.no"
+  },
+  "modified": "2012-08-10T00:00:00Z",
+  "id": "44a4068d-0f60-418f-8ddf-16268938a76f~~1",
+  "categories": [],
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            -16,
+            85
+          ],
+          [
+            45,
+            85
+          ],
+          [
+            45,
+            -56
+          ],
+          [
+            -16,
+            -56
+          ],
+          [
+            -16,
+            85
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "issued": "0001-01-01T00:00:00Z",
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:12Z",
+    "issued": "2023-07-28T17:49:44Z"
+  },
+  "contact_point": [
+    {
+      "address": "Kartverket, Hønefoss, 3507, Norway",
+      "name": "Carina Tolpinrud Jøntvedt",
+      "type": "Individual",
+      "email": "mailto:tolcar@kartverket.no",
+      "url": [
+        "http://geoh.conterra:8080/oai-pmh-geo-harvest/harvesters/www.kartverket.no"
+      ]
+    }
+  ]
+}

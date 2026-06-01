@@ -1,0 +1,211 @@
+{
+  "identifier": [
+    "https://data.twisto.fr/explore/dataset/liste-des-pr-et-disponibilite-en-temps-reel/"
+  ],
+  "country": {
+    "label": "France",
+    "id": "fr",
+    "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+  },
+  "creator": [
+    {
+      "type": "Agent",
+      "name": "Twisto",
+      "resource": "https://www.data.gouv.fr/api/1/contacts/67b7c3858743ff58f7e260b7/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "disponibilite",
+      "label": "disponibilite",
+      "language": "fr"
+    },
+    {
+      "id": "autres-mobilites",
+      "label": "autres-mobilites",
+      "language": "fr"
+    },
+    {
+      "id": "emplacement",
+      "label": "emplacement",
+      "language": "fr"
+    },
+    {
+      "id": "places",
+      "label": "places",
+      "language": "fr"
+    },
+    {
+      "id": "borne",
+      "label": "borne",
+      "language": "fr"
+    },
+    {
+      "id": "station",
+      "label": "station",
+      "language": "fr"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/https-data-twisto-fr-explore-dataset-liste-des-pr-et-disponibilite-en-temps-reel-",
+  "catalog": {
+    "id": "plateforme-ouverte-des-donnees-publiques-francaises",
+    "homepage": "https://data.gouv.fr",
+    "description": {
+      "en": "Open Data Portal France"
+    },
+    "language": [
+      {
+        "id": "fr",
+        "label": "French",
+        "resource": "http://publications.europa.eu/resource/authority/language/FRA"
+      }
+    ],
+    "issued": "2022-06-24T12:25:39Z",
+    "country": {
+      "label": "France",
+      "id": "fr",
+      "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+    },
+    "spatial_resource": [
+      {
+        "label": "France",
+        "id": "fr",
+        "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+      }
+    ],
+    "spatial": [],
+    "source_type": "dcat-ap",
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:info@data.gouv.fr",
+      "homepage": "https://www.etalab.gouv.fr",
+      "name": "etalab"
+    },
+    "modified": "2023-02-12T03:33:16.402027",
+    "title": {
+      "fr": "Plateforme ouverte des données publiques françaises"
+    }
+  },
+  "translation_meta": {
+    "details": {
+      "fr": {
+        "machine_translated": false,
+        "received": "2026-05-12T02:57:27Z",
+        "issued": "2026-02-12T03:35:36Z"
+      }
+    },
+    "full_available_languages": [
+      "fr"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "fr": "Liste des P+R et disponibilité en temps réel"
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.twisto.fr/explore/dataset/liste-des-pr-et-disponibilite-en-temps-reel/"
+    }
+  ],
+  "index": "dataset",
+  "title": {
+    "fr": "Liste des P+R et disponibilité en temps réel"
+  },
+  "access_right": {
+    "label": "public",
+    "resource": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+  },
+  "distributions": [
+    {
+      "id": "5b9147a1-7656-49c5-99d6-68399a30b9f7",
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/f210764f-fe18-4daa-8fad-80dac2bb20dd"
+      ],
+      "description": {
+        "fr": "Liste des P+R et disponibilité en temps réel (json)"
+      },
+      "download_url": [
+        "https://data.twisto.fr/api/explore/v2.1/catalog/datasets/liste-des-pr-et-disponibilite-en-temps-reel/exports/json"
+      ],
+      "modified": "2026-05-31T00:06:04",
+      "issued": "2026-05-31T00:06:04",
+      "title": {
+        "fr": "liste-des-pr-et-disponibilite-en-temps-reel.json"
+      },
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      },
+      "media_type": "application/json"
+    },
+    {
+      "id": "bee34675-4ae6-4e8a-88df-da08e21801ae",
+      "issued": "2026-05-31T00:06:04",
+      "download_url": [
+        "https://data.twisto.fr/api/explore/v2.1/catalog/datasets/liste-des-pr-et-disponibilite-en-temps-reel/exports/geojson"
+      ],
+      "media_type": "application/json",
+      "modified": "2026-05-31T00:06:04",
+      "title": {
+        "fr": "liste-des-pr-et-disponibilite-en-temps-reel.geojson"
+      },
+      "description": {
+        "fr": "Liste des P+R et disponibilité en temps réel (geojson)"
+      },
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/202b31f7-8b55-459b-8c0c-339837a0d0fa"
+      ],
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      }
+    },
+    {
+      "id": "0cfc7c04-831c-43c3-b4c8-baa23d79e56b",
+      "description": {
+        "fr": "Liste des P+R et disponibilité en temps réel (csv)"
+      },
+      "modified": "2026-05-31T00:06:04",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "download_url": [
+        "https://data.twisto.fr/api/explore/v2.1/catalog/datasets/liste-des-pr-et-disponibilite-en-temps-reel/exports/csv?use_labels=false"
+      ],
+      "issued": "2026-05-31T00:06:04",
+      "media_type": "text/csv",
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/7d0d9bd9-7d59-4dd7-a547-d0a813edd991"
+      ],
+      "title": {
+        "fr": "liste-des-pr-et-disponibilite-en-temps-reel.csv"
+      }
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 160
+  },
+  "publisher": {
+    "type": "Agent",
+    "name": "Twisto",
+    "resource": "https://www.data.gouv.fr/api/1/contacts/67b7c3858743ff58f7e260b6/"
+  },
+  "modified": "2026-05-31T00:06:04",
+  "id": "https-data-twisto-fr-explore-dataset-liste-des-pr-et-disponibilite-en-temps-reel-",
+  "adms_identifier": [
+    {
+      "identifier": "https://www.data.gouv.fr/datasets/68f187a12c4ca61855ff199e",
+      "scheme": "http://www.w3.org/2001/XMLSchema#string"
+    }
+  ],
+  "issued": "2026-05-31T00:06:04",
+  "catalog_record": {
+    "issued": "2025-10-17T03:30:07Z",
+    "modified": "2026-05-31T03:39:44Z"
+  }
+}

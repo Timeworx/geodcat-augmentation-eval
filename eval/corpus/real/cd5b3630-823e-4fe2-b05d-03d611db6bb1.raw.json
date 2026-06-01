@@ -1,0 +1,618 @@
+{
+  "identifier": [
+    "cd5b3630-823e-4fe2-b05d-03d611db6bb1"
+  ],
+  "country": {
+    "label": "Ireland",
+    "id": "ie",
+    "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+  },
+  "keywords": [
+    {
+      "id": "airo",
+      "label": "AIRO",
+      "language": "ga"
+    },
+    {
+      "id": "dgihealth",
+      "label": "dgihealth",
+      "language": "ga"
+    },
+    {
+      "id": "covid-19",
+      "label": "Covid-19",
+      "language": "ga"
+    },
+    {
+      "id": "ireland",
+      "label": "ireland",
+      "language": "ga"
+    },
+    {
+      "id": "hpsc",
+      "label": "HPSC",
+      "language": "ga"
+    },
+    {
+      "id": "ireland",
+      "label": "Ireland",
+      "language": "ga"
+    },
+    {
+      "id": "covid",
+      "label": "Covid",
+      "language": "ga"
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "language": "ga"
+    },
+    {
+      "id": "hse",
+      "label": "HSE",
+      "language": "ga"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/cd5b3630-823e-4fe2-b05d-03d611db6bb1",
+  "catalog": {
+    "id": "data-gov-ie",
+    "modified": "2023-02-10T20:35:45.162705",
+    "source_type": "dcat-ap",
+    "issued": "2022-06-24T12:25:17Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform",
+      "email": "mailto:opendata@per.gov.ie",
+      "name": "Government Reform Unit, Dept of Public Expenditure & Reform"
+    },
+    "title": {
+      "ga": "Data.gov.ie"
+    },
+    "description": {
+      "ga": "Open Data Portal Ireland"
+    },
+    "homepage": "https://data.gov.ie",
+    "language": [
+      {
+        "id": "ga",
+        "label": "Irish",
+        "resource": "http://publications.europa.eu/resource/authority/language/GLE"
+      }
+    ],
+    "country": {
+      "label": "Ireland",
+      "id": "ie",
+      "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ireland",
+        "id": "ie",
+        "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+      }
+    ],
+    "spatial": [],
+    "count": 30287
+  },
+  "translation_meta": {
+    "details": {
+      "uk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "ga": {
+        "machine_translated": false,
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:25:06Z",
+        "issued": "2026-04-06T20:37:00Z"
+      }
+    },
+    "full_available_languages": [
+      "uk",
+      "cs",
+      "pl",
+      "fi",
+      "sk",
+      "en",
+      "it",
+      "pt",
+      "bg",
+      "et",
+      "fr",
+      "mt",
+      "es",
+      "de",
+      "lv",
+      "hr",
+      "ga",
+      "hu",
+      "sv",
+      "ro",
+      "lt",
+      "da",
+      "sl",
+      "el",
+      "nl"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "pt": "<p>Número cumulativo de amostras testadas por laboratórios irlandeses para deteção do SARS-CoV - número e percentagem positivos. Conjunto de dados das séries cronológicas para o período de março de 2020 a janeiro de 2024.</p>",
+    "it": "<p>Numero cumulativo di campioni testati dai laboratori irlandesi per il SARS-CoV - numero e percentuale positivi. Serie di dati delle serie temporali per il periodo da marzo 2020 a gennaio 2024.</p>",
+    "sl": "<p>Kumulativno število vzorcev, ki so jih irski laboratoriji testirali na SARS-CoV – število in odstotek pozitivnih vzorcev. Podatkovni niz časovnih vrst za obdobje od marca 2020 do januarja 2024.</p>",
+    "bg": "<p>Общ брой проби, изследвани от ирландски лаборатории за SARS-CoV — брой и процент на положителните проби. Набор от данни от динамични редове за периода от март 2020 г. до януари 2024 г.</p>",
+    "el": "<p>Σωρευτικός αριθμός δειγμάτων που υποβλήθηκαν σε δοκιμή από ιρλανδικά εργαστήρια για SARS-CoV — αριθμός και ποσοστό θετικών δειγμάτων. Σύνολο δεδομένων χρονολογικών σειρών για την περίοδο από τον Μάρτιο του 2020 έως τον Ιανουάριο του 2024.</p>",
+    "et": "<p>Iirimaa laborites SARS-CoV suhtes analüüsitud proovide kumulatiivne arv – positiivsete proovide arv ja protsent. Aegridade andmekogum 2020. aasta märtsist 2024. aasta jaanuarini.</p>",
+    "sv": "<p>Kumulativt antal prover som testats av irländska laboratorier för SARS-CoV - antal och procent positivt. Tidsseriedatauppsättning för perioden mars 2020 till januari 2024.</p>",
+    "da": "<p>Kumulativt antal prøver testet af irske laboratorier for SARS-CoV - antal og positiv procent. Datasæt for tidsserier for perioden marts 2020 til januar 2024.</p>",
+    "de": "<p>Kumulative Anzahl der Proben, die von irischen Laboratorien auf SARS-CoV getestet wurden - Anzahl und Prozentsatz positiv. Zeitreihendatensatz für den Zeitraum März 2020 bis Januar 2024.</p>",
+    "hr": "<p>Kumulativni broj uzoraka testiranih u irskim laboratorijima na virus SARS-CoV – broj i postotak pozitivnih. Skup podataka vremenskih serija za razdoblje od ožujka 2020. do siječnja 2024.</p>",
+    "fr": "<p>Nombre cumulatif d'échantillons testés par les laboratoires irlandais pour le SARS-CoV - nombre et pourcentage positifs. Ensemble de données chronologiques pour la période allant de mars 2020 à janvier 2024.</p>",
+    "cs": "<p>Kumulativní počet vzorků testovaných irskými laboratořemi na SARS-CoV – počet a procento pozitivních. Soubor údajů časových řad za období březen 2020 až leden 2024.</p>",
+    "uk": "Кумулятивна кількість зразків, випробуваних ірландськими лабораторіями на SARS-CoV - число і відсоток позитивні. Набір даних часових рядів за період з березня 2020 року по січень 2024 року.</p>",
+    "pl": "<p>Skumulowana liczba próbek przebadanych przez irlandzkie laboratoria pod kątem SARS-CoV – liczba i odsetek próbek dodatnich. Zbiór danych szeregów czasowych za okres od marca 2020 r. do stycznia 2024 r.</p>",
+    "lv": "<p>Īrijas laboratorijās SARS-CoV noteikšanai testēto paraugu kumulatīvais skaits – pozitīvo paraugu skaits un procentuālā daļa. Laikrindu datu kopa par laikposmu no 2020. gada marta līdz 2024. gada janvārim.</p>",
+    "nl": "<p>Cumulatief aantal specimens getest door Ierse laboratoria op SARS-CoV - aantal en percentage positief. Dataset tijdreeksen voor de periode maart 2020 tot en met januari 2024.</p>",
+    "lt": "<p>Suminis mėginių, kuriuos Airijos laboratorijos ištyrė dėl SARS-CoV, skaičius – teigiamų mėginių skaičius ir procentinė dalis. Laiko eilučių duomenų rinkinys nuo 2020 m. kovo mėn. iki 2024 m. sausio mėn.</p>",
+    "mt": "<p>L-għadd kumulattiv ta’ kampjuni ttestjati mil-laboratorji Irlandiżi għan-numru - tas-SARS-CoV u l-perċentwal pożittiv. Sett ta’ data tas-serje kronoloġika għall-perjodu minn Marzu 2020 sa Jannar 2024.</p>",
+    "ga": "<p>Líon carnach na n-eiseamal arna dtástáil ag saotharlanna na hÉireann le haghaidh SARS-CoV - líon agus céatadán deimhneach. Tacar sonraí amshraitheanna don tréimhse ó mhí an Mhárta 2020 go dtí mí Eanáir 2024.</p>",
+    "sk": "<p>Kumulatívny počet vzoriek testovaných írskymi laboratóriami na SARS-CoV – počet a percentuálny podiel pozitívnych vzoriek. Súbor údajov časových radov za obdobie od marca 2020 do januára 2024.</p>",
+    "en": "<p>Cumulative number of specimens tested by Irish laboratories for SARS-CoV - number and percentage positive. Time series dataset for the period March 2020 to January 2024.</p>",
+    "fi": "<p>Irlantilaisten laboratorioiden SARS-CoV:n varalta testaamien näytteiden kumulatiivinen lukumäärä – positiiviset luvut ja prosenttiosuudet. Aikasarjadata maaliskuun 2020 ja tammikuun 2024 väliseltä ajalta.</p>",
+    "ro": "<p>Numărul cumulativ de probe testate de laboratoarele irlandeze pentru SARS-CoV – număr și procentaj pozitiv. Set de date privind seriile cronologice pentru perioada martie 2020-ianuarie 2024.</p>",
+    "hu": "<p>Az ír laboratóriumok által a SARS-CoV kimutatására vizsgált minták kumulatív száma – a pozitív minták száma és százalékos aránya. Idősor-adatkészlet a 2020. március és 2024. január közötti időszakra.</p>",
+    "es": "<p>Número acumulado de muestras analizadas por laboratorios irlandeses para el SARS-CoV: número y porcentaje positivos. Conjunto de datos de series temporales para el período comprendido entre marzo de 2020 y enero de 2024.</p>"
+  },
+  "landing_page": [
+    {
+      "resource": "https://opendata-geohive.hub.arcgis.com/datasets/f6d6332820ca466999dbd852f6ad4d5a_0"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "id": "en",
+      "label": "English",
+      "resource": "http://publications.europa.eu/resource/authority/language/ENG"
+    }
+  ],
+  "title": {
+    "uk": "Часові ряди лабораторного тестування на COVID-19",
+    "cs": "Časová řada laboratorních testů COVID-19",
+    "pl": "Seria czasowa testów laboratoryjnych COVID-19",
+    "fi": "COVID-19-laboratoriotestien aikasarjat",
+    "sk": "Časový rad laboratórnych testov na COVID-19",
+    "en": "COVID-19 Laboratory Testing Time Series",
+    "it": "Serie temporale dei test di laboratorio COVID-19",
+    "pt": "Série cronológica de testes laboratoriais COVID-19",
+    "bg": "Серия от лабораторни тестове за COVID-19",
+    "et": "COVID-19 laboritestide aegrida",
+    "fr": "Série de temps de test de laboratoire COVID-19",
+    "mt": "Serje tal-Ħin tal-Ittestjar tal-Laboratorju tal-COVID-19",
+    "es": "Serie cronológica de pruebas de laboratorio de COVID-19",
+    "de": "Zeitreihe für COVID-19-Labortests",
+    "lv": "Covid-19 laboratorijas testēšanas laika sērija",
+    "hr": "Vrijeme testiranja laboratorija na COVID-19",
+    "ga": "COVID-19 Laboratory Testing Time Series",
+    "hu": "A Covid19-cel kapcsolatos laboratóriumi vizsgálatok idősorai",
+    "sv": "Tidsserie för testning av covid-19-laboratorier",
+    "ro": "Seria de timp pentru testarea în laborator a COVID-19",
+    "lt": "COVID-19 laboratorinių tyrimų laiko eilutė",
+    "da": "Tidsserie for covid-19-laboratorietest",
+    "sl": "Časovna serija laboratorijskih testov za COVID-19",
+    "el": "Χρονοσειρά εργαστηριακών δοκιμών COVID-19",
+    "nl": "Tijdreeks voor COVID-19-laboratoriumtests"
+  },
+  "distributions": [
+    {
+      "id": "52073b8d-d7dd-40aa-9e2b-95aa5d2f9f3f",
+      "title": {
+        "de": "ArcGIS GeoService",
+        "cs": "ArcGIS GeoService",
+        "fi": "ArcGIS GeoService",
+        "mt": "ArcGIS GeoService",
+        "da": "ArcGIS GeoService",
+        "uk": "геосервісу ArcGIS",
+        "ga": "ArcGIS GeoService",
+        "bg": "ArcGIS GeoService",
+        "lv": "ArcGIS GeoService",
+        "ro": "ArcGIS GeoService",
+        "lt": "ArcGIS GeoService",
+        "pt": "ArcGIS GeoService",
+        "es": "ArcGIS GeoService",
+        "sv": "ArcGIS GeoService",
+        "en": "ArcGIS GeoService",
+        "hu": "ArcGIS GeoService",
+        "nl": "ArcGIS GeoService",
+        "it": "ArcGIS GeoService",
+        "fr": "ArcGIS GeoService",
+        "hr": "ArcGIS GeoService",
+        "pl": "ArcGIS GeoService",
+        "el": "ArcGIS GeoService",
+        "et": "ArcGIS GeoService",
+        "sl": "ArcGIS GeoService",
+        "sk": "ArcGIS GeoService"
+      },
+      "modified": "2025-12-09T16:20:31",
+      "access_url": [
+        "https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/LaboratoryLocalTimeSeriesHistoricView/FeatureServer/0"
+      ],
+      "issued": "2025-12-09T16:20:31",
+      "format": {
+        "id": "ARCGIS GEOSERVICES REST API",
+        "label": "ARCGIS GEOSERVICES REST API"
+      },
+      "media_type": "application/json"
+    },
+    {
+      "id": "1116b547-26c2-438d-88ca-b1dd98ad129f",
+      "title": {
+        "ga": "CSV",
+        "mt": "CSV",
+        "nl": "CSV",
+        "hu": "CSV",
+        "cs": "CSV",
+        "fr": "CSV",
+        "lt": "CSV",
+        "en": "CSV",
+        "es": "CSV",
+        "de": "CSV",
+        "ro": "CSV",
+        "sl": "CSV",
+        "sv": "CSV",
+        "lv": "CSV",
+        "et": "CSV",
+        "it": "CSV",
+        "pl": "CSV",
+        "fi": "CSV",
+        "sk": "CSV",
+        "bg": "CSV",
+        "hr": "CSV",
+        "el": "CSV",
+        "uk": "CSV",
+        "da": "CSV",
+        "pt": "CSV"
+      },
+      "modified": "2025-12-09T16:20:31",
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/f6d6332820ca466999dbd852f6ad4d5a/csv?layers=0"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/f6d6332820ca466999dbd852f6ad4d5a/csv?layers=0"
+      ],
+      "issued": "2025-12-09T16:20:31",
+      "media_type": "text/csv"
+    },
+    {
+      "id": "0e5aff3b-d342-4509-aba5-022ab46c13e4",
+      "title": {
+        "fi": "KML",
+        "hu": "KML",
+        "pt": "KML",
+        "lv": "KML",
+        "mt": "KML",
+        "ga": "KML",
+        "sk": "KML",
+        "pl": "KML",
+        "en": "KML",
+        "it": "KML",
+        "lt": "KML",
+        "es": "KML",
+        "nl": "KML",
+        "bg": "KML",
+        "cs": "KML",
+        "ro": "KML",
+        "et": "KML",
+        "fr": "KML",
+        "de": "KML",
+        "el": "ΧΜΛ",
+        "uk": "КМЛ (KML)",
+        "sl": "KML",
+        "da": "KML",
+        "hr": "KML",
+        "sv": "KML"
+      },
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/f6d6332820ca466999dbd852f6ad4d5a/kml?layers=0"
+      ],
+      "issued": "2025-12-09T16:20:31",
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/f6d6332820ca466999dbd852f6ad4d5a/kml?layers=0"
+      ],
+      "format": {
+        "id": "KML",
+        "label": "KML"
+      },
+      "modified": "2025-12-09T16:20:31"
+    },
+    {
+      "id": "ac20f25f-5196-455f-8fba-7c92c251620a",
+      "title": {
+        "da": "Formfil",
+        "mt": "Forpefile",
+        "fi": "Shapefile",
+        "pl": "Plik kształtu",
+        "fr": "Shapefile",
+        "en": "Shapefile",
+        "sk": "Tvarový súbor",
+        "hr": "Datoteka oblika",
+        "lv": "Formas fails",
+        "et": "Shapefile",
+        "sv": "Shapefile",
+        "hu": "Alakfájl",
+        "es": "Shapefile",
+        "pt": "Shapefile",
+        "uk": "Файл форми",
+        "nl": "Vormbestand",
+        "de": "Shapefile",
+        "it": "File di forma",
+        "ga": "Shapefile",
+        "bg": "Формуляр",
+        "lt": "Formos failas",
+        "el": "Φάκελος σχήματος",
+        "ro": "Shapefile",
+        "sl": "Shapefile",
+        "cs": "Tvarový soubor"
+      },
+      "media_type": "application/zip",
+      "issued": "2025-12-09T16:20:31",
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/f6d6332820ca466999dbd852f6ad4d5a/shapefile?layers=0"
+      ],
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/f6d6332820ca466999dbd852f6ad4d5a/shapefile?layers=0"
+      ],
+      "format": {
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "modified": "2025-12-09T16:20:31"
+    },
+    {
+      "id": "47bf7a8b-bda4-4ace-ba8d-fb78b43adaca",
+      "title": {
+        "es": "Conjunto de datos de ArcGIS Hub",
+        "it": "Set di dati ArcGIS Hub",
+        "pl": "Zestaw danych ArcGIS Hub",
+        "sl": "Nabor podatkov vozlišča ArcGIS",
+        "el": "Σύνολο δεδομένων κόμβου ArcGIS",
+        "cs": "Datový soubor ArcGIS Hub",
+        "sk": "ArcGIS Hub Dataset",
+        "en": "ArcGIS Hub Dataset",
+        "da": "Datasæt for ArcGIS-hub",
+        "mt": "Sett ta' Data tal-Hub tal-ArcGIS",
+        "hu": "ArcGIS Hub adatkészlet",
+        "uk": "Набір даних ArcGIS Hub",
+        "hr": "Skup podataka ArcGIS Hub",
+        "lv": "ArcGIS centra datu kopa",
+        "ga": "ArcGIS Hub Dataset",
+        "lt": "ArcGIS Hub duomenų rinkinys",
+        "pt": "Conjunto de dados da plataforma ArcGIS",
+        "fi": "ArcGIS Hub -datajoukko",
+        "et": "ArcGIS keskuse andmekogum",
+        "bg": "Набор от данни за ArcGIS Hub",
+        "nl": "ArcGIS Hub-gegevensset",
+        "sv": "Dataset för ArcGIS Hub",
+        "ro": "Setul de date ArcGIS Hub",
+        "de": "ArcGIS-Hub-Datensatz",
+        "fr": "Ensemble de données ArcGIS Hub"
+      },
+      "modified": "2025-12-09T16:20:31",
+      "media_type": "text/html",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/datasets/f6d6332820ca466999dbd852f6ad4d5a_0"
+      ],
+      "issued": "2025-12-09T16:20:31",
+      "format": {
+        "id": "HTML",
+        "label": "HTML"
+      }
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "publisher": {
+    "type": "Agent",
+    "name": "Tailte Éireann",
+    "resource": "https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97"
+  },
+  "modified": "2026-05-31T18:42:00",
+  "id": "cd5b3630-823e-4fe2-b05d-03d611db6bb1",
+  "categories": [
+    {
+      "id": "HEAL",
+      "label": {
+        "lv": "Veselība",
+        "hu": "Egészségügy",
+        "ga": "Sláinte",
+        "no": "Helse",
+        "mt": "Saħħa",
+        "et": "Tervis",
+        "fi": "Terveys",
+        "pt": "Saúde",
+        "es": "Salud",
+        "lt": "Sveikata",
+        "da": "Sundhed",
+        "el": "Υγεία",
+        "ro": "Sănătate",
+        "cs": "Zdraví",
+        "sv": "Hälsa",
+        "nl": "Gezondheid",
+        "de": "Gesundheit",
+        "nb": "Helse",
+        "sl": "Zdravje",
+        "hr": "Zdravlje",
+        "en": "Health",
+        "nn": "Helse",
+        "it": "Salute",
+        "pl": "Zdrowie",
+        "sk": "Zdravotníctvo",
+        "bg": "Здраве",
+        "fr": "Santé"
+      },
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+    }
+  ],
+  "issued": "2020-06-16",
+  "catalog_record": {
+    "issued": "2026-04-06T20:36:59Z",
+    "modified": "2026-05-31T20:25:05Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "name": "airo_oscontent"
+    },
+    {
+      "type": "Organization",
+      "telephone": "-"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+origin,strategy,n_records,client_triples_in_total,preserved_total,lost_total,mean_preservation_rate,min_preservation_rate,max_preservation_rate
+real,augment,50,720,620,100,0.8611,0.8182,0.9048
+real,regenerate_from_scratch,50,720,50,670,0.0694,0.0476,0.0909
+synthetic,augment,7,79,68,11,0.8608,0.8333,1.0000
+synthetic,regenerate_from_scratch,7,79,6,73,0.0759,0.0588,1.0000

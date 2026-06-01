@@ -1,0 +1,603 @@
+{
+  "identifier": [
+    "9e37ca90-df84-431c-be76-59f6e52963e3"
+  ],
+  "country": {
+    "label": "Ireland",
+    "id": "ie",
+    "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+  },
+  "keywords": [
+    {
+      "id": "hpsc",
+      "label": "HPSC",
+      "language": "ga"
+    },
+    {
+      "id": "dgihealth",
+      "label": "dgihealth",
+      "language": "ga"
+    },
+    {
+      "id": "covid",
+      "label": "Covid",
+      "language": "ga"
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "language": "ga"
+    },
+    {
+      "id": "covid-19",
+      "label": "Covid-19",
+      "language": "ga"
+    },
+    {
+      "id": "ireland",
+      "label": "Ireland",
+      "language": "ga"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/9e37ca90-df84-431c-be76-59f6e52963e3",
+  "catalog": {
+    "id": "data-gov-ie",
+    "modified": "2023-02-10T20:35:45.162705",
+    "source_type": "dcat-ap",
+    "issued": "2022-06-24T12:25:17Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform",
+      "email": "mailto:opendata@per.gov.ie",
+      "name": "Government Reform Unit, Dept of Public Expenditure & Reform"
+    },
+    "title": {
+      "ga": "Data.gov.ie"
+    },
+    "description": {
+      "ga": "Open Data Portal Ireland"
+    },
+    "homepage": "https://data.gov.ie",
+    "language": [
+      {
+        "id": "ga",
+        "label": "Irish",
+        "resource": "http://publications.europa.eu/resource/authority/language/GLE"
+      }
+    ],
+    "country": {
+      "label": "Ireland",
+      "id": "ie",
+      "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ireland",
+        "id": "ie",
+        "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+      }
+    ],
+    "spatial": [],
+    "count": 30287
+  },
+  "translation_meta": {
+    "details": {
+      "lv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "ga": {
+        "machine_translated": false,
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:34:04Z",
+        "issued": "2026-04-06T20:37:23Z"
+      }
+    },
+    "full_available_languages": [
+      "lv",
+      "es",
+      "lt",
+      "pl",
+      "mt",
+      "el",
+      "it",
+      "cs",
+      "de",
+      "sk",
+      "en",
+      "bg",
+      "nl",
+      "et",
+      "pt",
+      "sl",
+      "ro",
+      "fi",
+      "uk",
+      "fr",
+      "ga",
+      "sv",
+      "hr",
+      "da",
+      "hu"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "lt": "<p>Dataset, kuriame 8 val. per parą pateikiami su COVID-19 susiję Airijos ūmaus gydymo ligoninių rodikliai. Pateikiami duomenys apie patvirtintus COVID-19 atvejus ligoninėse ir naujų priėmimo ir išleidimo atvejų skaičių per pastarąsias 24 valandas. Duomenys pagrįsti 29 viešųjų ūmaus poveikio ligoninių (suaugusiųjų ir vaikų) suvestiniais duomenimis. Sveikatos priežiūros tarnybos vadovo (HSE) pateikti duomenys. </p><p>Laiko eilučių duomenų rinkinys nuo 2020 m. kovo mėn. iki 2025 m. lapkričio mėn. </p><p>** 2021 m. gegužės 14 d., penktadienį, Sveikatos priežiūros tarnybos vykdomosios įstaigos (HSE) IT sistemos patyrė didelį kibernetinį išpuolį. Nuo 2021 m. gegužės 14 d. iki 2021 m. liepos 29 d. šioje tarnyboje buvo atnaujinti tik laukai „Patvirtintų COVID-19 atvejų, patvirtintų vietoje, skaičius“ (SUM_number_of_patvirtino_covid_19_ca) ir „Naujų COVID-19 atvejų, patvirtintų per pastarąsias 24 val., skaičius“ (SUM_number_of_new_covid_19_cases_co) ir nebuvo kitų laukų duomenų. ** </p><p><u>Pranešimas:</u></p><p>Jei atsisiunčiate šį duomenų rinkinį kaip CSV, atlikite šiuos veiksmus, kad surūšiuotumėte duomenų rinkinį pagal datą. </p><p>1. Spustelėkite mygtuką „Atsisiųsti“. </p><p>2. Atsisiuntimo srityje, kuri atsidaro kairėje, spustelėkite mygtuką \"Atsisiųsti\" po CSV. Tai turėtų būti pirmasis variantas. </p><p>3. Atidarykite failą. </p><p>4. Pažymėkite stulpelį D spustelėdami \"D\". </p><p>5. Juostelėje grupėje Redagavimas spustelėkite \"Rūšiuoti &amp; Filtras\". </p><p>6. Pasirodžiusiame išskleidžiamajame meniu pasirinkite pirmąją parinktį, kurią norite rūšiuoti nuo seniausių iki naujausių. </p><p>7. Pasirodžiusiame iškylančiajame lange įsitikinkite, kad pasirinkta parinktis \"Išplėsti pasirinkimą\". </p><p>8. Spustelėkite \"Rūšiuoti\", duomenų rinkinys bus surūšiuotas pagal datą.</p>",
+    "fi": "<p>Tiedot, jotka sisältävät covid-19-pandemiaan liittyviä indikaattoreita Irlannin akuuttien sairaaloiden osalta päivittäin klo 8.00. Tiedot toimitetaan vahvistetuista covid-19-tapauksista sairaalassa ja uusien sisäänottojen ja kotiutusten määrästä viimeisten 24 tunnin aikana. Tiedot perustuvat 29 julkisen akuutin sairaalan (aikuisten ja lasten) aggregaattiin. Health Service Executiven (HSE) toimittamat tiedot. </p><p>Aikasarja-aineisto maaliskuusta 2020 marraskuuhun 2025. </p><p>** Health Service Executiven (HSE) IT-järjestelmiin kohdistui suuri kyberhyökkäys perjantaina 14. toukokuuta 2021. 14. toukokuuta 2021 ja 29. heinäkuuta 2021 välisenä aikana päivitettiin vain tämän palvelun kentät \"Vahvistettujen COVID-19-tapausten lukumäärä Myönnetty paikan päällä\" (SUM_number_of_confirmed_covid_19_ca) ja \"Uusien viimeisten 24 tunnin aikana vahvistettujen COVID-19-tapausten lukumäärä\" (SUM_number_of_new_covid_19_cases_co) ilman muita kenttiä koskevia tietoja. ** </p><p><u>Huomautus:</u></p><p>Jos lataat tämän tietoaineiston CSV-tiedostona, lajittele tietoaineisto päivämäärän mukaan noudattamalla näitä ohjeita. </p><p>1. Napsauta \"Lataa\" -painiketta. </p><p>2. Napsauta vasemmalla avautuvassa latausruudussa \"Lataa\"-painiketta CSV-tiedoston alla. Tämän pitäisi olla ensimmäinen vaihtoehto. </p><p>3. Avaa tiedosto. </p><p>4. Korosta sarake D napsauttamalla 'D'. </p><p>5. Napsauta valintanauhan Muokkaaminen-ryhmässä Lajittele ja vahvista; Suodatin. </p><p>6. Valitse avattavasta valikosta ensimmäinen vaihtoehto lajitella vanhimmasta uusimpaan. </p><p>7. Varmista näkyviin tulevassa ponnahdusikkunassa, että \"Laajenna valinta\" on valittuna. </p><p>8. Klikkaa \"Lajittele\", aineisto lajitellaan nyt päivämäärän mukaan.</p>",
+    "it": "<p>Dataset contenente indicatori relativi alla COVID-19 per gli ospedali acuti in Irlanda, alle 8 del mattino ogni giorno. I dati sono forniti per i casi confermati di COVID-19 in ospedale e il numero di nuovi ricoveri e dimissioni nelle ultime 24 ore. I dati si basano su un aggregato di 29 ospedali pubblici acuti (adulti e pediatrici). Dati forniti dall'Health Service Executive (HSE). </p><p>Serie di dati temporali da marzo 2020 a novembre 2025. </p><p>** I sistemi informatici dell'Health Service Executive (HSE) hanno subito un grave attacco informatico venerdì 14 maggio 2021. Tra il 14 maggio 2021 e il 29 luglio 2021 sono stati aggiornati solo i campi \"Numero di casi di COVID-19 confermati ammessi in loco\" (SUM _number _of _confirmed _covid _19 _ca) e \"Numero di nuovi casi di COVID-19 confermati nelle ultime 24 ore\" (SUM _number _of _new _covid _19 _cases _co) in questo servizio senza dati disponibili per gli altri campi. ** </p><p><u>Avviso:</u></p><p>Se stai scaricando questo set di dati come CSV, segui questi passaggi per ordinare il set di dati in base alla data. </p><p>1. Fai clic sul pulsante \"Scarica\". </p><p>2. Nel riquadro di download che si apre a sinistra, fai clic sul pulsante \"Scarica\" in CSV. Questa dovrebbe essere la prima opzione. </p><p>3. Apri il file. </p><p>4. Evidenzia la colonna D facendo clic su \"D\". </p><p>5. Nella barra multifunzione, nel gruppo Modifica fare clic su 'Ordina &amp; Filtro. </p><p>6. Dal menu a discesa che appare selezionare la prima opzione per ordinare dal più vecchio al più recente. </p><p>7. Nella finestra pop-up che appare assicurarsi che \"Espandi la selezione\" sia selezionato. </p><p>8. Fare clic su 'Ordina', il set di dati verrà ora ordinato per data.</p>",
+    "pl": "<p>Zestaw danych zawierający wskaźniki związane z COVID-19 dla ostrych szpitali w Irlandii, na dzień o 8 rano. Przedstawiono dane dotyczące potwierdzonych przypadków COVID-19 w szpitalu oraz liczby nowych przyjęć i wypisów w ciągu ostatnich 24 godzin. Dane oparte są na zbiorczym zestawie 29 publicznych ostrych szpitali (dorosłych i pediatrycznych). Dane dostarczone przez Health Service Executive (HSE). </p><p>Zbiór danych szeregów czasowych od marca 2020 r. do listopada 2025 r. </p><p>** Systemy informatyczne Health Service Executive (HSE) doznały poważnego cyberataku w piątek 14 maja 2021 r. W okresie od 14 maja 2021 r. do 29 lipca 2021 r. zaktualizowano jedynie pola „Liczba potwierdzonych przypadków COVID-19 zgłoszonych na miejscu” (SUM_number_of_confirmed_covid_19_ca) i „Liczba nowych przypadków COVID-19 potwierdzonych w ciągu ostatnich 24 godzin” (SUM_number_of_new_covid_19_cases_co) w ramach tej usługi bez danych dostępnych dla pozostałych pól. ** </p><p><u>Uwaga:</u></p><p>Jeśli pobierasz ten zbiór danych jako plik CSV, wykonaj następujące kroki, aby posortować zbiór danych według daty. </p><p>1. Kliknij przycisk \"Pobierz\". </p><p>2. W okienku pobierania, które otwiera się po lewej stronie, kliknij przycisk \"Pobierz\" pod CSV. To powinna być pierwsza opcja. </p><p>3. Otwórz plik. </p><p>4. Zaznacz kolumnę D, klikając \"D\". </p><p>5. Na wstążce w grupie Edycja kliknij \"Sortuj &amp; Filtruj”. </p><p>6. Z menu rozwijanego, które się pojawi, wybierz pierwszą opcję sortowania od najstarszego do najnowszego. </p><p>7. W wyświetlonym oknie podręcznym upewnij się, że zaznaczono opcję \"Rozwiń zaznaczenie\". </p><p>8. Kliknij \"Sortuj\", zestaw danych zostanie teraz posortowany według daty.</p>",
+    "hr": "<p>Podaci koji sadržavaju pokazatelje povezane s bolešću COVID-19 za akutne bolnice u Irskoj, od 8 sati dnevno. Podaci se dostavljaju za potvrđene slučajeve bolesti COVID-19 u bolnici i broj novih prijema i otpuštanja u posljednja 24 sata. Podaci se temelje na ukupno 29 javnih akutnih bolnica (odraslih i pedijatrijskih). Podaci koje je dostavila izvršna vlast Zdravstvene službe (HSE). </p><p>Skup podataka vremenske serije od ožujka 2020. do studenoga 2025. </p><p>** IT sustavi Ureda za zdravstvenu skrb (HSE) pretrpjeli su velik kibernapad u petak, 14. svibnja 2021. U razdoblju od 14. svibnja 2021. do 29. srpnja 2021. ažurirana su samo polja „Broj potvrđenih slučajeva bolesti COVID-19 dopuštenih na licu mjesta” (SUM_number_of_confirmed_covid_19_ca) i „Broj novih slučajeva bolesti COVID-19 potvrđenih u posljednja 24 sata” (SUM_number_of_new_covid_19_cases_co) u ovoj usluzi bez dostupnih podataka za druga polja. ** </p><p><u>Obavijest:</u></p><p>Ako preuzimate ovaj skup podataka kao CSV, slijedite ove korake za razvrstavanje skupa podataka prema datumu. </p><p>1. Kliknite gumb \"Preuzmi\". </p><p>2. U oknu za preuzimanje koji se otvara s lijeve strane kliknite gumb \"Preuzmi\" u odjeljku CSV. To bi trebala biti prva opcija. </p><p>3. Otvorite datoteku. </p><p>4. Istaknite stupac D klikom na „D”. </p><p>5. U vrpci u grupi Uređivanje kliknite na 'Sort &amp; Filtriraj. </p><p>6. Iz padajućeg izbornika koji se pojavljuje odaberite prvu opciju za sortiranje od najstarijeg do najnovijeg. </p><p>7. U skočnom prozoru koji se pojavljuje provjerite je li odabrano \"Proširi odabir\". </p><p>8. Kliknite na 'Sort', skup podataka sada će biti razvrstan prema datumu.</p>",
+    "nl": "<p>Dataset met COVID-19-gerelateerde indicatoren voor acute ziekenhuizen in Ierland, om 8 uur per dag. Er worden gegevens verstrekt over bevestigde COVID-19-gevallen in het ziekenhuis en het aantal nieuwe opnames en ontslagen in de afgelopen 24 uur. De gegevens zijn gebaseerd op een totaal van 29 openbare acute ziekenhuizen (volwassen en pediatrisch). Gegevens verstrekt door de Health Service Executive (HSE). </p><p>Tijdreeksgegevensset van maart 2020 tot november 2025. </p><p>** De IT-systemen van de Health Service Executive (HSE) werden op vrijdag 14 mei 2021 getroffen door een grote cyberaanval. Tussen 14 mei 2021 en 29 juli 2021 zijn alleen de velden “Aantal bevestigde COVID-19-gevallen die ter plaatse zijn toegelaten” (SUM_number_of_bevestigde _covid_19_ca) en “Aantal nieuwe COVID-19-gevallen die in de afgelopen 24 uur zijn bevestigd” (SUM_number_of_new_covid_19_cases_co) in deze dienst bijgewerkt zonder dat er gegevens beschikbaar waren voor de andere velden. **</p><p><u>Notice:</u></p><p>Als u deze dataset als CSV downloadt, volg dan deze stappen om de dataset op datum te sorteren. </p><p>1. Klik op de knop 'Downloaden'. </p><p>2. Klik in het downloadvenster dat aan de linkerkant wordt geopend op de knop 'Downloaden' onder CSV. Dit zou de eerste optie moeten zijn. </p><p>3. Open het bestand. </p><p>4. Markeer kolom D door op 'D' te klikken. </p><p>5. Klik op het lint in de groep Bewerken op 'Sorteren &amp; Filteren'. </p><p>6. Selecteer in het vervolgkeuzemenu dat verschijnt de eerste optie om te sorteren van oudste naar nieuwste. </p><p>7. Zorg er in het pop-upvenster dat verschijnt voor dat 'De selectie uitbreiden' is geselecteerd. </p><p>8. Klik op 'Sorteren', de dataset wordt nu gesorteerd op datum.</p>",
+    "ro": "<p>Set de date care conține indicatori referitori la COVID-19 pentru spitalele acute din Irlanda, la ora 8 dimineața pe zi. Datele sunt furnizate pentru cazurile confirmate de COVID-19 în spital și pentru numărul de noi internări și evacuări în ultimele 24 de ore. Datele se bazează pe un total de 29 de spitale publice acute (adulți și copii). Datele sunt furnizate de Health Service Executive (HSE). </p><p>Set de date privind seriile temporale din martie 2020 până în noiembrie 2025. </p><p>** Sistemele informatice ale Health Service Executive (HSE) au suferit un atac cibernetic major vineri, 14 mai 2021. În perioada 14 mai 2021-29 iulie 2021, numai câmpurile „Numărul de cazuri confirmate de COVID-19 admise la fața locului” (SUM_number_of_confirmed_covid_19_ca) și „Numărul de cazuri noi de COVID-19 confirmate în ultimele 24 de ore” (SUM_number_of_new_covid_19_cases_co) din acest serviciu au fost actualizate fără a fi disponibile date pentru celelalte câmpuri. ** </p><p><u>Notificare:</u></p><p>Dacă descărcați acest set de date ca CSV, urmați acești pași pentru a sorta setul de date după dată. </p><p>1. Faceți clic pe butonul \"Descărcați\". </p><p>2. În panoul de descărcare care se deschide în partea stângă, faceți clic pe butonul \"Descărcare\" de sub CSV. Aceasta ar trebui să fie prima opțiune. </p><p>3. Deschide fișierul. </p><p>4. Evidențiați coloana D făcând clic pe „D”. </p><p>5. În panglică, în grupul Editare faceți clic pe \"Sortare și amplificare; Filtrează. </p><p>6. Din meniul vertical care apare selectați prima opțiune pentru a sorta de la cea mai veche la cea mai nouă. </p><p>7. În fereastra pop-up care apare, asigurați-vă că este selectată opțiunea \"Extindeți selecția\". </p><p>8. Faceți clic pe \"Sortare\", setul de date va fi acum sortat după dată.</p>",
+    "ga": "<p>Sataset ina bhfuil táscairí a bhaineann le COVID-19 d’Ospidéil Ghéarmhíochaine in Éirinn, amhail ag 8am go laethúil. Cuirtear sonraí ar fáil maidir le cásanna deimhnithe COVID-19 san ospidéal agus líon na n-iontrálacha agus na scaoiltí amach nua le 24 uair an chloig anuas. Tá sonraí bunaithe ar chomhiomlán de 29 nOspidéal Géarmhíochaine poiblí (daoine fásta agus péidiatraiceacha). Sonraí arna soláthar ag Feidhmeannacht na Seirbhíse Sláinte (FSS). </p><p>Tacar sonraí na sraithe ama ó mhí an Mhárta 2020 go mí na Samhna 2025. </p><p>** D’fhulaing córais TF Fheidhmeannacht na Seirbhíse Sláinte (FSS) cibirionsaí mór Dé hAoine an 14 Bealtaine 2021. Idir an 14 Bealtaine 2021 agus an 29 Iúil 2021, níor nuashonraíodh sa tseirbhís seo ach na réimsí 'An líon cásanna deimhnithe COVID-19 a ligeadh isteach ar an láthair' (SUM_number_of_confirmed_covid_19_ca) agus 'An líon cásanna nua COVID-19 a deimhníodh le 24 uair an chloig anuas' (SUM_number_of_new_covid_19_cases_co) agus ní raibh aon sonraí ar fáil do na réimsí eile. ** </p><p><u>Fógra:</u></p><p>Má tá an tacar sonraí seo á íoslódáil agat mar CSV, lean na céimeanna seo chun an tacar sonraí a shórtáil de réir dáta. </p><p>1. Cliceáil ar an gcnaipe 'Íoslódáil'. </p><p>2. Sa phána íoslódála a osclaítear ar chlé, cliceáil ar an gcnaipe 'Íoslódáil' faoi CSV. Ba chóir gurb é seo an chéad rogha. </p><p>3. Oscail an comhad. </p><p>4. Aibhsigh colún D trí chliceáil ar 'D'. </p><p>5. Sa ribín, sa ghrúpa Eagarthóireacht cliceáil 'Sórtáil &amp; Scagaire'. </p><p>6. Ón roghchlár anuas atá le feiceáil roghnaigh an chéad rogha le sórtáil ón gceann is sine go dtí an ceann is nuaí. </p><p>7. Sa fhuinneog aníos is cosúil a dhéanamh cinnte go bhfuil 'Expand an roghnú' roghnaithe. </p><p>8. Cliceáil 'Sórtáil', sórtálfar an tacar sonraí de réir dáta anois.</p>",
+    "el": "<p>Στοιχεία που περιέχουν δείκτες σχετικούς με τη νόσο COVID-19 για τα νοσοκομεία οξείας νοσηλείας στην Ιρλανδία, στις 8 π.μ. ημερησίως. Παρέχονται στοιχεία για τα επιβεβαιωμένα κρούσματα COVID-19 στο νοσοκομείο και τον αριθμό των νέων εισαγωγών και εξιτηρίων κατά τις τελευταίες 24 ώρες. Τα δεδομένα βασίζονται σε ένα σύνολο 29 δημόσιων Οξείων Νοσοκομείων (ενηλίκων και παιδιατρικών). Στοιχεία που παρέχονται από την Υπηρεσία Υγείας (HSE). Σύνολο δεδομένων χρονοσειρών από τον Μάρτιο του 2020 έως τον Νοέμβριο του 2025. </p><p>** Τα συστήματα ΤΠ της Υγειονομικής Υπηρεσίας (HSE) υπέστησαν σημαντική κυβερνοεπίθεση την Παρασκευή 14 Μαΐου 2021. Μεταξύ 14ης Μαΐου 2021 και 29ης Ιουλίου 2021 μόνο τα πεδία «Αριθμός επιβεβαιωμένων κρουσμάτων COVID-19 που έγιναν δεκτά επιτόπου» (SUM_number_of_confirmed_covid_19_ca) και «Αριθμός νέων κρουσμάτων COVID-19 που επιβεβαιώθηκαν τις τελευταίες 24 ώρες» (SUM_number_of_new_covid_19_cases_co) στην υπηρεσία αυτή επικαιροποιήθηκαν χωρίς διαθέσιμα δεδομένα για τα άλλα πεδία. ** </p><p><u>Notice:</u></p><p>Εάν μεταφορτώνετε αυτό το σύνολο δεδομένων ως CSV, ακολουθήστε αυτά τα βήματα για να ταξινομήσετε το σύνολο δεδομένων κατά ημερομηνία. </p><p>1. Κάντε κλικ στο κουμπί «Λήψη». </p><p>2. Στο παράθυρο λήψης που ανοίγει στα αριστερά, κάντε κλικ στο κουμπί «Λήψη» κάτω από το CSV. Αυτή θα πρέπει να είναι η πρώτη επιλογή. </p><p>3. Ανοίξτε το αρχείο. </p><p>4. Επισημάνετε τη στήλη D κάνοντας κλικ στο «D». </p><p>5. Στην κορδέλα, στην ομάδα Επεξεργασία, κάντε κλικ στην επιλογή 'Ταξινόμηση &amp; Φίλτρο». </p><p>6. Από το αναπτυσσόμενο μενού που εμφανίζεται, επιλέξτε την πρώτη επιλογή για ταξινόμηση από παλαιότερη σε νεότερη. </p><p>7. Στο αναδυόμενο παράθυρο που εμφανίζεται βεβαιωθείτε ότι έχει επιλεγεί η επιλογή «Επέκταση της επιλογής». </p><p>8. Κάντε κλικ στο «Ταξινόμηση», το σύνολο δεδομένων θα ταξινομηθεί τώρα κατά ημερομηνία.</p>",
+    "es": "Conjunto de datos que contiene indicadores relacionados con la COVID-19 para hospitales agudos en Irlanda, a las 8 de la mañana todos los días. Se proporcionan datos sobre los casos confirmados de COVID-19 en el hospital y el número de nuevos ingresos y egresos en las últimas 24 horas. Los datos se basan en un total de 29 hospitales públicos agudos (adultos y pediátricos). Datos proporcionados por el Ejecutivo del Servicio de Salud (HSE). </p><p>Conjunto de datos de series temporales de marzo de 2020 a noviembre de 2025. </p><p>** Los sistemas informáticos del Health Service Executive (HSE) sufrieron un importante ciberataque el viernes 14 de mayo de 2021. Entre el 14 de mayo de 2021 y el 29 de julio de 2021, solo se actualizaron los campos «Número de casos confirmados de COVID-19 admitidos in situ» (SUM_number_of_confirmed_covid_19_ca) y «Número de nuevos casos de COVID-19 confirmados en las últimas 24 horas» (SUM_number_of_new_covid_19_cases_co) de este servicio, sin datos disponibles para los demás campos. ** </p><p><u>Aviso:</u></p><p>Si está descargando este conjunto de datos como un CSV, siga estos pasos para ordenar el conjunto de datos por fecha. </p><p>1. Haga clic en el botón 'Descargar'. </p><p>2. En el panel de descarga que se abre a la izquierda, haga clic en el botón 'Descargar' debajo de CSV. Esta debería ser la primera opción. </p><p>3. Abre el archivo. </p><p>4. Resalte la columna D haciendo clic en 'D'. </p><p>5. En la cinta, en el grupo Edición, haga clic en 'Ordenar &amp; Filtro». </p><p>6. En el menú desplegable que aparece, seleccione la primera opción para ordenar de la más antigua a la más nueva. </p><p>7. En la ventana emergente que aparece, asegúrese de seleccionar \"Ampliar la selección\". </p><p>8. Haga clic en 'Ordenar', el conjunto de datos ahora se ordenará por fecha.</p>",
+    "et": "<p>Andmed, mis sisaldavad COVID-19ga seotud näitajaid Iirimaa ägedate haiglate kohta, iga päev kell 8.00. Esitatakse andmed kinnitatud COVID-19 juhtumite kohta haiglas ning uute vastuvõttude ja haiglast väljakirjutamiste arvu kohta viimase 24 tunni jooksul. Andmed põhinevad 29 avaliku ägeda ravi haigla (täiskasvanute ja laste) koondandmetel. Tervishoiuameti (HSE) esitatud andmed. </p><p>Ajarea andmekogum 2020. aasta märtsist 2025. aasta novembrini. </p><p>** Tervishoiuameti (HSE) IT-süsteeme tabas reedel, 14. mail 2021 suur küberrünne. Ajavahemikul 14. maist 2021 kuni 29. juulini 2021 ajakohastati selles teenuses ainult välju „Kohapeal kinnitatud COVID-19 juhtumite arv“ (SUM_number _of_confirmed_covid_19_ca) ja „Viimase 24 tunni jooksul kinnitatud uute COVID-19 juhtumite arv“ (SUM_number _of_new_covid_19_cases_co) ning muude väljade kohta andmed puudusid. ** </p><p><u>Teade:</u></p><p>Kui laadite selle andmestiku alla CSV-vormingus, järgige neid samme, et sortida andmestik kuupäeva järgi. </p><p>1. Klõpsake nuppu \"Laadi alla\". </p><p>2. Vasakul avaneval allalaadimispaanil klõpsake CSV all nuppu \"Laadi alla\". See peaks olema esimene võimalus. </p><p>3. Avage fail. </p><p>4. Esiletõstke veerg D, klõpsates \"D\". </p><p>5. Klõpsake lindil jaotises Redigeerimine nuppu Sorteeri &amp;. Filtreeri\". </p><p>6. Kuvatavast rippmenüüst valige esimene valik sortimiseks vanimast uusimani. </p><p>7. Avanevas hüpikaknas veenduge, et oleks valitud valik Laienda valikut. </p><p>8. Klõpsake nuppu \"Sorteeri\", andmestik sorteeritakse nüüd kuupäeva järgi.</p>",
+    "sk": "<p>Súbor údajov obsahujúci ukazovatele týkajúce sa ochorenia COVID-19 pre akútne nemocnice v Írsku k 8.00 hod. denne. Uvádzajú sa údaje o potvrdených prípadoch ochorenia COVID-19 v nemocniciach a o počte nových prijatí a prepustení za posledných 24 hodín. Údaje sú založené na súhrne 29 verejných akútnych nemocníc (dospelých a pediatrických). Údaje poskytuje Výkonný orgán pre zdravotnú starostlivosť (HSE). </p><p>Súbor údajov časových radov od marca 2020 do novembra 2025. </p><p>** Informačné systémy Výkonného orgánu pre zdravotnú starostlivosť (HSE) utrpeli v piatok 14. mája 2021 veľký kybernetický útok. Od 14. mája 2021 do 29. júla 2021 boli v tejto službe aktualizované len polia „Počet potvrdených prípadov ochorenia COVID-19 prijatých na mieste“ (SUM_number_of_confirmed_covid_19_ca) a „Počet nových prípadov ochorenia COVID-19 potvrdených za posledných 24 hodín“ (SUM_number_of_new_covid_19_cases_co), pričom pre ostatné polia neboli k dispozícii žiadne údaje. ** </p><p><u>Oznámenie:</u></p><p>Ak sťahujete tento súbor údajov ako CSV, postupujte podľa týchto krokov na zoradenie súboru údajov podľa dátumu. </p><p>1. Kliknite na tlačidlo \"Prevziať\". </p><p>2. Na table sťahovania, ktorá sa otvorí vľavo, kliknite na tlačidlo \"Stiahnuť\" pod CSV. To by mala byť prvá možnosť. </p><p>3. Otvorte súbor. </p><p>4. Zvýraznite stĺpec D kliknutím na položku D. </p><p>5. Na páse s nástrojmi kliknite v skupine Úpravy na položku Zoradiť &amp; Filtrovať. </p><p>6. Z rozbaľovacej ponuky, ktorá sa zobrazí, vyberte prvú možnosť zoradenia od najstaršieho po najnovší. </p><p>7. V zobrazenom vyskakovacom okne skontrolujte, či je vybratá možnosť Rozbaliť výber. </p><p>8. Kliknite na 'Sort', súbor údajov bude zoradený podľa dátumu.</p>",
+    "mt": "<p>Sett ta’ data li fih indikaturi relatati mal-COVID-19 għall-Isptarijiet Akuti fl-Irlanda, fit-8 ta’ filgħodu kuljum. Id-data hija pprovduta għal każijiet ikkonfermati ta’ COVID-19 fl-isptar u l-għadd ta’ ammissjonijiet u rilaxxi ġodda fl-aħħar 24 siegħa. Id-data hija bbażata fuq total ta’ 29 Sptar Akut pubbliku (adulti u pedjatriċi). Data pprovduta mill-Eżekuttiv tas-Servizz tas-Saħħa (HSE). </p><p>Sett ta’ data tas-serje ta’ żmien minn Marzu 2020 sa Novembru 2025. </p><p>** Is-sistemi tal-IT tal-Eżekuttiv tas-Servizz tas-Saħħa (HSE) sofrew attakk ċibernetiku kbir nhar il-Ġimgħa 14 ta’ Mejju 2021. Bejn l-14 ta' Mejju 2021 u d-29 ta' Lulju 2021 ġew aġġornati biss l-oqsma \"Għadd ta' każijiet ikkonfermati tal-COVID-19 Ammessi fuq il-post\" (SUM_number_of _confirmed_covid_19_ca) u \"Għadd ta' każijiet ġodda tal-COVID-19 ikkonfermati fl-aħħar 24 siegħa\" (SUM_number_of_new_covid_19_cases_co) f'dan is-servizz bl-ebda data disponibbli għall-oqsma l-oħra. ** </p><p><u>Avviż:</u></p><p>Jekk qed tniżżel dan is-sett tad-data bħala CSV jekk jogħġbok segwi dawn il-passi biex tirranġa s-sett tad-data skont id-data. </p><p>1. Ikklikkja l-buttuna 'Niżżel'. </p><p>2. Fil-pane tat-tniżżil li jiftaħ fuq ix-xellug, ikklikkja l-buttuna \"Niżżel\" taħt CSV. Din għandha tkun l-ewwel għażla. </p><p>3. Iftaħ il-fajl. </p><p>4. Agħfas il-kolonna D billi tikklikkja \"D\". </p><p>5. Fiż-żigarella, fil-grupp tal-Editjar ikklikkja \"Sort &amp; Filtru'. </p><p>6. Mill-menu drop-down li jidher agħżel l-ewwel għażla biex tissortja mill-eqdem għall-aktar ġdid. </p><p>7. Fit-tieqa pop-up li tidher kun żgur li tintgħażel \"Espandi l-għażla\". </p><p>8. Ikklikkja \"Agħżel\", is-sett tad-data issa se jiġi ssortjat skont id-data.</p>",
+    "de": "<p>Datensatz mit COVID-19-bezogenen Indikatoren für akute Krankenhäuser in Irland, täglich um 8 Uhr. Daten werden für bestätigte COVID-19-Fälle im Krankenhaus und die Anzahl der Neuaufnahmen und Entlassungen in den letzten 24 Stunden bereitgestellt. Die Daten basieren auf einer Aggregation von 29 öffentlichen Akute Krankenhäuser (erwachsene und pädiatrische). Daten, die vom Health Service Executive (HSE) zur Verfügung gestellt werden. </p><p>Zeitreihendatensatz von März 2020 bis November 2025. </p><p>** Die IT-Systeme des Health Service Executive (HSE) erlitten am Freitag, den 14. Mai 2021 einen schweren Cyberangriff. Zwischen dem 14. Mai 2021 und dem 29. Juli 2021 wurden nur die Felder „Anzahl der bestätigten COVID-19-Fälle vor Ort zugelassen“ (SUM_number_of_confirmed_covid_19_ca) und „Anzahl der in den letzten 24 Stunden bestätigten neuen COVID-19-Fälle“ (SUM_number_of_new_covid_19_cases_co) in diesem Dienst aktualisiert, ohne dass Daten für die anderen Felder verfügbar waren. ** </p><p><u>Hinweis:</u></p><p>Wenn Sie diesen Datensatz als CSV herunterladen, folgen Sie bitte diesen Schritten, um den Datensatz nach Datum zu sortieren. </p><p>1. Klicken Sie auf die Schaltfläche \"Download\". </p><p>2. Klicken Sie im Downloadbereich, der sich auf der linken Seite öffnet, unter CSV auf die Schaltfläche \"Herunterladen\". Dies sollte die erste Option sein. </p><p>3. Öffnen Sie die Datei. </p><p>4. Markieren Sie Spalte D, indem Sie auf 'D' klicken. </p><p>5. Klicken Sie im Menüband in der Gruppe Bearbeiten auf 'Sortieren &amp; Filtern“. </p><p>6. Wählen Sie aus dem Dropdown-Menü, das angezeigt wird, die erste Option aus, um von der ältesten nach der neuesten zu sortieren. </p><p>7. Stellen Sie im angezeigten Popup-Fenster sicher, dass \"Auswahl erweitern\" ausgewählt ist. </p><p>8. Klicken Sie auf 'Sortieren', der Datensatz wird nun nach Datum sortiert.</p>",
+    "lv": "<p>Dataset, kas satur ar Covid-19 saistītus rādītājus par akūtām slimnīcām Īrijā, sākot no plkst. 8.00 dienā. Dati ir sniegti par apstiprinātiem Covid-19 gadījumiem slimnīcās un jaunu pacientu uzņemšanas un izrakstīšanas gadījumu skaitu pēdējās 24 stundās. Dati ir balstīti uz 29 publisko akūto slimnīcu (pieaugušo un pediatrisko) agregātu. Veselības aprūpes dienesta (HSE) sniegtie dati. </p><p>Laika sēriju datu kopa no 2020. gada marta līdz 2025. gada novembrim. </p><p>** Veselības aprūpes dienesta (HSE) IT sistēmas piektdien, 2021. gada 14. maijā, cieta no liela kiberuzbrukuma. No 2021. gada 14. maija līdz 2021. gada 29. jūlijam šajā dienestā tika atjaunināti tikai lauki “Uz vietas apstiprināto Covid-19 gadījumu skaits” (SUM_number_of_apstiprināja_covid_19_ca) un “Pēdējo 24 stundu laikā apstiprināto jauno Covid-19 gadījumu skaits” (SUM_number_of_new_covid_19_cases_co), bet par pārējiem laukiem dati nebija pieejami. ** </p><p><u>Paziņojums:</u></p><p>Ja lejupielādējat šo datu kopu kā CSV, lūdzu, kārtojiet to pēc datuma. </p><p>1. Noklikšķiniet uz pogas \"Lejupielādēt\". </p><p>2. Lejupielādes rūtī, kas atveras pa kreisi, zem CSV noklikšķiniet uz pogas \"Lejupielādēt\". Tam vajadzētu būt pirmajam risinājumam. </p><p>3. Atveriet failu. </p><p>4. Izcelt kolonnu D, noklikšķinot uz \"D\". </p><p>5. Lentē grupā Rediģēšana noklikšķiniet uz \"Kārtot &amp; Filtrēt\". </p><p>6. Parādītajā nolaižamajā izvēlnē atlasiet pirmo opciju, lai kārtotu no vecākā uz jaunāko. </p><p>7. Uznirstošajā logā, kas tiek parādīts, pārliecinieties, vai ir atlasīta opcija \"Izvērst atlasi\". </p><p>8. Noklikšķiniet uz \"Kārtot\", datu kopa tagad tiks sakārtota pēc datuma.</p>",
+    "sl": "<p>Nabor podatkov, ki vsebuje kazalnike, povezane s COVID-19, za akutne bolnišnice na Irskem ob 8.00 na dan. Predloženi so podatki o potrjenih primerih COVID-19 v bolnišnicah ter številu novih sprejemov in odpustov v zadnjih 24 urah. Podatki temeljijo na skupnem številu 29 javnih akutnih bolnišnic (odraslih in pediatričnih). Podatki, ki jih je zagotovil izvršilni organ zdravstvene službe (HSE). </p><p>Nabor podatkov časovne vrste od marca 2020 do novembra 2025. </p><p>** Informacijski sistemi izvršilnega organa zdravstvene službe (HSE) so bili v petek, 14. maja 2021, tarča velikega kibernetskega napada. Med 14. majem 2021 in 29. julijem 2021 sta bili v tej storitvi posodobljeni samo polji „Število potrjenih primerov COVID-19, odobrenih na kraju samem“ (SUM_number_of_confirmed_covid_19_ca) in „Število novih primerov COVID-19, potrjenih v zadnjih 24 urah“ (SUM_number_of_new_covid_19_cases_co), za druga polja pa podatki niso bili na voljo. ** </p><p><u>Obvestilo:</u></p><p>Če prenašate ta nabor podatkov kot CSV, sledite tem korakom, da razvrstite nabor podatkov po datumu. </p><p>1. Kliknite gumb „Prenesi“. </p><p>2. V podoknu za prenos, ki se odpre na levi, kliknite gumb „Prenesi“ pod CSV. To bi morala biti prva možnost. </p><p>3. Odprite datoteko. </p><p>4. Označite stolpec D s klikom na „D“. </p><p>5. Na traku v skupini Urejanje kliknite »Razvrščanje in ojačevanje; Filtriraj. </p><p>6. V spustnem meniju, ki se prikaže, izberite prvo možnost za razvrščanje od najstarejšega do najnovejšega. </p><p>7. V pojavnem oknu, ki se prikaže, se prepričajte, da je izbrana možnost „Razširi izbor“. </p><p>8. Kliknite »Razvrsti«, podatkovni niz bo zdaj razvrščen po datumu.</p>",
+    "en": "<p>Dataset containing COVID-19 related indicators for Acute Hospitals in Ireland, as at 8am daily. Data is provided for Confirmed COVID-19 cases in hospital and the number of new admissions and discharges in the past 24 hrs. Data is based on an aggregate of 29 public Acute Hospitals (adult and paediatric). Data provided by the Health Service Executive (HSE). </p><p>Time series dataset from March 2020 to November 2025. </p><p>** The Health Service Executive’s (HSE) IT systems suffered a major cyber-attack on Friday 14th May 2021. Between 14th May 2021 and 29th July 2021 only the fields 'Number of confirmed COVID-19 cases Admitted on site' (SUM_number_of_confirmed_covid_19_ca) and 'Number of new COVID-19 cases confirmed in the past 24 hrs' (SUM_number_of_new_covid_19_cases_co) in this service were updated with no data available for the other fields. ** </p><p><u>Notice:</u></p><p>If you are downloading this dataset as a CSV please follow these steps to sort the dataset by date. </p><p>1. Click the 'Download' button. </p><p>2. In the download pane that opens on the left, click the 'Download' button under CSV. This should be the first option. </p><p>3. Open the file. </p><p>4. Highlight column D by click 'D'. </p><p>5. In the ribbon, in the Editing group click 'Sort &amp; Filter'. </p><p>6. From the drop-down menu that appears select the first option to sort from oldest to newest. </p><p>7. In the pop-up window that appears make sure that 'Expand the selection' is selected. </p><p>8. Click 'Sort', the dataset will now be sorted by date.</p>",
+    "hu": "<p>Az írországi akut kórházak Covid19-cel kapcsolatos mutatóit tartalmazó adatkészlet, napi 8 órakor. Adatokat szolgáltatnak a kórházban megerősített Covid19-esetekről, valamint az elmúlt 24 órában történt új felvételek és elbocsátások számáról. Az adatok 29 nyilvános akut kórház (felnőtt és gyermekgyógyászati) összesített adatain alapulnak. Az Egészségügyi Szolgálat Végrehajtó Hivatala (HSE) által szolgáltatott adatok. </p><p>Idősoros adatkészlet 2020 márciusától 2025 novemberéig. </p><p>** 2021. május 14-én, pénteken jelentős kibertámadás érte az Egészségügyi Szolgálat Végrehajtó Hivatalának (HSE) informatikai rendszereit. 2021. május 14. és 2021. július 29. között ebben a szolgálatban csak a „Helyszínen megerősített Covid19-esetek száma” (SUM_number_of_confirmed_covid_19_ca) és „Az elmúlt 24 órában megerősített új Covid19-esetek száma” (SUM_number_of_new_covid_19_cases_co) mezőket frissítették, a többi mezőre vonatkozóan nem álltak rendelkezésre adatok. ** </p><p><u>Értesítés:</u></p><p>Ha ezt az adatkészletet CSV-ként tölti le, kérjük, kövesse az alábbi lépéseket az adatkészlet dátum szerinti rendezéséhez. </p><p>1. Kattintson a \"Letöltés\" gombra. </p><p>2. A bal oldalon megnyíló letöltési ablaktáblában kattintson a CSV alatti \"Letöltés\" gombra. Ez legyen az első lehetőség. </p><p>3. Nyissa meg a fájlt. </p><p>4. Jelölje ki a D oszlopot a \"D\" gombra kattintva. </p><p>5. A menüszalag szerkesztés csoportjában kattintson a \"Sort &amp; Szűrő. </p><p>6. A megjelenő legördülő menüből válassza ki az első lehetőséget a legrégebbitől a legújabbig történő rendezéshez. </p><p>7. A megjelenő előugró ablakban győződjön meg arról, hogy a \"Kijelölés kibővítése\" van kiválasztva. </p><p>8. Kattintson a \"Rendezés\" gombra, az adatkészlet most dátum szerint lesz rendezve.</p>",
+    "sv": "<p>Dataset som innehåller covid-19-relaterade indikatorer för akutsjukhus i Irland, kl. 8.00 dagligen. Uppgifter lämnas för bekräftade covid-19-fall på sjukhus och antalet nya intagningar och utskrivningar under de senaste 24 timmarna. Data baseras på ett aggregat av 29 offentliga akutsjukhus (vuxna och pediatriska). Uppgifter från Health Service Executive (HSE). </p><p>Datauppsättning för tidsserier från mars 2020 till november 2025. </p><p>** Hälsovårdsverkets it-system utsattes för en stor cyberattack fredagen den 14 maj 2021. Mellan den 14 maj 2021 och den 29 juli 2021 uppdaterades endast fälten ”Antal bekräftade covid-19-fall som godkänts på plats” (SUM_number_of_confirmed_covid_19_ca) och ”Antal nya covid-19-fall som bekräftats under de senaste 24 timmarna” (SUM_number_of_new_covid_19_cases_co) i denna tjänst utan att några uppgifter fanns tillgängliga för de andra fälten. ** </p><p><u>Meddelande:</u></p><p>Om du laddar ner den här datauppsättningen som CSV följer du dessa steg för att sortera datauppsättningen efter datum. </p><p>1. Klicka på knappen \"Ladda ner\". </p><p>2. I nedladdningsfönstret som öppnas till vänster klickar du på knappen \"Ladda ner\" under CSV. Detta bör vara det första alternativet. </p><p>3. Öppna filen. </p><p>4. Markera kolumn D genom att klicka på \"D\". </p><p>5. I menyfliksområdet, i gruppen Redigering, klicka på 'Sortera &amp; Filter. </p><p>6. Från rullgardinsmenyn som visas väljer du det första alternativet för att sortera från äldsta till nyaste. </p><p>7. I popup-fönstret som visas se till att \"Expandera markeringen\" är markerad. </p><p>8. Klicka på \"Sortera\", datauppsättningen sorteras nu efter datum.</p>",
+    "bg": "<p>Набор от данни, съдържащ свързани с COVID-19 показатели за острите болници в Ирландия, към 8 часа сутринта дневно. Предоставени са данни за потвърдените случаи на COVID-19 в болниците и броя на новите приеми и изписвания през последните 24 часа. Данните се основават на съвкупност от 29 обществени остра болници (възрастни и педиатрични). Данни, предоставени от Изпълнителния орган на здравната служба (HSE). </p><p>Набор от данни от времеви серии от март 2020 г. до ноември 2025 г. </p><p>** ИТ системите на Изпълнителния орган на здравната служба (HSE) претърпяха сериозна кибератака на 14 май 2021 г., петък. Между 14 май 2021 г. и 29 юли 2021 г. бяха актуализирани само полетата „Брой потвърдени случаи на COVID-19, приети на място“ (SUM_number_of_confirmed_covid_19_ca) и „Брой нови случаи на COVID-19, потвърдени през последните 24 часа“ (SUM_number_of_new_covid_19_cases_co) в тази услуга, без да са налични данни за другите полета. ** </p><p><u>Известие:</u></p><p>Ако изтегляте този набор от данни като CSV, моля, следвайте тези стъпки, за да сортирате набора от данни по дата. </p><p>1. Кликнете върху бутона \"Изтегляне\". </p><p>2. В екрана за изтегляне, който се отваря вляво, щракнете върху бутона „Изтегляне“ под CSV. Това трябва да е първият вариант. </p><p>3. Отворете файла. </p><p>4. Маркирайте колона D, като щракнете върху „D“. </p><p>5. В лентата, в групата Редактиране щракнете върху 'Sort &amp; Филтриране“. </p><p>6. От падащото меню, което се появява, изберете първата опция, за да сортирате от най-старото към най-новото. </p><p>7. В изскачащия прозорец се уверете, че е избрано \"Разширяване на селекцията\". </p><p>8. Кликнете върху \"Sort\", наборът от данни ще бъде сортиран по дата.</p>",
+    "uk": "Дані, що містять показники, пов'язані з COVID-19, для гострих лікарень в Ірландії, станом на 8 ранку щодня. Дані наведено для підтверджених випадків COVID-19 у лікарні та кількості нових госпіталізацій та виписок за останні 24 години. Дані базуються на сукупності з 29 державних гострих лікарень (дорослих та педіатричних). Дані, надані керівником служби охорони здоров'я (HSE). Набір даних часових рядів з березня 2020 року по листопад 2025 року. </p><p>* ІТ-системи Health Service Executive’s (HSE) зазнали серйозної кібератаки в п'ятницю 14 травня 2021 року. У період з 14 травня 2021 року по 29 липня 2021 року лише поля «Кількість підтверджених випадків COVID-19, допущених на місці» (SUM_number_of_confirmed_covid_19_ca) та «Кількість нових випадків COVID-19, підтверджених за останні 24 години» (SUM_number_of_new_covid_19_cases_co) у цій службі були оновлені без даних для інших полів. ** </p><p><u>Повідомлення:</u></p><p>Якщо ви завантажуєте цей набір даних як CSV, виконайте такі дії, щоб відсортувати набір даних за датою. </p><p>1. Натисніть кнопку «Завантажити». </p><p>2. На панелі завантаження, що відкриється ліворуч, натисніть кнопку «Завантажити» під CSV. Це має бути перший варіант. </p><p>3. Відкрийте файл. </p><p>4. Виділіть стовпець D, натиснувши 'D'. </p><p>5. На стрічці в групі Редагування натисніть «Сортувати &amp; \"Фільтр\". </p><p>6. У розкривному меню, що з'явиться, виберіть перший варіант сортування від найстарішого до найновішого. </p><p>7. У спливаючому вікні, що з'явиться, переконайтеся, що вибрано «Розгорнути виділення». </p><p>8. Натисніть «Сортувати», набір даних тепер буде відсортовано за датою.</p>",
+    "da": "<p>Datasæt med covid-19-relaterede indikatorer for akutte hospitaler i Irland pr. 8:00 dagligt. Der indberettes data for bekræftede covid-19-tilfælde på hospitalet og antallet af nye indlæggelser og udskrivninger i de seneste 24 timer. Dataene er baseret på et aggregat af 29 offentlige akuthospitaler (voksne og pædiatriske). Data leveret af Health Service Executive (HSE). </p><p>Tidsseriedatasæt fra marts 2020 til november 2025. </p><p>** Sundhedsstyrelsens IT-systemer blev udsat for et større cyberangreb fredag den 14. maj 2021. Mellem den 14. maj 2021 og den 29. juli 2021 blev kun felterne \"Antal bekræftede covid-19-tilfælde godkendt på stedet\" (SUM_number_of_confirmed_covid_19_ca) og \"Antal nye covid-19-tilfælde bekræftet inden for de seneste 24 timer\" (SUM_number_of_new_covid_19_cases_co) i denne tjeneste ajourført, uden at der forelå data for de øvrige felter. ** </p><p><u>Meddelelse:</u></p><p>Hvis du downloader dette datasæt som en CSV, skal du følge disse trin for at sortere datasættet efter dato. </p><p>1. Klik på knappen \"Download\". </p><p>2. I download-ruden, der åbnes til venstre, skal du klikke på knappen 'Download' under CSV. Dette bør være den første mulighed. </p><p>3. Åbn filen. </p><p>4. Fremhæv kolonne D ved at klikke på 'D'. </p><p>5. Klik på 'Sortér &amp; i gruppen Redigering på båndet. Filtrer\". </p><p>6. Fra rullemenuen, der vises, skal du vælge den første mulighed for at sortere fra ældste til nyeste. </p><p>7. I pop op-vinduet, der vises, skal du sørge for, at 'Udvid markeringen' er valgt. </p><p>8. Klik på 'Sortér', datasættet vil nu blive sorteret efter dato.</p>",
+    "pt": "<p>Conjunto de dados contendo indicadores relacionados com a COVID-19 para hospitais agudos na Irlanda, às 8 horas diariamente. São fornecidos dados relativos aos casos confirmados de COVID-19 no hospital e ao número de novas admissões e descargas nas últimas 24 horas. Os dados baseiam-se num agregado de 29 hospitais agudos públicos (adultos e pediátricos). Dados fornecidos pelo Health Service Executive (HSE). </p><p>Conjunto de dados de séries cronológicas de março de 2020 a novembro de 2025. </p><p>** Os sistemas informáticos do Health Service Executive (HSE) sofreram um grande ciberataque na sexta-feira, 14 de maio de 2021. Entre 14 de maio de 2021 e 29 de julho de 2021, apenas os campos «Número de casos confirmados de COVID-19 admitidos no local» (SUM_number_of_confirmed_covid_19_ca) e «Número de novos casos de COVID-19 confirmados nas últimas 24 horas» (SUM_number_of_new_covid_19_cases_co) neste serviço foram atualizados sem dados disponíveis para os outros campos. ** </p><p><u>Notice:</u></p><p>Se estiver a transferir este conjunto de dados como CSV, siga estes passos para ordenar o conjunto de dados por data. </p><p>1. Clique no botão \"Download\". </p><p>2. No painel de download que abre à esquerda, clique no botão \"Download\" em CSV. Esta deve ser a primeira opção. </p><p>3. Abra o ficheiro. </p><p>4. Destaque a coluna D ao clicar em \"D\". </p><p>5. Na faixa, no grupo de edição, clique em \"Sort &amp; Filtro». </p><p>6. No menu suspenso que aparece, selecione a primeira opção para classificar do mais antigo para o mais recente. </p><p>7. Na janela pop-up que aparece, certifique-se de que \"Expandir a seleção\" está selecionada. </p><p>8. Clique em \"Sort\", o conjunto de dados agora será classificado por data.</p>",
+    "cs": "<p>Dataset obsahující ukazatele související s onemocněním COVID-19 pro akutní nemocnice v Irsku, denně v 8 hodin ráno. Poskytují se údaje o potvrzených případech onemocnění COVID-19 v nemocnici a o počtu nových hospitalizací a propuštění za posledních 24 hodin. Údaje jsou založeny na agregátu 29 veřejných akutních nemocnic (dospělých a pediatrických). Údaje poskytl výkonný orgán pro zdravotní služby (HSE). </p><p>Soubor údajů časových řad od března 2020 do listopadu 2025. </p><p>** Informační systémy HSE (Health Service Executive) utrpěly v pátek 14. května 2021 velký kybernetický útok. V období od 14. května 2021 do 29. července 2021 byla aktualizována pouze pole „Počet potvrzených případů COVID-19 přijatých na místě“ (SUM_number_of_confirmed_covid_19_ca) a „Počet nových případů COVID-19 potvrzených v posledních 24 hodinách“ (SUM_number_of_new_covid_19_cases_co) v této službě, přičemž pro ostatní pole nebyly k dispozici žádné údaje. ** </p><p><u>Upozornění:</u></p><p>Pokud stahujete tento datový soubor jako CSV, postupujte podle následujících kroků a seřaďte datový soubor podle data. </p><p>1. Klikněte na tlačítko \"Stáhnout\". </p><p>2. V podokně stahování, které se otevře vlevo, klikněte na tlačítko \"Stáhnout\" pod CSV. To by měla být první možnost. </p><p>3. Otevřete soubor. </p><p>4. Sloupec D zvýrazněte kliknutím na „D“. </p><p>5. Na pásu karet klikněte ve skupině Úpravy na tlačítko Seřadit & amp; Filtrování“. </p><p>6. V rozevírací nabídce, která se zobrazí, vyberte první možnost pro řazení od nejstaršího po nejnovější. </p><p>7. V zobrazeném vyskakovacím okně zkontrolujte, zda je vybrána možnost \"Rozšířit výběr\". </p><p>8. Klikněte na 'Seřadit', datový soubor bude nyní seřazen podle data.</p>",
+    "fr": "<p>Ensemble de données contenant des indicateurs liés à la COVID-19 pour les hôpitaux de soins aigus en Irlande, à 8 heures du matin par jour. Les données sont fournies pour les cas confirmés de COVID-19 à l'hôpital et le nombre de nouvelles admissions et sorties au cours des dernières 24 heures. Les données sont basées sur un total de 29 hôpitaux publics de soins aigus (adultes et pédiatriques). Données fournies par le Health Service Executive (HSE). </p><p>Ensemble de données chronologiques de mars 2020 à novembre 2025. </p><p>** Les systèmes informatiques du Health Service Executive (HSE) ont subi une cyberattaque majeure le vendredi 14 mai 2021. Entre le 14 mai 2021 et le 29 juillet 2021, seuls les champs «Nombre de cas confirmés de COVID-19 admis sur place» (SUM_number_of_confirmed_covid_19_ca) et «Number of new COVID-19 cases confirmed in the past 24 hrs» (SUM_number_of_new_covid_19_cases_co) de ce service ont été mis à jour, aucune donnée n’étant disponible pour les autres champs. ** </p><p><u>Notice:</u></p><p>Si vous téléchargez cet ensemble de données en tant que CSV, veuillez suivre ces étapes pour trier l'ensemble de données par date. </p><p>1. Cliquez sur le bouton 'Télécharger'. </p><p>2. Dans le volet de téléchargement qui s'ouvre à gauche, cliquez sur le bouton 'Télécharger' sous CSV. Cela devrait être la première option. </p><p>3. Ouvrez le fichier. </p><p>4. Surlignez la colonne D en cliquant sur 'D'. </p><p>5. Dans le ruban, dans le groupe Édition, cliquez sur 'Sorter &amp; Filtrer. </p><p>6. Dans le menu déroulant qui apparaît, sélectionnez la première option pour trier du plus ancien au plus récent. </p><p>7. Dans la fenêtre contextuelle qui s'affiche, assurez-vous que 'Développer la sélection' est sélectionné. </p><p>8. Cliquez sur 'Trier', le jeu de données sera désormais trié par date.</p>"
+  },
+  "landing_page": [
+    {
+      "resource": "https://opendata-geohive.hub.arcgis.com/datasets/fe9bb23592ec4142a4f4c2c9bd32f749_0"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "id": "en",
+      "label": "English",
+      "resource": "http://publications.europa.eu/resource/authority/language/ENG"
+    }
+  ],
+  "title": {
+    "lv": "Covid-19 SDU akūtas slimnīcas laika sērijas kopsavilkums",
+    "es": "Resumen de la serie de tiempo del hospital agudo COVID-19 SDU",
+    "lt": "COVID-19 SDU ūminės ligoninės laiko eilučių santrauka",
+    "pl": "COVID-19 SDU Acute Hospital Time Series Podsumowanie",
+    "mt": "Sommarju tas-Serje tal-Ħin tal-Isptar Akut tal-COVID-19 SDU",
+    "el": "COVID-19 SDU Acute Hospital Time Series Περίληψη",
+    "it": "Sintesi della serie temporale dell'ospedale acuto COVID-19 SDU",
+    "cs": "Souhrn časové řady akutní nemocnice COVID-19 SDU",
+    "de": "COVID-19 SDU Acute Hospital Time Series Zusammenfassung",
+    "sk": "COVID-19 SDU Acute Hospital Time Series Summary",
+    "en": "COVID-19 SDU Acute Hospital Time Series Summary",
+    "bg": "Резюме на поредицата остри болнични часове на SDU за COVID-19",
+    "nl": "COVID-19 SDU Acute Ziekenhuis Tijdreeks Samenvatting",
+    "et": "COVID-19 SDU ägeda haigla ajaseeria kokkuvõte",
+    "pt": "Resumo da Série Retrospetiva Hospitalar Aguda COVID-19 SDU",
+    "sl": "COVID-19 SDU Akutna bolnišnična časovna serija Povzetek",
+    "ro": "COVID-19 SDU Spitalul acut Seria de timp Rezumat",
+    "fi": "COVID-19 SDU Akuutti sairaala-aikasarja Yhteenveto",
+    "uk": "COVID-19 СДУ Гостра лікарня Часові ряди Резюме",
+    "fr": "Résumé de la série de temps d'hospitalisation aiguë de l'UDP COVID-19",
+    "ga": "COVID-19 SDU Acute Hospital Time Series Summary",
+    "sv": "COVID-19 SDU Akut sjukhus Tidsserie Sammanfattning",
+    "hr": "Sažetak Akutne bolničke vremenske serije SDU-a za COVID-19",
+    "da": "COVID-19 SDU Akut Sygehus Tidsserie Resumé",
+    "hu": "COVID-19 SDU akut kórházi idősor összefoglalója"
+  },
+  "distributions": [
+    {
+      "id": "f59c13a9-00bb-4b76-b777-8bf2e2d56eda",
+      "title": {
+        "fr": "CSV",
+        "sl": "CSV",
+        "da": "CSV",
+        "uk": "CSV",
+        "ga": "CSV",
+        "pt": "CSV",
+        "nl": "CSV",
+        "fi": "CSV",
+        "hu": "CSV",
+        "de": "CSV",
+        "et": "CSV",
+        "lt": "CSV",
+        "en": "CSV",
+        "sv": "CSV",
+        "pl": "CSV",
+        "bg": "CSV",
+        "lv": "CSV",
+        "ro": "CSV",
+        "mt": "CSV",
+        "cs": "CSV",
+        "hr": "CSV",
+        "el": "CSV",
+        "sk": "CSV",
+        "it": "CSV",
+        "es": "CSV"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/fe9bb23592ec4142a4f4c2c9bd32f749/csv?layers=0"
+      ],
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/fe9bb23592ec4142a4f4c2c9bd32f749/csv?layers=0"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "modified": "2025-12-09T16:20:26",
+      "issued": "2025-12-09T16:20:26"
+    },
+    {
+      "id": "1f30d0ca-7148-4db9-8da1-63bd5dc757dd",
+      "title": {
+        "hr": "Datoteka oblika",
+        "lv": "Formas fails",
+        "fi": "Shapefile",
+        "lt": "Formos failas",
+        "bg": "Формуляр",
+        "hu": "Alakfájl",
+        "ga": "Shapefile",
+        "da": "Formfil",
+        "de": "Shapefile",
+        "uk": "Файл форми",
+        "cs": "Tvarový soubor",
+        "nl": "Vormbestand",
+        "ro": "Shapefile",
+        "pl": "Plik kształtu",
+        "es": "Shapefile",
+        "sk": "Tvarový súbor",
+        "fr": "Shapefile",
+        "mt": "Forpefile",
+        "sl": "Shapefile",
+        "et": "Shapefile",
+        "pt": "Shapefile",
+        "it": "File di forma",
+        "el": "Φάκελος σχήματος",
+        "en": "Shapefile",
+        "sv": "Shapefile"
+      },
+      "modified": "2025-12-09T16:20:26",
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/fe9bb23592ec4142a4f4c2c9bd32f749/shapefile?layers=0"
+      ],
+      "format": {
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "media_type": "application/zip",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/fe9bb23592ec4142a4f4c2c9bd32f749/shapefile?layers=0"
+      ],
+      "issued": "2025-12-09T16:20:26"
+    },
+    {
+      "id": "801516ba-a0b5-43f5-bfa9-caab9d04b169",
+      "media_type": "text/html",
+      "modified": "2025-12-09T16:20:26",
+      "title": {
+        "sv": "Dataset för ArcGIS Hub",
+        "nl": "ArcGIS Hub-gegevensset",
+        "el": "Σύνολο δεδομένων κόμβου ArcGIS",
+        "ga": "ArcGIS Hub Dataset",
+        "et": "ArcGIS keskuse andmekogum",
+        "da": "Datasæt for ArcGIS-hub",
+        "ro": "Setul de date ArcGIS Hub",
+        "sk": "ArcGIS Hub Dataset",
+        "mt": "Sett ta' Data tal-Hub tal-ArcGIS",
+        "lv": "ArcGIS centra datu kopa",
+        "hr": "Skup podataka ArcGIS Hub",
+        "hu": "ArcGIS Hub adatkészlet",
+        "uk": "Набір даних ArcGIS Hub",
+        "fr": "Ensemble de données ArcGIS Hub",
+        "de": "ArcGIS-Hub-Datensatz",
+        "es": "Conjunto de datos de ArcGIS Hub",
+        "bg": "Набор от данни за ArcGIS Hub",
+        "fi": "ArcGIS Hub -datajoukko",
+        "pl": "Zestaw danych ArcGIS Hub",
+        "en": "ArcGIS Hub Dataset",
+        "it": "Set di dati ArcGIS Hub",
+        "cs": "Datový soubor ArcGIS Hub",
+        "lt": "ArcGIS Hub duomenų rinkinys",
+        "sl": "Nabor podatkov vozlišča ArcGIS",
+        "pt": "Conjunto de dados da plataforma ArcGIS"
+      },
+      "issued": "2025-12-09T16:20:26",
+      "format": {
+        "id": "HTML",
+        "label": "HTML"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/datasets/fe9bb23592ec4142a4f4c2c9bd32f749_0"
+      ]
+    },
+    {
+      "id": "b02b03f8-90f3-47b8-86cf-420719e61201",
+      "title": {
+        "mt": "KML",
+        "it": "KML",
+        "de": "KML",
+        "el": "ΧΜΛ",
+        "sl": "KML",
+        "es": "KML",
+        "nl": "KML",
+        "uk": "КМЛ (KML)",
+        "sk": "KML",
+        "da": "KML",
+        "pt": "KML",
+        "hr": "KML",
+        "sv": "KML",
+        "cs": "KML",
+        "et": "KML",
+        "fr": "KML",
+        "hu": "KML",
+        "fi": "KML",
+        "lv": "KML",
+        "ga": "KML",
+        "en": "KML",
+        "lt": "KML",
+        "bg": "KML",
+        "ro": "KML",
+        "pl": "KML"
+      },
+      "issued": "2025-12-09T16:20:26",
+      "format": {
+        "id": "KML",
+        "label": "KML"
+      },
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/fe9bb23592ec4142a4f4c2c9bd32f749/kml?layers=0"
+      ],
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/fe9bb23592ec4142a4f4c2c9bd32f749/kml?layers=0"
+      ],
+      "modified": "2025-12-09T16:20:26"
+    },
+    {
+      "id": "b1b10c54-4e16-4139-99be-d232c46eb14e",
+      "title": {
+        "en": "ArcGIS GeoService",
+        "uk": "геосервісу ArcGIS",
+        "el": "ArcGIS GeoService",
+        "pt": "ArcGIS GeoService",
+        "mt": "ArcGIS GeoService",
+        "ro": "ArcGIS GeoService",
+        "hr": "ArcGIS GeoService",
+        "sk": "ArcGIS GeoService",
+        "it": "ArcGIS GeoService",
+        "lt": "ArcGIS GeoService",
+        "et": "ArcGIS GeoService",
+        "de": "ArcGIS GeoService",
+        "ga": "ArcGIS GeoService",
+        "fr": "ArcGIS GeoService",
+        "bg": "ArcGIS GeoService",
+        "nl": "ArcGIS GeoService",
+        "lv": "ArcGIS GeoService",
+        "hu": "ArcGIS GeoService",
+        "es": "ArcGIS GeoService",
+        "sv": "ArcGIS GeoService",
+        "pl": "ArcGIS GeoService",
+        "cs": "ArcGIS GeoService",
+        "da": "ArcGIS GeoService",
+        "sl": "ArcGIS GeoService",
+        "fi": "ArcGIS GeoService"
+      },
+      "format": {
+        "id": "ARCGIS GEOSERVICES REST API",
+        "label": "ARCGIS GEOSERVICES REST API"
+      },
+      "modified": "2025-12-09T16:20:26",
+      "issued": "2025-12-09T16:20:26",
+      "media_type": "application/json",
+      "access_url": [
+        "https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/Covid19AcuteHospitalHistoricSummaryOpenData/FeatureServer/0"
+      ]
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "publisher": {
+    "type": "Agent",
+    "name": "Tailte Éireann",
+    "resource": "https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97"
+  },
+  "modified": "2026-05-31T18:41:57",
+  "id": "9e37ca90-df84-431c-be76-59f6e52963e3",
+  "categories": [
+    {
+      "id": "HEAL",
+      "label": {
+        "lv": "Veselība",
+        "hu": "Egészségügy",
+        "ga": "Sláinte",
+        "no": "Helse",
+        "mt": "Saħħa",
+        "et": "Tervis",
+        "fi": "Terveys",
+        "pt": "Saúde",
+        "es": "Salud",
+        "lt": "Sveikata",
+        "da": "Sundhed",
+        "el": "Υγεία",
+        "ro": "Sănătate",
+        "cs": "Zdraví",
+        "sv": "Hälsa",
+        "nl": "Gezondheid",
+        "de": "Gesundheit",
+        "nb": "Helse",
+        "sl": "Zdravje",
+        "hr": "Zdravlje",
+        "en": "Health",
+        "nn": "Helse",
+        "it": "Salute",
+        "pl": "Zdrowie",
+        "sk": "Zdravotníctvo",
+        "bg": "Здраве",
+        "fr": "Santé"
+      },
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+    }
+  ],
+  "issued": "2020-07-01",
+  "catalog_record": {
+    "issued": "2026-04-06T20:37:19Z",
+    "modified": "2026-05-31T20:25:06Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "telephone": "-"
+    },
+    {
+      "type": "Organization",
+      "name": "content_osireland"
+    }
+  ]
+}

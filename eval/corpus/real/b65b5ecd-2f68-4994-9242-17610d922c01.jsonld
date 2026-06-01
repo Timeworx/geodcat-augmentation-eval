@@ -1,0 +1,110 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/b65b5ecd-2f68-4994-9242-17610d922c01",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "b65b5ecd-2f68-4994-9242-17610d922c01"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Regulatory acts, acts of individual action (except intra-organizational), adopted by the Roma district state administration, draft decisions to be discussed, information determined by the legislation on the principles of regulatory policy"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "Order of the head of the Romny district state administration, draft decisions to be discussed, information determined by the legislation on the principles of regulatory policy "
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/aec5ea03-2f1e-464d-8b4f-490432a1f089",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Роменська районна державна адміністрація"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "нормативні-акти"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:version_info": "1.0",
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 135
+      },
+      "deuropa:catalog_record": {
+        "issued": "2026-05-08T20:19:31Z",
+        "modified": "2026-05-10T18:44:07Z"
+      }
+    }
+  ]
+}

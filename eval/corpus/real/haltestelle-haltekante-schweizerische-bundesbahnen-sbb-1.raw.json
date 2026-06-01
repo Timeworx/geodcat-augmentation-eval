@@ -1,0 +1,715 @@
+{
+  "identifier": [
+    "haltestelle-haltekante@schweizerische-bundesbahnen-sbb"
+  ],
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/CHE",
+    "label": "Switzerland",
+    "id": "ch"
+  },
+  "keywords": [
+    {
+      "language": "de",
+      "id": "barrierefrei",
+      "label": "barrierefrei"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/haltestelle-haltekante-schweizerische-bundesbahnen-sbb~~1",
+  "catalog": {
+    "id": "opendata-swiss",
+    "description": {
+      "en": "Open Data Portal Switzerland"
+    },
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:opendata@bfs.admin.ch",
+      "name": "Federal Statistical Office",
+      "homepage": "https://www.bfs.admin.ch"
+    },
+    "source_type": "dcat-ap",
+    "title": {
+      "de": "opendata.swiss"
+    },
+    "modified": "2024-03-12T10:32:33Z",
+    "homepage": "https://opendata.swiss",
+    "issued": "2024-03-12T10:32:33Z",
+    "country": {
+      "label": "Switzerland",
+      "id": "ch",
+      "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+    },
+    "spatial_resource": [
+      {
+        "label": "Switzerland",
+        "id": "ch",
+        "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "de",
+        "label": "German",
+        "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+      }
+    ]
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": false,
+        "received": "2026-05-12T19:46:26Z",
+        "issued": "2026-02-11T20:07:48Z"
+      }
+    },
+    "full_available_languages": [
+      "de"
+    ],
+    "status": "completed"
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.sbb.ch/explore/dataset/haltestelle-haltekante/"
+    }
+  ],
+  "description": {
+    "de": "Die Daten stammen von opentransportdata.swiss und werden täglich (6 Uhr) aktualisiert.Datenquellen- [https://opentransportdata.swiss/de/dataset/didok/resource_permalink/dienststellen_actualdate.csv](https://opentransportdata.swiss/de/dataset/didok/resource_permalink/dienststellen_actualdate.csv)- [https://opentransportdata.swiss/de/dataset/didok/resource_permalink/verkehrspunktelemente_actualdate.csv](https://opentransportdata.swiss/de/dataset/didok/resource_permalink/verkehrspunktelemente_actualdate.csv)- https://opentransportdata.swiss/de/dataset/prm_data/resource_permalink/prm_platforms.csv"
+  },
+  "index": "dataset",
+  "language": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+      "id": "de",
+      "label": "German"
+    }
+  ],
+  "title": {
+    "de": "Haltestelle-Haltekante"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/parquet"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/PARQUET",
+        "id": "PARQUET",
+        "label": "Parquet"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/parquet"
+      ],
+      "description": {
+        "de": "Haltestelle-Haltekante (parquet)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "aa7e0706-6a85-45e6-a9ed-89523cfd75cb",
+      "title": {
+        "de": "parquet"
+      },
+      "issued": "2026-05-31T04:17:32+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/n3",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/n3"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/N3",
+        "id": "N3",
+        "label": "N3"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/n3"
+      ],
+      "description": {
+        "de": "Haltestelle-Haltekante (n3)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "d7571e4c-510c-40b4-8913-728b4f977b5d",
+      "title": {
+        "de": "n3"
+      },
+      "issued": "2026-05-31T04:17:32+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "http://www.iana.org/assignments/media-types/text/plain",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/ov2"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/ov2"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/TXT",
+        "id": "TXT",
+        "label": "Plain text"
+      },
+      "description": {
+        "de": "Haltestelle-Haltekante (ov2)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "9a9869dd-70ce-49d2-97b9-c201aa2824a2",
+      "title": {
+        "de": "ov2"
+      },
+      "issued": "2026-05-31T04:17:32+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/rdf+xml",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/rdfxml"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/rdfxml"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+        "id": "RDF_XML",
+        "label": "RDF XML"
+      },
+      "description": {
+        "de": "Haltestelle-Haltekante (rdfxml)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "2abc2f8b-9692-4d4a-bf38-a81556d1f788",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "rdfxml"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/vnd.ms-excel",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/xls?use_labels=true"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/xls?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLS",
+        "id": "XLS",
+        "label": "Excel XLS"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "description": {
+        "de": "Haltestelle-Haltekante (xls)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "007e8890-0f2c-4f28-bcd2-314e0bdeca85",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "xls"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/fgb"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/OCTET",
+        "id": "OCTET",
+        "label": "Octet Stream"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/fgb"
+      ],
+      "modified": "2026-05-31T04:17:32+00:00",
+      "description": {
+        "de": "Haltestelle-Haltekante (fgb)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "618d2262-e690-478d-a263-f11a9b22d475",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "fgb"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/zip",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/shp"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/shp"
+      ],
+      "description": {
+        "de": "Haltestelle-Haltekante (shp)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "3619db16-19cd-4a5c-a935-3c1ae4cfe58e",
+      "title": {
+        "de": "shp"
+      },
+      "issued": "2026-05-31T04:17:32+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/json"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/json"
+      ],
+      "modified": "2026-05-31T04:17:32+00:00",
+      "description": {
+        "de": "Haltestelle-Haltekante (json)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "476bfe2b-09c4-4c82-942a-757fa4e851dc",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "json"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/gpx"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/GPX",
+        "id": "GPX",
+        "label": "GPX"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/gpx"
+      ],
+      "modified": "2026-05-31T04:17:32+00:00",
+      "description": {
+        "de": "Haltestelle-Haltekante (gpx)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "d742506e-c492-4658-b7b3-a23d1419b33f",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "gpx"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/turtle",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/turtle"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/turtle"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
+        "id": "RDF_TURTLE",
+        "label": "RDF Turtle"
+      },
+      "description": {
+        "de": "Haltestelle-Haltekante (turtle)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "0ad6caeb-6db5-4050-9dba-0e9206e650d3",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "turtle"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/jsonld"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/jsonld"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+        "id": "JSON_LD",
+        "label": "JSON-LD"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "description": {
+        "de": "Haltestelle-Haltekante (jsonld)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "31089f48-2d3a-4704-8e29-4859cc45bd26",
+      "title": {
+        "de": "jsonld"
+      },
+      "issued": "2026-05-31T04:17:32+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/jsonl"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/jsonl"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "description": {
+        "de": "Haltestelle-Haltekante (jsonl)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "32a8d80a-5c8a-494b-b13d-c0ff2e25cf8d",
+      "title": {
+        "de": "jsonl"
+      },
+      "issued": "2026-05-31T04:17:32+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/geojson"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/geojson"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "description": {
+        "de": "Haltestelle-Haltekante (geojson)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "995d1170-24c2-4a12-85c9-2c3e0417d741",
+      "title": {
+        "de": "geojson"
+      },
+      "issued": "2026-05-31T04:17:32+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/csv",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/csv?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV",
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/csv?use_labels=true"
+      ],
+      "description": {
+        "de": "Haltestelle-Haltekante (csv)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "288a8554-df6d-4722-ab3a-5de04f90ab2c",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "csv"
+      }
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/kml"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/haltestelle-haltekante/exports/kml"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/KML",
+        "id": "KML",
+        "label": "KML"
+      },
+      "description": {
+        "de": "Haltestelle-Haltekante (kml)"
+      },
+      "modified": "2026-05-31T04:17:32+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "44f87b53-7725-4ff9-b2c8-8e0a1ddae0a8",
+      "issued": "2026-05-31T04:17:32+00:00",
+      "title": {
+        "de": "kml"
+      }
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 335
+  },
+  "publisher": {
+    "resource": "https://data.sbb.ch/explore/?refine.dcat_ap_ch.domain=schweizerische-bundesbahnen-sbb",
+    "name": "schweizerische-bundesbahnen-sbb",
+    "type": "Agent"
+  },
+  "modified": "2026-05-31T04:17:32+00:00",
+  "id": "haltestelle-haltekante-schweizerische-bundesbahnen-sbb~~1",
+  "categories": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+      "id": "TRAN",
+      "label": {
+        "nn": "Transport",
+        "de": "Verkehr",
+        "no": "Transport",
+        "fi": "Liikenne",
+        "pt": "Transportes",
+        "bg": "Транспорт",
+        "lt": "Transportas",
+        "lv": "Transports",
+        "hr": "Promet",
+        "fr": "Transports",
+        "hu": "Közlekedés",
+        "sk": "Doprava",
+        "sl": "Transport",
+        "ga": "Iompar",
+        "sv": "Transport",
+        "mt": "Trasport",
+        "el": "Μεταφορές",
+        "en": "Transport",
+        "it": "Trasporti",
+        "es": "Transporte",
+        "et": "Transport",
+        "cs": "Doprava",
+        "nb": "Transport",
+        "pl": "Transport",
+        "ro": "Transport",
+        "da": "Transport",
+        "nl": "Vervoer"
+      }
+    }
+  ],
+  "issued": "2026-05-31T04:17:32+00:00",
+  "catalog_record": {
+    "modified": "2026-05-31T20:05:05Z",
+    "issued": "2025-06-17T20:09:33Z"
+  },
+  "contact_point": [
+    {
+      "name": "Ansprechstelle für Daten",
+      "type": "Organization",
+      "email": "mailto:data@sbb.ch"
+    }
+  ]
+}

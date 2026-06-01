@@ -1,0 +1,407 @@
+{
+  "identifier": [
+    "139ea31f-ed61-4294-8620-721d4bbb083c"
+  ],
+  "country": {
+    "label": "Ukraine",
+    "id": "ua",
+    "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+  },
+  "keywords": [
+    {
+      "id": "місто",
+      "label": "місто",
+      "language": "uk"
+    },
+    {
+      "id": "дозвіл",
+      "label": "дозвіл",
+      "language": "uk"
+    },
+    {
+      "id": "благоустрій",
+      "label": "благоустрій",
+      "language": "uk"
+    },
+    {
+      "id": "озеленення",
+      "label": "озеленення",
+      "language": "uk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/139ea31f-ed61-4294-8620-721d4bbb083c",
+  "catalog": {
+    "id": "data-gov-ua",
+    "modified": "2023-02-10T20:19:48.373074",
+    "issued": "2022-11-21T05:36:39Z",
+    "publisher": {
+      "type": "Agent",
+      "name": "States site of Ukraine",
+      "email": "mailto:admin@data.gov.ua",
+      "homepage": "https://www.kmu.gov.ua/en"
+    },
+    "language": [
+      {
+        "id": "uk",
+        "label": "Ukrainian",
+        "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+      }
+    ],
+    "homepage": "https://data.gov.ua",
+    "source_type": "dcat-ap",
+    "description": {
+      "en": "Open Data Portal Ukraine"
+    },
+    "title": {
+      "en": "data.gov.ua"
+    },
+    "country": {
+      "label": "Ukraine",
+      "id": "ua",
+      "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ukraine",
+        "id": "ua",
+        "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+      }
+    ],
+    "spatial": []
+  },
+  "translation_meta": {
+    "details": {
+      "es": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "uk": {
+        "machine_translated": false,
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:49Z",
+        "issued": "2026-05-08T20:19:31Z"
+      }
+    },
+    "full_available_languages": [
+      "es",
+      "en",
+      "mt",
+      "sl",
+      "it",
+      "sk",
+      "de",
+      "cs",
+      "bg",
+      "fi",
+      "uk",
+      "sv",
+      "pl",
+      "lv",
+      "ro",
+      "fr",
+      "et",
+      "el",
+      "pt",
+      "nl",
+      "lt",
+      "da",
+      "hu",
+      "ga",
+      "hr"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "lv": "Komplektā ir iekļauts saraksts ar atļaujām, kas nepieciešamas, lai pārkāptu Lubny teritoriālās kopienas teritorijas labiekārtošanas objektus.",
+    "fr": "L'ensemble contient une liste de permis pour violation des installations d'aménagement paysager sur le territoire de la communauté territoriale de Lubny",
+    "de": "Das Set enthält eine Liste von Genehmigungen für die Verletzung von Landschaftseinrichtungen auf dem Gebiet der Gebietsgemeinschaft Lubny",
+    "ro": "Setul conține o listă de permise pentru încălcarea facilităților de amenajare a teritoriului pe teritoriul comunității teritoriale Lubny",
+    "es": "El conjunto contiene una lista de permisos para la violación de las instalaciones de paisajismo en el territorio de la comunidad territorial de Lubny.",
+    "da": "Sættet indeholder en liste over tilladelser til overtrædelse af landskabspleje faciliteter på territoriet af Lubny territoriale samfund",
+    "hu": "A készlet tartalmaz egy listát a Lubny területi közösség területén található tereprendezési létesítmények megsértésére vonatkozó engedélyekről.",
+    "uk": "Набір містить перелік дозволів на порушення об'єктів благоустрою на території Лубенської територіальної громади",
+    "cs": "Soubor obsahuje seznam povolení pro porušení terénních úprav na území územního společenství Lubny",
+    "el": "Το σύνολο περιλαμβάνει κατάλογο αδειών για παραβίαση εγκαταστάσεων διαμόρφωσης τοπίου στο έδαφος της εδαφικής κοινότητας του Lubny",
+    "et": "Komplekt sisaldab lube Lubny territoriaalse kogukonna territooriumil asuvate haljastusrajatiste rikkumiseks",
+    "mt": "Is-sett fih lista ta’ permessi għall-ksur tal-faċilitajiet tal-pajsaġġ fit-territorju tal-komunità territorjali ta’ Lubny",
+    "bg": "Комплектът съдържа списък с разрешителни за нарушаване на озеленителни съоръжения на територията на териториален комплекс \"Лъбни\"",
+    "pt": "O conjunto contém uma lista de licenças para violação de instalações paisagísticas no território da comunidade territorial de Lubny",
+    "pl": "W zestawie znajduje się wykaz zezwoleń na naruszanie obiektów krajobrazowych na terenie gminy Lubny",
+    "fi": "Setti sisältää luettelon luvista, jotka koskevat maisemointilaitosten rikkomista Lubnyn alueellisen yhteisön alueella.",
+    "sv": "Uppsättningen innehåller en lista över tillstånd för brott mot landskapsarkitektur anläggningar på territoriet i Lubny territoriella gemenskap",
+    "hr": "Skup sadržava popis dozvola za kršenje krajobraznih objekata na području teritorijalne zajednice Lubny",
+    "nl": "De set bevat een lijst met vergunningen voor schending van groenvoorzieningen op het grondgebied van de territoriale gemeenschap Lubny",
+    "ga": "Tá liosta ceadanna sa tacar maidir le sárú saoráidí tírdhreachaithe ar chríoch phobal críochach Lubny",
+    "lt": "Rinkinyje pateikiamas leidimų pažeisti kraštovaizdžio objektus Liubnio teritorinės bendruomenės teritorijoje sąrašas",
+    "en": "The set contains a list of permits for violation of landscaping facilities on the territory of the Lubny territorial community",
+    "sl": "Set vsebuje seznam dovoljenj za kršitve krajinskih objektov na ozemlju ozemeljske skupnosti Lubny",
+    "it": "Il set contiene un elenco di permessi per la violazione delle strutture paesaggistiche sul territorio della comunità territoriale di Lubny",
+    "sk": "Súbor obsahuje zoznam povolení na porušenie krajinných úprav na území územného spoločenstva Lubny"
+  },
+  "index": "dataset",
+  "language": [
+    {
+      "id": "ua",
+      "label": "ua"
+    }
+  ],
+  "version_info": "1.0",
+  "title": {
+    "es": "a) Datos sobre los permisos expedidos para la violación de los objetos de paisajismo de ’",
+    "en": "Data on issued permits for violation of ’ landscaping objects",
+    "mt": "Dejta dwar permessi maħruġa għall-ksur ta' oġġetti tal-pajsaġġ ’",
+    "sl": "Podatki o izdanih dovoljenjih za kršitev krajinskih objektov ’",
+    "it": "Dati sui permessi rilasciati per violazione di oggetti paesaggistici ’",
+    "sk": "Údaje o vydaných povoleniach na porušenie terénnych objektov ’",
+    "de": "Daten zu erteilten Genehmigungen für Verstöße gegen ’-Landschaftsobjekte",
+    "cs": "Údaje o vydaných povoleních k zásahu do krajinářských objektů ’",
+    "bg": "Данни за издадени разрешителни за нарушаване на ’ озеленителни обекти",
+    "fi": "Tiedot myönnetyistä luvista, jotka koskevat maisemointikohteiden rikkomista",
+    "uk": "Дані про видані дозволи на порушення об’єктів благоустрою",
+    "sv": "Uppgifter om utfärdade tillstånd för överträdelse av landskapsföremål",
+    "pl": "Dane o wydanych pozwoleniach na naruszenie obiektów krajobrazu ’",
+    "lv": "Dati par izsniegtajām atļaujām ’ ainavu objektu pārkāpšanai",
+    "ro": "Date privind autorizațiile eliberate pentru încălcarea obiectelor de amenajare a teritoriului ’",
+    "fr": "«Données sur les permis délivrés pour violation d'objets d'aménagement paysager ’»",
+    "et": "’ haljastusobjektide rikkumiseks väljastatud lubade andmed",
+    "el": "Δεδομένα σχετικά με εκδοθείσες άδειες για παραβίαση αντικειμένων εξωραϊσμού ’",
+    "pt": "Dados sobre as licenças emitidas para a violação de objetos paisagísticos ’",
+    "nl": "Gegevens over afgegeven vergunningen voor schending van ’-landscapingobjecten",
+    "lt": "Duomenys apie išduotus leidimus dėl ’ kraštovaizdžio objektų pažeidimo",
+    "da": "Data om udstedte tilladelser for overtrædelse af ’ landskabsplejeobjekter",
+    "hu": "a ’ tereprendezési objektumok megsértése miatt kiadott engedélyekre vonatkozó adatok",
+    "ga": "· Sonraí maidir le ceadanna eisithe le haghaidh sárú ar réada tírdhreachaithe ’",
+    "hr": "Podaci o izdanim dozvolama za kršenje krajobraznih objekata ’"
+  },
+  "distributions": [
+    {
+      "id": "20315b5f-787a-4861-9556-ddb87a30485b",
+      "title": {
+        "sk": "permissions.csv",
+        "lv": "permissions.csv",
+        "et": "permissions.csv",
+        "uk": "permissions.csv",
+        "fr": "permissions.csv",
+        "hu": "A(z) permissions.csv laphoz kapcsolódó változtatások",
+        "nl": "permissies.csv",
+        "en": "permissions.csv",
+        "hr": "permissions.csv",
+        "fi": "Käyttöoikeudet.csv",
+        "cs": "Oprávnění.csv",
+        "ro": "permisiuni.csv",
+        "bg": "разрешения.csv",
+        "pt": "permissões.csv",
+        "it": "Permessi.csv",
+        "mt": "permits.csv",
+        "es": "permissions.csv",
+        "sv": "permissions.csv",
+        "de": "Berechtigungen.csv",
+        "ga": "ceadanna.csv",
+        "pl": "permissions.csv",
+        "da": "permissions.csv",
+        "sl": "permissions.csv",
+        "lt": "permissions.csv",
+        "el": "άδειες.csv"
+      },
+      "description": {
+        "sk": "Tabuľka obsahuje registračné čísla, dátumy vydania povolení, názvy, adresy objektov zlepšenia ’, informácie o zákazníkoch, autorizovanom orgáne, druh práce, podmienky platnosti povolení. Každý záznam v tabuľke má jedno povolenie",
+        "fr": "Le tableau contient les numéros d'enregistrement, les dates de délivrance des permis, les noms, les adresses des objets d'amélioration ’, les informations sur les clients, l'organisme autorisé, le type de travail, les conditions de validité des permis. Chaque enregistrement dans la table a une autorisation",
+        "pt": "A tabela contém números de registro, datas de emissão de licenças, nomes, endereços de ’ objetos de melhoria, informações sobre os clientes, corpo autorizado, tipo de trabalho, termos de validade das licenças. Cada registo na tabela tem uma permissão",
+        "lv": "Tabulā ir iekļauti reģistrācijas numuri, atļauju izsniegšanas datumi, nosaukumi, ’ uzlabošanas objektu adreses, informācija par klientiem, pilnvarotā iestāde, darba veids, atļauju derīguma termiņi. Katram ierakstam tabulā ir viena atļauja",
+        "sl": "Tabela vsebuje registracijske številke, datume izdaje dovoljenj, imena, naslove objektov izboljšav ’, podatke o strankah, pooblaščenem organu, vrsti dela, pogojih veljavnosti dovoljenj. Vsak zapis v tabeli ima eno dovoljenje",
+        "it": "La tabella contiene numeri di registrazione, date di rilascio dei permessi, nomi, indirizzi di ’ oggetti di miglioramento, informazioni sui clienti, ente autorizzato, tipo di lavoro, termini di validità dei permessi. Ogni record nella tabella ha un'autorizzazione",
+        "cs": "Tabulka obsahuje registrační čísla, data vydání povolení, jména, adresy ’ objektů zlepšení, informace o zákaznících, oprávněný subjekt, druh práce, podmínky platnosti povolení. Každý záznam v tabulce má jedno oprávnění",
+        "hr": "Tablica sadrži registracijske brojeve, datume izdavanja dozvola, nazive, adrese ’ objekata poboljšanja, informacije o kupcima, ovlaštenom tijelu, vrstu posla, uvjete valjanosti dozvola. Svaki zapis u tablici ima jedno dopuštenje",
+        "lt": "Lentelėje pateikiami registracijos numeriai, leidimų išdavimo datos, ’ tobulintinų objektų pavadinimai, adresai, informacija apie klientus, įgaliotą įstaigą, darbo rūšį, leidimų galiojimo terminus. Kiekvienas įrašas lentelėje turi vieną leidimą",
+        "fi": "Taulukko sisältää rekisteröintinumerot, lupien myöntämispäivät, parannuskohteiden nimet, osoitteet, tiedot asiakkaista, valtuutetusta elimestä, työn tyypistä ja lupien voimassaoloa koskevista ehdoista. Jokaisella taulukon tietueella on yksi käyttöoikeus",
+        "es": "La tabla contiene números de registro, fechas de emisión de permisos, nombres, direcciones de objetos de mejora de ’, información sobre clientes, organismo autorizado, tipo de trabajo, términos de validez de los permisos. Cada registro en la tabla tiene un permiso",
+        "ro": "Tabelul conține numerele de înregistrare, datele de eliberare a permiselor, numele, adresele obiectelor ’ de îmbunătățire, informații despre clienți, organismul autorizat, tipul de muncă, termenii de valabilitate a permiselor. Fiecare înregistrare din tabel are o permisiune",
+        "hu": "A táblázat tartalmazza a nyilvántartási számokat, az engedélyek kiadásának dátumát, a ’ fejlesztési objektumainak nevét, címét, az ügyfelekre vonatkozó információkat, a felhatalmazott szervet, a munka típusát, az engedélyek érvényességi feltételeit. A táblázatban szereplő minden rekordnak egy engedélye van",
+        "nl": "De tabel bevat registratienummers, datums van afgifte van vergunningen, namen, adressen van ’-voorwerpen van verbetering, informatie over klanten, geautoriseerde instantie, soort werk, geldigheidsduur van vergunningen. Elke record in de tabel heeft één machtiging",
+        "et": "Tabel sisaldab registreerimisnumbreid, lubade väljastamise kuupäevi, nimesid, ’ parendusobjektide aadresse, teavet klientide, volitatud asutuse, töö liigi, lubade kehtivusaja kohta. Igal tabeli kirjel on üks õigus",
+        "pl": "Tablica zawiera numery rejestracyjne, daty wydania zezwoleń, nazwy, adresy obiektów ’ usprawnień, informacje o klientach, organie uprawnionym, rodzaju pracy, terminach ważności zezwoleń. Każdy rekord w tabeli ma jedno uprawnienie",
+        "bg": "Таблицата съдържа регистрационни номера, дати на издаване на разрешителни, имена, адреси на ’ обекти на подобрение, информация за клиенти, упълномощен орган, вид работа, срокове на валидност на разрешителните. Всеки запис в таблицата има едно разрешение",
+        "uk": "Таблиця містить реєстраційні номери, дати видачі дозволів, назви, адреси об’єктів благоустрою, інформацію про замовників, уповноважений орган, вид робіт, строки дії дозволів. Кожним записом до таблиці є один дозвіл",
+        "da": "Tabellen indeholder registreringsnumre, datoer for udstedelse af tilladelser, navne, adresser på ’ objekter af forbedring, oplysninger om kunder, autoriseret organ, type arbejde, vilkår for gyldighed af tilladelser. Hver post i tabellen har én tilladelse",
+        "el": "Ο πίνακας περιέχει αριθμούς εγγραφής, ημερομηνίες έκδοσης αδειών, ονόματα, διευθύνσεις ’ αντικειμένων βελτίωσης, πληροφορίες για πελάτες, εξουσιοδοτημένο φορέα, είδος εργασίας, όρους ισχύος αδειών. Κάθε εγγραφή στον πίνακα έχει ένα δικαίωμα",
+        "de": "Die Tabelle enthält Registrierungsnummern, Datum der Ausstellung von Genehmigungen, Namen, Adressen von ’-Verbesserungsobjekten, Informationen über Kunden, autorisierte Stelle, Art der Arbeit, Gültigkeitsdauer der Genehmigungen. Jeder Datensatz in der Tabelle hat eine Berechtigung",
+        "en": "The table contains registration numbers, dates of issuance of permits, names, addresses of ’ objects of improvement, information about customers, authorized body, type of work, terms of validity of permits. Each record in the table has one permission",
+        "sv": "Tabellen innehåller registreringsnummer, datum för utfärdande av tillstånd, namn, adresser till förbättringsobjekt, information om kunder, behörigt organ, typ av arbete, tillståndens giltighetstid. Varje post i tabellen har en behörighet",
+        "ga": "Sa tábla tá uimhreacha clárúcháin, dátaí eisiúna ceadanna, ainmneacha, seoltaí ’ réad feabhsúcháin, faisnéis faoi chustaiméirí, comhlacht údaraithe, cineál oibre, téarmaí bailíochta ceadanna. Tá cead amháin ag gach taifead sa tábla",
+        "mt": "It-tabella fiha n-numri tar-reġistrazzjoni, id-dati tal-ħruġ tal-permessi, l-ismijiet, l-indirizzi tal-oġġetti ta' titjib tal-’, l-informazzjoni dwar il-klijenti, il-korp awtorizzat, it-tip ta' xogħol, it-termini tal-validità tal-permessi. Kull reġistrazzjoni fit-tabella għandha permess wieħed"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "byte_size": 87505,
+      "access_url": [
+        "https://data.gov.ua/dataset/139ea31f-ed61-4294-8620-721d4bbb083c/resource/f256af00-3c2c-4e9c-a124-eed1eb84de7a/download/permissions.csv"
+      ],
+      "media_type": "text/csv"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 155
+  },
+  "publisher": {
+    "type": "Organization",
+    "name": "Лубенська міська рада",
+    "resource": "https://data.gov.ua/organization/e13d6bba-033c-4be1-bad2-3397430c8e88"
+  },
+  "modified": "2026-04-21T06:31:12.309622",
+  "id": "139ea31f-ed61-4294-8620-721d4bbb083c",
+  "issued": "2025-02-13T06:19:57.979081",
+  "catalog_record": {
+    "modified": "2026-05-10T18:44:49Z",
+    "issued": "2026-05-08T20:19:31Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "email": "mailto:vd@lubnyrada.gov.ua",
+      "name": "Діденко Олександр Григорович"
+    }
+  ]
+}

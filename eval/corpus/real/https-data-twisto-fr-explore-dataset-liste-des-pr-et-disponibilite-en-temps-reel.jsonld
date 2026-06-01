@@ -1,0 +1,145 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/https-data-twisto-fr-explore-dataset-liste-des-pr-et-disponibilite-en-temps-reel-",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "https://data.twisto.fr/explore/dataset/liste-des-pr-et-disponibilite-en-temps-reel/"
+      ],
+      "dct:title": {
+        "@language": "fr",
+        "@value": "Liste des P+R et disponibilité en temps réel"
+      },
+      "dct:description": {
+        "@language": "fr",
+        "@value": "Liste des P+R et disponibilité en temps réel"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://www.data.gouv.fr/api/1/contacts/67b7c3858743ff58f7e260b6/",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Twisto"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "disponibilite"
+        },
+        {
+          "@language": "id",
+          "@value": "autres-mobilites"
+        },
+        {
+          "@language": "id",
+          "@value": "emplacement"
+        },
+        {
+          "@language": "id",
+          "@value": "places"
+        },
+        {
+          "@language": "id",
+          "@value": "borne"
+        },
+        {
+          "@language": "id",
+          "@value": "station"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "fr"
+        }
+      },
+      "deuropa:creator": [
+        {
+          "type": "Agent",
+          "name": "Twisto",
+          "resource": "https://www.data.gouv.fr/api/1/contacts/67b7c3858743ff58f7e260b7/"
+        }
+      ],
+      "deuropa:catalog": {
+        "id": "plateforme-ouverte-des-donnees-publiques-francaises",
+        "homepage": "https://data.gouv.fr",
+        "description": {
+          "en": "Open Data Portal France"
+        },
+        "language": [
+          {
+            "id": "fr",
+            "label": "French",
+            "resource": "http://publications.europa.eu/resource/authority/language/FRA"
+          }
+        ],
+        "issued": "2022-06-24T12:25:39Z",
+        "country": {
+          "label": "France",
+          "id": "fr",
+          "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+        },
+        "spatial_resource": [
+          {
+            "label": "France",
+            "id": "fr",
+            "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+          }
+        ],
+        "spatial": [],
+        "source_type": "dcat-ap",
+        "publisher": {
+          "type": "Agent",
+          "email": "mailto:info@data.gouv.fr",
+          "homepage": "https://www.etalab.gouv.fr",
+          "name": "etalab"
+        },
+        "modified": "2023-02-12T03:33:16.402027",
+        "title": {
+          "fr": "Plateforme ouverte des données publiques françaises"
+        }
+      },
+      "deuropa:landing_page": [
+        {
+          "resource": "https://data.twisto.fr/explore/dataset/liste-des-pr-et-disponibilite-en-temps-reel/"
+        }
+      ],
+      "deuropa:access_right": {
+        "label": "public",
+        "resource": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+      },
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 160
+      },
+      "deuropa:adms_identifier": [
+        {
+          "identifier": "https://www.data.gouv.fr/datasets/68f187a12c4ca61855ff199e",
+          "scheme": "http://www.w3.org/2001/XMLSchema#string"
+        }
+      ],
+      "deuropa:catalog_record": {
+        "issued": "2025-10-17T03:30:07Z",
+        "modified": "2026-05-31T03:39:44Z"
+      }
+    }
+  ]
+}

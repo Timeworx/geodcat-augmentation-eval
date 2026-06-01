@@ -1,0 +1,11 @@
+-r requirements.txt
+
+pytest==8.3.4
+pytest-asyncio==0.24.0
+pyshacl==0.29.1
+rdflib==7.1.4
+PyLD==2.0.4
+pycocotools==2.0.8
+torchvision==0.20.1
+locust==2.31.5
+matplotlib==3.9.2

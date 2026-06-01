@@ -1,0 +1,194 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/c73bf950-ca32-44f0-af93-6689d468ca48",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:42Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:42Z",
+        "issued": "2024-06-11T17:48:03Z"
+      }
+    },
+    "full_available_languages": [
+      "en",
+      "nor"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Utslipp fra petroleumsvirksomhet"
+  },
+  "index": "dataset",
+  "title": {
+    "nor": "Petroleumsvirksomhet WMS",
+    "en": "Emissions from petroleum facilities WMS"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/ANNUAL",
+    "label": "annual"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://kart.miljodirektoratet.no/arcgis/services/petroleumsvirksomhet/mapserver/WMSServer?request=GetCapabilities&service=WMS"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "3321aa66-ceac-4e67-bec6-939893554389",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://kart.miljodirektoratet.no/arcgis/services/petroleumsvirksomhet/mapserver/WMSServer"
+          ],
+          "endpoint_description": [
+            "https://kart.miljodirektoratet.no/arcgis/services/petroleumsvirksomhet/mapserver/WMSServer?request=GetCapabilities&service=WMS"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "el": "προβολή",
+        "mt": "ħarsa",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "da": "udsigt",
+        "ro": "vizualizare",
+        "nl": "Bekijk"
+      },
+      "issued": "2012-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 140
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosesshistorie tilgjengelig"
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "0001-01-01T00:00:00Z",
+  "publisher": {
+    "name": "Miljødataseksjonen",
+    "type": "Person",
+    "email": "mailto:wms@miljodir.no"
+  },
+  "id": "c73bf950-ca32-44f0-af93-6689d468ca48",
+  "categories": [],
+  "issued": "2012-01-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            72
+          ],
+          [
+            33,
+            72
+          ],
+          [
+            33,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:04Z",
+    "issued": "2021-10-15T08:49:20Z"
+  }
+}

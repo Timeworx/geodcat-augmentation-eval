@@ -1,0 +1,181 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/dek-gs-15-kanton-thurgau",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "dek-gs-15@kanton-thurgau"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "Development of educational qualifications at secondary schools and vocational secondary schools in the canton of Thurgau by type of secondary school since the calendar year 2000. The data are differentiated by year and degree type. The number of degrees at secondary schools in the canton of Thurgau is shown. The data are collected as part of the statistics of educational qualifications for the Federal Statistical Office. This is a full survey. Data are collected annually in January/February."
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.tg.ch/explore/?refine.dcat_ap_ch.domain=kanton-thurgau",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "kanton-thurgau"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ch"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "opendata-swiss",
+        "description": {
+          "en": "Open Data Portal Switzerland"
+        },
+        "publisher": {
+          "type": "Agent",
+          "email": "mailto:opendata@bfs.admin.ch",
+          "name": "Federal Statistical Office",
+          "homepage": "https://www.bfs.admin.ch"
+        },
+        "source_type": "dcat-ap",
+        "title": {
+          "de": "opendata.swiss"
+        },
+        "modified": "2024-03-12T10:32:33Z",
+        "homepage": "https://opendata.swiss",
+        "issued": "2024-03-12T10:32:33Z",
+        "country": {
+          "label": "Switzerland",
+          "id": "ch",
+          "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+        },
+        "spatial_resource": [
+          {
+            "label": "Switzerland",
+            "id": "ch",
+            "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "de",
+            "label": "German",
+            "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+          }
+        ]
+      },
+      "deuropa:landing_page": [
+        {
+          "resource": "https://data.tg.ch/explore/dataset/dek-gs-15/"
+        }
+      ],
+      "deuropa:language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "deuropa:relation": [
+        "https://pub.bista.tg.ch/"
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 335
+      },
+      "deuropa:categories": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+          "id": "EDUC",
+          "label": {
+            "nn": "Utdanning, kultur og sport",
+            "no": "Utdanning, kultur og sport",
+            "de": "Bildung, Kultur und Sport",
+            "fi": "Koulutus, kulttuuri ja urheilu",
+            "pt": "Educação, cultura e desporto",
+            "bg": "Образование, култура и спорт",
+            "lt": "Švietimas, kultūra ir sportas",
+            "lv": "Izglītība, kultūra un sports",
+            "hr": "Obrazovanje, kultura i sport",
+            "fr": "Éducation, culture et sport",
+            "hu": "Oktatás, kultúra és sport",
+            "sk": "Vzdelávanie, kultúra a šport",
+            "sl": "Izobraževanje, kultura in šport",
+            "ga": "Oideachas, cultúr agus spórt",
+            "sv": "Utbildning, kultur och sport",
+            "el": "Παιδεία, πολιτιστικά θέματα και αθλητισμός",
+            "mt": "Edukazzjoni, kultura u sport",
+            "en": "Education, culture and sport",
+            "it": "Istruzione, cultura e sport",
+            "es": "Educación, cultura y deportes",
+            "et": "Haridus, kultuur ja sport",
+            "cs": "Vzdělávání, kultura a sport",
+            "nb": "Utdanning, kultur og sport",
+            "pl": "Edukacja, kultura i sport",
+            "da": "Uddannelse, kultur og sport",
+            "ro": "Educaţie, cultură şi sport",
+            "nl": "Onderwijs, cultuur en sport"
+          }
+        }
+      ],
+      "deuropa:catalog_record": {
+        "modified": "2026-05-31T20:05:07Z",
+        "issued": "2026-05-28T20:05:04Z"
+      }
+    }
+  ]
+}

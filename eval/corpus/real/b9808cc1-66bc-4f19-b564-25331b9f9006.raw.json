@@ -1,0 +1,641 @@
+{
+  "identifier": [
+    "b9808cc1-66bc-4f19-b564-25331b9f9006"
+  ],
+  "country": {
+    "label": "Ireland",
+    "id": "ie",
+    "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+  },
+  "keywords": [
+    {
+      "id": "dgihealth",
+      "label": "dgihealth",
+      "language": "ga"
+    },
+    {
+      "id": "hpsc",
+      "label": "HPSC",
+      "language": "ga"
+    },
+    {
+      "id": "ireland",
+      "label": "Ireland",
+      "language": "ga"
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "language": "ga"
+    },
+    {
+      "id": "covid",
+      "label": "Covid",
+      "language": "ga"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/b9808cc1-66bc-4f19-b564-25331b9f9006",
+  "catalog": {
+    "id": "data-gov-ie",
+    "modified": "2023-02-10T20:35:45.162705",
+    "source_type": "dcat-ap",
+    "issued": "2022-06-24T12:25:17Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform",
+      "email": "mailto:opendata@per.gov.ie",
+      "name": "Government Reform Unit, Dept of Public Expenditure & Reform"
+    },
+    "title": {
+      "ga": "Data.gov.ie"
+    },
+    "description": {
+      "ga": "Open Data Portal Ireland"
+    },
+    "homepage": "https://data.gov.ie",
+    "language": [
+      {
+        "id": "ga",
+        "label": "Irish",
+        "resource": "http://publications.europa.eu/resource/authority/language/GLE"
+      }
+    ],
+    "country": {
+      "label": "Ireland",
+      "id": "ie",
+      "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ireland",
+        "id": "ie",
+        "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+      }
+    ],
+    "spatial": [],
+    "count": 30287
+  },
+  "translation_meta": {
+    "details": {
+      "hr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "ga": {
+        "machine_translated": false,
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-13T19:30:31Z",
+        "issued": "2026-04-06T20:37:00Z"
+      }
+    },
+    "full_available_languages": [
+      "hr",
+      "pt",
+      "it",
+      "mt",
+      "sl",
+      "en",
+      "bg",
+      "fi",
+      "nl",
+      "lt",
+      "hu",
+      "et",
+      "el",
+      "pl",
+      "ro",
+      "cs",
+      "ga",
+      "de",
+      "es",
+      "sk",
+      "uk",
+      "sv",
+      "da",
+      "lv",
+      "fr"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "pt": "<p>Este conjunto de dados contém estatísticas diárias da COVID-19 para a Irlanda por condado, tal como comunicado pelo Centro de Vigilância da Proteção da Saúde.  Estes dados incluem apenas casos confirmados (PCR) e não incluem resultados positivos de antigénios carregados no portal HSE.</p><p>Os dados referem-se ao período compreendido entre 27 de fevereiro de 2020 e a meia-noite de 13 de novembro de 2023.</p><i><strong>Deaths</strong></i>: De 16 de maio de 2022 a novembro de 2023, a notificação de óbitos notificados passou de diária para semanal. Os dados sobre óbitos baseiam-se na data em que um óbito foi notificado no CIDR, e não na data em que o óbito ocorreu. Os dados sobre mortes por data de morte estão disponíveis no Centro de Notificação de Vírus Respiratório do HPSC <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "ga": "<p>Tá Staitisticí Laethúla COVID-19 d'Éirinn de réir Contae sa tacar sonraí seo mar a thuairiscigh an tIonad Faireachais um Chosaint Sláinte.  Ní áirítear sna sonraí sin ach cásanna deimhnithe (PCR) agus ní áirítear iontu torthaí dearfacha antaiginí a uaslódáladh ar thairseach FSS.</p>Tagraíonn sonraí don tréimhse ón 27 Feabhra 2020 go dtí meán oíche an 13 Samhain 2023.</p><p><i><strong>Deaths</strong></i>: Ón 16 Bealtaine 2022 go dtí mí na Samhna 2023, tháinig athrú ó lá go seachtain ar thuairisciú na mBásanna faoina dTugtar Fógra. Tá sonraí maidir le básanna bunaithe ar an dáta ar tugadh fógra faoi bhás ar CIDR, ní ar an dáta ar tharla an bás. Tá sonraí maidir le básanna faoi dháta an bháis ar fáil ar Mhol Fógartha Víris Riospráide HPSC <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "pl": "<p>Ten zbiór danych zawiera codzienne statystyki dotyczące COVID-19 dla Irlandii według hrabstw zgłoszone przez Centrum Nadzoru Ochrony Zdrowia.  Dane te obejmują wyłącznie przypadki potwierdzone (PCR) i nie obejmują dodatnich wyników antygenowych przesłanych do portalu HSE.</p><p>Dane odnoszą się do okresu od 27 lutego 2020 r. do północy 13 listopada 2023 r.</p><i><strong>Deaths</strong></i>: Od 16 maja 2022 r. do listopada 2023 r. zgłaszanie zgłoszonych zgonów zmieniło się z dziennego na tygodniowy. Dane dotyczące zgonów opierają się na dacie, w której zgon został zgłoszony w CIDR, a nie na dacie, w której nastąpił zgon. Dane dotyczące zgonów według daty zgonu są dostępne w HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "da": "<p>Dette datasæt indeholder COVID-19 Daily Statistics for Ireland efter amt som indberettet af Health Protection Surveillance Centre.  Disse data omfatter kun bekræftede tilfælde (PCR) og omfatter ikke positive antigenresultater, der er uploadet til HSE-portalen.</p><p>Data henviser til perioden fra den 27. februar 2020 til midnat den 13. november 2023.</p><p><i><strong>Døde</strong></i>: Fra den 16. maj 2022 til november 2023 blev indberetningen af anmeldte dødsfald ændret fra daglig til ugentlig. Data om dødsfald er baseret på den dato, hvor et dødsfald blev anmeldt på CIDR, ikke den dato, hvor dødsfaldet fandt sted. Data om dødsfald efter dødsdato er tilgængelige på HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "lt": "<p>Šiame duomenų rinkinyje pateikiama Airijos kasdienė COVID-19 statistika pagal apskritis, kurią pateikė Sveikatos apsaugos priežiūros centras.  Šie duomenys apima tik patvirtintus atvejus (PGR) ir neapima teigiamų antigenų rezultatų, įkeltų į HSE portalą.</p><p>Duomenys apima laikotarpį nuo 2020 m. vasario 27 d. iki 2023 m. lapkričio 13 d. vidurnakčio.</p><p><i><stiprus>Mirtys</stiprus></i>: Nuo 2022 m. gegužės 16 d. iki 2023 m. lapkričio mėn. pranešimų apie mirties atvejus, apie kuriuos pranešta, skaičius pasikeitė iš kasdienio į savaitinį. Mirčių duomenys grindžiami data, kurią apie mirtį buvo pranešta CIDR, o ne mirties data. Duomenys apie mirties atvejus pagal mirties datą pateikiami HPSC pranešimo apie kvėpavimo takų virusus centre <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "lv": "<p>Šī datu kopa satur Īrijas grāfistes Covid-19 dienas statistiku, ko paziņojis Veselības aizsardzības uzraudzības centrs.  Šie dati ietver tikai apstiprinātus gadījumus (PCR) un neietver pozitīvus antigēna rezultātus, kas augšupielādēti HSE portālā.</p><p>Dati attiecas uz laikposmu no 2020. gada 27. februāra līdz 2023. gada 13. novembra pusnaktij.</p><p><i><strong>Nāves</strong></i>: No 2022. gada 16. maija līdz 2023. gada novembrim ziņošana par paziņotajiem nāves gadījumiem mainījās no dienas uz nedēļu. Dati par nāves gadījumiem ir balstīti uz datumu, kurā CIDR tika paziņots par nāves gadījumu, nevis uz datumu, kurā nāves gadījums notika. Dati par nāves gadījumiem pēc nāves datuma ir pieejami HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "nl": "<p>Deze dataset bevat dagelijkse COVID-19-statistieken voor Ierland per provincie, zoals gerapporteerd door het Health Protection Surveillance Centre.  Deze gegevens omvatten alleen bevestigde gevallen (PCR) en omvatten geen positieve antigeenresultaten die naar het HSE-portaal zijn geüpload.</p><p>Gegevens hebben betrekking op de periode van 27 februari 2020 tot middernacht 13 november 2023.</p><p><i><strong>Deaths</strong></i>: Van 16 mei 2022 tot november 2023 veranderde de melding van aangemelde sterfgevallen van dagelijks naar wekelijks. Gegevens over sterfgevallen zijn gebaseerd op de datum waarop een overlijden op CIDR werd gemeld, niet op de datum waarop het overlijden plaatsvond. Gegevens over sterfgevallen per overlijdensdatum zijn beschikbaar op de HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "uk": "Цей набір даних містить щоденну статистику COVID-19 для Ірландії за округами, про що повідомляє Центр нагляду за охороною здоров'я.  Ці дані включають лише підтверджені випадки (ПЛР) і не включають позитивні результати антигенів, завантажені на портал HSE.</p><p>Дані стосуються періоду з 27 лютого 2020 року до опівночі 13 листопада 2023 року.</p><p><i><strong>Deaths</strong></i>: З 16 травня 2022 року по листопад 2023 року повідомлення про повідомлення про смерть змінилося з щоденного на щотижневий. Дані про смерть ґрунтуються на даті, коли смерть була повідомлена про CIDR, а не на даті, коли смерть настала. Дані про смерть за датою смерті доступні на HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "es": "<p>Este conjunto de datos contiene estadísticas diarias de COVID-19 para Irlanda por condado, según lo informado por el Centro de Vigilancia de Protección de la Salud.  Estos datos solo incluyen casos confirmados (PCR) y no incluyen resultados positivos de antígenos cargados en el portal de HSE.</p><p>Los datos se refieren al período comprendido entre el 27 de febrero de 2020 y la medianoche del 13 de noviembre de 2023.</p><p><i><strong>Muertes</strong></i>: Del 16 de mayo de 2022 a noviembre de 2023, la notificación de defunciones notificadas cambió de diaria a semanal. Los datos sobre las muertes se basan en la fecha en que se notificó una muerte en el CIDR, no en la fecha en que ocurrió la muerte. Los datos sobre muertes por fecha de fallecimiento están disponibles en el HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "hr": "<p>Ovaj skup podataka sadržava dnevne statističke podatke o bolesti COVID-19 za Irsku po županijama kako ih je prijavio Centar za nadzor zdravstvene zaštite.  Ti podaci uključuju samo potvrđene slučajeve (PCR) i ne uključuju pozitivne rezultate antigena učitane na portal HSE.</p><p>Podaci se odnose na razdoblje od 27. veljače 2020. do ponoći 13. studenoga 2023.</p><p><i><strong>Smrtni slučajevi</strong></i>: Od 16. svibnja 2022. do studenoga 2023. izvješćivanje o prijavljenim smrtima promijenilo se iz dnevnog u tjedno. Podaci o smrtnim slučajevima temelje se na datumu kada je smrt prijavljena na CIDR-u, a ne na datumu kada je smrt nastupila. Podaci o smrtnim slučajevima prema datumu smrti dostupni su na HPSC-ovu centru za prijavu respiratornih virusa <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "hu": "<p>Ez az adatkészlet az Egészségügyi Felügyeleti Központ által jelentett, Írországra vonatkozó, megyénkénti napi Covid19-statisztikákat tartalmazza.  Ezek az adatok csak a megerősített eseteket (PCR) tartalmazzák, és nem tartalmazzák a HSE portálra feltöltött pozitív antigén eredményeket.</p><p>Az adatok a 2020. február 27. és 2023. november 13. éjfél közötti időszakra vonatkoznak</p><p><i><erős>Halálok</erős></i>: 2022. május 16. és 2023. november között a bejelentett halálesetek jelentése napiról hetire változott. A halálesetekre vonatkozó adatok azon a napon alapulnak, amikor a CIDR-ben bejelentették a halálesetet, nem pedig azon a napon, amikor a haláleset bekövetkezett. A halál időpontjára vonatkozó adatok a HPSC légzőszervi vírus értesítési központjában érhetők el <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "et": "<p>See andmekogum sisaldab COVID-19 päevastatistikat Iirimaa kohta maakonna järgi, nagu on teatanud tervisekaitse järelevalvekeskus.  Need andmed hõlmavad üksnes kinnitatud juhtumeid (PCR) ega hõlma HSE portaali üles laaditud antigeeni positiivseid tulemusi.</p><p>Andmed hõlmavad ajavahemikku 27. veebruarist 2020 kuni 13. novembri 2023. aasta keskööni.</p><p><i><strong>Surm</strong></i>: Alates 16. maist 2022 kuni novembrini 2023 muutus teatatud surmajuhtumitest teatamine igapäevaselt iganädalaseks. Surmaandmed põhinevad kuupäeval, mil surmast CIDRi kaudu teatati, mitte kuupäeval, mil surm toimus. Surmade andmed surmakuupäeva järgi on kättesaadavad HPSC hingamisteede viiruse teavituskeskuses <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "de": "<p>Dieser Datensatz enthält die vom Gesundheitsschutzüberwachungszentrum gemeldeten täglichen COVID-19-Statistiken für Irland nach Grafschaft.  Diese Daten umfassen nur bestätigte Fälle (PCR) und keine positiven Antigenergebnisse, die auf das HSE-Portal hochgeladen wurden.</p><p>Die Daten beziehen sich auf den Zeitraum vom 27. Februar 2020 bis zum 13. November 2023 um Mitternacht.</p><p><i><stark>Todesfälle</stark></i>: Vom 16. Mai 2022 bis November 2023 änderte sich die Meldung gemeldeter Todesfälle von täglich auf wöchentlich. Daten über Todesfälle basieren auf dem Datum, an dem ein Tod im CIDR gemeldet wurde, nicht auf dem Datum, an dem der Tod eingetreten ist. Daten über Todesfälle nach Todesdatum sind im HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a> verfügbar.<br/> </p>",
+    "it": "<p>Questa serie di dati contiene le statistiche giornaliere COVID-19 per l'Irlanda suddivise per contea, come riportato dal Centro di sorveglianza per la protezione della salute.  Questi dati includono solo i casi confermati (PCR) e non includono i risultati positivi dell'antigene caricati sul portale HSE.</p><p>I dati si riferiscono al periodo compreso tra il 27 febbraio 2020 e la mezzanotte del 13 novembre 2023.</p><p><i><strong>Deaths</strong></i>: Dal 16 maggio 2022 al novembre 2023 la segnalazione dei decessi notificati è passata da giornaliera a settimanale. I dati sui decessi si basano sulla data in cui un decesso è stato notificato al CIDR, non sulla data in cui si è verificato il decesso. I dati sui decessi per data di morte sono disponibili sull'HPS Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "cs": "<p>Tento datový soubor obsahuje denní statistiky COVID-19 pro Irsko podle krajů, jak je uvádí Středisko pro dohled nad ochranou zdraví.  Tyto údaje zahrnují pouze potvrzené případy (PCR) a nezahrnují pozitivní výsledky antigenu nahrané na portál HSE.</p><p>Údaje se týkají období od 27. února 2020 do půlnoci 13. listopadu 2023.</p><p><i><silné>Úmrtí</silné></i>: Od 16. května 2022 do listopadu 2023 se hlášení o oznámených úmrtích změnila z denních na týdenní. Údaje o úmrtích jsou založeny na datu, kdy bylo úmrtí oznámeno v CIDR, nikoli na datu, kdy k úmrtí došlo. Údaje o úmrtích podle data úmrtí jsou k dispozici na stránce HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "bg": "<p>Този набор от данни съдържа ежедневни статистически данни за COVID-19 за Ирландия по области, докладвани от Центъра за наблюдение на защитата на здравето.  Тези данни включват само потвърдени случаи (PCR) и не включват положителни резултати от антигени, качени на портала HSE.</p><p>Данните се отнасят за периода от 27 февруари 2020 г. до полунощ на 13 ноември 2023 г.</p><i><strong>Deaths</strong></i>: От 16 май 2022 г. до ноември 2023 г. докладването на съобщените смъртни случаи се променя от ежедневно на седмично. Данните за смъртните случаи се основават на датата, на която смъртта е била съобщена в CIDR, а не на датата, на която е настъпила смъртта. Данните за смъртните случаи по дата на смъртта са достъпни на HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "el": "<p>Αυτό το σύνολο δεδομένων περιέχει ημερήσιες στατιστικές COVID-19 για την Ιρλανδία ανά κομητεία, όπως αναφέρονται από το Κέντρο Επιτήρησης της Προστασίας της Υγείας.  Τα δεδομένα αυτά περιλαμβάνουν μόνο επιβεβαιωμένα κρούσματα (PCR) και δεν περιλαμβάνουν θετικά αποτελέσματα αντιγόνων που τηλεφορτώθηκαν στην πύλη HSE.</p><p>Τα δεδομένα αφορούν την περίοδο από τις 27 Φεβρουαρίου 2020 έως τα μεσάνυχτα της 13ης Νοεμβρίου 2023.</p><p><i><ισχυρό>Θάνατοι</ισχυρό></i>: Από τις 16 Μαΐου 2022 έως τον Νοέμβριο του 2023, η αναφορά κοινοποιημένων θανάτων άλλαξε από ημερήσια σε εβδομαδιαία. Τα στοιχεία για τους θανάτους βασίζονται στην ημερομηνία κατά την οποία κοινοποιήθηκε ο θάνατος στην CIDR και όχι στην ημερομηνία κατά την οποία επήλθε ο θάνατος. Τα στοιχεία για τους θανάτους κατά ημερομηνία θανάτου είναι διαθέσιμα στον κόμβο κοινοποίησης αναπνευστικών ιών της HPSC <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "sl": "<p>Ta nabor podatkov vsebuje dnevno statistiko o COVID-19 za Irsko po okrožjih, kot jo je sporočil Center za nadzor zdravstvenega varstva.  Ti podatki vključujejo samo potrjene primere (PCR) in ne vključujejo pozitivnih rezultatov antigenov, vnesenih na portal HSE.</p><p>Podatki se nanašajo na obdobje od 27. februarja 2020 do polnoči 13. novembra 2023.</p><p><i><strong>Smrti</strong></i>: Od 16. maja 2022 do novembra 2023 se je poročanje o prijavljenih smrtih spremenilo iz dnevnega v tedensko. Podatki o smrtih temeljijo na datumu, ko je bila smrt sporočena na CIDR, in ne na datumu, ko se je smrt zgodila. Podatki o smrtih po datumu smrti so na voljo v vozlišču HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "fr": "<p>Cet ensemble de données contient les statistiques quotidiennes de la COVID-19 pour l’Irlande par comté, telles que déclarées par le centre de surveillance de la protection de la santé.  Ces données incluent uniquement les cas confirmés (PCR) et n’incluent pas les résultats positifs d’antigènes téléchargés sur le portail HSE.</p><p>Les données se rapportent à la période allant du 27 février 2020 au 13 novembre 2023 à minuit.</p><p><i><strong>Morts</strong></i>: Du 16 mai 2022 à novembre 2023, la déclaration des décès notifiés est passée de quotidienne à hebdomadaire. Les données sur les décès sont basées sur la date à laquelle un décès a été notifié sur CIDR, et non sur la date à laquelle le décès est survenu. Les données sur les décès par date de décès sont disponibles sur le HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "mt": "<p>Dan is-sett ta’ data fih l-Istatistika ta’ Kuljum dwar il-COVID-19 għall-Irlanda skont il-Kontea kif irrapportat miċ-Ċentru ta’ Sorveljanza tal-Protezzjoni tas-Saħħa.  Din id-data tinkludi każijiet ikkonfermati (PCR) biss u ma tinkludix riżultati pożittivi tal-antiġeni mtellgħin fil-portal tal-HSE.</p><p>Data tirreferi għall-perjodu mis-27 ta’ Frar 2020 sa nofsillejl tat-13 ta’ Novembru 2023.</p><p><i><strong>Deaths</strong></i>: Mis-16 ta’ Mejju 2022 sa Novembru 2023, ir-rapportar tal-Mewt Notifikati nbidel minn kuljum għal kull ġimgħa. Id-data dwar l-imwiet hija bbażata fuq id-data li fiha mewt ġiet innotifikata fuq CIDR, mhux id-data li fiha seħħet il-mewt. Id-data dwar l-imwiet sad-data tal-mewt hija disponibbli fuq il-HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "sk": "<p>Tento súbor údajov obsahuje dennú štatistiku o ochorení COVID-19 pre Írsko podľa krajov, ako ju nahlásilo Centrum dohľadu nad ochranou zdravia.  Tieto údaje zahŕňajú len potvrdené prípady (PCR) a nezahŕňajú pozitívne výsledky antigénov nahraté na portál HSE.</p><p>Údaje sa vzťahujú na obdobie od 27. februára 2020 do 13. novembra 2023 do polnoci.</p><p><i><strong>Deaths</strong></i>: Od 16. mája 2022 do novembra 2023 sa podávanie správ o oznámených úmrtiach zmenilo z denného na týždenné. Údaje o úmrtiach sú založené na dátume oznámenia úmrtia v CIDR, nie na dátume, keď k úmrtiu došlo. Údaje o úmrtiach podľa dátumu úmrtia sú k dispozícii na HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "sv": "<p>Detta dataset innehåller COVID-19 Daily Statistics for Ireland by County som rapporterats av Health Protection Surveillance Centre.  Dessa data omfattar endast bekräftade fall (PCR) och inkluderar inte positiva antigenresultat som laddats upp till HSE-portalen.</p><p>Data avser perioden från den 27 februari 2020 till midnatt den 13 november 2023.</p><p><i><strong>Död</strong></i>: Från den 16 maj 2022 till november 2023 ändrades rapporteringen av anmälda dödsfall från dagligen till veckovis. Uppgifter om dödsfall baseras på det datum då ett dödsfall anmäldes på CIDR, inte det datum då dödsfallet inträffade. Uppgifter om dödsfall efter dödsdatum finns tillgängliga på HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "fi": "<p>Terveydensuojelun seurantakeskuksen ilmoittamat Irlannin covid-19-päivittäiset tilastot kreivikunnittain.  Nämä tiedot sisältävät ainoastaan vahvistetut tapaukset (PCR), eivätkä ne sisällä HSE-portaaliin ladattuja positiivisia antigeenituloksia.</p><p>Tiedot viittaavat ajanjaksoon 27. helmikuuta 2020 – 13. marraskuuta 2023 keskiyöllä.</p><p><i><strong>Deaths</strong></i>: Ilmoitettujen kuolemantapausten ilmoittaminen muuttui päivittäisestä viikoittaiseksi 16. toukokuuta 2022 ja marraskuun 2023 välisenä aikana. Kuolemaa koskevat tiedot perustuvat päivään, jona kuolemasta ilmoitettiin CIDR:lle, eivät päivään, jona kuolema tapahtui. Tietoja kuolemantapauksista kuolinpäivän mukaan on saatavilla HPSC:n hengityselinten virusten ilmoituskeskuksesta <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "en": "<p>This dataset contains COVID-19 Daily Statistics for Ireland by County as reported by the Health Protection Surveillance Centre.  This data includes confirmed cases (PCR) only and does not include positive antigen results uploaded to the HSE portal.</p><p>Data refers to period from 27 February 2020 to midnight 13 November 2023.</p><p><i><strong>Deaths</strong></i>: From 16th May 2022 to November 2023, reporting of Notified Deaths changed from daily to weekly. Data on deaths is based on the date on which a death was notified on CIDR, not the date on which the death occurred. Data on deaths by date of death is available on the HPSC Respiratory Virus Notification Hub <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>",
+    "ro": "<p>Acest set de date conține statisticile zilnice privind COVID-19 pentru Irlanda în funcție de comitat, astfel cum au fost raportate de Centrul de supraveghere a protecției sănătății.  Aceste date includ numai cazurile confirmate (PCR) și nu includ rezultatele pozitive ale antigenului încărcate pe portalul HSE.</p><p>Datele se referă la perioada cuprinsă între 27 februarie 2020 și 13 noiembrie 2023 la miezul nopții.</p><p><i><strong>Decese</strong></i>: În perioada 16 mai 2022-noiembrie 2023, raportarea deceselor notificate s-a schimbat de la zilnică la săptămânală. Datele privind decesele se bazează pe data la care un deces a fost notificat în CIDR, nu pe data la care a avut loc decesul. Datele privind decesele în funcție de data decesului sunt disponibile pe platforma HPSC de notificare a virusului respirator <a href=\"https://respiratoryvirus.hpsc.ie/\">https://respiratoryvirus.hpsc.ie/</a>.<br/> </p>"
+  },
+  "landing_page": [
+    {
+      "resource": "https://opendata-geohive.hub.arcgis.com/datasets/4779c505c43c40da9101ce53f34bb923_0"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "id": "en",
+      "label": "English",
+      "resource": "http://publications.europa.eu/resource/authority/language/ENG"
+    }
+  ],
+  "title": {
+    "hr": "COVID-19 Statistika HPSC županije Najnovija geometrija točaka",
+    "pt": "COVID-19 HPSC County Statistics Última Geometria Ponto",
+    "it": "COVID-19 HPSC County Statistics Ultimo punto Geometria",
+    "mt": "Statistika tal-Kontea ta’ HPSC tal-COVID-19 L-aħħar Punt Ġeometrija",
+    "sl": "COVID-19 HPSC County Statistics Najnovejša geometrija točk",
+    "en": "COVID-19 HPSC County Statistics Latest Point Geometry",
+    "bg": "COVID-19 Статистика на окръг HPSC Геометрия на най-новите точки",
+    "fi": "COVID-19 HPSC County Statistics Viimeisin pistegeometria",
+    "nl": "COVID-19 HPSC County Statistieken Laatste punt Geometrie",
+    "lt": "COVID-19 HPSC apskrities statistika Naujausia taškų geometrija",
+    "hu": "COVID-19 HPSC County Statistics Legújabb Pont Geometria",
+    "et": "COVID-19 HPSC maakonna statistika viimase punkti geomeetria",
+    "el": "COVID-19 HPSC County Statistics Τελευταία Γεωμετρία Σημείου",
+    "pl": "Statystyki hrabstwa HPSC dotyczące COVID-19 Najnowsza geometria punktów",
+    "ro": "COVID-19 Statistici județene HPSC Cea mai recentă geometrie punctuală",
+    "cs": "COVID-19 HPSC County Statistics Nejnovější bodová geometrie",
+    "ga": "COVID-19 HPSC County Statistics Latest Point Geometry",
+    "de": "COVID-19 HPSC County Statistics Neueste Punktgeometrie",
+    "es": "COVID-19 Estadísticas del Condado HPSC Última Geometría de Puntos",
+    "sk": "COVID-19 HPSC County Statistics Najnovšia geometria bodov",
+    "uk": "COVID-19 Статистика округу HPSC Геометрія останніх точок",
+    "sv": "Covid-19 HPSC County Statistics Senaste punktgeometri",
+    "da": "COVID-19 HPSC County Statistics Seneste punktgeometri",
+    "lv": "COVID-19 HPSC apgabala statistika Jaunākā punkta ģeometrija",
+    "fr": "COVID-19 HPSC County Statistics Dernière géométrie des points"
+  },
+  "distributions": [
+    {
+      "id": "18ea31ff-89e6-4d97-93d7-89feccfd274d",
+      "title": {
+        "hu": "ArcGIS Hub adatkészlet",
+        "nl": "ArcGIS Hub-gegevensset",
+        "lt": "ArcGIS Hub duomenų rinkinys",
+        "it": "Set di dati ArcGIS Hub",
+        "hr": "Skup podataka ArcGIS Hub",
+        "cs": "Datový soubor ArcGIS Hub",
+        "uk": "Набір даних ArcGIS Hub",
+        "sl": "Nabor podatkov vozlišča ArcGIS",
+        "fr": "Ensemble de données ArcGIS Hub",
+        "ga": "ArcGIS Hub Dataset",
+        "ro": "Setul de date ArcGIS Hub",
+        "sk": "ArcGIS Hub Dataset",
+        "et": "ArcGIS keskuse andmekogum",
+        "el": "Σύνολο δεδομένων κόμβου ArcGIS",
+        "es": "Conjunto de datos de ArcGIS Hub",
+        "en": "ArcGIS Hub Dataset",
+        "fi": "ArcGIS Hub -datajoukko",
+        "pt": "Conjunto de dados da plataforma ArcGIS",
+        "mt": "Sett ta' Data tal-Hub tal-ArcGIS",
+        "de": "ArcGIS-Hub-Datensatz",
+        "bg": "Набор от данни за ArcGIS Hub",
+        "da": "Datasæt for ArcGIS-hub",
+        "lv": "ArcGIS centra datu kopa",
+        "pl": "Zestaw danych ArcGIS Hub",
+        "sv": "Dataset för ArcGIS Hub"
+      },
+      "format": {
+        "id": "HTML",
+        "label": "HTML"
+      },
+      "issued": "2025-12-09T16:21:01",
+      "modified": "2025-12-09T16:21:01",
+      "media_type": "text/html",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/datasets/4779c505c43c40da9101ce53f34bb923_0"
+      ]
+    },
+    {
+      "id": "d5ec1b0d-a5f6-4c2f-9e95-c81bf42de731",
+      "format": {
+        "id": "KML",
+        "label": "KML"
+      },
+      "title": {
+        "fr": "KML",
+        "lv": "KML",
+        "hr": "KML",
+        "pt": "KML",
+        "es": "KML",
+        "fi": "KML",
+        "da": "KML",
+        "en": "KML",
+        "ga": "KML",
+        "sk": "KML",
+        "ro": "KML",
+        "sl": "KML",
+        "cs": "KML",
+        "sv": "KML",
+        "mt": "KML",
+        "de": "KML",
+        "hu": "KML",
+        "nl": "KML",
+        "it": "KML",
+        "pl": "KML",
+        "lt": "KML",
+        "et": "KML",
+        "el": "ΧΜΛ",
+        "bg": "KML",
+        "uk": "КМЛ (KML)"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/kml?layers=0"
+      ],
+      "modified": "2025-12-09T16:21:01",
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "issued": "2025-12-09T16:21:01",
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/kml?layers=0"
+      ]
+    },
+    {
+      "id": "b5ea8c87-cf35-4452-b4a5-953446c6d54c",
+      "title": {
+        "uk": "GeoJSON",
+        "de": "GeoJSON",
+        "pl": "GeoJSON",
+        "el": "ΓΕΩΤΖΣΟΝ",
+        "bg": "ГеоДЖСОН",
+        "hu": "GeoJSON",
+        "cs": "GeoJSON",
+        "nl": "GeoJSON",
+        "sk": "GeoJSON",
+        "hr": "GeoJSON",
+        "et": "GeoJSON",
+        "sv": "GeoJSON",
+        "fi": "GeoJSON",
+        "fr": "GeoJSON",
+        "lv": "GeoJSON",
+        "lt": "GeoJSON",
+        "sl": "GeoJSON",
+        "ro": "GeoJSON",
+        "pt": "GeoJSON",
+        "en": "GeoJSON",
+        "mt": "ĠeoJSON",
+        "da": "GeoJSON",
+        "it": "GeoJSON",
+        "es": "GeoJSON",
+        "ga": "GeoJSON"
+      },
+      "media_type": "application/vnd.geo+json",
+      "modified": "2026-04-16T13:50:52",
+      "format": {
+        "id": "GEOJSON",
+        "label": "GEOJSON"
+      },
+      "issued": "2026-04-16T13:50:52",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/geojson?layers=0"
+      ],
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/geojson?layers=0"
+      ]
+    },
+    {
+      "id": "5d2fc069-3c1f-44c3-a37c-d2f2ca124481",
+      "title": {
+        "pl": "ArcGIS GeoService",
+        "en": "ArcGIS GeoService",
+        "nl": "ArcGIS GeoService",
+        "et": "ArcGIS GeoService",
+        "uk": "геосервісу ArcGIS",
+        "fi": "ArcGIS GeoService",
+        "sl": "ArcGIS GeoService",
+        "it": "ArcGIS GeoService",
+        "hr": "ArcGIS GeoService",
+        "lv": "ArcGIS GeoService",
+        "sk": "ArcGIS GeoService",
+        "de": "ArcGIS GeoService",
+        "hu": "ArcGIS GeoService",
+        "lt": "ArcGIS GeoService",
+        "fr": "ArcGIS GeoService",
+        "da": "ArcGIS GeoService",
+        "ga": "ArcGIS GeoService",
+        "sv": "ArcGIS GeoService",
+        "cs": "ArcGIS GeoService",
+        "pt": "ArcGIS GeoService",
+        "el": "ArcGIS GeoService",
+        "es": "ArcGIS GeoService",
+        "bg": "ArcGIS GeoService",
+        "ro": "ArcGIS GeoService",
+        "mt": "ArcGIS GeoService"
+      },
+      "issued": "2025-12-09T16:21:01",
+      "format": {
+        "id": "ARCGIS GEOSERVICES REST API",
+        "label": "ARCGIS GEOSERVICES REST API"
+      },
+      "media_type": "application/json",
+      "modified": "2025-12-09T16:21:01",
+      "access_url": [
+        "https://services1.arcgis.com/eNO7HHeQ3rUcBllm/arcgis/rest/services/Covid19CountyStatisticsHPSCIrelandOpenData/FeatureServer/0"
+      ]
+    },
+    {
+      "id": "a42add52-a67d-4bec-ba9e-6b77387c61b1",
+      "title": {
+        "fi": "CSV",
+        "en": "CSV",
+        "nl": "CSV",
+        "bg": "CSV",
+        "es": "CSV",
+        "lt": "CSV",
+        "uk": "CSV",
+        "it": "CSV",
+        "ga": "CSV",
+        "hu": "CSV",
+        "sv": "CSV",
+        "fr": "CSV",
+        "el": "CSV",
+        "pl": "CSV",
+        "de": "CSV",
+        "lv": "CSV",
+        "sl": "CSV",
+        "et": "CSV",
+        "sk": "CSV",
+        "mt": "CSV",
+        "da": "CSV",
+        "ro": "CSV",
+        "pt": "CSV",
+        "hr": "CSV",
+        "cs": "CSV"
+      },
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/csv?layers=0"
+      ],
+      "modified": "2025-12-09T16:21:01",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/csv?layers=0"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "issued": "2025-12-09T16:21:01",
+      "media_type": "text/csv"
+    },
+    {
+      "id": "720f99b6-eab7-4c38-a2f2-506b3306fd1d",
+      "title": {
+        "cs": "Tvarový soubor",
+        "en": "Shapefile",
+        "ga": "Shapefile",
+        "hr": "Datoteka oblika",
+        "mt": "Forpefile",
+        "fr": "Shapefile",
+        "uk": "Файл форми",
+        "sl": "Shapefile",
+        "lv": "Formas fails",
+        "sv": "Shapefile",
+        "sk": "Tvarový súbor",
+        "ro": "Shapefile",
+        "et": "Shapefile",
+        "el": "Φάκελος σχήματος",
+        "de": "Shapefile",
+        "da": "Formfil",
+        "pl": "Plik kształtu",
+        "pt": "Shapefile",
+        "fi": "Shapefile",
+        "bg": "Формуляр",
+        "nl": "Vormbestand",
+        "hu": "Alakfájl",
+        "es": "Shapefile",
+        "lt": "Formos failas",
+        "it": "File di forma"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/shapefile?layers=0"
+      ],
+      "media_type": "application/zip",
+      "issued": "2025-12-09T16:21:01",
+      "modified": "2025-12-09T16:21:01",
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/4779c505c43c40da9101ce53f34bb923/shapefile?layers=0"
+      ],
+      "format": {
+        "id": "ZIP",
+        "label": "ZIP"
+      }
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "modified": "2026-05-31T18:42:08",
+  "publisher": {
+    "type": "Agent",
+    "name": "Tailte Éireann",
+    "resource": "https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97"
+  },
+  "id": "b9808cc1-66bc-4f19-b564-25331b9f9006",
+  "categories": [
+    {
+      "id": "HEAL",
+      "label": {
+        "lv": "Veselība",
+        "hu": "Egészségügy",
+        "ga": "Sláinte",
+        "no": "Helse",
+        "mt": "Saħħa",
+        "et": "Tervis",
+        "fi": "Terveys",
+        "pt": "Saúde",
+        "es": "Salud",
+        "lt": "Sveikata",
+        "da": "Sundhed",
+        "el": "Υγεία",
+        "ro": "Sănătate",
+        "cs": "Zdraví",
+        "sv": "Hälsa",
+        "nl": "Gezondheid",
+        "de": "Gesundheit",
+        "nb": "Helse",
+        "sl": "Zdravje",
+        "hr": "Zdravlje",
+        "en": "Health",
+        "nn": "Helse",
+        "it": "Salute",
+        "pl": "Zdrowie",
+        "sk": "Zdravotníctvo",
+        "bg": "Здраве",
+        "fr": "Santé"
+      },
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+    }
+  ],
+  "issued": "2020-04-09",
+  "catalog_record": {
+    "modified": "2026-05-31T20:25:05Z",
+    "issued": "2026-04-06T20:36:59Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "name": "content_geohive"
+    },
+    {
+      "type": "Organization",
+      "telephone": "-"
+    }
+  ]
+}

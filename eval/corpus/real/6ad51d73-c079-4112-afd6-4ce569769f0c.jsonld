@@ -1,0 +1,110 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/6ad51d73-c079-4112-afd6-4ce569769f0c",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "6ad51d73-c079-4112-afd6-4ce569769f0c"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "List of concluded contracts"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "The data set contains information about the contracts concluded by the utility company"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/9b5ff3eb-9b50-40c8-bab4-7b8ecb548b88",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Комунальне підприємство \"Дендрологічний парк\" Ладижинський гай"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "договора"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:version_info": "1.0",
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 155
+      },
+      "deuropa:catalog_record": {
+        "modified": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      }
+    }
+  ]
+}

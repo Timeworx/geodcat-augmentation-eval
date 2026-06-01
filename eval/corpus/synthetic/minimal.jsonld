@@ -1,0 +1,11 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#"
+  },
+  "@graph": [
+    {
+      "@id": "did:op:2222da1779efe727bb2e9ebe6950e905eb5d79148fa0169805acd9bbe6a11fbe",
+      "@type": "dcat:Dataset"
+    }
+  ]
+}

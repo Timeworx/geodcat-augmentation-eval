@@ -1,0 +1,1428 @@
+{
+  "identifier": [
+    "tarifverbundkarte@schweizerische-bundesbahnen-sbb"
+  ],
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/CHE",
+    "label": "Switzerland",
+    "id": "ch"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/tarifverbundkarte-schweizerische-bundesbahnen-sbb",
+  "catalog": {
+    "id": "opendata-swiss",
+    "description": {
+      "en": "Open Data Portal Switzerland"
+    },
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:opendata@bfs.admin.ch",
+      "name": "Federal Statistical Office",
+      "homepage": "https://www.bfs.admin.ch"
+    },
+    "source_type": "dcat-ap",
+    "title": {
+      "de": "opendata.swiss"
+    },
+    "modified": "2024-03-12T10:32:33Z",
+    "homepage": "https://opendata.swiss",
+    "issued": "2024-03-12T10:32:33Z",
+    "country": {
+      "label": "Switzerland",
+      "id": "ch",
+      "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+    },
+    "spatial_resource": [
+      {
+        "label": "Switzerland",
+        "id": "ch",
+        "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "de",
+        "label": "German",
+        "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+      }
+    ]
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": false,
+        "received": "2026-05-03T16:13:38Z",
+        "issued": "2026-02-11T20:07:49Z"
+      }
+    },
+    "full_available_languages": [
+      "de"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Tarifverbünde der Schweiz"
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.sbb.ch/explore/dataset/tarifverbundkarte/"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+      "id": "de",
+      "label": "German"
+    }
+  ],
+  "title": {
+    "de": "Tarifverbundkarte"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/n3",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/n3"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/N3",
+        "id": "N3",
+        "label": "N3"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/n3"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (n3)",
+        "fi": "Yhdistetty hintakortti (n3)",
+        "pt": "Cartão de tarifa combinada (n3)",
+        "bg": "Комбинирана тарифна карта (n3)",
+        "lt": "Kombinuota tarifų kortelė (n3)",
+        "hr": "Kombinirana karta (n3)",
+        "lv": "Kombinētā tarifu karte (n3)",
+        "fr": "Carte tarifaire commune (n3)",
+        "hu": "Kombinált viteldíjkártya (n3)",
+        "uk": "Картка комбінованого тарифу (n3)",
+        "sk": "Kombinovaná tarifná karta (n3)",
+        "sl": "Kartica za kombinirano prevoznino (n3)",
+        "ga": "Cárta táille comhcheangailte (n3)",
+        "sv": "Kombinerat biljettpriskort (n3)",
+        "el": "Κάρτα συνδυασμένου ναύλου (n3)",
+        "mt": "Kard tat-tariffa kombinata (n3)",
+        "en": "Combined fare card (n3)",
+        "it": "Carta tariffaria combinata (n3)",
+        "es": "Tarjeta de tarifa combinada (n3)",
+        "et": "Kombineeritud sõidukaart (n3)",
+        "cs": "Kombinovaná jízdenka (n3)",
+        "pl": "Połączona karta taryfowa (n3)",
+        "da": "Kombineret billetpriskort (n3)",
+        "ro": "Card cu tarif combinat (n3)",
+        "nl": "Gecombineerde tariefkaart (n3)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "59f497fd-24c8-4f18-af44-270ca8f18e18",
+      "title": {
+        "de": "n3",
+        "fi": "n3",
+        "pt": "n3",
+        "bg": "n3",
+        "lt": "n3",
+        "lv": "n3",
+        "hr": "n3",
+        "fr": "n3",
+        "hu": "n3",
+        "uk": "n3",
+        "sk": "n3",
+        "sl": "n3",
+        "ga": "n3",
+        "sv": "n3",
+        "mt": "n3",
+        "el": "ν3",
+        "en": "n3",
+        "it": "n3",
+        "es": "n3",
+        "et": "n3",
+        "cs": "n3",
+        "pl": "n3",
+        "da": "n3",
+        "ro": "n3",
+        "nl": "n3"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/kml"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/KML",
+        "id": "KML",
+        "label": "KML"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/kml"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (kml)",
+        "fi": "Tariffiverkkokortti (kml)",
+        "pt": "Cartão de rede tarifário (kml)",
+        "bg": "Тарифна мрежова карта (kml)",
+        "lt": "Tarifų tinklo kortelė (kml)",
+        "hr": "Tarifna mrežna kartica (kml)",
+        "lv": "Tarifu tīkla karte (kml)",
+        "fr": "Carte de la communauté tarifaire (kml)",
+        "hu": "Díjszabású hálózati kártya (kml)",
+        "uk": "Тарифна мережева картка (кмл)",
+        "sk": "Tarifná sieťová karta (kml)",
+        "sl": "Tarifna mrežna kartica (kml)",
+        "ga": "Cárta líonra taraife (kml)",
+        "sv": "Tariffnätverkskort (kml)",
+        "mt": "Kard tan-netwerk tat-tariffi (kml)",
+        "el": "Κάρτα δικτύου τιμολογίων (kml)",
+        "en": "Tariff network card (kml)",
+        "it": "Carta della rete tariffaria (kml)",
+        "es": "Tarjeta de red tarifaria (kml)",
+        "et": "Tariifivõrgu kaart (kml)",
+        "cs": "Tarifní síťová karta (kml)",
+        "pl": "Taryfowa karta sieciowa (kml)",
+        "ro": "Placă de rețea tarifară (kml)",
+        "da": "Tarifnetværkskort (kml)",
+        "nl": "Tariefnetwerkkaart (kml)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "b390ef4a-d069-48a7-94d1-231d0fd00aff",
+      "title": {
+        "de": "kml",
+        "fi": "kml",
+        "pt": "kml",
+        "bg": "кмл",
+        "lt": "kml",
+        "lv": "kml",
+        "hr": "kml",
+        "fr": "kml",
+        "hu": "kml",
+        "uk": "kml",
+        "sk": "kml",
+        "sl": "kml",
+        "ga": "kml",
+        "sv": "kml",
+        "mt": "kml",
+        "el": "kml",
+        "en": "kml",
+        "it": "kml",
+        "es": "kml",
+        "et": "kml",
+        "cs": "kml",
+        "pl": "kml",
+        "ro": "kml",
+        "da": "kml",
+        "nl": "kml"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/turtle",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/turtle"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
+        "id": "RDF_TURTLE",
+        "label": "RDF Turtle"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/turtle"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (turtle)",
+        "fi": "Tariffiverkkokortti (kilpikonna)",
+        "pt": "Cartão de rede tarifário (tartartaruga)",
+        "bg": "Тарифна мрежова карта (костенурка)",
+        "lt": "Tarifų tinklo kortelė (vėžlys)",
+        "lv": "Tarifu tīkla karte (bruņurupucis)",
+        "hr": "Tarifna mrežna kartica (kornjača)",
+        "fr": "Carte collective (turtle)",
+        "hu": "Díjszabású hálózati kártya (teknős)",
+        "uk": "Тарифна мережева картка (черепаха)",
+        "sk": "Tarifná sieťová karta (korytnačka)",
+        "sl": "Kartica tarifnega omrežja (želva)",
+        "ga": "Cárta líonra taraife (turtar)",
+        "sv": "Tariffnätverkskort (sköldpadda)",
+        "mt": "Kard tan-netwerk tat-tariffi (fekruna)",
+        "el": "Κάρτα δικτύου δασμολογίου (χελώνα)",
+        "en": "Tariff network card (turtle)",
+        "it": "Carta della rete tariffaria (tartaruga)",
+        "es": "Tarjeta de red arancelaria (tortuga)",
+        "et": "Tariifivõrgu kaart (kilpkonn)",
+        "cs": "Tarifní síťová karta (želva)",
+        "pl": "Taryfowa karta sieciowa (żółw)",
+        "da": "Tarifnetværkskort (skildpadde)",
+        "ro": "Placă de rețea tarifară (țestoasă)",
+        "nl": "Tarief netwerkkaart (schildpad)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "579adf3b-ba65-4b55-9f58-8a0dd4528651",
+      "title": {
+        "de": "turtle",
+        "fi": "kilpikonna",
+        "pt": "tartaruga",
+        "bg": "костенурка",
+        "lt": "vėžlys",
+        "lv": "bruņurupucis",
+        "hr": "kornjača",
+        "fr": "turtle",
+        "hu": "teknős",
+        "uk": "черепаха",
+        "sk": "korytnačka",
+        "sl": "Turtle",
+        "ga": "turtar",
+        "sv": "sköldpadda",
+        "el": "χελώνα",
+        "mt": "fekruna",
+        "en": "turtle",
+        "it": "tartaruga",
+        "es": "tortuga",
+        "et": "kilpkonn",
+        "cs": "želva",
+        "pl": "żółw",
+        "ro": "Turtle",
+        "da": "skildpadde",
+        "nl": "schildpad"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/jsonl"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/jsonl"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "description": {
+        "de": "Tarifverbundkarte (jsonl)",
+        "fi": "Tariffiverkkokortti (jsonl)",
+        "pt": "Cartão de rede tarifário (jsonl)",
+        "bg": "Тарифна мрежова карта (jsonl)",
+        "lt": "Tarifų tinklo kortelė (jsonl)",
+        "lv": "Tarifu tīkla karte (jsonl)",
+        "hr": "Tarifna mrežna kartica (jsonl)",
+        "fr": "Carte de la communauté tarifaire (jsonl)",
+        "hu": "Díjszabású hálózati kártya (jsonl)",
+        "uk": "Тарифна мережева картка (jsonl)",
+        "sk": "Tarifná sieťová karta (jsonl)",
+        "sl": "Kartica tarifnega omrežja (jsonl)",
+        "ga": "Cárta líonra taraife (jsonl)",
+        "sv": "Tariffnätverkskort (jsonl)",
+        "mt": "Kard tan-netwerk tat-tariffi (jsonl)",
+        "el": "Κάρτα δικτύου τιμολόγησης (jsonl)",
+        "en": "Tariff network card (jsonl)",
+        "it": "Scheda di rete tariffaria (jsonl)",
+        "es": "Tarjeta de red tarifaria (jsonl)",
+        "et": "Tariifivõrgu kaart (jsonl)",
+        "cs": "Tarifní síťová karta (jsonl)",
+        "pl": "Taryfowa karta sieciowa (jsonl)",
+        "da": "Tarifnetværkskort (jsonl)",
+        "ro": "Placă de rețea tarifară (jsonl)",
+        "nl": "Tariefnetwerkkaart (jsonl)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "dfa2890a-5db4-4122-a81c-903a68943ba1",
+      "title": {
+        "de": "jsonl",
+        "fi": "jsonl",
+        "pt": "jsonl",
+        "bg": "йсонл",
+        "lt": "jsonl",
+        "lv": "jsonl",
+        "hr": "jsonl",
+        "fr": "jsonl",
+        "hu": "jsonl",
+        "uk": "jsonl",
+        "sk": "jsonl",
+        "sl": "jsonl",
+        "ga": "jsonl",
+        "sv": "jsonl",
+        "mt": "ġsonl",
+        "el": "Ισονλ",
+        "en": "jsonl",
+        "it": "jsonl",
+        "es": "jsonl",
+        "et": "jsonl",
+        "cs": "jsonl",
+        "pl": "jsonl",
+        "da": "jsonl",
+        "ro": "jsonl",
+        "nl": "jsonl"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/csv?use_labels=true"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV",
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/csv?use_labels=true"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (csv)",
+        "fi": "Tariffiverkkokortti (csv)",
+        "pt": "Cartão de rede tarifário (csv)",
+        "bg": "Тарифна мрежова карта (csv)",
+        "lt": "Tarifų tinklo kortelė (csv)",
+        "lv": "Tarifu tīkla karte (csv)",
+        "hr": "Tarifna mrežna kartica (csv)",
+        "fr": "Carte de la communauté tarifaire (csv)",
+        "hu": "Díjszabású hálózati kártya (csv)",
+        "uk": "Тарифна мережева картка (csv)",
+        "sk": "Tarifná sieťová karta (csv)",
+        "sl": "Tarifna mrežna kartica (csv)",
+        "ga": "Cárta líonra taraife (csv)",
+        "sv": "Tariffnätverkskort (csv)",
+        "el": "Κάρτα δικτύου τιμολογίων (csv)",
+        "mt": "Kard tan-netwerk tat-tariffi (csv)",
+        "en": "Tariff network card (csv)",
+        "it": "Scheda di rete tariffaria (csv)",
+        "es": "Tarjeta de red tarifaria (csv)",
+        "et": "Tariifivõrgu kaart (csv)",
+        "cs": "Tarifní síťová karta (csv)",
+        "pl": "Taryfowa karta sieciowa (csv)",
+        "ro": "Placă de rețea tarifară (csv)",
+        "da": "Tarifnetværkskort (csv)",
+        "nl": "Tariefnetwerkkaart (csv)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "68a28cd7-4c01-4f3b-ba13-136cd15cd990",
+      "title": {
+        "de": "csv",
+        "fi": "csv",
+        "pt": "csv",
+        "bg": "csv",
+        "lt": "csv",
+        "lv": "csv",
+        "hr": "csv",
+        "fr": "csv",
+        "hu": "csv",
+        "uk": "csv",
+        "sk": "csv",
+        "sl": "csv",
+        "ga": "csv",
+        "sv": "csv",
+        "mt": "csv",
+        "el": "csv",
+        "en": "csv",
+        "it": "csv",
+        "es": "csv",
+        "et": "csv",
+        "cs": "csv",
+        "pl": "csv",
+        "da": "csv",
+        "ro": "csv",
+        "nl": "csv"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/jsonld"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+        "id": "JSON_LD",
+        "label": "JSON-LD"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/jsonld"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (jsonld)",
+        "fi": "Tariffiverkkokortti (jsonld)",
+        "pt": "Cartão de rede tarifário (jsonld)",
+        "bg": "Тарифна мрежова карта (jsonld)",
+        "lt": "Tarifų tinklo kortelė (jsonld)",
+        "lv": "Tarifu tīkla karte (jsonld)",
+        "hr": "Tarifna mrežna kartica (jsonld)",
+        "fr": "Carte de la communauté tarifaire (jsonld)",
+        "hu": "Díjszabású hálózati kártya (jsonld)",
+        "uk": "Тарифна мережева картка (jsonld)",
+        "sk": "Tarifná sieťová karta (jsonld)",
+        "sl": "Tarifna mrežna kartica (jsonld)",
+        "ga": "Cárta líonra taraife (jsonld)",
+        "sv": "Tariffnätverkskort (jsonld)",
+        "mt": "Kard tan-netwerk tat-tariffi (jsonld)",
+        "el": "Κάρτα δικτύου τιμολόγησης (jsonld)",
+        "en": "Tariff network card (jsonld)",
+        "it": "Scheda di rete tariffaria (jsonld)",
+        "es": "Tarjeta de red tarifaria (jsonld)",
+        "et": "Tariifivõrgu kaart (jsonld)",
+        "cs": "Tarifní síťová karta (jsonld)",
+        "pl": "Taryfowa karta sieciowa (jsonld)",
+        "da": "Tarifnetværkskort (jsonld)",
+        "ro": "Placă de rețea tarifară (jsonld)",
+        "nl": "Tariefnetwerkkaart (jsonld)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "36a77605-881c-439d-9999-b5ad3086c8cd",
+      "title": {
+        "de": "jsonld",
+        "fi": "jsonld",
+        "pt": "jsonld",
+        "bg": "йсонлд",
+        "lt": "jsonld",
+        "lv": "jsonld",
+        "hr": "jsonld",
+        "fr": "jsonld",
+        "hu": "jsonld",
+        "uk": "jsonld",
+        "sk": "jsonld",
+        "sl": "jsonld",
+        "ga": "jsonld",
+        "sv": "jsonld",
+        "mt": "jsonld",
+        "el": "Τζσονλντ",
+        "en": "jsonld",
+        "it": "jsonld",
+        "es": "jsonld",
+        "et": "jsonld",
+        "cs": "jsonld",
+        "pl": "jsonld",
+        "ro": "jsonld",
+        "da": "jsonld",
+        "nl": "jsonld"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/zip",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/shp"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/shp"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "description": {
+        "de": "Tarifverbundkarte (shp)",
+        "fi": "Tariffiverkkokortti (shp)",
+        "pt": "Cartão de rede tarifário (shp)",
+        "bg": "Тарифна мрежова карта (shp)",
+        "lt": "Tarifų tinklo kortelė (shp)",
+        "hr": "Tarifna mrežna kartica (shp)",
+        "lv": "Tarifu tīkla karte (shp)",
+        "fr": "Carte de la communauté tarifaire (shp)",
+        "hu": "Díjszabású hálózati kártya (shp)",
+        "uk": "Тарифна мережева карта (шп)",
+        "sk": "Tarifná sieťová karta (shp)",
+        "sl": "Tarifna mrežna kartica (shp)",
+        "ga": "Cárta líonra taraife",
+        "sv": "Tariffnätverkskort (shp)",
+        "mt": "Kard tan-netwerk tat-tariffi (shp)",
+        "el": "Κάρτα δικτύου τιμολογίων (shp)",
+        "en": "Tariff network card (shp)",
+        "it": "Scheda di rete tariffaria (shp)",
+        "es": "Tarjeta de red tarifaria (shp)",
+        "et": "Tariifivõrgu kaart (shp)",
+        "cs": "Tarifní síťová karta (shp)",
+        "pl": "Taryfowa karta sieciowa (shp)",
+        "da": "Toldnetværkskort (shp)",
+        "ro": "Placă de rețea tarifară (shp)",
+        "nl": "Tariefnetwerkkaart (shp)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "5962e171-0995-4595-9899-4e3f22344fcb",
+      "title": {
+        "de": "shp",
+        "fi": "shp",
+        "pt": "shp",
+        "bg": "шп",
+        "lt": "shp",
+        "hr": "shp",
+        "lv": "shp",
+        "fr": "shp",
+        "hu": "shp",
+        "uk": "шп",
+        "sk": "shp",
+        "sl": "shp",
+        "ga": "shp",
+        "sv": "shp",
+        "el": "σσπ",
+        "mt": "bċejjeċ ta’ art",
+        "en": "shp",
+        "it": "shp",
+        "es": "shp",
+        "et": "shp",
+        "cs": "shp",
+        "pl": "shp",
+        "ro": "shp",
+        "da": "shp",
+        "nl": "shp"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/fgb"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/OCTET",
+        "id": "OCTET",
+        "label": "Octet Stream"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/fgb"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (fgb)",
+        "fi": "Tariffiverkkokortti (fgb)",
+        "pt": "Cartão de rede tarifário (fgb)",
+        "bg": "Тарифна мрежова карта (fgb)",
+        "lt": "Tarifų tinklo kortelė (fgb)",
+        "lv": "Tarifu tīkla karte (fgb)",
+        "hr": "Tarifna mrežna kartica (fgb)",
+        "fr": "Carte de la communauté tarifaire (fgb)",
+        "hu": "Díjszabású hálózati kártya (fgb)",
+        "uk": "Тарифна мережева картка (fgb)",
+        "sk": "Tarifná sieťová karta (fgb)",
+        "sl": "Kartica tarifnega omrežja (fgb)",
+        "ga": "Cárta líonra taraife (fgb)",
+        "sv": "Tariffnätverkskort (fgb)",
+        "mt": "Kard tan-netwerk tat-tariffi (fgb)",
+        "el": "Κάρτα δικτύου τιμολογίων (fgb)",
+        "en": "Tariff network card (fgb)",
+        "it": "Scheda di rete tariffaria (fgb)",
+        "es": "Tarjeta de red tarifaria (fgb)",
+        "et": "Tariifivõrgu kaart (fgb)",
+        "cs": "Tarifní síťová karta (fgb)",
+        "pl": "Taryfowa karta sieciowa (fgb)",
+        "da": "Tarifnetværkskort (fgb)",
+        "ro": "Placă de rețea tarifară (fgb)",
+        "nl": "Tariefnetwerkkaart (fgb)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "07687a1c-ecf1-45d6-a230-ae64c58ec1be",
+      "title": {
+        "de": "fgb",
+        "fi": "fgb",
+        "pt": "fgb",
+        "bg": "fgb",
+        "lt": "fgb",
+        "lv": "fgb",
+        "hr": "fgb",
+        "fr": "fgb",
+        "hu": "fgb",
+        "uk": "fgb",
+        "sk": "fgb",
+        "sl": "fgb",
+        "ga": "fgb",
+        "sv": "fgb",
+        "mt": "fgb",
+        "el": "fgb",
+        "en": "fgb",
+        "it": "fgb",
+        "es": "fgb",
+        "et": "fgb",
+        "cs": "fgb",
+        "pl": "fgb",
+        "da": "fgb",
+        "ro": "fgb",
+        "nl": "fgb"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/parquet"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/parquet"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/PARQUET",
+        "id": "PARQUET",
+        "label": "Parquet"
+      },
+      "description": {
+        "de": "Tarifverbundkarte (parquet)",
+        "fi": "Tariffiverkkokortti (parquet)",
+        "pt": "Cartão de rede tarifário (parquet)",
+        "bg": "Тарифна мрежова карта (паркет)",
+        "lt": "Tarifų tinklo plokštė (parketas)",
+        "lv": "Tarifu tīkla karte (parkets)",
+        "hr": "Tarifna mrežna kartica (parket)",
+        "fr": "Carte tarifaire commune (parquet)",
+        "hu": "Díjszabású hálózati kártya (parketta)",
+        "uk": "Тарифна мережева картка (паркет)",
+        "sk": "Tarifná sieťová karta (parkety)",
+        "sl": "Kartica za tarifno omrežje (parket)",
+        "ga": "Cárta líonra taraife (paráid)",
+        "sv": "Tariffnätverkskort (parkett)",
+        "el": "Κάρτα δικτύου τιμολογίων (παρκέ)",
+        "mt": "Kard tan-netwerk tat-tariffi (parquet)",
+        "en": "Tariff network card (parquet)",
+        "it": "Scheda di rete tariffaria (parquet)",
+        "es": "Tarjeta de red tarifaria (parquet)",
+        "et": "Tariifivõrgu kaart (parkett)",
+        "cs": "Tarifní síťová karta (parkety)",
+        "pl": "Taryfowa karta sieciowa (parkiet)",
+        "ro": "Placă de rețea tarifară (parchet)",
+        "da": "Tarifnetværkskort (parket)",
+        "nl": "Tarief netwerkkaart (parket)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "600c36ea-3012-4470-a9bc-6e2ee124ffc5",
+      "title": {
+        "de": "parquet",
+        "fi": "parketti",
+        "pt": "parquet",
+        "bg": "паркет",
+        "lt": "parketo",
+        "lv": "parkets",
+        "hr": "parket",
+        "fr": "parquet",
+        "hu": "parketta",
+        "uk": "паркетна дошка",
+        "sk": "parkety",
+        "sl": "parket",
+        "ga": "iontlaise",
+        "sv": "parkett",
+        "el": "παρκέ",
+        "mt": "parquet",
+        "en": "parquet",
+        "it": "parquet",
+        "es": "parquet",
+        "et": "parkett",
+        "cs": "parkety",
+        "pl": "parkiet",
+        "ro": "parchet",
+        "da": "parket",
+        "nl": "parket"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/vnd.ms-excel",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/xls?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLS",
+        "id": "XLS",
+        "label": "Excel XLS"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/xls?use_labels=true"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (xls)",
+        "fi": "Tariffiverkkokortti (xls)",
+        "pt": "Cartão de rede tarifário (xls)",
+        "bg": "Тарифна мрежова карта (xls)",
+        "lt": "Tarifų tinklo kortelė (xls)",
+        "lv": "Tarifu tīkla karte (xls)",
+        "hr": "Tarifna mrežna kartica (xls)",
+        "fr": "Carte tarifaire commune (xls)",
+        "hu": "Díjszabású hálózati kártya (xls)",
+        "uk": "Тарифна мережева картка (xls)",
+        "sk": "Tarifná sieťová karta (xls)",
+        "sl": "Tarifna mrežna kartica (xls)",
+        "ga": "Cárta líonra taraife (xls)",
+        "sv": "Tariffnätverkskort (xls)",
+        "mt": "Kard tan-netwerk tat-tariffi (xls)",
+        "el": "Κάρτα δικτύου τιμολογίων (xls)",
+        "en": "Tariff network card (xls)",
+        "it": "Scheda di rete tariffaria (xls)",
+        "es": "Tarjeta de red tarifaria (xls)",
+        "et": "Tariifivõrgu kaart (xls)",
+        "cs": "Tarifní síťová karta (xls)",
+        "pl": "Taryfowa karta sieciowa (xls)",
+        "ro": "Placă de rețea tarifară (xls)",
+        "da": "Tarifnetværkskort (xls)",
+        "nl": "Tariefnetwerkkaart (xls)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "3fcf8243-d613-4a39-a017-19e812800e52",
+      "title": {
+        "de": "xls",
+        "fi": "xls",
+        "pt": "xls",
+        "bg": "xls",
+        "lt": "xls",
+        "hr": "xls",
+        "lv": "xls",
+        "fr": "xls",
+        "hu": "xls",
+        "uk": "xls",
+        "sk": "xls",
+        "sl": "xls",
+        "ga": "xls",
+        "sv": "xls",
+        "mt": "xls",
+        "el": "xls",
+        "en": "xls",
+        "it": "xls",
+        "es": "xls",
+        "et": "xls",
+        "cs": "xls",
+        "pl": "xls",
+        "da": "xls",
+        "ro": "xls",
+        "nl": "xls"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/rdf+xml",
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/rdfxml"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+        "id": "RDF_XML",
+        "label": "RDF XML"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/rdfxml"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (rdfxml)",
+        "fi": "Tariffiverkkokortti (rdfxml)",
+        "pt": "Cartão de rede tarifário (rdfxml)",
+        "bg": "Тарифна мрежова карта (rdfxml)",
+        "lt": "Tarifų tinklo kortelė (rdfxml)",
+        "hr": "Tarifna mrežna kartica (rdfxml)",
+        "lv": "Tarifu tīkla karte (rdfxml)",
+        "fr": "Carte tarifaire commune (rdfxml)",
+        "hu": "Díjszabású hálózati kártya (rdfxml)",
+        "uk": "Тарифна мережева картка (rdfxml)",
+        "sk": "Tarifná sieťová karta (rdfxml)",
+        "sl": "Tarifna mrežna kartica (rdfxml)",
+        "ga": "Cárta líonra taraife (rdfxml)",
+        "sv": "Tariffnätverkskort (rdfxml)",
+        "el": "Κάρτα δικτύου τιμολόγησης (rdfxml)",
+        "mt": "Kard tan-netwerk tat-tariffi (rdfxml)",
+        "en": "Tariff network card (rdfxml)",
+        "it": "Scheda di rete tariffaria (rdfxml)",
+        "es": "Tarjeta de red tarifaria (rdfxml)",
+        "et": "Tariifivõrgu kaart (rdfxml)",
+        "cs": "Tarifní síťová karta (rdfxml)",
+        "pl": "Taryfowa karta sieciowa (rdfxml)",
+        "da": "Tarifnetværkskort (rdfxml)",
+        "ro": "Placă de rețea tarifară (rdfxml)",
+        "nl": "Tarief netwerkkaart (rdfxml)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "a3c8fef2-e86e-4497-8a7e-cd9034eb31d7",
+      "title": {
+        "de": "rdfxml",
+        "fi": "rdfxml",
+        "pt": "rdfxml",
+        "bg": "rdfxml",
+        "lt": "rdfxml",
+        "lv": "rdfxml",
+        "hr": "rdfxml",
+        "fr": "rdfxml",
+        "hu": "rdfxml",
+        "uk": "rdfxml",
+        "sk": "rdfxml",
+        "sl": "rdfxml",
+        "ga": "rdfxml",
+        "sv": "rdfxml",
+        "el": "rdfxml",
+        "mt": "rdfxml",
+        "en": "rdfxml",
+        "it": "rdfxml",
+        "es": "rdfxml",
+        "et": "rdfxml",
+        "cs": "rdfxml",
+        "pl": "rdfxml",
+        "ro": "rdfxml",
+        "da": "rdfxml",
+        "nl": "rdfxml"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/geojson"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/geojson"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "description": {
+        "de": "Tarifverbundkarte (geojson)",
+        "fi": "Tariffiverkkokortti (geojson)",
+        "pt": "Cartão de rede tarifário (geojson)",
+        "bg": "Тарифна мрежова карта (geojson)",
+        "lt": "Tarifų tinklo kortelė (geojson)",
+        "hr": "Tarifna mrežna kartica (geojson)",
+        "lv": "Tarifu tīkla karte (geojson)",
+        "fr": "Carte collective (geojson)",
+        "hu": "Díjszabású hálózati kártya (geojson)",
+        "uk": "Тарифна мережева карта (геойсон)",
+        "sk": "Tarifná sieťová karta (geojson)",
+        "sl": "Kartica tarifnega omrežja (geojson)",
+        "ga": "Cárta líonra taraife (geojson)",
+        "sv": "Tariffnätverkskort (geojson)",
+        "el": "Κάρτα δικτύου τιμολόγησης (geojson)",
+        "mt": "Kard tan-netwerk tat-tariffi (geojson)",
+        "en": "Tariff network card (geojson)",
+        "it": "Scheda di rete tariffaria (geojson)",
+        "es": "Tarjeta de red tarifaria (geojson)",
+        "et": "Tariifivõrgu kaart (geojson)",
+        "cs": "Tarifní síťová karta (geojson)",
+        "pl": "Taryfowa karta sieciowa (geojson)",
+        "ro": "Placă de rețea tarifară (geojson)",
+        "da": "Tarifnetværkskort (geojson)",
+        "nl": "Tarief netwerkkaart (geojson)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "982e93e5-71a4-4310-af60-18e0d3558375",
+      "title": {
+        "de": "geojson",
+        "fi": "geojson",
+        "pt": "geojson",
+        "bg": "Геойсон",
+        "lt": "geojson",
+        "hr": "geojson",
+        "lv": "geojson",
+        "fr": "geojson",
+        "hu": "geojson",
+        "uk": "geojson",
+        "sk": "geojson",
+        "sl": "geojson",
+        "ga": "geojson",
+        "sv": "geojson",
+        "mt": "ġeojson",
+        "el": "Γκέιτζσον",
+        "en": "geojson",
+        "it": "geojson",
+        "es": "geojson",
+        "et": "geojson",
+        "cs": "geojson",
+        "pl": "geojson",
+        "da": "geojson",
+        "ro": "geojson",
+        "nl": "geojson"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "application/json",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/json"
+      ],
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/json"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "description": {
+        "de": "Tarifverbundkarte (json)",
+        "fi": "Yhteinen hintakortti (json)",
+        "pt": "Cartão de tarifa coletiva (json)",
+        "bg": "Колективна тарифна карта (json)",
+        "lt": "Kolektyvinė tarifų kortelė (json)",
+        "lv": "Kolektīvā braukšanas karte (json)",
+        "hr": "Zajednička karta karata (json)",
+        "fr": "Carte de la communauté tarifaire (json)",
+        "hu": "Kollektív viteldíjkártya (json)",
+        "uk": "Колективна картка тарифу (json)",
+        "sk": "Kolektívna karta cestovného (json)",
+        "sl": "Kartica za skupinsko prevoznino (json)",
+        "ga": "Cárta táillí comhchoiteann (json)",
+        "sv": "Kollektivt biljettpriskort (json)",
+        "mt": "Karta kollettiva tan-nollijiet (json)",
+        "el": "Κάρτα συλλογικής χρέωσης (json)",
+        "en": "Collective fare card (json)",
+        "it": "Carta tariffaria collettiva (json)",
+        "es": "Tarjeta de tarifa colectiva (json)",
+        "et": "Kollektiivne sõidukaart (json)",
+        "cs": "Kolektivní jízdné karta (json)",
+        "pl": "Karta taryfy zbiorowej (json)",
+        "ro": "Carte poștală colectivă (json)",
+        "da": "Kollektivbilletkort (json)",
+        "nl": "Collectieve tariefkaart (json)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "e918ae26-e1a0-4380-b09a-aad64d5f075d",
+      "title": {
+        "de": "json",
+        "fi": "json",
+        "pt": "json",
+        "bg": "йсон",
+        "lt": "json",
+        "lv": "json",
+        "hr": "json",
+        "fr": "json",
+        "hu": "json",
+        "uk": "JSON (англ.)",
+        "sk": "json",
+        "sl": "json",
+        "ga": "json",
+        "sv": "json",
+        "el": "Ισον",
+        "mt": "json",
+        "en": "json",
+        "it": "json",
+        "es": "json",
+        "et": "json",
+        "cs": "json",
+        "pl": "json",
+        "da": "json",
+        "ro": "json",
+        "nl": "json"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "media_type": "http://www.iana.org/assignments/media-types/text/plain",
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/ov2"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/TXT",
+        "id": "TXT",
+        "label": "Plain text"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/ov2"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (ov2)",
+        "fi": "Yhdistetty matkakortti (ov2)",
+        "pt": "Bilhete combinado (ov2)",
+        "bg": "Комбинирана тарифна карта (ov2)",
+        "lt": "Bendra bilieto kaina (ov2)",
+        "hr": "Kombinirana karta (ov2)",
+        "lv": "Kombinētā tarifu karte (ov2)",
+        "fr": "Carte tarifaire commune (ov2)",
+        "hu": "Kombinált viteldíjkártya (ov2)",
+        "uk": "Картка комбінованого тарифу (ov2)",
+        "sk": "Kombinovaná karta cestovného (ov2)",
+        "sl": "Kartica za kombinirano prevoznino (ov2)",
+        "ga": "Cárta táille comhcheangailte (ov2)",
+        "sv": "Kombinerat biljettpriskort (ov2)",
+        "mt": "Kard tat-tariffa kkombinata (ov2)",
+        "el": "Κάρτα συνδυασμένου ναύλου (ov2)",
+        "en": "Combined fare card (ov2)",
+        "it": "Carta tariffaria combinata (ov2)",
+        "es": "Tarjeta de tarifa combinada (ov2)",
+        "et": "Kombineeritud sõidukaart (ov2)",
+        "cs": "Kombinovaná jízdenka (ov2)",
+        "pl": "Połączona karta taryfowa (ov2)",
+        "da": "Kombineret billetpriskort (ov2)",
+        "ro": "Card cu tarif combinat (ov2)",
+        "nl": "Gecombineerde tariefkaart (ov2)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "78fb01c9-379e-4276-bd16-6b4ec738ed3b",
+      "title": {
+        "de": "ov2",
+        "fi": "ov2",
+        "pt": "ov2",
+        "bg": "ov2",
+        "lt": "ov2",
+        "hr": "ov2",
+        "lv": "ov2",
+        "fr": "ov2",
+        "hu": "ov2",
+        "uk": "ov2",
+        "sk": "ov2",
+        "sl": "ov2",
+        "ga": "ov2",
+        "sv": "ov2",
+        "mt": "ov2",
+        "el": "ω2",
+        "en": "ov2",
+        "it": "ov2",
+        "es": "ov2",
+        "et": "ov2",
+        "cs": "ov2",
+        "pl": "ov2",
+        "da": "ov2",
+        "ro": "ov2",
+        "nl": "ov2"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_by",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "access_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/gpx"
+      ],
+      "rights": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_by"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/GPX",
+        "id": "GPX",
+        "label": "GPX"
+      },
+      "download_url": [
+        "https://data.sbb.ch/api/v2/catalog/datasets/tarifverbundkarte/exports/gpx"
+      ],
+      "description": {
+        "de": "Tarifverbundkarte (gpx)",
+        "fi": "Tariffiverkkokortti (gpx)",
+        "pt": "Cartão de rede tarifário (gpx)",
+        "bg": "Тарифна мрежова карта (gpx)",
+        "lt": "Tarifų tinklo kortelė (gpx)",
+        "lv": "Tarifu tīkla karte (gpx)",
+        "hr": "Tarifna mrežna kartica (gpx)",
+        "fr": "Carte tarifaire commune (gpx)",
+        "hu": "Díjszabású hálózati kártya (gpx)",
+        "uk": "Тарифна мережева карта (gpx)",
+        "sk": "Tarifná sieťová karta (gpx)",
+        "sl": "Tarifna mrežna kartica (gpx)",
+        "ga": "Cárta líonra taraife (gpx)",
+        "sv": "Tariffnätverkskort (gpx)",
+        "mt": "Kard tan-netwerk tat-tariffi (gpx)",
+        "el": "Κάρτα δικτύου τιμολογίων (gpx)",
+        "en": "Tariff network card (gpx)",
+        "it": "Scheda di rete tariffaria (gpx)",
+        "es": "Tarjeta de red tarifaria (gpx)",
+        "et": "Tariifivõrgu kaart (gpx)",
+        "cs": "Tarifní síťová karta (gpx)",
+        "pl": "Taryfowa karta sieciowa (gpx)",
+        "ro": "Placă de rețea tarifară (gpx)",
+        "da": "Tarifnetværkskort (gpx)",
+        "nl": "Tariefnetwerkkaart (gpx)"
+      },
+      "modified": "2026-05-31T01:01:04+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "235833a3-639c-4e53-abfe-88e663a619c3",
+      "title": {
+        "de": "gpx",
+        "fi": "gpx",
+        "pt": "gpx",
+        "bg": "gpx",
+        "lt": "gpx",
+        "hr": "gpx",
+        "lv": "gpx",
+        "fr": "gpx",
+        "hu": "gpx",
+        "uk": "gpx",
+        "sk": "gpx",
+        "sl": "gpx",
+        "ga": "gpx",
+        "sv": "gpx",
+        "el": "gpx",
+        "mt": "gpx",
+        "en": "gpx",
+        "it": "gpx",
+        "es": "gpx",
+        "et": "gpx",
+        "cs": "gpx",
+        "pl": "gpx",
+        "da": "gpx",
+        "ro": "gpx",
+        "nl": "gpx"
+      },
+      "issued": "2026-05-31T01:01:04+00:00"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 305
+  },
+  "publisher": {
+    "resource": "https://data.sbb.ch/explore/?refine.dcat_ap_ch.domain=schweizerische-bundesbahnen-sbb",
+    "name": "schweizerische-bundesbahnen-sbb",
+    "type": "Agent"
+  },
+  "modified": "2026-05-31T01:01:04+00:00",
+  "id": "tarifverbundkarte-schweizerische-bundesbahnen-sbb",
+  "categories": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+      "id": "TRAN",
+      "label": {
+        "nn": "Transport",
+        "de": "Verkehr",
+        "no": "Transport",
+        "fi": "Liikenne",
+        "pt": "Transportes",
+        "bg": "Транспорт",
+        "lt": "Transportas",
+        "lv": "Transports",
+        "hr": "Promet",
+        "fr": "Transports",
+        "hu": "Közlekedés",
+        "sk": "Doprava",
+        "sl": "Transport",
+        "ga": "Iompar",
+        "sv": "Transport",
+        "mt": "Trasport",
+        "el": "Μεταφορές",
+        "en": "Transport",
+        "it": "Trasporti",
+        "es": "Transporte",
+        "et": "Transport",
+        "cs": "Doprava",
+        "nb": "Transport",
+        "pl": "Transport",
+        "ro": "Transport",
+        "da": "Transport",
+        "nl": "Vervoer"
+      }
+    }
+  ],
+  "issued": "2026-05-31T01:01:04+00:00",
+  "catalog_record": {
+    "modified": "2026-05-31T20:05:07Z",
+    "issued": "2025-08-24T20:11:30Z"
+  },
+  "contact_point": [
+    {
+      "name": "Ansprechstelle für Daten",
+      "type": "Organization",
+      "email": "mailto:data@sbb.ch"
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "svalbard,-basiskart,-topografisk",
+      "label": "Svalbard, basiskart, topografisk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/c4d0693a-d723-494c-9c90-42f72139b876",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      }
+    },
+    "full_available_languages": [
+      "nor",
+      "en"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Tjenesten inneholder de offisielle topografiske data over Svalbard",
+    "en": "The service contains the official topographical data for Svalbard"
+  },
+  "index": "dataset",
+  "title": {
+    "nor": "NP Basiskart Svalbard WMTS 25833",
+    "en": "NP_Base map_Svalbard_WMTS_25833"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+    "label": "irregular"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "https://creativecommons.org/licenses/by/4.0/deed.no",
+        "id": "https://creativecommons.org/licenses/by/4.0/deed.no",
+        "label": "https://creativecommons.org/licenses/by/4.0/deed.no"
+      },
+      "access_url": [
+        "https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Basiskart_Svalbard_WMTS_25833/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2013-11-14T00:00:00Z",
+      "id": "3625241c-1e89-4433-bee2-a69db7854f75",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Basiskart_Svalbard_WMTS_25833/MapServer/WMTS/1.0.0/WMTSCapabilities.xml"
+          ],
+          "endpoint_description": [
+            "https://geodata.npolar.no/arcgis/rest/services/Basisdata/NP_Basiskart_Svalbard_WMTS_25833/MapServer/WMTS/1.0.0/WMTSCapabilities.xml?"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "lv": "apskatīt",
+        "hr": "pogled",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "el": "προβολή",
+        "mt": "ħarsa",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Anders Skoglund",
+    "type": "Person",
+    "email": "mailto:anders.skoglund@npolar.no"
+  },
+  "modified": "2013-11-14T00:00:00Z",
+  "id": "c4d0693a-d723-494c-9c90-42f72139b876",
+  "categories": [],
+  "issued": "0001-01-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            7.467098,
+            81.156908
+          ],
+          [
+            36.050235,
+            81.156908
+          ],
+          [
+            36.050235,
+            73.735724
+          ],
+          [
+            7.467098,
+            73.735724
+          ],
+          [
+            7.467098,
+            81.156908
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:04Z",
+    "issued": "2021-10-15T08:49:22Z"
+  }
+}

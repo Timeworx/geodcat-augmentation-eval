@@ -1,0 +1,71 @@
+geodcat-augmentation-eval
+=========================
+
+Code in this repository (everything under `src/metadata/`, `eval/`,
+`tests/`) is licensed under the Apache License 2.0 (see LICENSE).
+
+Data artefacts (corpus, results, sample fixtures) are licensed under
+CC-BY 4.0 (see LICENSE-DATA).
+
+This repository redistributes third-party material under its own
+upstream licenses. Attribution and license terms below.
+
+
+SHACL shapes — SEMICeu
+----------------------
+
+`tests/fixtures/shacl/geodcat-ap-3.0/shapes/geodcat-ap-shacl.ttl`
+`tests/fixtures/shacl/geodcat-ap-3.0/shapes/dcat-ap-shacl.ttl`
+`tests/fixtures/shacl/geodcat-ap-3.0/contexts/geodcat-ap.jsonld`
+
+  Copyright © European Commission / SEMIC
+  Licensed under the European Union Public Licence v1.2 (EUPL-1.2)
+  Source: https://github.com/SEMICeu/GeoDCAT-AP
+          https://github.com/SEMICeu/DCAT-AP
+
+W3C Vocabularies
+----------------
+
+`tests/fixtures/shacl/geodcat-ap-3.0/vocab/dcat.ttl`
+`tests/fixtures/shacl/geodcat-ap-3.0/vocab/adms.ttl`
+`tests/fixtures/shacl/geodcat-ap-3.0/contexts/dcat3.jsonld`
+`tests/fixtures/shacl/geodcat-ap-3.0/contexts/dcat2.jsonld`
+
+  Copyright © World Wide Web Consortium (W3C)
+  Licensed under the W3C Document License
+  See https://www.w3.org/Consortium/Legal/2015/doc-license
+
+DCMI Terms
+----------
+
+`tests/fixtures/shacl/geodcat-ap-3.0/vocab/dct.ttl`
+
+  Copyright © Dublin Core Metadata Initiative (DCMI)
+  Licensed under CC-BY 4.0
+  See https://www.dublincore.org/specifications/dublin-core/dcmi-terms/
+
+FOAF Vocabulary
+---------------
+
+`tests/fixtures/shacl/geodcat-ap-3.0/vocab/foaf.rdf`
+
+  Copyright © Dan Brickley and Libby Miller
+  Licensed under CC-BY 1.0
+  See http://xmlns.com/foaf/spec/
+
+Real corpus records — data.europa.eu
+------------------------------------
+
+`eval/corpus/real/*.raw.json`
+`eval/corpus/real/*.jsonld`
+
+  Harvested from data.europa.eu. Each record retains the licence of
+  its publishing catalogue (varies by record; check the `licence`
+  field of the corresponding `.raw.json` payload). The aggregate
+  selection, the conversion to GeoDCAT-AP-shaped JSON-LD, and the
+  manifest are released under CC-BY 4.0 as part of the eval corpus.
+
+
+Provenance details (URLs, SHA-256 hashes, retrieval timestamps) for
+every vendored file live in
+`tests/fixtures/shacl/geodcat-ap-3.0/PROVENANCE.md`.

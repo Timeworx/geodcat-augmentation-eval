@@ -1,0 +1,1062 @@
+{
+  "identifier": [
+    "6ad51d73-c079-4112-afd6-4ce569769f0c"
+  ],
+  "country": {
+    "label": "Ukraine",
+    "id": "ua",
+    "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+  },
+  "keywords": [
+    {
+      "id": "договора",
+      "label": "договора",
+      "language": "uk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c",
+  "catalog": {
+    "id": "data-gov-ua",
+    "modified": "2023-02-10T20:19:48.373074",
+    "issued": "2022-11-21T05:36:39Z",
+    "publisher": {
+      "type": "Agent",
+      "name": "States site of Ukraine",
+      "email": "mailto:admin@data.gov.ua",
+      "homepage": "https://www.kmu.gov.ua/en"
+    },
+    "language": [
+      {
+        "id": "uk",
+        "label": "Ukrainian",
+        "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+      }
+    ],
+    "homepage": "https://data.gov.ua",
+    "source_type": "dcat-ap",
+    "description": {
+      "en": "Open Data Portal Ukraine"
+    },
+    "title": {
+      "en": "data.gov.ua"
+    },
+    "country": {
+      "label": "Ukraine",
+      "id": "ua",
+      "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ukraine",
+        "id": "ua",
+        "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+      }
+    ],
+    "spatial": []
+  },
+  "translation_meta": {
+    "details": {
+      "mt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "uk": {
+        "machine_translated": false,
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:21Z",
+        "issued": "2026-05-08T20:19:31Z"
+      }
+    },
+    "full_available_languages": [
+      "mt",
+      "sv",
+      "el",
+      "it",
+      "da",
+      "fr",
+      "es",
+      "ro",
+      "ga",
+      "et",
+      "hr",
+      "bg",
+      "pl",
+      "hu",
+      "sk",
+      "cs",
+      "fi",
+      "en",
+      "sl",
+      "uk",
+      "de",
+      "lt",
+      "nl",
+      "lv",
+      "pt"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "ro": "Setul de date conține informații despre contractele încheiate de compania de utilități",
+    "cs": "Soubor dat obsahuje informace o smlouvách uzavřených společností poskytující veřejné služby",
+    "sk": "Súbor údajov obsahuje informácie o zmluvách uzatvorených verejnoprospešnou spoločnosťou",
+    "nl": "De dataset bevat informatie over de door het nutsbedrijf gesloten contracten",
+    "ga": "Tá faisnéis sa tacar sonraí faoi na conarthaí a thug an chuideachta fóntais i gcrích",
+    "es": "El conjunto de datos contiene información sobre los contratos celebrados por la empresa de servicios públicos",
+    "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις συμβάσεις που συνάπτονται από την εταιρεία κοινής ωφέλειας",
+    "mt": "Is-sett ta’ data fih informazzjoni dwar il-kuntratti konklużi mill-kumpanija ta’ utilità",
+    "fr": "L'ensemble de données contient des informations sur les contrats conclus par l'entreprise de services publics",
+    "sl": "Podatkovni niz vsebuje informacije o pogodbah, ki jih je sklenilo komunalno podjetje",
+    "da": "Datasættet indeholder oplysninger om de kontrakter, som forsyningsselskabet har indgået",
+    "hr": "Skup podataka sadržava informacije o ugovorima koje je sklopilo komunalno poduzeće",
+    "pt": "O conjunto de dados contém informações sobre os contratos celebrados pela empresa de serviços públicos",
+    "pl": "Zbiór danych zawiera informacje o umowach zawartych przez przedsiębiorstwo użyteczności publicznej",
+    "et": "Andmekogum sisaldab teavet kommunaalettevõtte sõlmitud lepingute kohta",
+    "en": "The data set contains information about the contracts concluded by the utility company",
+    "fi": "Aineisto sisältää tiedot yleishyödyllisen yrityksen tekemistä sopimuksista",
+    "bg": "Наборът от данни съдържа информация за договорите, сключени от дружеството за комунални услуги",
+    "hu": "Az adatállomány a közüzemi társaság által kötött szerződésekre vonatkozó információkat tartalmaz",
+    "uk": "Набір даних містить інформацію про укладені договора комунальним підприємством",
+    "it": "Il set di dati contiene informazioni sui contratti conclusi dalla società di servizi pubblici",
+    "de": "Der Datensatz enthält Informationen über die vom Versorgungsunternehmen geschlossenen Verträge",
+    "lt": "Duomenų rinkinyje pateikiama informacija apie komunalinių paslaugų įmonės sudarytas sutartis",
+    "sv": "Datamängden innehåller information om de avtal som elbolaget har ingått",
+    "lv": "Datu kopa satur informāciju par komunālo pakalpojumu uzņēmuma noslēgtajiem līgumiem"
+  },
+  "index": "dataset",
+  "version_info": "1.0",
+  "language": [
+    {
+      "id": "ua",
+      "label": "ua"
+    }
+  ],
+  "title": {
+    "mt": "Lista ta' kuntratti konklużi",
+    "sv": "Förteckning över ingångna avtal",
+    "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί",
+    "it": "Elenco dei contratti conclusi",
+    "da": "Liste over indgåede kontrakter",
+    "fr": "Liste des contrats conclus",
+    "es": "Lista de contratos celebrados",
+    "ro": "Lista contractelor încheiate",
+    "ga": "Liosta na gconarthaí a tugadh i gcrích",
+    "et": "Sõlmitud lepingute loetelu",
+    "hr": "Popis sklopljenih ugovora",
+    "bg": "Списък на сключените договори",
+    "pl": "Wykaz zawartych umów",
+    "hu": "A megkötött szerződések jegyzéke",
+    "sk": "Zoznam uzavretých zmlúv",
+    "cs": "Seznam uzavřených smluv",
+    "fi": "Luettelo tehdyistä sopimuksista",
+    "en": "List of concluded contracts",
+    "sl": "Seznam sklenjenih pogodb",
+    "uk": "Перелік укладених договорів",
+    "de": "Liste der abgeschlossenen Verträge",
+    "lt": "Sudarytų sutarčių sąrašas",
+    "nl": "Lijst van gesloten contracten",
+    "lv": "Noslēgto līgumu saraksts",
+    "pt": "Lista dos contratos celebrados"
+  },
+  "distributions": [
+    {
+      "id": "abc93f2c-e271-4b2f-8827-b00585778971",
+      "description": {
+        "ga": "Faisnéis faoi na conarthaí a tugadh i gcrích le haghaidh 2021",
+        "sk": "Informácie o uzatvorených zmluvách na rok 2021",
+        "lt": "Informacija apie 2021 m. sudarytas sutartis",
+        "de": "Informationen über die für 2021 geschlossenen Verträge",
+        "mt": "Informazzjoni dwar il-kuntratti konklużi għall-2021",
+        "fr": "Informations sur les contrats conclus pour 2021",
+        "hr": "Informacije o sklopljenim ugovorima za 2021.",
+        "hu": "Tájékoztatás a 2021-re vonatkozóan megkötött szerződésekről",
+        "ro": "Informații privind contractele încheiate pentru 2021",
+        "uk": "Інформація про укладені договора за 2021 р.",
+        "sl": "Informacije o sklenjenih pogodbah za leto 2021",
+        "es": "Información sobre los contratos celebrados para 2021",
+        "lv": "Informācija par 2021. gadā noslēgtajiem līgumiem",
+        "cs": "Informace o uzavřených smlouvách na rok 2021",
+        "bg": "Информация за сключените договори за 2021 г.",
+        "da": "Oplysninger om de indgåede kontrakter for 2021",
+        "el": "Πληροφορίες σχετικά με τις συναφθείσες συμβάσεις για το 2021",
+        "pl": "Informacja o zawartych umowach na 2021 r.",
+        "fi": "Tiedot vuonna 2021 tehdyistä sopimuksista",
+        "nl": "Informatie over de gesloten contracten voor 2021",
+        "pt": "Informações sobre os contratos celebrados para 2021",
+        "it": "Informazioni sui contratti conclusi per il 2021",
+        "en": "Information on the concluded contracts for 2021",
+        "sv": "Information om ingångna avtal för 2021",
+        "et": "Teave 2021. aastaks sõlmitud lepingute kohta"
+      },
+      "title": {
+        "hr": "Popis sklopljenih ugovora za 2021. csv",
+        "da": "Liste over indgåede kontrakter for 2021 csv",
+        "lv": "2021. gadā noslēgto līgumu saraksts",
+        "sl": "Seznam sklenjenih pogodb za leto 2021 csv",
+        "fr": "Liste des contrats conclus pour 2021 csv",
+        "uk": "Перелік укладених договорів за 2021 р.csv",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 2021 csv",
+        "pt": "Lista dos contratos celebrados para 2021 csv",
+        "cs": "Seznam uzavřených smluv na rok 2021 csv",
+        "es": "Lista de contratos celebrados para 2021 csv",
+        "sk": "Zoznam uzavretých zmlúv na rok 2021 csv",
+        "sv": "Förteckning över ingångna avtal för 2021 csv",
+        "nl": "Lijst van gesloten contracten voor 2021 csv",
+        "en": "List of concluded contracts for 2021 csv",
+        "ro": "Lista contractelor încheiate pentru 2021 csv",
+        "mt": "Lista ta’ kuntratti konklużi għall-2021 csv",
+        "de": "Liste der abgeschlossenen Verträge für 2021 csv",
+        "it": "Elenco dei contratti conclusi per il 2021 csv",
+        "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί για το 2021 csv",
+        "bg": "Списък на сключените договори за 2021 г. csv",
+        "lt": "2021 m. csv sudarytų sutarčių sąrašas",
+        "et": "2021. aasta avaliku sektori kulutuste kohta sõlmitud lepingute loetelu",
+        "hu": "A 2021. évre megkötött szerződések jegyzéke",
+        "pl": "Wykaz zawartych umów na 2021 r. csv",
+        "fi": "Luettelo vuonna 2021 tehdyistä sopimuksista csv"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/0fd06ea6-987f-4571-bef7-d3f29429a56d/download/perelik-ukladenikh-dogovoriv-za-2021-r.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "byte_size": 22147,
+      "media_type": "text/csv"
+    },
+    {
+      "id": "0db6c207-1d16-4000-8f0b-006bbc8afc85",
+      "description": {
+        "hr": "Skup podataka sadržava informacije o sklopljenim ugovorima komunalnog poduzeća za listopad 2019.",
+        "lt": "Duomenų rinkinyje pateikiama informacija apie 2019 m. spalio mėn. komunalinių paslaugų įmonės sudarytas sutartis.",
+        "mt": "Is-sett ta’ data fih informazzjoni dwar il-kuntratti konklużi mill-kumpanija ta’ utilità għal Ottubru 2019",
+        "uk": "Набір даних містить інформацію про укладені договори комунальним підприємством за жовтень 2019 року",
+        "es": "El conjunto de datos contiene información sobre los contratos celebrados por la empresa de servicios públicos para octubre de 2019",
+        "ro": "Setul de date conține informații privind contractele încheiate de societatea de utilități pentru luna octombrie 2019",
+        "pl": "Zbiór danych zawiera informacje o zawartych umowach przez przedsiębiorstwo użyteczności publicznej za październik 2019 r.",
+        "fr": "L’ensemble de données contient des informations sur les contrats conclus par la société de services publics pour octobre 2019.",
+        "sl": "Podatkovni niz vsebuje informacije o sklenjenih pogodbah komunalnega podjetja za oktober 2019",
+        "et": "Andmekogum sisaldab teavet kommunaalettevõtte poolt 2019. aasta oktoobriks sõlmitud lepingute kohta",
+        "nl": "De dataset bevat informatie over de door het nutsbedrijf gesloten contracten voor oktober 2019",
+        "sk": "Súbor údajov obsahuje informácie o zmluvách uzatvorených verejnoprospešnou spoločnosťou za október 2019",
+        "lv": "Datu kopa satur informāciju par komunālo pakalpojumu uzņēmuma noslēgtajiem līgumiem par 2019. gada oktobri",
+        "hu": "Az adatállomány a közműszolgáltató által 2019 októberére megkötött szerződésekre vonatkozó információkat tartalmaz.",
+        "it": "Il set di dati contiene informazioni sui contratti conclusi dalla società di servizi pubblici per ottobre 2019",
+        "en": "The data set contains information on the concluded contracts by the utility company for October 2019",
+        "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις συναφθείσες συμβάσεις από την εταιρεία κοινής ωφέλειας για τον Οκτώβριο του 2019",
+        "da": "Datasættet indeholder oplysninger om forsyningsselskabets indgåede kontrakter for oktober 2019",
+        "fi": "Aineisto sisältää tiedot yleishyödyllisen yhtiön lokakuussa 2019 tekemistä sopimuksista.",
+        "cs": "Soubor dat obsahuje informace o uzavřených smlouvách energetické společnosti za říjen 2019",
+        "bg": "Наборът от данни съдържа информация за сключените договори от дружеството за комунални услуги за месец октомври 2019 г.",
+        "de": "Der Datensatz enthält Informationen zu den abgeschlossenen Verträgen des Versorgungsunternehmens für Oktober 2019",
+        "sv": "Datasetet innehåller information om elbolagets ingångna avtal för oktober 2019",
+        "pt": "O conjunto de dados contém informações sobre os contratos celebrados pela empresa de serviços públicos para outubro de 2019",
+        "ga": "Tá faisnéis sa tacar sonraí maidir leis na conarthaí a thug an chuideachta fóntais i gcrích le haghaidh mhí Dheireadh Fómhair 2019"
+      },
+      "title": {
+        "sl": "Seznam sklenjenih pogodb.xlsx",
+        "sv": "Förteckning över ingångna avtal.xlsx",
+        "fr": "Liste des contrats conclus.xlsx",
+        "de": "Liste der abgeschlossenen Verträge.xlsx",
+        "pt": "Lista dos contratos celebrados.xlsx",
+        "el": "Κατάλογος συμβάσεων που έχουν συναφθεί.xlsx",
+        "en": "List of concluded contracts.xlsx",
+        "mt": "Lista ta' kuntratti konklużi.xlsx",
+        "fi": "Luettelo tehdyistä sopimuksista.xlsx",
+        "bg": "Списък на сключените договори.xlsx",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích.xlsx",
+        "hr": "Popis sklopljenih ugovora.xlsx",
+        "lv": "Noslēgto līgumu saraksts.xlsx",
+        "et": "Sõlmitud lepingute nimekiri.xlsx",
+        "it": "Elenco dei contratti conclusi.xlsx",
+        "hu": "A megkötött szerződések listája.xlsx",
+        "sk": "Zoznam uzavretých zmlúv.xlsx",
+        "es": "Lista de contratos celebrados.xlsx",
+        "lt": "Sudarytų sutarčių sąrašas.xlsx",
+        "cs": "Seznam uzavřených smluv.xlsx",
+        "nl": "Lijst van gesloten contracten.xlsx",
+        "ro": "Lista contractelor încheiate.xlsx",
+        "uk": "Перелік укладених договорів.xlsx",
+        "pl": "Lista zawartych kontraktów.xlsx",
+        "da": "Liste over indgåede kontrakter.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/03cf9adb-0d1e-4364-80ec-b286ac44f34a/download/perelik-ukladenikh-dogovoriv.xlsx"
+      ],
+      "byte_size": 11366
+    },
+    {
+      "id": "41882ba3-b100-42e7-ada3-56b322a03e9a",
+      "description": {
+        "sk": "Súbor údajov obsahuje informácie o zmluvách uzatvorených verejnoprospešnou spoločnosťou",
+        "pt": "O conjunto de dados contém informações sobre os contratos celebrados pela empresa de serviços públicos",
+        "lt": "Duomenų rinkinyje pateikiama informacija apie komunalinių paslaugų įmonės sudarytas sutartis",
+        "et": "Andmekogum sisaldab teavet kommunaalettevõtte sõlmitud lepingute kohta",
+        "fi": "Aineisto sisältää tiedot yleishyödyllisen yrityksen tekemistä sopimuksista",
+        "fr": "L'ensemble de données contient des informations sur les contrats conclus par l'entreprise de services publics",
+        "nl": "De dataset bevat informatie over de door het nutsbedrijf gesloten contracten",
+        "ro": "Setul de date conține informații despre contractele încheiate de compania de utilități",
+        "en": "The data set contains information about the contracts concluded by the utility company",
+        "hr": "Skup podataka sadržava informacije o ugovorima koje je sklopilo komunalno poduzeće",
+        "pl": "Zbiór danych zawiera informacje o umowach zawartych przez przedsiębiorstwo użyteczności publicznej",
+        "da": "Datasættet indeholder oplysninger om de kontrakter, som forsyningsselskabet har indgået",
+        "ga": "Tá faisnéis sa tacar sonraí faoi na conarthaí a thug an chuideachta fóntais i gcrích",
+        "sv": "Datamängden innehåller information om de avtal som elbolaget har ingått",
+        "lv": "Datu kopa satur informāciju par komunālo pakalpojumu uzņēmuma noslēgtajiem līgumiem",
+        "es": "El conjunto de datos contiene información sobre los contratos celebrados por la empresa de servicios públicos",
+        "cs": "Soubor dat obsahuje informace o smlouvách uzavřených společností poskytující veřejné služby",
+        "de": "Der Datensatz enthält Informationen über die vom Versorgungsunternehmen geschlossenen Verträge",
+        "bg": "Наборът от данни съдържа информация за договорите, сключени от дружеството за комунални услуги",
+        "mt": "Is-sett ta’ data fih informazzjoni dwar il-kuntratti konklużi mill-kumpanija ta’ utilità",
+        "it": "Il set di dati contiene informazioni sui contratti conclusi dalla società di servizi pubblici",
+        "uk": "Набір даних містить інформацію про укладені договора комунальним підприємством",
+        "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις συμβάσεις που συνάπτονται από την εταιρεία κοινής ωφέλειας",
+        "hu": "Az adatállomány a közüzemi társaság által kötött szerződésekre vonatkozó információkat tartalmaz",
+        "sl": "Podatkovni niz vsebuje informacije o pogodbah, ki jih je sklenilo komunalno podjetje"
+      },
+      "title": {
+        "fr": "Liste des contrats conclus pour 2023 csv",
+        "es": "Lista de contratos celebrados para 2023 csv",
+        "hu": "A 2023. évre megkötött szerződések jegyzéke",
+        "de": "Liste der abgeschlossenen Verträge für 2023 csv",
+        "sv": "Förteckning över ingångna avtal för 2023 csv",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 2023 csv",
+        "cs": "Seznam uzavřených smluv na rok 2023 csv",
+        "mt": "Lista ta’ kuntratti konklużi għall-2023 csv",
+        "en": "List of concluded contracts for 2023 csv",
+        "et": "2023. aasta avaliku sektori kulutuste kohta sõlmitud lepingute loetelu",
+        "pl": "Wykaz zawartych umów na 2023 r. csv",
+        "lv": "2023. gadā noslēgto līgumu saraksts",
+        "sl": "Seznam sklenjenih pogodb za leto 2023 csv",
+        "da": "Liste over indgåede kontrakter for 2023 csv",
+        "ro": "Lista contractelor încheiate pentru 2023 csv",
+        "bg": "Списък на сключените договори за 2023 г. csv",
+        "sk": "Zoznam uzavretých zmlúv na rok 2023 csv",
+        "hr": "Popis sklopljenih ugovora za 2023. csv",
+        "fi": "Luettelo vuonna 2023 tehdyistä sopimuksista csv",
+        "it": "Elenco dei contratti conclusi per il 2023 csv",
+        "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί για το 2023 csv",
+        "uk": "Перелік укладених договорів за 2023 р.csv",
+        "lt": "2023 m. CSV sudarytų sutarčių sąrašas",
+        "nl": "Lijst van gesloten contracten voor 2023 csv",
+        "pt": "Lista dos contratos celebrados para 2023 csv"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/cb65aa31-be31-463c-aee8-9dce51383729/download/perelik-ukladenikh-dogovoriv-za-2023-rik.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "byte_size": 22581
+    },
+    {
+      "id": "a08bce61-559d-4d67-b1e2-2c901526f458",
+      "title": {
+        "bg": "Списък на сключените договори за 2022 г. csv",
+        "lt": "2022 m. csv sudarytų sutarčių sąrašas",
+        "uk": "Перелік укладених договорів за 2022 р.csv",
+        "fr": "Liste des contrats conclus pour 2022 csv",
+        "pt": "Lista dos contratos celebrados para 2022 csv",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 2022 csv",
+        "hu": "A 2022. évre megkötött szerződések jegyzéke",
+        "de": "Liste der abgeschlossenen Verträge für 2022 csv",
+        "fi": "Luettelo vuonna 2022 tehdyistä sopimuksista csv",
+        "pl": "Wykaz zawartych umów na 2022 r. csv",
+        "ro": "Lista contractelor încheiate pentru 2022 csv",
+        "et": "2022. aasta avaliku sektori kulutuste kohta sõlmitud lepingute loetelu",
+        "hr": "Popis sklopljenih ugovora za 2022. csv",
+        "cs": "Seznam uzavřených smluv na rok 2022 csv",
+        "sl": "Seznam sklenjenih pogodb za leto 2022 csv",
+        "nl": "Lijst van gesloten contracten voor 2022 csv",
+        "it": "Elenco dei contratti conclusi per il 2022 csv",
+        "sk": "Zoznam uzavretých zmlúv na rok 2022 csv",
+        "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί για το 2022 csv",
+        "mt": "Lista ta’ kuntratti konklużi għall-2022 csv",
+        "sv": "Förteckning över ingångna avtal för 2022 csv",
+        "da": "Liste over indgåede kontrakter for 2022 csv",
+        "es": "Lista de contratos celebrados para 2022 csv",
+        "lv": "2022. gadā noslēgto līgumu saraksts csv",
+        "en": "List of concluded contracts for 2022 csv"
+      },
+      "description": {
+        "cs": "Soubor dat obsahuje informace o smlouvách uzavřených společností poskytující veřejné služby",
+        "sl": "Podatkovni niz vsebuje informacije o pogodbah, ki jih je sklenilo komunalno podjetje",
+        "en": "The data set contains information about the contracts concluded by the utility company",
+        "hu": "Az adatállomány a közüzemi társaság által kötött szerződésekre vonatkozó információkat tartalmaz",
+        "et": "Andmekogum sisaldab teavet kommunaalettevõtte sõlmitud lepingute kohta",
+        "pt": "O conjunto de dados contém informações sobre os contratos celebrados pela empresa de serviços públicos",
+        "sk": "Súbor údajov obsahuje informácie o zmluvách uzatvorených verejnoprospešnou spoločnosťou",
+        "hr": "Skup podataka sadržava informacije o ugovorima koje je sklopilo komunalno poduzeće",
+        "pl": "Zbiór danych zawiera informacje o umowach zawartych przez przedsiębiorstwo użyteczności publicznej",
+        "ga": "Tá faisnéis sa tacar sonraí faoi na conarthaí a thug an chuideachta fóntais i gcrích",
+        "nl": "De dataset bevat informatie over de door het nutsbedrijf gesloten contracten",
+        "fi": "Aineisto sisältää tiedot yleishyödyllisen yrityksen tekemistä sopimuksista",
+        "bg": "Наборът от данни съдържа информация за договорите, сключени от дружеството за комунални услуги",
+        "mt": "Is-sett ta’ data fih informazzjoni dwar il-kuntratti konklużi mill-kumpanija ta’ utilità",
+        "da": "Datasættet indeholder oplysninger om de kontrakter, som forsyningsselskabet har indgået",
+        "es": "El conjunto de datos contiene información sobre los contratos celebrados por la empresa de servicios públicos",
+        "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις συμβάσεις που συνάπτονται από την εταιρεία κοινής ωφέλειας",
+        "uk": "Набір даних містить інформацію про укладені договора комунальним підприємством",
+        "it": "Il set di dati contiene informazioni sui contratti conclusi dalla società di servizi pubblici",
+        "ro": "Setul de date conține informații despre contractele încheiate de compania de utilități",
+        "lt": "Duomenų rinkinyje pateikiama informacija apie komunalinių paslaugų įmonės sudarytas sutartis",
+        "sv": "Datamängden innehåller information om de avtal som elbolaget har ingått",
+        "de": "Der Datensatz enthält Informationen über die vom Versorgungsunternehmen geschlossenen Verträge",
+        "lv": "Datu kopa satur informāciju par komunālo pakalpojumu uzņēmuma noslēgtajiem līgumiem",
+        "fr": "L'ensemble de données contient des informations sur les contrats conclus par l'entreprise de services publics"
+      },
+      "byte_size": 19079,
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/b68c4539-aee9-497d-9437-e5b8f0ef8fa0/download/perelik-ukladenikh-dogovoriv-za-2022-r.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "b69adb2d-a636-41ff-b1b4-71481d8b7008",
+      "title": {
+        "en": "List of concluded contracts for 2025.xlsx",
+        "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί για το 2025.xlsx",
+        "es": "Lista de contratos celebrados para 2025.xlsx",
+        "lv": "2025.xlsx noslēgto līgumu saraksts",
+        "sk": "Zoznam uzavretých zmlúv na rok 2025.xlsx",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 2025.xlsx",
+        "hu": "A 2025.xlsx tekintetében megkötött szerződések jegyzéke",
+        "da": "Liste over indgåede kontrakter for 2025.xlsx",
+        "sv": "Förteckning över ingångna avtal för 2025.xlsx",
+        "fr": "Liste des contrats conclus pour 2025.xlsx",
+        "de": "Liste der abgeschlossenen Verträge für 2025.xlsx",
+        "lt": "2025 m. sudarytų sutarčių sąrašas.xlsx",
+        "pt": "Lista dos contratos celebrados para 2025.xlsx",
+        "uk": "Перелік укладених договорів за 2025 рік.xlsx",
+        "fi": "Luettelo vuonna 2025 tehdyistä sopimuksista.xlsx",
+        "it": "Elenco dei contratti conclusi per il 2025.xlsx",
+        "et": "2025. aastaks sõlmitud lepingute loeteluxlsx",
+        "cs": "Seznam uzavřených smluv na rok 2025.xlsx",
+        "ro": "Lista contractelor încheiate pentru 2025.xlsx",
+        "mt": "Lista ta’ kuntratti konklużi għall-2025.xlsx",
+        "sl": "Seznam sklenjenih pogodb za leto 2025.xlsx",
+        "pl": "Wykaz zawartych umów na 2025.xlsx",
+        "nl": "Lijst van gesloten contracten voor 2025.xlsx",
+        "hr": "Popis sklopljenih ugovora za 2025.xlsx",
+        "bg": "Списък на сключените договори за 2025 г. xlsx"
+      },
+      "description": {
+        "sv": "Datamängden innehåller information om de avtal som elbolaget har ingått",
+        "bg": "Наборът от данни съдържа информация за договорите, сключени от дружеството за комунални услуги",
+        "it": "Il set di dati contiene informazioni sui contratti conclusi dalla società di servizi pubblici",
+        "da": "Datasættet indeholder oplysninger om de kontrakter, som forsyningsselskabet har indgået",
+        "sl": "Podatkovni niz vsebuje informacije o pogodbah, ki jih je sklenilo komunalno podjetje",
+        "pl": "Zbiór danych zawiera informacje o umowach zawartych przez przedsiębiorstwo użyteczności publicznej",
+        "ro": "Setul de date conține informații despre contractele încheiate de compania de utilități",
+        "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις συμβάσεις που συνάπτονται από την εταιρεία κοινής ωφέλειας",
+        "cs": "Soubor dat obsahuje informace o smlouvách uzavřených společností poskytující veřejné služby",
+        "fi": "Aineisto sisältää tiedot yleishyödyllisen yrityksen tekemistä sopimuksista",
+        "lt": "Duomenų rinkinyje pateikiama informacija apie komunalinių paslaugų įmonės sudarytas sutartis",
+        "uk": "Набір даних містить інформацію про укладені договора комунальним підприємством",
+        "en": "The data set contains information about the contracts concluded by the utility company",
+        "es": "El conjunto de datos contiene información sobre los contratos celebrados por la empresa de servicios públicos",
+        "nl": "De dataset bevat informatie over de door het nutsbedrijf gesloten contracten",
+        "fr": "L'ensemble de données contient des informations sur les contrats conclus par l'entreprise de services publics",
+        "mt": "Is-sett ta’ data fih informazzjoni dwar il-kuntratti konklużi mill-kumpanija ta’ utilità",
+        "ga": "Tá faisnéis sa tacar sonraí faoi na conarthaí a thug an chuideachta fóntais i gcrích",
+        "pt": "O conjunto de dados contém informações sobre os contratos celebrados pela empresa de serviços públicos",
+        "sk": "Súbor údajov obsahuje informácie o zmluvách uzatvorených verejnoprospešnou spoločnosťou",
+        "hu": "Az adatállomány a közüzemi társaság által kötött szerződésekre vonatkozó információkat tartalmaz",
+        "lv": "Datu kopa satur informāciju par komunālo pakalpojumu uzņēmuma noslēgtajiem līgumiem",
+        "de": "Der Datensatz enthält Informationen über die vom Versorgungsunternehmen geschlossenen Verträge",
+        "hr": "Skup podataka sadržava informacije o ugovorima koje je sklopilo komunalno poduzeće",
+        "et": "Andmekogum sisaldab teavet kommunaalettevõtte sõlmitud lepingute kohta"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/357a7a47-4cd7-4be7-a770-80cfb5f9b84d/download/perelik-ukladenikh-dogovoriv-za-2025-rik.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 20913
+    },
+    {
+      "id": "ed97d94e-89b3-47e8-98a9-ebae7290c8f7",
+      "description": {
+        "lt": "Duomenų rinkinyje pateikiama informacija apie komunalinių paslaugų įmonės sudarytas sutartis",
+        "fi": "Aineisto sisältää tiedot yleishyödyllisen yrityksen tekemistä sopimuksista",
+        "sv": "Datamängden innehåller information om de avtal som elbolaget har ingått",
+        "hr": "Skup podataka sadržava informacije o ugovorima koje je sklopilo komunalno poduzeće",
+        "fr": "L'ensemble de données contient des informations sur les contrats conclus par l'entreprise de services publics",
+        "uk": "Набір даних містить інформацію про укладені договора комунальним підприємством",
+        "sl": "Podatkovni niz vsebuje informacije o pogodbah, ki jih je sklenilo komunalno podjetje",
+        "cs": "Soubor dat obsahuje informace o smlouvách uzavřených společností poskytující veřejné služby",
+        "hu": "Az adatállomány a közüzemi társaság által kötött szerződésekre vonatkozó információkat tartalmaz",
+        "nl": "De dataset bevat informatie over de door het nutsbedrijf gesloten contracten",
+        "en": "The data set contains information about the contracts concluded by the utility company",
+        "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις συμβάσεις που συνάπτονται από την εταιρεία κοινής ωφέλειας",
+        "it": "Il set di dati contiene informazioni sui contratti conclusi dalla società di servizi pubblici",
+        "ga": "Tá faisnéis sa tacar sonraí faoi na conarthaí a thug an chuideachta fóntais i gcrích",
+        "ro": "Setul de date conține informații despre contractele încheiate de compania de utilități",
+        "pl": "Zbiór danych zawiera informacje o umowach zawartych przez przedsiębiorstwo użyteczności publicznej",
+        "mt": "Is-sett ta’ data fih informazzjoni dwar il-kuntratti konklużi mill-kumpanija ta’ utilità",
+        "pt": "O conjunto de dados contém informações sobre os contratos celebrados pela empresa de serviços públicos",
+        "bg": "Наборът от данни съдържа информация за договорите, сключени от дружеството за комунални услуги",
+        "es": "El conjunto de datos contiene información sobre los contratos celebrados por la empresa de servicios públicos",
+        "lv": "Datu kopa satur informāciju par komunālo pakalpojumu uzņēmuma noslēgtajiem līgumiem",
+        "de": "Der Datensatz enthält Informationen über die vom Versorgungsunternehmen geschlossenen Verträge",
+        "sk": "Súbor údajov obsahuje informácie o zmluvách uzatvorených verejnoprospešnou spoločnosťou",
+        "da": "Datasættet indeholder oplysninger om de kontrakter, som forsyningsselskabet har indgået",
+        "et": "Andmekogum sisaldab teavet kommunaalettevõtte sõlmitud lepingute kohta"
+      },
+      "title": {
+        "fi": "Luettelo vuonna 2024 tehdyistä sopimuksista.csv",
+        "sk": "Zoznam uzavretých zmlúv na rok 2024.csv",
+        "sl": "Seznam sklenjenih pogodb za leto 2024.csv",
+        "mt": "Lista ta’ kuntratti konklużi għall-2024.csv",
+        "lv": "2024. gadā noslēgto līgumu saraksts.csv",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 2024.csv",
+        "et": "2024. aastal sõlmitud lepingute loetelu. csv",
+        "fr": "Liste des contrats conclus pour 2024.csv",
+        "es": "Lista de contratos celebrados para 2024.csv",
+        "el": "Κατάλογος των συμβάσεων που συνήφθησαν για το 2024.csv",
+        "pt": "Lista dos contratos celebrados para 2024.csv",
+        "sv": "Förteckning över ingångna avtal för 2024.csv",
+        "da": "Liste over indgåede kontrakter for 2024.csv",
+        "uk": "Перелік укладених договорів за 2024 рік.csv",
+        "bg": "Списък на сключените договори за 2024 г.csv",
+        "it": "Elenco dei contratti conclusi per il 2024.csv",
+        "lt": "2024.csv sudarytų sutarčių sąrašas",
+        "nl": "Lijst van gesloten contracten voor 2024.csv",
+        "ro": "Lista contractelor încheiate pentru 2024.csv",
+        "de": "Liste der abgeschlossenen Verträge für 2024.csv",
+        "hu": "A 2024.csv-re vonatkozóan megkötött szerződések jegyzéke",
+        "hr": "Popis sklopljenih ugovora za 2024.csv",
+        "cs": "Seznam uzavřených smluv na rok 2024.csv",
+        "pl": "Wykaz zawartych umów na 2024.csv",
+        "en": "List of concluded contracts for 2024.csv"
+      },
+      "byte_size": 19561,
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/0d4e649a-41df-44fd-8426-38e982719006/download/perelik-ukladenikh-dogovoriv-za-2024-rik.csv"
+      ]
+    },
+    {
+      "id": "41acaf8a-8760-40a0-86a6-df40a4344833",
+      "title": {
+        "hr": "Popis sklopljenih ugovora za razdoblje od siječnja do travnja 2020.",
+        "sl": "Seznam sklenjenih pogodb za obdobje januar–april 2020..csv",
+        "mt": "Lista ta’ kuntratti konklużi għal Jannar-April 2020..csv",
+        "pt": "Lista de contratos celebrados para janeiro-abril de 2020..csv",
+        "fr": "Liste des contrats conclus pour janvier-avril 2020..csv",
+        "pl": "Lista zawartych umów na okres styczeń-kwiecień 2020..csv",
+        "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί για την περίοδο Ιανουαρίου-Απριλίου 2020..csv",
+        "lv": "2020. gada janvārī-aprīlī noslēgto līgumu saraksts.csv",
+        "es": "Lista de contratos celebrados para enero-abril de 2020..csv",
+        "ga": "Liosta de na conarthaí a tugadh i gcrích le haghaidh Eanáir-Aibreán 2020..csv",
+        "hu": "2020. január-áprilisra megkötött szerződések listája.csv",
+        "nl": "Lijst van gesloten contracten voor januari-april 2020..csv",
+        "lt": "2020 m. sausio–balandžio mėn. sudarytų sutarčių sąrašas.csv",
+        "da": "Liste over indgåede kontrakter for januar-april 2020..csv",
+        "sv": "Förteckning över ingångna avtal för januari-april 2020..csv",
+        "en": "List of concluded contracts for January-April 2020..csv",
+        "sk": "Zoznam uzavretých zmlúv za január až apríl 2020..csv",
+        "de": "Liste der abgeschlossenen Verträge für Januar-April 2020..csv",
+        "fi": "Luettelo tammi-huhtikuussa 2020 tehdyistä sopimuksista..csv",
+        "cs": "Seznam uzavřených smluv na leden-duben 2020..csv",
+        "bg": "Списък на сключените договори за периода януари-април 2020 г.",
+        "uk": "Перелік укладених договорів за січень-квітень 2020р..csv",
+        "et": "2020. aasta jaanuarist aprillini sõlmitud lepingute loetelu.csv",
+        "ro": "Lista contractelor încheiate pentru perioada ianuarie-aprilie 2020.csv",
+        "it": "Elenco dei contratti conclusi per gennaio-aprile 2020..csv"
+      },
+      "description": {
+        "it": "Informazioni sui contratti conclusi per il 1° aprile 2020",
+        "hr": "Informacije o sklopljenim ugovorima za razdoblje od 1. do 4. 2020.",
+        "ro": "Informații privind contractele încheiate pentru perioada 1.4.2020",
+        "cs": "Informace o uzavřených smlouvách k 1. 4. 2020",
+        "et": "Teave 1. aprilli 2020. aasta seisuga sõlmitud lepingute kohta",
+        "hu": "Tájékoztatás a 2020. április 1-jén megkötött szerződésekről",
+        "sk": "Informácie o uzatvorených zmluvách na obdobie od 1. 2020 do 4. 2020",
+        "uk": "Інформація про укладені договора за 01-04.2020",
+        "da": "Oplysninger om indgåede kontrakter for 01-04.2020",
+        "pl": "Informacja o zawartych umowach na 01-04.2020",
+        "en": "Information on concluded contracts for 01-04.2020",
+        "fi": "Tiedot 1.4.2020 tehdyistä sopimuksista",
+        "fr": "Informations sur les contrats conclus pour le 1er avril 2020",
+        "mt": "Informazzjoni dwar kuntratti konklużi għall-01-04.2020",
+        "sl": "Informacije o sklenjenih pogodbah za obdobje od 1. do 4. 2020",
+        "pt": "Informações sobre os contratos celebrados para 1 de abril de 2020",
+        "es": "Información sobre los contratos celebrados entre el 1 y el 4 de abril de 2020",
+        "lt": "Informacija apie 2020 04 01 sudarytas sutartis",
+        "de": "Informationen über abgeschlossene Verträge für den Zeitraum 01-04.2020",
+        "sv": "Information om ingångna avtal för 01-04.2020",
+        "bg": "Информация за сключени договори за 01-04.2020 г.",
+        "ga": "Faisnéis maidir le conarthaí a tugadh i gcrích le haghaidh 01-04.2020",
+        "el": "Πληροφορίες σχετικά με τις συναφθείσες συμβάσεις για την περίοδο 01-04.2020",
+        "lv": "Informācija par noslēgtajiem līgumiem 01.04.2020.",
+        "nl": "Informatie over gesloten contracten voor 01-04.2020"
+      },
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/26e799d5-6ecd-46fe-806b-6317f9756d60/download/perelik-ukladenikh-dogovoriv-za-sichen-kviten-2020r.csv"
+      ],
+      "byte_size": 6094
+    },
+    {
+      "id": "c4e4f891-872e-4127-92d8-688b89733230",
+      "description": {
+        "sv": "Information om ingångna avtal för 11.2019\r\n",
+        "ro": "Informații privind contractele încheiate pentru 11.2019\r\n",
+        "hu": "Tájékoztatás a 2019.11-én megkötött szerződésekről\r\n",
+        "nl": "Informatie over de gesloten contracten voor 11.2019\r\n",
+        "et": "Teave 11.2019. aastaks sõlmitud lepingute kohta\r\n",
+        "en": "Information on the concluded contracts for 11.2019\r\n",
+        "pl": "Informacja o zawartych umowach na 11.2019 r.\r\n",
+        "lv": "Informācija par 11.2019. noslēgtajiem līgumiem\r\n",
+        "it": "Informazioni sui contratti conclusi per l'11.2019\r\n",
+        "el": "Πληροφορίες σχετικά με τις συναφθείσες συμβάσεις για τις 11.2019\r\n",
+        "cs": "Informace o uzavřených smlouvách na 11.2019\r\n",
+        "sl": "Informacije o sklenjenih pogodbah za 11. 2019\r\n",
+        "da": "Oplysninger om indgåede kontrakter for 11.2019\r\n",
+        "ga": "Faisnéis faoi na conarthaí a tugadh i gcrích le haghaidh 11.2019\r\n",
+        "fi": "Tiedot 11.2019 tehdyistä sopimuksista\r\n",
+        "sk": "Informácie o uzatvorených zmluvách za 11. 2019\r\n",
+        "mt": "Informazzjoni dwar il-kuntratti konklużi għall-11.2019\r\n",
+        "fr": "Informations sur les contrats conclus pour le 11.2019\r\n",
+        "bg": "Информация за сключените договори за 11.2019 г.\r\n",
+        "lt": "Informacija apie 2019 m. lapkričio mėn. sudarytas sutartis\r\n",
+        "de": "Informationen zu den abgeschlossenen Verträgen für den 11.2019\r\n",
+        "pt": "Informações sobre os contratos celebrados em 11.2019\r\n",
+        "hr": "Informacije o sklopljenim ugovorima za 11.2019.\r\n",
+        "uk": "Інформація про укладені договора за 11.2019\r\n",
+        "es": "Información sobre los contratos celebrados para el 11.2019\r\n"
+      },
+      "title": {
+        "cs": "Seznam uzavřených smluv na 11.2019.xlsx",
+        "hr": "Popis sklopljenih ugovora za 11.2019.xlsx",
+        "el": "Ο κατάλογος των συμβάσεων που συνήφθησαν για την 11.2019.xlsx",
+        "bg": "Списък на сключените договори за 11.2019.xlsx",
+        "lv": "Par 11.2019.xlsx noslēgto līgumu saraksts",
+        "et": "11.2019.xlsx sõlmitud lepingute nimekiri",
+        "da": "Listen over indgåede kontrakter for 11.2019.xlsx",
+        "de": "Die Liste der abgeschlossenen Verträge für 11.2019.xlsx",
+        "sl": "Seznam sklenjenih pogodb za 11.2019.xlsx",
+        "sv": "Förteckningen över ingångna avtal för 11.2019.xlsx",
+        "es": "Lista de contratos celebrados para el 11.2019.xlsx",
+        "nl": "De lijst van gesloten contracten voor 11.2019.xlsx",
+        "uk": "Перелік укладених договорів за 11.2019.xlsx",
+        "fi": "Luettelo 11.2019 tehdyistä sopimuksista.xlsx",
+        "fr": "La liste des contrats conclus pour 11.2019.xlsx",
+        "mt": "Il-lista ta’ kuntratti konklużi għall-11.2019.xlsx",
+        "it": "Elenco dei contratti conclusi per l'11.2019.xlsx",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 11.2019.xlsx",
+        "pl": "Lista zawartych umów na 11.2019.xlsx",
+        "ro": "Lista contractelor încheiate pentru 11.2019.xlsx",
+        "en": "The list of concluded contracts for 11.2019.xlsx",
+        "pt": "Lista dos contratos celebrados em 11.2019.xlsx",
+        "hu": "A 11.2019.xlsx-re vonatkozóan megkötött szerződések listája",
+        "lt": "11.2019.xlsx sudarytų sutarčių sąrašas",
+        "sk": "Zoznam uzavretých zmlúv na 11.2019.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 10975,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/8aea0401-7d3c-4063-854d-9b49e0959b37/download/perelik-ukladenikh-dogovoriv-za-11-2019.xlsx"
+      ]
+    },
+    {
+      "id": "25920087-f93d-4fc3-92e3-1b32d2de1d1b",
+      "description": {
+        "hr": "Informacije o sklopljenim ugovorima za 12.2019.",
+        "de": "Informationen zu den abgeschlossenen Verträgen für den 12.2019",
+        "hu": "Tájékoztatás a 2019. decemberi megkötött szerződésekről",
+        "nl": "Informatie over de gesloten contracten voor 12.2019",
+        "it": "Informazioni sui contratti conclusi per il 12.2019",
+        "lt": "Informacija apie 2019 m. gruodžio mėn. sudarytas sutartis",
+        "pl": "Informacja o zawartych umowach na dzień 12.2019 r.",
+        "sl": "Informacije o sklenjenih pogodbah za obdobje 12. 2019",
+        "fi": "Tiedot 12.2019 tehdyistä sopimuksista",
+        "es": "Información sobre los contratos celebrados para el 12.2019",
+        "pt": "Informações sobre os contratos celebrados para 12.2019",
+        "lv": "Informācija par noslēgtajiem līgumiem par 12.2019. gadu",
+        "ro": "Informații privind contractele încheiate pentru 12.2019",
+        "et": "Teave 12.2019. aastaks sõlmitud lepingute kohta",
+        "uk": "Інформація про укладені договора за 12.2019",
+        "fr": "Informations sur les contrats conclus pour le 12.2019",
+        "el": "Πληροφορίες σχετικά με τις συναφθείσες συμβάσεις για τις 12.2019",
+        "en": "Information on the concluded contracts for 12.2019",
+        "mt": "Informazzjoni dwar il-kuntratti konklużi għat-12.2019",
+        "ga": "Faisnéis faoi na conarthaí a tugadh i gcrích le haghaidh 12.2019",
+        "sk": "Informácie o uzatvorených zmluvách k 12. 2019",
+        "sv": "Information om ingångna avtal för 12.2019",
+        "cs": "Informace o uzavřených smlouvách na 12.2019",
+        "bg": "Информация за сключените договори за 12.2019 г.",
+        "da": "Oplysninger om indgåede kontrakter for 12.2019"
+      },
+      "title": {
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 12.2019.csv",
+        "lv": "Noslēgto līgumu saraksts 12.2019.csv",
+        "da": "Listen over indgåede kontrakter for 12.2019.csv",
+        "de": "Die Liste der abgeschlossenen Verträge für 12.2019.csv",
+        "es": "Lista de contratos celebrados para el 12.2019.csv",
+        "sl": "Seznam sklenjenih pogodb za 12.2019.csv",
+        "it": "Elenco dei contratti conclusi per il 12.2019.csv",
+        "hu": "A megkötött szerződések listája a 12.2019.csv-re",
+        "pl": "Lista zawartych umów na 12.2019.csv",
+        "pt": "Lista dos contratos celebrados para 12.2019.csv",
+        "sk": "Zoznam uzavretých zmlúv na 12.2019.csv",
+        "bg": "Списък на сключените договори за 12.2019.csv",
+        "lt": "Sudarytų sutarčių sąrašas 12.2019.csv",
+        "hr": "Popis sklopljenih ugovora za 12.2019.csv",
+        "cs": "Seznam uzavřených smluv na 12.2019.csv",
+        "el": "Ο κατάλογος των συμβάσεων που έχουν συναφθεί για την 12.2019.csv",
+        "en": "The list of concluded contracts for 12.2019.csv",
+        "fr": "La liste des contrats conclus pour le 12.2019.csv",
+        "fi": "Luettelo 12.2019 tehdyistä sopimuksista.csv",
+        "nl": "De lijst van gesloten contracten voor 12.2019.csv",
+        "sv": "Förteckningen över ingångna avtal för 12.2019.csv",
+        "ro": "Lista contractelor încheiate pentru 12.2019.csv",
+        "uk": "Перелік укладених договорів за 12.2019.csv",
+        "et": "12.2019.csv sõlmitud lepingute nimekiri",
+        "mt": "Il-lista ta’ kuntratti konklużi għat-12.2019.csv"
+      },
+      "byte_size": 2829,
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/67331200-c092-4c70-ac72-b15243d80b97/download/perelik-ukladenikh-dogovoriv-za-12-2019.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "5da76031-6496-4d10-80d5-645044b59ae6",
+      "title": {
+        "bg": "Списък на сключените договори за 2020 г.csv",
+        "ro": "Lista contractelor încheiate pentru 2020.csv",
+        "mt": "Lista ta’ kuntratti konklużi għall-2020.csv",
+        "uk": "Перелік укладених договорів за 2020 р..csv",
+        "pt": "Lista dos contratos celebrados para 2020.csv",
+        "de": "Liste der abgeschlossenen Verträge für 2020.csv",
+        "fi": "Luettelo vuonna 2020 tehdyistä sopimuksista.csv",
+        "sl": "Seznam sklenjenih pogodb za leto 2020.csv",
+        "en": "List of concluded contracts for 2020.csv",
+        "cs": "Seznam uzavřených smluv na rok 2020.csv",
+        "ga": "Liosta na gconarthaí a tugadh i gcrích le haghaidh 2020.csv",
+        "lt": "2020 m. sudarytų sutarčių sąrašascsv",
+        "es": "Lista de contratos celebrados para 2020.csv",
+        "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί για το 2020.csv",
+        "hr": "Popis sklopljenih ugovora za 2020.csv",
+        "nl": "Lijst van gesloten contracten voor 2020.csv",
+        "hu": "A 2020.csv-re vonatkozóan megkötött szerződések jegyzéke",
+        "et": "2020. aastal sõlmitud lepingute loetelu. csv",
+        "sv": "Förteckning över ingångna avtal för 2020.csv",
+        "da": "Liste over indgåede kontrakter for 2020.csv",
+        "pl": "Wykaz zawartych umów na rok 2020.csv",
+        "sk": "Zoznam uzavretých zmlúv na rok 2020.csv",
+        "lv": "2020. gadā noslēgto līgumu saraksts.csv",
+        "it": "Elenco dei contratti conclusi per il 2020.csv",
+        "fr": "Liste des contrats conclus pour 2020.csv"
+      },
+      "description": {
+        "uk": "Інформація про укладені договора за 2020 рік",
+        "mt": "Informazzjoni dwar kuntratti konklużi għall-2020",
+        "ga": "Faisnéis maidir le conarthaí a tugadh i gcrích le haghaidh 2020",
+        "en": "Information on concluded contracts for 2020",
+        "sl": "Informacije o sklenjenih pogodbah za leto 2020",
+        "it": "Informazioni sui contratti conclusi per il 2020",
+        "bg": "Информация за сключените договори за 2020 г.",
+        "da": "Oplysninger om indgåede kontrakter for 2020",
+        "hu": "Tájékoztatás a 2020-ra megkötött szerződésekről",
+        "fr": "Informations sur les contrats conclus pour 2020",
+        "sv": "Information om ingångna avtal för 2020",
+        "et": "Teave 2020. aastaks sõlmitud lepingute kohta",
+        "pt": "Informações sobre os contratos celebrados em 2020",
+        "fi": "Tiedot vuonna 2020 tehdyistä sopimuksista",
+        "cs": "Informace o uzavřených smlouvách pro rok 2020",
+        "hr": "Informacije o sklopljenim ugovorima za 2020.",
+        "nl": "Informatie over gesloten contracten voor 2020",
+        "pl": "Informacja o zawartych umowach na rok 2020",
+        "de": "Informationen über abgeschlossene Verträge für 2020",
+        "lv": "Informācija par 2020. gadā noslēgtajiem līgumiem",
+        "ro": "Informații privind contractele încheiate pentru 2020",
+        "es": "Información sobre los contratos celebrados en 2020",
+        "sk": "Informácie o uzatvorených zmluvách za rok 2020",
+        "lt": "Informacija apie 2020 m. sudarytas sutartis",
+        "el": "Πληροφορίες σχετικά με τις συναφθείσες συμβάσεις για το 2020"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/c7ac1586-5a16-4321-a20c-bf0fee1e0f13/download/perelik-ukladenikh-dogovoriv-za-2020-r.csv"
+      ],
+      "byte_size": 15599,
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "a102ecb0-d42d-4ff9-9302-505c56c6ac5e",
+      "description": {
+        "sv": "Datamängden innehåller information om de avtal som elbolaget har ingått",
+        "uk": "Набір даних містить інформацію про укладені договора комунальним підприємством",
+        "bg": "Наборът от данни съдържа информация за договорите, сключени от дружеството за комунални услуги",
+        "cs": "Soubor dat obsahuje informace o smlouvách uzavřených společností poskytující veřejné služby",
+        "el": "Το σύνολο δεδομένων περιέχει πληροφορίες σχετικά με τις συμβάσεις που συνάπτονται από την εταιρεία κοινής ωφέλειας",
+        "lv": "Datu kopa satur informāciju par komunālo pakalpojumu uzņēmuma noslēgtajiem līgumiem",
+        "sl": "Podatkovni niz vsebuje informacije o pogodbah, ki jih je sklenilo komunalno podjetje",
+        "nl": "De dataset bevat informatie over de door het nutsbedrijf gesloten contracten",
+        "de": "Der Datensatz enthält Informationen über die vom Versorgungsunternehmen geschlossenen Verträge",
+        "fi": "Aineisto sisältää tiedot yleishyödyllisen yrityksen tekemistä sopimuksista",
+        "hu": "Az adatállomány a közüzemi társaság által kötött szerződésekre vonatkozó információkat tartalmaz",
+        "mt": "Is-sett ta’ data fih informazzjoni dwar il-kuntratti konklużi mill-kumpanija ta’ utilità",
+        "ga": "Tá faisnéis sa tacar sonraí faoi na conarthaí a thug an chuideachta fóntais i gcrích",
+        "da": "Datasættet indeholder oplysninger om de kontrakter, som forsyningsselskabet har indgået",
+        "pl": "Zbiór danych zawiera informacje o umowach zawartych przez przedsiębiorstwo użyteczności publicznej",
+        "fr": "L'ensemble de données contient des informations sur les contrats conclus par l'entreprise de services publics",
+        "ro": "Setul de date conține informații despre contractele încheiate de compania de utilități",
+        "et": "Andmekogum sisaldab teavet kommunaalettevõtte sõlmitud lepingute kohta",
+        "sk": "Súbor údajov obsahuje informácie o zmluvách uzatvorených verejnoprospešnou spoločnosťou",
+        "it": "Il set di dati contiene informazioni sui contratti conclusi dalla società di servizi pubblici",
+        "en": "The data set contains information about the contracts concluded by the utility company",
+        "pt": "O conjunto de dados contém informações sobre os contratos celebrados pela empresa de serviços públicos",
+        "lt": "Duomenų rinkinyje pateikiama informacija apie komunalinių paslaugų įmonės sudarytas sutartis",
+        "es": "El conjunto de datos contiene información sobre los contratos celebrados por la empresa de servicios públicos",
+        "hr": "Skup podataka sadržava informacije o ugovorima koje je sklopilo komunalno poduzeće"
+      },
+      "title": {
+        "uk": "Перелік укладених договорів за 01.01.-21.04.2026р.xlsx",
+        "hr": "Popis sklopljenih ugovora za 01.01.-21.04.2026p.xlsx",
+        "pt": "Lista dos contratos celebrados para 01.01.-21.04.2026p.xlsx",
+        "da": "Liste over indgåede kontrakter for 01.01.-21.04.2026p.xlsx",
+        "et": "Ajavahemikuks 01.01.-21.04.2026p.xlsx sõlmitud lepingute loetelu",
+        "lt": "2026 m. sausio 1–21 d. sudarytų sutarčių sąrašasp.xlsx",
+        "el": "Κατάλογος των συμβάσεων που έχουν συναφθεί για την 01.01.-21.04.2026p.xlsx",
+        "es": "Lista de contratos celebrados para 01.01.-21.04.2026p.xlsx",
+        "hu": "A 01.01.-21.04.2026p.xlsx-re vonatkozóan megkötött szerződések jegyzéke",
+        "mt": "Lista ta’ kuntratti konklużi għall-01.01.-21.04.2026p.xlsx",
+        "de": "Liste der abgeschlossenen Verträge vom 01.01.-21.04.2026p.xlsx",
+        "bg": "Списък на сключените договори за 01.01.-21.04.2026p.xlsx",
+        "cs": "Seznam uzavřených smluv pro 01.01.-21.04.2026p.xlsx",
+        "it": "Elenco dei contratti conclusi per il periodo 01.01.-21.04.2026p.xlsx",
+        "sv": "Förteckning över ingångna avtal för 01.01.-21.04.2026p.xlsx",
+        "fr": "Liste des contrats conclus pour 01.01.-21.04.2026p.xlsx",
+        "sk": "Zoznam uzavretých zmlúv na 1. 1. – 21. 4. 2026p.xlsx",
+        "lv": "Noslēgto līgumu saraksts par 01.01.-21.04.2026p.xlsx",
+        "sl": "Seznam sklenjenih pogodb za 01.01.-21.04.2026p.xlsx",
+        "pl": "Lista zawartych umów na 01.01.-21.04.2026p.xlsx",
+        "en": "List of concluded contracts for 01.01.-21.04.2026p.xlsx",
+        "fi": "Luettelo tehdyistä sopimuksista: 01.01.-21.04.2026p.xlsx",
+        "nl": "Lijst van gesloten contracten voor 01.01.-21.04.2026p.xlsx",
+        "ro": "Lista contractelor încheiate pentru 01.01.-21.04.2026p.xlsx",
+        "ga": "Liosta de na conarthaí a tugadh i gcrích le haghaidh 01.01.-21.04.2026p.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/6ad51d73-c079-4112-afd6-4ce569769f0c/resource/a0ebe69e-b094-4984-b8f5-858a550704e9/download/perelik-ukladenikh-dogovoriv-za-01-01-21-04-2026r.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 13640
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 155
+  },
+  "modified": "2026-04-21T08:26:41.830231",
+  "publisher": {
+    "type": "Organization",
+    "name": "Комунальне підприємство \"Дендрологічний парк\" Ладижинський гай",
+    "resource": "https://data.gov.ua/organization/9b5ff3eb-9b50-40c8-bab4-7b8ecb548b88"
+  },
+  "id": "6ad51d73-c079-4112-afd6-4ce569769f0c",
+  "issued": "2019-11-21T15:03:01.659084",
+  "catalog_record": {
+    "modified": "2026-05-10T18:44:21Z",
+    "issued": "2026-05-08T20:19:31Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "email": "mailto:dendropark3802@gmail.com",
+      "name": "Кулеша Тетяна Володимирівна"
+    }
+  ]
+}

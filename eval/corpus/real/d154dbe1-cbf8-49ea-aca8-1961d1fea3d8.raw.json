@@ -1,0 +1,570 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "havbunn",
+      "label": "havbunn"
+    },
+    {
+      "language": "nor",
+      "id": "astafjorden",
+      "label": "Astafjorden"
+    },
+    {
+      "language": "nor",
+      "id": "sjøbunn",
+      "label": "sjøbunn"
+    },
+    {
+      "language": "nor",
+      "id": "fosnes",
+      "label": "Fosnes"
+    },
+    {
+      "language": "nor",
+      "id": "fjord",
+      "label": "fjord"
+    },
+    {
+      "language": "nor",
+      "id": "ankring",
+      "label": "Ankring"
+    },
+    {
+      "language": "nor",
+      "id": "ankringsforhold",
+      "label": "ankringsforhold"
+    },
+    {
+      "language": "nor",
+      "id": "oslofjorden",
+      "label": "Oslofjorden"
+    },
+    {
+      "language": "nor",
+      "id": "bunn",
+      "label": "bunn"
+    },
+    {
+      "language": "nor",
+      "id": "helning",
+      "label": "helning"
+    },
+    {
+      "language": "nor",
+      "id": "biotop",
+      "label": "biotop"
+    },
+    {
+      "language": "nor",
+      "id": "forankring",
+      "label": "forankring"
+    },
+    {
+      "language": "nor",
+      "id": "bunnforhold",
+      "label": "bunnforhold"
+    },
+    {
+      "language": "nor",
+      "id": "sedimentasjon",
+      "label": "sedimentasjon"
+    },
+    {
+      "language": "nor",
+      "id": "ngu",
+      "label": "NGU"
+    },
+    {
+      "language": "nor",
+      "id": "naturtype",
+      "label": "naturtype"
+    },
+    {
+      "language": "nor",
+      "id": "sediment",
+      "label": "sediment"
+    },
+    {
+      "language": "nor",
+      "id": "søre-sunnmøre",
+      "label": "Søre-Sunnmøre"
+    },
+    {
+      "language": "nor",
+      "id": "sjø",
+      "label": "sjø"
+    },
+    {
+      "language": "nor",
+      "id": "møre-og-romsdal",
+      "label": "Møre og Romsdal"
+    },
+    {
+      "language": "nor",
+      "id": "marin",
+      "label": "marin"
+    },
+    {
+      "language": "nor",
+      "id": "hav",
+      "label": "hav"
+    },
+    {
+      "language": "nor",
+      "id": "overflate",
+      "label": "overflate"
+    },
+    {
+      "language": "nor",
+      "id": "bunnfellingsområder",
+      "label": "bunnfellingsområder"
+    },
+    {
+      "language": "nor",
+      "id": "kyst",
+      "label": "kyst"
+    },
+    {
+      "language": "nor",
+      "id": "skråning",
+      "label": "skråning"
+    },
+    {
+      "language": "nor",
+      "id": "sør-troms",
+      "label": "Sør-Troms"
+    },
+    {
+      "language": "nor",
+      "id": "terrengmodell",
+      "label": "terrengmodell"
+    },
+    {
+      "language": "nor",
+      "id": "bratt",
+      "label": "bratt"
+    },
+    {
+      "language": "nor",
+      "id": "gravbarhet",
+      "label": "gravbarhet"
+    },
+    {
+      "language": "nor",
+      "id": "marinegrunnkartwms",
+      "label": "MarineGrunnkartWMS"
+    },
+    {
+      "language": "nor",
+      "id": "sogn-og-fordane",
+      "label": "Sogn og Fordane"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/d154dbe1-cbf8-49ea-aca8-1961d1fea3d8",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:38Z",
+        "issued": "2024-06-11T17:48:03Z"
+      }
+    },
+    "full_available_languages": [
+      "it",
+      "hr",
+      "sv",
+      "hu",
+      "nl",
+      "de",
+      "sl",
+      "uk",
+      "nor",
+      "el",
+      "cs",
+      "da",
+      "mt",
+      "es",
+      "fi",
+      "pt",
+      "ro",
+      "lt",
+      "sk",
+      "bg",
+      "fr",
+      "lv",
+      "pl",
+      "ga",
+      "et",
+      "en"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Der Kartendienst stellt eine Reihe von thematischen Schichten dar, die aus detaillierten Basisinformationen über den Meeresboden abgeleitet sind: Tiefe und Sedimentzusammensetzung. Folgende Themen werden visualisiert: Bathymetrie (Gelände), Steigung, Verankerung, Baggerbarkeit, Akkumulationsbecken und Habitate.",
+    "fi": "Karttapalvelussa on useita temaattisia kerroksia, jotka on johdettu yksityiskohtaisista pohjatiedoista merenpohjasta: syvyys ja sedimentti koostumus.\nSeuraavat teemat visualisoidaan:\nKylpymetria (maasto), Slope, Ankkurointi, kaivattavuus, kertymisaltaat ja luontotyypit.",
+    "pt": "O serviço de mapas apresenta uma série de camadas temáticas derivadas de informações pormenorizadas sobre o fundo do mar: profundidade e composição dos sedimentos.\nOs seguintes temas são visualizados:\nBatimetria (terreno), Inclinação, Ancoragem, Diggability, Alguidar de Acumulação e Habitats.",
+    "bg": "Картографската услуга представя редица тематични слоеве, извлечени от подробна база информация за морското дъно: дълбочина и състав на седимента. Визуализират се следните теми: Батиметрия (тераса), Slope, Anchoring, копаене, акумулационни басейни и местообитания.",
+    "lt": "Žemėlapio paslauga apima keletą teminių sluoksnių, gautų remiantis išsamia informacija apie jūros dugną: gylis ir nuosėdų sudėtis.\nVizualizuojamos šios temos:\nBatimetrija (žemė), šlaitas, inkaras, kasimas, kaupimasis baseinuose ir buveinėje.",
+    "lv": "Kartes pakalpojums piedāvā vairākus tematiskos slāņus, kas iegūti no detalizētas pamata informācijas par jūras gultni: dziļums un nogulšņu sastāvs.\nTiek vizualizētas šādas tēmas:\nBatimetrija (terrain), slīpums, enkurošana, rakšana, uzkrāšanās baseini un Dzīvotņu.",
+    "hr": "Usluga karte prikazuje niz tematskih slojeva koji proizlaze iz detaljnih osnovnih informacija o morskom dnu: sastav dubine i sedimenta.\nVizualizirane su sljedeće teme:\nBatimetrija (terrain), nagib, nagib, kopanje, akumulacijski bazeni i staništa.",
+    "fr": "Le service cartographique présente un certain nombre de couches thématiques dérivées d’informations détaillées sur les fonds marins: profondeur et composition des sédiments.\nLes thèmes suivants sont visualisés:\nBathymétrie (terrain), pente, ancrage, diggabilité, bassins d’accumulation et habitats.",
+    "hu": "A térképszolgáltatás számos tematikus réteget mutat be, amelyek a tengerfenékre vonatkozó részletes információkból származnak: mélység és üledék összetétele.\nA következő témák láthatók:\nFürdetés (terület), lejtő, horgonyzás, áshatóság, halmozódási medencék és élőhelyek.",
+    "nor": "Helning over 30 grader. Særdeles bratte områder av sjøbunnen kalkulert på grunnlag av terrengmodell.",
+    "uk": "Картографічний сервіс представляє ряд тематичних шарів, отриманих з детальної базисної інформації про морське дно: Глибина і склад осаду.\nВізуалізуються наступні теми:\nБатиметрія (земля), схил, анкерування, занурюваність, накопичувальні басейни і середовища проживання.",
+    "sk": "Mapová služba predstavuje niekoľko tematických vrstiev odvodených z podrobných základných informácií o morskom dne: hĺbka a zloženie sedimentu.\nVizualizujú sa tieto témy:\nBathymetry (terrain), Svah, Anchoring, diggability, Akumulačné povodia a biotopy.",
+    "sl": "Storitev zemljevida predstavlja številne tematske plasti, ki izhajajo iz podrobnih informacij o morskem dnu: globina in sestava usedline.\nVizualizirane so naslednje teme:\nBatimetrija (teren), pobočja, strganje, vrtljivost, kopališča in habitati.",
+    "ga": "Cuireann an tseirbhís léarscáile roinnt sraitheanna téamacha i láthair atá díorthaithe ó bhonn mionsonraithe faisnéise faoi ghrinneall na farraige: comhdhéanamh doimhneachta agus dríodair. Déantar amharcléiriú ar na téamaí seo a leanas: Bathymetry (tír-raon), Sleamhnán, Ancaire, Diggability, báisíní Carnadh agus Gnáthóga. Cuireann an tseirbhís léarscáile roinnt sraitheanna téamacha i láthair atá díorthaithe ó bhonn mionsonraithe faisnéise faoi ghrinneall na farraige: comhdhéanamh doimhneachta agus dríodair.\nDéantar amharcléiriú ar na téamaí seo a leanas:\nBathymetry (tír-raon), Sleamhnán, Ancaire, Diggability, báisíní Carnadh agus Gnáthóga.",
+    "sv": "Karttjänsten presenterar ett antal tematiska lager som härrör från detaljerad basinformation om havsbotten: djup och sedimentsammansättning. Följande teman visualiseras: Badymetri (terrain), sluttning, förankring, diggabilitet, ackumuleringsbassänger och livsmiljöer. Karttjänsten presenterar ett antal tematiska lager som härrör från detaljerad basinformation om havsbotten: djup och sedimentsammansättning.\nFöljande teman visualiseras:\nBadymetri (terrain), sluttning, förankring, diggabilitet, ackumuleringsbassänger och livsmiljöer.",
+    "mt": "Is-servizz tal-mappa jippreżenta għadd ta’ saffi tematiċi derivati minn informazzjoni ta’ bażi dettaljata dwar qiegħ il-baħar: Fond u kompożizzjoni tan-naqal. It-temi li ġejjin huma viżwalizzati: Batimetrija (terren), Slope, Ankrar, tħaffir, Akkumulazzjoni u Ħabitats. Is-servizz tal-mappa jippreżenta għadd ta’ saffi tematiċi derivati minn informazzjoni ta’ bażi dettaljata dwar qiegħ il-baħar: Fond u kompożizzjoni tan-naqal.\nIt-temi li ġejjin huma viżwalizzati:\nBatimetrija (terren), Slope, Ankrar, tħaffir, Akkumulazzjoni u Ħabitats.",
+    "el": "Η υπηρεσία χαρτών παρουσιάζει μια σειρά θεματικών στρωμάτων που προέρχονται από λεπτομερείς βασικές πληροφορίες σχετικά με τον βυθό της θάλασσας: βάθος και σύνθεση ιζημάτων. Απεικονίζονται τα ακόλουθα θέματα: Βαθυμετρία (εδάφος), κλίση, αγκύρωση, δυνατότητα εκσκαφής, λεκάνες συσσώρευσης και ενδιαιτήματα. Η υπηρεσία χαρτών παρουσιάζει μια σειρά θεματικών στρωμάτων που προέρχονται από λεπτομερείς βασικές πληροφορίες σχετικά με τον βυθό της θάλασσας: βάθος και σύνθεση ιζημάτων.\nΑπεικονίζονται τα ακόλουθα θέματα:\nΒαθυμετρία (εδάφος), κλίση, αγκύρωση, δυνατότητα εκσκαφής, λεκάνες συσσώρευσης και ενδιαιτήματα.",
+    "en": "The map service presents a number of thematic layers derived from detailed basis information about the seabed: depth and sediment composition. The following themes are visualized: Bathymetry (terrain), Slope, Anchoring, Diggability, Accumulation basins and Habitats.",
+    "it": "Il servizio cartografico presenta una serie di strati tematici ricavati da informazioni di base dettagliate sui fondali marini: profondità e composizione dei sedimenti. Vengono visualizzati i seguenti temi: Batimetria (terra), pendenza, ancoraggio, diggabilità, bacini di accumulazione e habitat.",
+    "es": "El servicio de mapas presenta una serie de capas temáticas derivadas de información detallada sobre el fondo marino: profundidad y composición de sedimentos.\nSe visualizan los siguientes temas:\nBatimetría (terraneo), pendiente, anclado, diggability, cuencas de acumulación y hábitats.",
+    "et": "Kaarditeenus sisaldab mitmeid temaatilisi kihte, mis on tuletatud üksikasjalikust teabest merepõhja kohta: sügavus ja sette koostis.\nVisualiseeritakse järgmisi teemasid:\nBatümeetria (maastik), nõlvak, anchoring, diggability, akumulatsiooni basseinid ja elupaigad.",
+    "cs": "Mapová služba představuje řadu tematických vrstev odvozených z podrobných základních informací o mořském dně: hloubka a složení sedimentu.\nVizualizována jsou následující témata:\nBathymetrie (terasa), svah, kotvení, vytěžitelnost, akumulační pánve a stanoviště.",
+    "pl": "Usługa map przedstawia szereg warstw tematycznych pochodzących ze szczegółowych informacji na temat dna morskiego: głębokość i skład osadu.\nWizualizowane są następujące tematy:\nBatymetria (terrain), nachylenie, kotwiczenie, diggability, akumulacyjne baseny i siedliska.",
+    "ro": "Serviciul de hărți prezintă o serie de straturi tematice derivate din informații detaliate privind fundul mării: adâncimea și compoziția sedimentelor. Sunt vizualizate următoarele teme: Batimetrie (teren), pantă, ancorare, digabilitate, bazine de acumulare și habitate. Serviciul de hărți prezintă o serie de straturi tematice derivate din informații detaliate privind fundul mării: adâncimea și compoziția sedimentelor.\nSunt vizualizate următoarele teme:\nBatimetrie (teren), pantă, ancorare, digabilitate, bazine de acumulare și habitate.",
+    "da": "Korttjenesten præsenterer en række tematiske lag afledt af detaljerede basisoplysninger om havbunden: dybde og sediment sammensætning.\nFølgende temaer visualiseres:\nBathymetry (terræn), skråning, ankerring, graveevne, akkumuleringsbassiner og habitater.",
+    "nl": "De kaartdienst presenteert een aantal thematische lagen afgeleid van gedetailleerde basisinformatie over de zeebodem: diepte en sedimentsamenstelling.\nDe volgende thema’s worden gevisualiseerd:\nBathymetrie (terrain), helling, verankering, diggability, accumulatie bassins en Habitats."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Marine Basiskarte WMS",
+    "fi": "Marine Basemap WMS",
+    "pt": "Mapa de Base Marinha WMS",
+    "bg": "Морска базова карта WMS",
+    "lt": "Jūrų bazės žemėlapis WMS",
+    "hr": "Marine Basemap WMS",
+    "lv": "Jūras bāzes karte WMS",
+    "fr": "Carte de base marine WMS",
+    "hu": "Tengeri alaptérkép WMS",
+    "nor": "Helning over 30 grader",
+    "uk": "Морська базова карта WMS",
+    "sk": "Námorná základná mapa WMS",
+    "sl": "Marine Basemap WMS",
+    "ga": "Mapa Basemap Mara WMS",
+    "sv": "Marin baskarta WMS",
+    "el": "Θαλάσσιος χάρτης βάσης WMS",
+    "mt": "Baħar Basemap WMS",
+    "en": "Marine Basemap WMS",
+    "it": "Mappa di base marina WMS",
+    "es": "Mapa base marino WMS",
+    "et": "Marine Basemap WMS",
+    "cs": "Námořní základní mapa WMS",
+    "pl": "Morska mapa bazowa WMS",
+    "da": "Marine Basemap WMS",
+    "ro": "Hartă de bază marină WMS",
+    "nl": "Marine Basemap WMS"
+  },
+  "accrual_periodicity": {},
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://geo.ngu.no/mapserver/MarineGrunnkartWMS?REQUEST=GetCapabilities&SERVICE=WMS"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "0d8d2bea-d702-45f5-8066-888d95650b1b",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://geo.ngu.no/mapserver/MarineGrunnkartWMS"
+          ],
+          "endpoint_description": [
+            "https://geo.ngu.no/mapserver/MarineGrunnkartWMS?REQUEST=GetCapabilities&SERVICE=WMS"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "el": "προβολή",
+        "mt": "ħarsa",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "2010-04-20T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Aave Lepland",
+    "type": "Person",
+    "email": "mailto:aave.lepland@ngu.no"
+  },
+  "modified": "0001-01-01T00:00:00Z",
+  "id": "d154dbe1-cbf8-49ea-aca8-1961d1fea3d8",
+  "categories": [],
+  "issued": "2010-04-20T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            0.0,
+            80
+          ],
+          [
+            14,
+            80
+          ],
+          [
+            14,
+            56
+          ],
+          [
+            0.0,
+            56
+          ],
+          [
+            0.0,
+            80
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:04Z",
+    "issued": "2021-10-15T08:49:32Z"
+  }
+}

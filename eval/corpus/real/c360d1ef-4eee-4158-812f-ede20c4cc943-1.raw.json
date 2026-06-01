@@ -1,0 +1,2339 @@
+{
+  "identifier": [
+    "c360d1ef-4eee-4158-812f-ede20c4cc943"
+  ],
+  "country": {
+    "label": "Ukraine",
+    "id": "ua",
+    "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+  },
+  "keywords": [
+    {
+      "id": "аукціон",
+      "label": "аукціон",
+      "language": "uk"
+    },
+    {
+      "id": "реалізація-арештованого-майна",
+      "label": "реалізація арештованого майна",
+      "language": "uk"
+    },
+    {
+      "id": "торги",
+      "label": "торги",
+      "language": "uk"
+    },
+    {
+      "id": "електроні-аукціони",
+      "label": "електроні аукціони",
+      "language": "uk"
+    },
+    {
+      "id": "реалізація-конфіскованого-майна",
+      "label": "реалізація конфіскованого майна",
+      "language": "uk"
+    },
+    {
+      "id": "сетам",
+      "label": "сетам",
+      "language": "uk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943~~1",
+  "catalog": {
+    "id": "data-gov-ua",
+    "modified": "2023-02-10T20:19:48.373074",
+    "issued": "2022-11-21T05:36:39Z",
+    "publisher": {
+      "type": "Agent",
+      "name": "States site of Ukraine",
+      "email": "mailto:admin@data.gov.ua",
+      "homepage": "https://www.kmu.gov.ua/en"
+    },
+    "language": [
+      {
+        "id": "uk",
+        "label": "Ukrainian",
+        "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+      }
+    ],
+    "homepage": "https://data.gov.ua",
+    "source_type": "dcat-ap",
+    "description": {
+      "en": "Open Data Portal Ukraine"
+    },
+    "title": {
+      "en": "data.gov.ua"
+    },
+    "country": {
+      "label": "Ukraine",
+      "id": "ua",
+      "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ukraine",
+        "id": "ua",
+        "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+      }
+    ],
+    "spatial": []
+  },
+  "translation_meta": {
+    "details": {
+      "nl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "uk": {
+        "machine_translated": false,
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-06T04:17:18Z",
+        "issued": "2025-11-13T20:15:51Z"
+      }
+    },
+    "full_available_languages": [
+      "nl",
+      "pl",
+      "hu",
+      "de",
+      "uk",
+      "ro",
+      "et",
+      "sv",
+      "hr",
+      "ga",
+      "sk",
+      "sl",
+      "fi",
+      "lv",
+      "el",
+      "cs",
+      "lt",
+      "pt",
+      "bg",
+      "mt",
+      "da",
+      "it",
+      "en",
+      "fr",
+      "es"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nl": "Kennisgeving van biedingen en de resultaten daarvan bij de verkoop van geconfisqueerde, aangehouden en vrijwillig verkochte goederen in het SETAM-systeem ",
+    "sk": "Oznámenie ponuky a jej výsledky týkajúce sa predaja skonfiškovaného, zatknutého a dobrovoľne predaného majetku v systéme SETAM ",
+    "es": "Notificación de licitación y sus resultados sobre la venta de bienes confiscados, detenidos y vendidos voluntariamente en el sistema SETAM ",
+    "hu": "Értesítés az ajánlattételről és az elkobzott, letartóztatott és önként eladott vagyontárgyak értékesítésével kapcsolatos eredményekről a SETAM rendszerben ",
+    "lv": "Paziņojums par solīšanu un tās rezultātiem attiecībā uz konfiscētā, arestētā un brīvprātīgi pārdotā īpašuma pārdošanu SETAM sistēmā ",
+    "pt": "Notificação da licitação e dos respetivos resultados sobre a venda de bens confiscados, detidos e vendidos voluntariamente no sistema SETAM ",
+    "cs": "Oznámení o podávání nabídek a jejich výsledcích při prodeji zkonfiskovaného, zatčeného a dobrovolně prodaného majetku v systému SETAM ",
+    "lt": "Pranešimas apie konkursus ir jų rezultatus parduodant konfiskuotą, areštuotą ir savanoriškai parduotą turtą sistemoje SETAM ",
+    "da": "Indberetning af bud og resultaterne heraf vedrørende salg af konfiskerede, arresterede og frivilligt solgte formuegoder i SETAM-systemet ",
+    "el": "Κοινοποίηση των προσφορών και των αποτελεσμάτων τους σχετικά με την πώληση δημευμένων, συλληφθέντων και εκούσια πωλούμενων περιουσιακών στοιχείων στο σύστημα SETAM ",
+    "ga": "Fógra faoi thairiscintí agus a dtorthaí maidir le maoin choigistithe, ghafa agus dhíolta go deonach a dhíol i gcóras SETAM ",
+    "fi": "Ilmoitus menetetyksi tuomitun, pidätetyn ja vapaaehtoisesti myydyn omaisuuden myyntiä koskevista tarjouksista ja niiden tuloksista SETAM-järjestelmässä ",
+    "hr": "Obavijest o nadmetanju i njihovim rezultatima u pogledu prodaje oduzete, uhićene i dobrovoljno prodane imovine u sustavu SETAM ",
+    "uk": "Повідомлення про торги  та їх результати з реалізації конфіскованого, арештованого та добровільно реалізованого майна в системі СЕТАМ ",
+    "et": "Teade konfiskeeritud, arestitud ja vabatahtlikult müüdud vara müügiga seotud pakkumise ja selle tulemuste kohta süsteemis SETAM ",
+    "sv": "Meddelande om budgivning och deras resultat vid försäljning av förverkad, gripen och frivilligt såld egendom i SETAM-systemet ",
+    "de": "Benachrichtigung über Gebote und deren Ergebnisse beim Verkauf von beschlagnahmten, festgenommenen und freiwillig verkauften Gegenständen im SETAM-System ",
+    "sl": "Obvestilo o ponudbah in njihovih rezultatih pri prodaji zaseženega, prijetega in prostovoljno prodanega premoženja v sistemu SETAM ",
+    "pl": "Powiadomienie o licytacji i jej wynikach dotyczących sprzedaży skonfiskowanego, zatrzymanego i dobrowolnie sprzedanego mienia w systemie SETAM ",
+    "fr": "Notification des offres et de leurs résultats concernant la vente de biens confisqués, arrêtés et vendus volontairement dans le cadre du système SETAM ",
+    "mt": "Notifika tal-offerti u r-riżultati tagħhom dwar il-bejgħ ta’ proprjetà kkonfiskata, arrestata u mibjugħa volontarjament fis-sistema SETAM ",
+    "bg": "Уведомление за наддаване и резултатите от него относно продажбата на конфискувано, задържано и доброволно продадено имущество в системата SETAM ",
+    "it": "Notifica delle offerte e dei relativi risultati sulla vendita di beni confiscati, arrestati e venduti volontariamente nel sistema SETAM ",
+    "en": "Notification of bidding and their results on the sale of confiscated, arrested and voluntarily sold property in the SETAM system ",
+    "ro": "Notificarea licitațiilor și a rezultatelor acestora privind vânzarea bunurilor confiscate, arestate și vândute voluntar în sistemul SETAM "
+  },
+  "index": "dataset",
+  "language": [
+    {
+      "id": "ua",
+      "label": "ua"
+    }
+  ],
+  "version_info": "1.0",
+  "title": {
+    "nl": "Kennisgeving van biedingen voor de verkoop van geconfisqueerde en in beslag genomen goederen en de resultaten daarvan",
+    "pl": "Powiadomienie o złożeniu oferty sprzedaży skonfiskowanego i zajętego mienia oraz o ich wynikach",
+    "hu": "Értesítés az elkobzott és lefoglalt vagyontárgyak értékesítésére irányuló ajánlattételről és azok eredményeiről",
+    "de": "Benachrichtigung über Gebote für den Verkauf von beschlagnahmten und beschlagnahmten Vermögensgegenständen und deren Ergebnisse",
+    "uk": "Повідомлення про торги з реалізації конфіскованого та арештованого майна та їх результати",
+    "ro": "Notificarea licitației pentru vânzarea bunurilor confiscate și puse sub sechestru și a rezultatelor acestora",
+    "et": "Teade konfiskeeritud ja arestitud vara müügipakkumise ja selle tulemuste kohta",
+    "sv": "Meddelande om budgivning för försäljning av förverkad och beslagtagen egendom och deras resultat",
+    "hr": "Obavijest o nadmetanju za prodaju oduzete i oduzete imovine i njezini rezultati",
+    "ga": "Fógra maidir le tairiscint chun maoin choigistithe agus urghafa agus a torthaí a dhíol",
+    "sk": "Oznámenie ponuky na predaj skonfiškovaného a zaisteného majetku a ich výsledky",
+    "sl": "Obvestilo o ponudbah za prodajo zaseženega in zaplenjenega premoženja ter njihovih rezultatih",
+    "fi": "Ilmoitus menetetyksi tuomitun ja takavarikoidun omaisuuden myyntiä koskevasta tarjouskilpailusta ja sen tuloksista",
+    "lv": "Paziņojums par piedāvājumu pārdot konfiscēto un arestēto īpašumu un tā rezultāti",
+    "el": "Γνωστοποίηση υποβολής προσφορών για την πώληση δημευμένων και κατασχεθέντων περιουσιακών στοιχείων και τα αποτελέσματά τους",
+    "cs": "Oznámení o podání nabídky na prodej zkonfiskovaného a zajištěného majetku a jeho výsledky",
+    "lt": "Pranešimas apie pasiūlymą parduoti konfiskuotą ir areštuotą turtą ir jo rezultatus",
+    "pt": "Notificação de concurso para a venda de bens confiscados e apreendidos e respetivos resultados",
+    "bg": "Уведомление за наддаване за продажба на конфискувано и иззето имущество и резултатите от тях",
+    "mt": "Notifika ta’ offerti għall-bejgħ ta’ proprjetà kkonfiskata u ssekwestrata u r-riżultati tagħhom",
+    "da": "Meddelelse om bud på salg af konfiskerede og beslaglagte formuegoder og resultaterne heraf",
+    "it": "Notifica di offerte per la vendita di beni confiscati e sequestrati e relativi risultati",
+    "en": "Notification of bidding for the sale of confiscated and seized property and their results",
+    "fr": "Notification des offres de vente de biens confisqués et saisis et de leurs résultats",
+    "es": "Notificación de licitación para la venta de bienes decomisados e incautados y sus resultados"
+  },
+  "distributions": [
+    {
+      "id": "333f58ec-3d87-47d2-9a72-235bc219d4a4",
+      "title": {
+        "hu": "árverések 2025. december 12.",
+        "hr": "aukcije – 12.2025.",
+        "et": "enampakkumised 12.2025",
+        "pl": "aukcje – 12.2025 r.",
+        "sv": "auktioner-12.2025",
+        "bg": "търгове — 12.2025 г.",
+        "ga": "ceantanna-12.2025",
+        "el": "δημοπρασίες-12.2025",
+        "ro": "licitații-12.2025",
+        "cs": "aukce-12.2025",
+        "uk": "auctions-12.2025",
+        "es": "subastas-12.2025",
+        "en": "auctions-12.2025",
+        "pt": "leilões-12.2025",
+        "sl": "dražbe-12.2025",
+        "it": "aste-12.2025",
+        "fi": "huutokaupat-12.2025",
+        "mt": "irkantijiet-12.2025",
+        "lv": "izsoles 12.2025.",
+        "nl": "veilingen-12.2025",
+        "de": "Auktionen-12.2025",
+        "sk": "aukcie – 12. 2025",
+        "da": "auktioner-12.2025",
+        "fr": "ventes aux enchères-12.2025",
+        "lt": "aukcionai – 2025 m. gruodžio 12 d."
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/20428c15-34e9-47f5-a4be-9ba4fb0b0668/download/auctions-31-12-2025.csv"
+      ],
+      "media_type": "text/csv"
+    },
+    {
+      "id": "ce9850f7-609d-4d78-8b0e-cf7a21042540",
+      "title": {
+        "cs": "aukce – 12. 2024",
+        "ro": "licitații-12.2024",
+        "ga": "ceantanna-12.2024",
+        "sk": "aukcie – 12. 2024",
+        "mt": "irkantijiet-12.2024",
+        "lt": "aukcionai 2024 m. gruodžio 12 d.",
+        "nl": "veilingen-12.2024",
+        "bg": "търгове — 12.12.2024 г.",
+        "fi": "huutokaupat-12.2024",
+        "it": "aste-12.2024",
+        "pl": "aukcje – 12.2024 r.",
+        "da": "auktioner-12.2024",
+        "hr": "dražbe – 12. 2024.",
+        "hu": "2024. decemberi árverések",
+        "fr": "ventes aux enchères du 12 décembre 2024",
+        "sl": "dražbe-12.2024",
+        "en": "auctions-12.2024",
+        "sv": "auktioner-12.2024",
+        "pt": "leilões-12.2024",
+        "el": "δημοπρασίες-12.2024",
+        "et": "enampakkumised 12. veebruaril 2024",
+        "lv": "izsoles 12.2024.",
+        "de": "Auktionen-12.2024",
+        "uk": "auctions-12.2024",
+        "es": "subastas-12.2024"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/94a220b9-aa88-4590-a30c-365a469ac49d/download/auctions-31-12-2024.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "7e3ce1da-a6bc-4c18-aa35-8e0102892ac6",
+      "title": {
+        "fi": "huutokaupat-05.2024",
+        "hu": "árverések – 2024. május",
+        "sl": "dražbe-05.2024",
+        "it": "aste-05.2024",
+        "pt": "leilões-05.2024",
+        "da": "auktioner-05.2024",
+        "en": "auctions-05.2024",
+        "sk": "aukcie – 5. 2024",
+        "nl": "veilingen-05.2024",
+        "bg": "търгове — 5.5.2024 г.",
+        "ga": "ceantanna-05.2024",
+        "mt": "irkanti-05.2024",
+        "pl": "aukcje-05.2024",
+        "sv": "auktioner-05.2024",
+        "lt": "aukcionai – 2024 m. gegužės mėn.",
+        "uk": "auctions-05.2024",
+        "et": "enampakkumised-05.2024",
+        "hr": "dražbe – 5. 2024.",
+        "fr": "ventes aux enchères du 5 mai 2024",
+        "cs": "aukce-05.2024",
+        "de": "Auktionen-05.2024",
+        "el": "δημοπρασίες-05.2024",
+        "ro": "licitații-05.2024",
+        "es": "subastas-05.2024",
+        "lv": "izsoles-05.2024."
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/9258cd10-28bf-4f36-9abf-257fbdf69ff6/download/auctions-31-05-2024.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "d6e60086-6d8d-43a8-bceb-3afff3efe577",
+      "title": {
+        "lv": "izsoles-03.2025",
+        "uk": "auctions-03.2025",
+        "da": "auktioner-03.2025",
+        "bg": "търгове-03.2025 г.",
+        "fr": "ventes aux enchères-03.2025",
+        "nl": "veilingen-03.2025",
+        "hu": "árverések-2025. március",
+        "en": "auctions-03.2025",
+        "ro": "licitații-03.2025",
+        "pl": "aukcje-03.2025",
+        "es": "subastas-03.2025",
+        "lt": "aukcionai-03.2025",
+        "hr": "aukcije-03.2025",
+        "fi": "huutokauppa-03.2025",
+        "sk": "aukcie – 3. 2025",
+        "pt": "leilões-03.2025",
+        "it": "aste-03.2025",
+        "sl": "dražbe-03.2025",
+        "sv": "auktioner-03.2025",
+        "el": "δημοπρασίες-03.2025",
+        "cs": "aukce 03.2025",
+        "ga": "ceantanna-03.2025",
+        "mt": "irkanti-03.2025",
+        "de": "Auktionen-03.2025",
+        "et": "enampakkumised-03.2025"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/5150f463-310e-4ac2-9834-83b45efbb0e2/download/auctions-31-03-2025.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv"
+    },
+    {
+      "id": "9034000a-a30c-49c6-85db-de688dc9a8d6",
+      "title": {
+        "el": "δημοπρασίες-05.2026",
+        "hr": "aukcije-05.2026",
+        "de": "Auktionen-05.2026",
+        "it": "aste-05.2026",
+        "mt": "irkanti-05.2026",
+        "es": "subastas-05.2026",
+        "ro": "licitații-05.2026",
+        "pt": "leilões-05.2026",
+        "nl": "veilingen-05.2026",
+        "sk": "aukcie – 5. 2026",
+        "ga": "ceantanna-05.2026",
+        "bg": "търгове-05.2026 г.",
+        "sl": "dražbe-05.2026",
+        "uk": "auctions-05.2026",
+        "fr": "ventes aux enchères-05.2026",
+        "cs": "aukce-05.2026",
+        "lt": "aukcionai-05.2026",
+        "en": "auctions-05.2026",
+        "hu": "árverések-05.2026",
+        "da": "auktioner-05.2026",
+        "pl": "aukcje-05.2026",
+        "fi": "huutokauppa-05.2026",
+        "lv": "izsoles-05.2026",
+        "sv": "auktioner-05.2026",
+        "et": "enampakkumised-05.2026"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/71ff03dd-b556-4c4d-8836-e5aa55729d43/download/auctions-31-05-2026.csv"
+      ]
+    },
+    {
+      "id": "3c4ae0fc-273f-4711-83c1-8fd5ebc78a6a",
+      "title": {
+        "hr": "dražbe – 12. 2023.",
+        "fi": "huutokaupat-12.2023",
+        "fr": "ventes aux enchères du 12 décembre 2023",
+        "sl": "dražbe – 12. 2023",
+        "bg": "търгове-12.2023 г.",
+        "da": "auktioner-12.2023",
+        "es": "subastas-12.2023",
+        "cs": "aukce – 12. 2023",
+        "et": "enampakkumised – 12.2023",
+        "lv": "izsoles 12.2023.",
+        "mt": "irkantijiet-12.2023",
+        "uk": "auctions-12.2023",
+        "el": "δημοπρασίες-12.2023",
+        "nl": "veilingen-12.2023",
+        "sk": "aukcie – 12. 2023",
+        "ro": "licitații-12.2023",
+        "lt": "2023 m. gruodžio 12 d. aukcionai",
+        "pt": "leilões-12.2023",
+        "ga": "ceantanna-12.2023",
+        "sv": "auktioner-12.2023",
+        "it": "aste-12.2023",
+        "pl": "aukcje 12.2023",
+        "de": "Auktionen-12.2023",
+        "en": "auctions-12.2023",
+        "hu": "árverések – 2023. 12."
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/6a7af100-95ad-4ab9-af3b-f8080c8e71a1/download/auctions-31-12-2023.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "4b8e035e-8cec-4d8d-8781-e34c6a2cd1c8",
+      "title": {
+        "it": "aste del 2 febbraio 2021",
+        "en": "auctions-02.2021",
+        "de": "Auktionen-02.2021",
+        "nl": "veilingen-02.2021",
+        "sl": "dražbe – 2. 2021",
+        "sk": "aukcie – 2. 2021",
+        "ro": "licitații-02.2021",
+        "hr": "aukcije-02.2021",
+        "lt": "aukcionai 02.2021",
+        "pl": "aukcje-02.2021",
+        "hu": "árverések – 2021. február",
+        "et": "enampakkumised – 02.2021",
+        "sv": "auktioner-02.2021",
+        "lv": "izsoles-02.2021",
+        "uk": "auctions-02.2021",
+        "ga": "ceantanna-02.2021",
+        "bg": "търгове-02.2021 г.",
+        "cs": "aukce – 2. 2021",
+        "fr": "ventes aux enchères-02.2021",
+        "el": "δημοπρασίες-02.2021",
+        "mt": "irkantijiet-02.2021",
+        "es": "subastas-02.2021",
+        "fi": "huutokaupat-02.2021",
+        "da": "auktioner-02.2021",
+        "pt": "leilões-02.2021"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/c111deb4-381e-4116-b997-b175717adff7/download/auctions-28-02-2021.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "e1f1bbf8-36cb-446f-8de2-cbbbb8fc6669",
+      "title": {
+        "mt": "irkantijiet-10.2020",
+        "sl": "dražbe-10.2020",
+        "pt": "leilões-10.2020",
+        "ro": "licitații-10.2020",
+        "ga": "ceantanna-10.2020",
+        "es": "subastas-10.2020",
+        "hu": "árverések – 2020. 10.",
+        "it": "aste-10.2020",
+        "fr": "ventes aux enchères 10.2020",
+        "lv": "izsoles-10.2020.",
+        "hr": "aukcije – 10. 2020.",
+        "en": "auctions-10.2020",
+        "da": "auktioner-10.2020",
+        "el": "δημοπρασίες-10.2020",
+        "lt": "aukcionai 10.2020",
+        "sk": "aukcie – 10. 2020",
+        "pl": "aukcje-10.2020",
+        "de": "Auktionen-10.2020",
+        "uk": "auctions-10.2020",
+        "et": "enampakkumised 10.2020",
+        "fi": "huutokaupat 10.10.2020",
+        "cs": "aukce-10.2020",
+        "nl": "veilingen-10.2020",
+        "bg": "търгове — 10.2020 г.",
+        "sv": "auktioner-10.2020"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/05d59434-ab47-49ac-861f-900cde8f71a2/download/auctions-22-10-2020.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv"
+    },
+    {
+      "id": "e3333528-3124-4fc7-99bb-6b5cff478e1d",
+      "title": {
+        "da": "auktioner-04.2021",
+        "hr": "dražbe-04.2021.",
+        "sl": "dražbe-04.2021",
+        "lv": "izsoles-04.2021.",
+        "es": "subastas-04.2021",
+        "sk": "aukcie – 4. 2021",
+        "cs": "aukce – 4. 2021",
+        "el": "δημοπρασίες-04.2021",
+        "hu": "árverések – 2021. április",
+        "fr": "ventes aux enchères-04.2021",
+        "en": "auctions-04.2021",
+        "ga": "ceantanna-04.2021",
+        "pt": "leilões-04.2021",
+        "mt": "irkantijiet-04.2021",
+        "sv": "auktioner-04.2021",
+        "fi": "huutokaupat-04.2021",
+        "bg": "търгове-04.2021 г.",
+        "pl": "aukcje-04.2021",
+        "et": "enampakkumised – aprill 2021",
+        "it": "aste-04.2021",
+        "lt": "aukcionai – 2021 m. balandžio mėn.",
+        "ro": "licitații-04.2021",
+        "de": "Auktionen-04.2021",
+        "uk": "auctions-04.2021",
+        "nl": "veilingen-04.2021"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/a19b769f-8f74-4bab-af00-2d1d10d3935b/download/auctions-30-06-2021.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv"
+    },
+    {
+      "id": "ae782706-7468-49b6-92b3-11883e55e030",
+      "title": {
+        "et": "enampakkumised 10. veebruaril 2024",
+        "fr": "ventes aux enchères 10.2024",
+        "en": "auctions-10.2024",
+        "da": "auktioner-10.2024",
+        "es": "subastas-10.2024",
+        "lv": "izsoles-10.2024.",
+        "nl": "veilingen-10.2024",
+        "el": "δημοπρασίες-10.2024",
+        "lt": "aukcionai 2024 m. spalio mėn.",
+        "fi": "huutokaupat 10.2024",
+        "ga": "ceantanna-10.2024",
+        "bg": "търгове — 10.2024 г.",
+        "it": "aste-10.2024",
+        "pt": "leilões-10.2024",
+        "uk": "auctions-10.2024",
+        "sk": "aukcie – 10. 2024",
+        "sl": "dražbe-10.2024",
+        "de": "Auktionen-10.2024",
+        "pl": "aukcje-10.2024",
+        "cs": "aukce – 10. 2024",
+        "hr": "dražbe 10. 2024.",
+        "sv": "auktioner-10.2024",
+        "mt": "irkantijiet-10.2024",
+        "ro": "licitații-10.2024",
+        "hu": "árverések 2024.10.10."
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/77ff25ee-ac4c-483e-8bc7-80ced79f1a34/download/auctions-31-10-2024.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv"
+    },
+    {
+      "id": "10fcea7c-3aec-4442-84d8-e8d748377356",
+      "title": {
+        "nl": "veilingen-02.2025",
+        "fi": "huutokauppa-02.2025",
+        "sv": "auktioner-02.2025",
+        "ga": "ceantanna-02.2025",
+        "cs": "aukce-02.2025",
+        "en": "auctions-02.2025",
+        "pt": "leilões-02.2025",
+        "fr": "ventes aux enchères-02.2025",
+        "hr": "aukcije-02.2025",
+        "pl": "aukcje-02.2025",
+        "hu": "árverések-02.2025",
+        "es": "subastas-02.2025",
+        "da": "auktioner-02.2025",
+        "mt": "irkanti-02.2025",
+        "sk": "aukcie – 2. 2025",
+        "et": "enampakkumised-02.2025",
+        "bg": "търгове-02.2025 г.",
+        "it": "aste-02.2025",
+        "ro": "licitații-02.2025",
+        "uk": "auctions-02.2025",
+        "lt": "aukcionai-02.2025",
+        "lv": "izsoles-02.2025",
+        "el": "δημοπρασίες-02.2025",
+        "de": "Auktionen-02.2025",
+        "sl": "dražbe-02.2025"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/2c4260c4-1f71-426b-b2fb-9ee380794f80/download/auctions-28-02-2025.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "61199771-7c66-4161-a940-203b8f21562a",
+      "title": {
+        "bg": "търгове — 11.2025 г.",
+        "pl": "aukcje-11.2025",
+        "ga": "ceantanna-11.2025",
+        "es": "subastas-11.2025",
+        "en": "auctions-11.2025",
+        "sv": "auktioner-11.2025",
+        "et": "enampakkumised 11.2025",
+        "pt": "leilões-11.2025",
+        "da": "auktioner-11.2025",
+        "hu": "árverések – 2025. 11.",
+        "fi": "huutokaupat-11.2025",
+        "it": "aste-11.2025",
+        "de": "Auktionen-11.2025",
+        "hr": "aukcije – 11.2025.",
+        "sl": "dražbe-11.2025",
+        "ro": "licitații-11.2025",
+        "el": "δημοπρασίες-11.2025",
+        "lv": "izsoles 11.2025.",
+        "mt": "irkantijiet-11.2025",
+        "fr": "ventes aux enchères-11.2025",
+        "uk": "auctions-11.2025",
+        "nl": "veilingen-11.2025",
+        "cs": "aukce-11.2025",
+        "lt": "aukcionai – 2025 m. lapkričio 11 d.",
+        "sk": "aukcie – 11. 2025"
+      },
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/c96741c5-4eb5-4b51-8f68-a97ab140db10/download/auctions-30-11-2025.csv"
+      ]
+    },
+    {
+      "id": "9ec0606a-d02f-4587-be70-2426f60f5e2b",
+      "title": {
+        "ga": "ceantanna-05.2020",
+        "lv": "izsoles-05.2020.",
+        "sl": "dražbe-05.2020",
+        "ro": "licitații-05.2020",
+        "es": "subastas-05.2020",
+        "bg": "търгове-05.2020 г.",
+        "el": "δημοπρασίες-05.2020",
+        "cs": "aukce-05.2020",
+        "pt": "leilões-05.2020",
+        "et": "enampakkumised-05.2020",
+        "hr": "dražbe – 5. 2020.",
+        "sk": "aukcie – 5. 2020",
+        "sv": "auktioner-05.2020",
+        "fi": "huutokaupat-05.2020",
+        "uk": "auctions-05.2020",
+        "en": "auctions-05.2020",
+        "de": "Auktionen-05.2020",
+        "it": "aste-05.2020",
+        "hu": "árverések – 2020. május",
+        "fr": "ventes aux enchères-05.2020",
+        "da": "auktioner-05.2020",
+        "pl": "aukcje-05.2020",
+        "mt": "irkanti-05.2020",
+        "nl": "veilingen-05.2020",
+        "lt": "aukcionai-05.2020"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/17304552-1803-4370-b44a-015f578ab2d2/download/auctions-31-05-2020.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "eec50e4c-def4-42ba-8a6a-41960163d5e2",
+      "title": {
+        "pl": "aukcje-02.2026",
+        "fi": "huutokauppa-02.2026",
+        "en": "auctions-02.2026",
+        "sl": "dražbe-02.2026",
+        "hr": "aukcije-02.2026",
+        "sk": "aukcie – 2. 2026",
+        "ro": "licitații-02.2026",
+        "ga": "ceantanna-02.2026",
+        "pt": "leilões-02.2026",
+        "cs": "aukce-02.2026",
+        "fr": "ventes aux enchères-02.2026",
+        "it": "aste-02.2026",
+        "sv": "auktioner-02.2026",
+        "mt": "irkanti-02.2026",
+        "el": "δημοπρασίες-02.2026",
+        "bg": "търгове-02.2026 г.",
+        "lt": "aukcionai-02.2026",
+        "uk": "auctions-02.2026",
+        "de": "Auktionen-02.2026",
+        "es": "subastas-02.2026",
+        "lv": "izsoles-02.2026",
+        "da": "auktioner-02.2026",
+        "nl": "veilingen-02.2026",
+        "hu": "árverések-02.2026",
+        "et": "enampakkumised-02.2026"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/60b585a9-2e1e-48f9-8684-32accfd4e57d/download/auctions-28-02-2026.csv"
+      ]
+    },
+    {
+      "id": "64e8dcd1-c201-476b-b19e-2435339a6c98",
+      "title": {
+        "pl": "aukcje-09.2025",
+        "da": "auktioner-09.2025",
+        "sv": "auktioner-09.2025",
+        "pt": "leilões-09.2025",
+        "ro": "licitații-09.2025",
+        "hr": "aukcije-09.2025",
+        "es": "subastas-09.2025",
+        "en": "auctions-09.2025",
+        "et": "enampakkumised-09.2025",
+        "fi": "huutokauppa-09.2025",
+        "fr": "ventes aux enchères-09.2025",
+        "lt": "aukcionai – 2025 m. rugsėjo 9 d.",
+        "hu": "árverések-09.2025",
+        "sl": "dražbe-09.2025",
+        "de": "Auktionen-09.2025",
+        "ga": "ceantanna-09.2025",
+        "nl": "veilingen-09.2025",
+        "lv": "izsoles-09.2025.",
+        "el": "δημοπρασίες-09.2025",
+        "it": "aste-09.2025",
+        "cs": "aukce-09.2025",
+        "mt": "irkanti-09.2025",
+        "uk": "auctions-09.2025",
+        "bg": "търгове-09.2025 г.",
+        "sk": "aukcie – 9. 2025"
+      },
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/999202ea-89f9-4cd6-a4cb-d6642391957e/download/auctions-30-09-2025.csv"
+      ]
+    },
+    {
+      "id": "e4177bfe-cb79-49ea-bd05-c767de7d4d9c",
+      "title": {
+        "nl": "veilingen-06.2021",
+        "bg": "търгове-06.2021 г.",
+        "uk": "auctions-06.2021",
+        "pt": "leilões-06.2021",
+        "mt": "irkanti-06.2021",
+        "fr": "ventes aux enchères du 06.2021",
+        "et": "enampakkumised-06.2021",
+        "hu": "árverések – 2021. június",
+        "sv": "auktioner-06.2021",
+        "el": "δημοπρασίες-06.2021",
+        "es": "subastas-06.2021",
+        "da": "auktioner-06.2021",
+        "hr": "dražbe – 6. 2021.",
+        "it": "aste-06.2021",
+        "ga": "ceantanna-06.2021",
+        "ro": "licitații-06.2021",
+        "sk": "aukcie – 6. 2021",
+        "en": "auctions-06.2021",
+        "lt": "aukcionai – 2021 m. birželio mėn.",
+        "fi": "huutokaupat-06.2021",
+        "de": "Auktionen-06.2021",
+        "sl": "dražbe-06.2021",
+        "lv": "izsoles-06.2021.",
+        "pl": "aukcje-06.2021",
+        "cs": "aukce – 6. 2021"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/862daa81-7116-40a6-baad-5a757e73fb29/download/auctions-01-06-2021.csv"
+      ]
+    },
+    {
+      "id": "7e519c0b-e64c-4375-b05e-aae731e1969e",
+      "title": {
+        "de": "Auktionen-04.2023",
+        "ga": "ceantanna-04.2023",
+        "en": "auctions-04.2023",
+        "mt": "irkantijiet-04.2023",
+        "bg": "търгове-04.2023 г.",
+        "sk": "aukcie – 4. 2023",
+        "es": "subastas-04.2023",
+        "sv": "auktioner-04.2023",
+        "da": "auktioner-04.2023",
+        "it": "aste-04.2023",
+        "uk": "auctions-04.2023",
+        "hr": "dražbe – 4. 2023.",
+        "pt": "leilões-04.2023",
+        "el": "δημοπρασίες-04.2023",
+        "pl": "aukcje-04.2023",
+        "hu": "árverések – 2023. április",
+        "cs": "aukce – 4. 2023",
+        "sl": "dražbe–04.2023",
+        "et": "enampakkumised – 04.2023",
+        "ro": "licitații-04.2023",
+        "lt": "aukcionai – 2023 m. balandžio mėn.",
+        "nl": "veilingen-04.2023",
+        "fr": "ventes aux enchères du 04.2023",
+        "lv": "izsoles-04.2023.",
+        "fi": "huutokaupat-04.2023"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/6e4ddc13-d125-4f16-92bc-c573ccb13b23/download/auctions-04-04-2023.csv"
+      ],
+      "media_type": "text/csv"
+    },
+    {
+      "id": "1bd38c81-c75f-4129-8185-ee5e93363404",
+      "title": {
+        "uk": "auctions-11.2020",
+        "da": "auktioner-11.2020",
+        "nl": "veilingen-11.2020",
+        "el": "δημοπρασίες-11.2020",
+        "pl": "aukcje-11.2020",
+        "hr": "dražbe – 11. 2020.",
+        "fi": "huutokaupat-11.2020",
+        "sl": "dražbe-11.2020",
+        "fr": "ventes aux enchères du 11 novembre 2020",
+        "bg": "търгове-11.2020 г.",
+        "sk": "aukcie – 11. 2020",
+        "ga": "ceantanna-11.2020",
+        "de": "Auktionen-11.2020",
+        "et": "enampakkumised – 11.2020",
+        "mt": "irkantijiet-11.2020",
+        "lt": "aukcionai 11.2020",
+        "it": "aste-11.2020",
+        "ro": "licitații-11.2020",
+        "lv": "izsoles – 11.2020.",
+        "cs": "aukce-11.2020",
+        "pt": "leilões-11.2020",
+        "es": "subastas-11.2020",
+        "hu": "árverések – 2020. 11.",
+        "sv": "auktioner-11.2020",
+        "en": "auctions-11.2020"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/047cc944-99e0-457c-b66e-2358e6f5bcde/download/auctions-31-01-2021.csv"
+      ]
+    },
+    {
+      "id": "69564a37-80f5-4c90-9061-c336bf812266",
+      "title": {
+        "fi": "huutokaupat-05.2025",
+        "da": "auktioner-05.2025",
+        "hu": "árverések-05.2025",
+        "sk": "aukcie – 5. 2025",
+        "sl": "dražbe-05.2025",
+        "pt": "leilões-05.2025",
+        "pl": "aukcje-05.2025",
+        "uk": "auctions-05.2025",
+        "it": "aste-05.2025",
+        "et": "enampakkumised-05.2025",
+        "ro": "licitații-05.2025",
+        "bg": "търгове-05.2025 г.",
+        "ga": "ceantanna-05.2025",
+        "lt": "aukcionai-05.2025",
+        "lv": "izsoles-05.2025.",
+        "el": "δημοπρασίες-05.2025",
+        "hr": "aukcije-05.2025",
+        "sv": "auktioner-05.2025",
+        "mt": "irkanti-05.2025",
+        "cs": "aukce-05.2025",
+        "de": "Auktionen-05.2025",
+        "fr": "ventes aux enchères-05.2025",
+        "en": "auctions-05.2025",
+        "es": "subastas-05.2025",
+        "nl": "veilingen-05.2025"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/5e303d56-c3ab-4724-b2b1-d24dbbfda520/download/auctions-31-05-2025.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "e04fefbe-4847-4690-927c-953a58d4f6c5",
+      "media_type": "text/csv",
+      "title": {
+        "uk": "auctions-04.2026",
+        "el": "δημοπρασίες-04.2026",
+        "pt": "leilões-04.2026",
+        "ga": "ceantanna-04.2026",
+        "cs": "aukce-04.2026",
+        "sv": "auktioner-04.2026",
+        "sl": "dražbe-04.2026",
+        "hr": "aukcije-04.2026",
+        "da": "auktioner-04.2026",
+        "it": "aste-04.2026",
+        "lv": "izsoles-04.2026",
+        "es": "subastas-04.2026",
+        "pl": "aukcje-04.2026",
+        "de": "Auktionen-04.2026",
+        "fi": "huutokauppa-04.2026",
+        "mt": "irkanti-04.2026",
+        "hu": "árverések-2026. április",
+        "en": "auctions-04.2026",
+        "bg": "търгове-04.2026 г.",
+        "lt": "aukcionai-04.2026",
+        "et": "enampakkumised-04.2026",
+        "sk": "aukcie – 4. 2026",
+        "ro": "licitații-04.2026",
+        "nl": "veilingen-04.2026",
+        "fr": "ventes aux enchères-04.2026"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/8e2afbb9-7f9e-4387-887b-33fe5dd1b42c/download/auctions-30-04-2026.csv"
+      ]
+    },
+    {
+      "id": "0a652ccc-0820-4c9e-bb03-7d278902e4b4",
+      "title": {
+        "cs": "aukce-10.2025",
+        "fr": "ventes aux enchères-10.2025",
+        "sk": "aukcie – 10. 2025",
+        "mt": "irkantijiet-10.2025",
+        "de": "Auktionen-10.2025",
+        "nl": "veilingen-10.2025",
+        "sl": "dražbe-10.2025",
+        "hr": "aukcije – 10.2025.",
+        "da": "auktioner-10.2025",
+        "es": "subastas-10.2025",
+        "pt": "leilões-10.2025",
+        "lv": "izsoles-10.2025.",
+        "it": "aste-10.2025",
+        "uk": "auctions-10.2025",
+        "el": "δημοπρασίες-10.2025",
+        "ga": "ceantanna-10.2025",
+        "ro": "licitații-10.2025",
+        "bg": "търгове — 10.2025 г.",
+        "fi": "huutokaupat-10.2025",
+        "en": "auctions-10.2025",
+        "sv": "auktioner-10.2025",
+        "pl": "aukcje-10.2025",
+        "lt": "aukcionai-10.2025",
+        "et": "enampakkumised 10.2025",
+        "hu": "árverések – 2025.10."
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/8c453e08-f402-4e7a-b9b4-7d3d0593a015/download/auctions-31-10-2025.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "cb159bd0-dcb1-4fb1-a6b6-6ebb6a70350c",
+      "title": {
+        "lt": "aukcionai – 2025 m. birželio 6 d.",
+        "es": "subastas-06.2025",
+        "hu": "árverések-2025. június",
+        "fi": "huutokauppa-06.2025",
+        "bg": "търгове-06.2025 г.",
+        "el": "δημοπρασίες-06.2025",
+        "pl": "aukcje-06.2025",
+        "pt": "leilões-06.2025",
+        "mt": "irkanti-06.2025",
+        "ga": "ceantanna-06.2025",
+        "sv": "auktioner-06.2025",
+        "lv": "izsoles-06.2025.",
+        "nl": "veilingen-06.2025",
+        "uk": "auctions-06.2025",
+        "it": "aste-06.2025",
+        "et": "enampakkumised-06.2025",
+        "sl": "dražbe-06.2025",
+        "cs": "aukce-06.2025",
+        "de": "Auktionen-06.2025",
+        "fr": "ventes aux enchères-06.2025",
+        "da": "auktioner-06.2025",
+        "ro": "licitații-06.2025",
+        "sk": "aukcie – 6. 2025",
+        "hr": "aukcije – 6.2025.",
+        "en": "auctions-06.2025"
+      },
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/d480e1c0-05f7-4b52-a5fd-bc9f261b3ed7/download/auctions-30-06-2025.csv"
+      ]
+    },
+    {
+      "id": "12e2cfe9-b291-4511-8f9a-3a94bc78ed9c",
+      "title": {
+        "pt": "leilões-03.2023",
+        "da": "auktioner-03.2023",
+        "ro": "licitații-03.2023",
+        "pl": "aukcje-03.2023",
+        "cs": "aukce-03.2023",
+        "hu": "árverések – 2023. március",
+        "nl": "veilingen-03.2023",
+        "et": "enampakkumised-03.2023",
+        "en": "auctions-03.2023",
+        "mt": "irkanti-03.2023",
+        "de": "Auktionen-03.2023",
+        "hr": "dražbe – 3. 2023.",
+        "uk": "auctions-03.2023",
+        "sl": "dražbe – 3. 2023",
+        "fi": "huutokaupat-03.2023",
+        "lv": "izsoles-03.2023.",
+        "fr": "ventes aux enchères du 03.2023",
+        "es": "subastas-03.2023",
+        "el": "δημοπρασίες-03.2023",
+        "it": "aste-03.2023",
+        "ga": "ceantanna-03.2023",
+        "bg": "търгове-03.2023 г.",
+        "sk": "aukcie – 3. 2023",
+        "sv": "auktioner-03.2023",
+        "lt": "2023 m. kovo 3 d. aukcionai"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/6bb13b50-e9a0-46d3-bd1a-b038a8a08cf5/download/auctions-20-03-2023.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "820250c1-86b0-4392-adf5-d84183463efe",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "title": {
+        "lt": "aukcionai-03.2026",
+        "et": "enampakkumised-03.2026",
+        "mt": "irkanti-03.2026",
+        "bg": "търгове-03.2026 г.",
+        "fr": "ventes aux enchères-03.2026",
+        "sv": "auktioner-03.2026",
+        "sk": "aukcie – 3. 2026",
+        "en": "auctions-03.2026",
+        "uk": "auctions-03.2026",
+        "da": "auktioner-03.2026",
+        "el": "δημοπρασίες-03.2026",
+        "hu": "árverések-03.2026",
+        "nl": "veilingen-03.2026",
+        "pt": "leilões-03.2026",
+        "pl": "aukcje-03.2026",
+        "it": "aste-03.2026",
+        "fi": "huutokauppa-03.2026",
+        "de": "Auktionen-03.2026",
+        "ga": "ceantanna-03.2026",
+        "es": "subastas-03.2026",
+        "ro": "licitații-03.2026",
+        "lv": "izsoles-03.2026",
+        "cs": "aukce 03.2026",
+        "sl": "dražbe-03.2026",
+        "hr": "aukcije-03.2026"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/993deed8-ce13-470c-ba6b-48906a62ef42/download/auctions-31-03-2026.csv"
+      ],
+      "media_type": "text/csv"
+    },
+    {
+      "id": "5c5112af-2ecf-4756-a0bd-1ac3b3a06438",
+      "title": {
+        "bg": "търгове-07.2025 г.",
+        "da": "auktioner-07.2025",
+        "sk": "aukcie – 7. 2025",
+        "en": "auctions-07.2025",
+        "sl": "dražbe-07.2025",
+        "es": "subastas-07.2025",
+        "mt": "irkanti-07.2025",
+        "cs": "aukce-07.2025",
+        "hu": "árverések-2025. július",
+        "pl": "aukcje-07.2025",
+        "et": "enampakkumised-07.2025",
+        "ro": "licitații-07.2025",
+        "sv": "auktioner-07.2025",
+        "fi": "huutokauppa-07.2025",
+        "nl": "veilingen-07.2025",
+        "fr": "ventes aux enchères-07.2025",
+        "de": "Auktionen-07.2025",
+        "uk": "auctions-07.2025",
+        "pt": "leilões-07.2025",
+        "el": "Δημοπρασίες-07.2025",
+        "lt": "aukcionai – 2025 m. liepos mėn.",
+        "hr": "aukcije-07.2025",
+        "lv": "izsoles-07.2025.",
+        "ga": "ceantanna-07.2025",
+        "it": "aste-07.2025"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/6f242988-a878-4f77-837f-063765e27e88/download/auctions-31-07-2025.csv"
+      ],
+      "media_type": "text/csv"
+    },
+    {
+      "id": "3ab0ede3-0e55-455c-8db0-295c3a25a9df",
+      "title": {
+        "sl": "dražbe-07.2020",
+        "ro": "licitații-07.2020",
+        "mt": "irkanti-07.2020",
+        "de": "Auktionen-07.2020",
+        "ga": "ceantanna-07.2020",
+        "it": "aste-07.2020",
+        "hr": "aukcije – 7. 2020.",
+        "uk": "auctions-07.2020",
+        "pl": "aukcje-07.2020",
+        "fr": "ventes aux enchères-07.2020",
+        "el": "Δημοπρασίες-07.2020",
+        "hu": "árverések-2020. július",
+        "pt": "leilões-07.2020",
+        "bg": "търгове-07.2020 г.",
+        "es": "subastas-07.2020",
+        "sk": "aukcie – 7. 2020",
+        "sv": "auktioner-07.2020",
+        "en": "auctions-07.2020",
+        "da": "auktioner-07.2020",
+        "lt": "aukcionai – 2020 m. liepos mėn.",
+        "cs": "aukce-07.2020",
+        "lv": "izsoles-07.2020.",
+        "et": "enampakkumised-07.2020",
+        "fi": "huutokaupat-07.2020",
+        "nl": "veilingen-07.2020"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/3fa47298-2b08-4d45-9877-bf3694f28901/download/auctions-31-08-2020.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "fc6abc68-ebb5-44fc-a5e7-0831491fc78a",
+      "title": {
+        "fr": "ventes aux enchères-02.2024",
+        "cs": "aukce – 2. 2024",
+        "lv": "izsoles-02.2024",
+        "lt": "aukcionai 02.2024",
+        "ga": "ceantanna-02.2024",
+        "de": "Auktionen-02.2024",
+        "sv": "auktioner-02.2024",
+        "bg": "търгове-02.2024 г.",
+        "mt": "irkanti-02.2024",
+        "el": "δημοπρασίες-02.2024",
+        "pt": "leilões-02.2024",
+        "sl": "dražbe-02.2024",
+        "nl": "veilingen-02.2024",
+        "hu": "árverések – 2024. február",
+        "ro": "licitații-02.2024",
+        "et": "enampakkumised – veebruar 2024",
+        "pl": "aukcje-02.2024",
+        "sk": "aukcie – 2. 2024",
+        "fi": "huutokaupat-02.2024",
+        "it": "aste-02.2024",
+        "en": "auctions-02.2024",
+        "uk": "auctions-02.2024",
+        "da": "auktioner-02.2024",
+        "es": "subastas-02.2024",
+        "hr": "aukcije-02.2024."
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/e6ed9926-b5f9-48d3-bd6a-7a3c38eecc17/download/auctions-29-02-2024.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "cb1b29ac-1eea-4db8-bd7f-b5fdb943e9c3",
+      "title": {
+        "sv": "auktioner-03.2021",
+        "fi": "huutokaupat-03.2021",
+        "hr": "dražbe – 3. 2021.",
+        "fr": "ventes aux enchères du 03.2021",
+        "et": "enampakkumised – 03.2021",
+        "it": "aste-03.2021",
+        "nl": "veilingen-03.2021",
+        "pt": "leilões-03.2021",
+        "da": "auktioner-03.2021",
+        "el": "δημοπρασίες-03.2021",
+        "de": "Auktionen-03.2021",
+        "es": "subastas-03.2021",
+        "lt": "aukcionai-03.2021",
+        "hu": "árverések – 2021. március",
+        "en": "auctions-03.2021",
+        "uk": "auctions-03.2021",
+        "bg": "търгове-03.2021 г.",
+        "lv": "izsoles-03.2021.",
+        "cs": "aukce-03.2021",
+        "ro": "licitații-03.2021",
+        "mt": "irkantijiet-03.2021",
+        "pl": "aukcje-03.2021",
+        "sk": "aukcie – 3. 2021",
+        "sl": "dražbe – marec 2021",
+        "ga": "ceantanna-03.2021"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/002fae7a-a145-490e-b7e0-f3962d13f07b/download/auctions-31-03-2021.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "06c4d6dd-d10c-4f87-aed8-b9c588893f8f",
+      "media_type": "text/csv",
+      "title": {
+        "nl": "veilingen-11.2023",
+        "el": "δημοπρασίες-11.2023",
+        "fr": "ventes aux enchères du 11 novembre 2023",
+        "pt": "leilões-11.2023",
+        "cs": "aukce – 11. 2023",
+        "bg": "търгове-11.2023 г.",
+        "fi": "huutokaupat-11.2023",
+        "hr": "dražbe 11. 2023.",
+        "it": "aste-11.2023",
+        "sk": "aukcie – 11. 2023",
+        "da": "auktioner-11.2023",
+        "et": "enampakkumised – 11.2023",
+        "sl": "dražbe-11.2023",
+        "en": "auctions-11.2023",
+        "es": "subastas-11.2023",
+        "lv": "izsoles-11.2023.",
+        "ga": "ceantanna-11.2023",
+        "de": "Auktionen-11.2023",
+        "pl": "aukcje-11.2023",
+        "uk": "auctions-11.2023",
+        "sv": "auktioner-11.2023",
+        "lt": "aukcionai 2023 m. lapkričio 11 d.",
+        "hu": "árverések – 2023. 11.",
+        "ro": "licitații-11.2023",
+        "mt": "irkantijiet-11.2023"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/eb5ebdf1-e211-4478-951b-e22a0c2f0637/download/auctions-30-11-2023.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "2fa8b4b6-08b8-4824-9f10-47d6af74a379",
+      "title": {
+        "lt": "aukcionai 01.2026",
+        "uk": "auctions-01.2026",
+        "es": "subastas-01.2026",
+        "el": "δημοπρασίες-01.2026",
+        "ro": "licitații-01.2026",
+        "fi": "huutokaupat-01.2026",
+        "en": "auctions-01.2026",
+        "bg": "търгове-01.2026",
+        "sl": "dražbe-01.2026",
+        "de": "Auktionen-01.2026",
+        "ga": "ceantanna-01.2026",
+        "pt": "leilões-01.2026",
+        "mt": "irkanti-01.2026",
+        "pl": "aukcje-01.2026",
+        "hr": "aukcije-01.2026",
+        "lv": "izsoles-01.2026",
+        "sk": "aukcie – 1. 2026",
+        "et": "enampakkumised 1.1.2026",
+        "nl": "veilingen-01.2026",
+        "hu": "árverések-2026. január",
+        "cs": "aukce-01.2026",
+        "fr": "ventes aux enchères-01.2026",
+        "sv": "auktioner-01.2026",
+        "it": "aste-01.2026",
+        "da": "auktioner-01.2026"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/bc74685e-e3f1-4fd8-b180-a99ffd5a634d/download/auctions-31-01-2026.csv"
+      ]
+    },
+    {
+      "id": "d209decf-4fc4-4aa1-8b92-18cb393067d5",
+      "title": {
+        "cs": "aukce-01.2025",
+        "hr": "aukcije-01.2025",
+        "lt": "aukcionai 01.2025",
+        "bg": "търгове-01.2025 г.",
+        "fr": "ventes aux enchères-01.2025",
+        "de": "Auktionen-01.2025",
+        "nl": "veilingen-01.2025",
+        "pl": "aukcje-01.2025",
+        "da": "auktioner-01.2025",
+        "uk": "auctions-01.2025",
+        "ga": "ceantanna-01.2025",
+        "pt": "leilões-01.2025",
+        "et": "enampakkumised 1.1.2025",
+        "lv": "izsoles-01.2025",
+        "sk": "aukcie – 1. 2025",
+        "ro": "licitații-01.2025",
+        "en": "auctions-01.2025",
+        "el": "δημοπρασίες-01.2025",
+        "fi": "huutokaupat-01.2025",
+        "sl": "dražbe-01.2025",
+        "sv": "auktioner-01.2025",
+        "mt": "irkanti-01.2025",
+        "it": "aste-01.2025",
+        "hu": "árverések-2025. január",
+        "es": "subastas-01.2025"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/b9bcee5e-f2d3-4b89-8542-5c30d743aea2/download/auctions-27-01-2025.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "31428040-865a-497b-a189-9ce561bc4687",
+      "title": {
+        "it": "aste-07.2021",
+        "en": "auctions-07.2021",
+        "ga": "ceantanna-07.2021",
+        "sk": "aukcie – 7. 2021",
+        "fr": "ventes aux enchères-07.2021",
+        "hr": "aukcije-07.2021",
+        "cs": "aukce – 7. 2021",
+        "uk": "auctions-07.2021",
+        "sl": "dražbe – julij 2021",
+        "el": "δημοπρασίες-07.2021",
+        "hu": "árverések – 2021. július",
+        "fi": "huutokaupat-07.2021",
+        "lt": "aukcionai – 2021 m. liepos mėn.",
+        "nl": "veilingen-07.2021",
+        "da": "auktioner-07.2021",
+        "mt": "irkantijiet-07.2021",
+        "lv": "izsoles-07.2021.",
+        "es": "subastas-07.2021",
+        "pt": "leilões-07.2021",
+        "pl": "aukcje-07.2021",
+        "ro": "licitații-07.2021",
+        "de": "Auktionen-07.2021",
+        "sv": "auktioner-07.2021",
+        "bg": "търгове-07.2021 г.",
+        "et": "enampakkumised – juuli 2021"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/55fb0886-1fbb-4fa2-bfa6-616aab8c0d7c/download/auctions-31-08-2021.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "69e5ee18-f14f-4b3a-a61c-ea2b977ab336",
+      "title": {
+        "cs": "aukce-08.2025",
+        "fi": "huutokaupat-08.2025",
+        "sk": "aukcie – 8. 2025",
+        "mt": "irkanti-08.2025",
+        "nl": "veilingen-08.2025",
+        "bg": "търгове-08.2025 г.",
+        "et": "enampakkumised-08.2025",
+        "de": "Auktionen-08.2025",
+        "lv": "izsoles – 08.2025.",
+        "hr": "aukcije-08.2025",
+        "it": "aste-08.2025",
+        "es": "subastas-08.2025",
+        "sl": "dražbe-08.2025",
+        "ro": "licitații-08.2025",
+        "sv": "auktioner-08.2025",
+        "uk": "auctions-08.2025",
+        "fr": "ventes aux enchères-08.2025",
+        "lt": "aukcionai-08.2025",
+        "hu": "árverések-08.2025",
+        "pl": "aukcje-08.2025",
+        "el": "Δημοπρασίες-08.2025",
+        "en": "auctions-08.2025",
+        "pt": "leilões-08.2025",
+        "ga": "ceantanna-08.2025",
+        "da": "auktioner-08.2025"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/5a541031-1380-42cd-9537-8c96f94154ed/download/auctions-31-08-2025.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "baf59f8f-be2f-44f4-9551-d1d2ddd40286",
+      "title": {
+        "el": "δημοπρασίες-04.2020",
+        "ro": "licitații-04.2020",
+        "bg": "търгове-04.2020 г.",
+        "mt": "irkantijiet-04.2020",
+        "uk": "auctions-04.2020",
+        "fi": "huutokaupat-04.2020",
+        "es": "subastas-04.2020",
+        "lv": "izsoles-04.2020.",
+        "lt": "aukcionai-04.2020",
+        "ga": "ceantanna-04.2020",
+        "sl": "dražbe-04.2020",
+        "de": "Auktionen-04.2020",
+        "da": "auktioner-04.2020",
+        "cs": "aukce-04.2020",
+        "sv": "auktioner-04.2020",
+        "hr": "dražbe – 4. 2020.",
+        "it": "aste-04.2020",
+        "fr": "ventes aux enchères-04.2020",
+        "hu": "árverések – 2020. április",
+        "pl": "aukcje-04.2020",
+        "et": "enampakkumised – 4. aprill 2020",
+        "pt": "leilões-04.2020",
+        "sk": "aukcie – 4. 2020",
+        "en": "auctions-04.2020",
+        "nl": "veilingen-04.2020"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/8506cb8e-4b53-4006-83c3-1ed7f58ffefc/download/auctions-30-04-2020.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "0ba0599f-80c4-4406-9688-32a3c9cb15c9",
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/6396c5f6-5ef7-4330-b98c-dc79a0f624a7/download/auctions-23-02-2023.csv"
+      ],
+      "title": {
+        "mt": "irkanti-02.2023",
+        "fi": "huutokaupat-02.2023",
+        "lt": "aukcionai 02.2023",
+        "da": "auktioner-02.2023",
+        "cs": "aukce – 2. 2023",
+        "sk": "aukcie – 2. 2023",
+        "de": "Auktionen-02.2023",
+        "en": "auctions-02.2023",
+        "uk": "auctions-02.2023",
+        "bg": "търгове-02.2023 г.",
+        "nl": "veilingen-02.2023",
+        "fr": "ventes aux enchères du 02.2023",
+        "sl": "dražbe – 2. 2023",
+        "el": "δημοπρασίες-02.2023",
+        "sv": "auktioner-02.2023",
+        "it": "aste del 2 febbraio 2023",
+        "pt": "leilões-02.2023",
+        "ro": "licitații-02.2023",
+        "ga": "ceantanna-02.2023",
+        "es": "subastas-02.2023",
+        "et": "enampakkumised – 2. veebruar 2023",
+        "hu": "árverések – 2023. február",
+        "hr": "dražbe-02.2023.",
+        "pl": "aukcje-02.2023",
+        "lv": "izsoles-02.2023."
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "f8021845-59fa-43ed-a51a-a9daa1ddbd7f",
+      "title": {
+        "fi": "huutokaupat-12.2021",
+        "et": "enampakkumised 12.12.2021",
+        "hu": "árverések – 2021. 12.",
+        "da": "auktioner-12.2021",
+        "es": "subastas-12.2021",
+        "lt": "aukcionai (2021 m. gruodžio 12 d.)",
+        "el": "δημοπρασίες-12.2021",
+        "hr": "aukcije – 12. 2021.",
+        "sl": "dražbe-12.2021",
+        "bg": "търгове — 12.2021 г.",
+        "mt": "irkantijiet-12.2021",
+        "ro": "licitații-12.2021",
+        "pl": "aukcje-12.2021",
+        "fr": "ventes aux enchères du 12 décembre 2021",
+        "lv": "izsoles 2021. gada 12. decembrī",
+        "de": "Auktionen-12.2021",
+        "nl": "veilingen-12.2021",
+        "sk": "aukcie – 12. 2021",
+        "en": "auctions-12.2021",
+        "uk": "auctions-12.2021",
+        "it": "aste-12.2021",
+        "pt": "leilões-12.2021",
+        "ga": "ceantanna-12.2021",
+        "sv": "auktioner-12.2021",
+        "cs": "aukce – 12. 2021"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/948b7b0a-0180-470c-8ad8-8954bbd772be/download/auctions-01-12-2021.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "62a49dd9-3f17-47fd-a38e-f96748eee8a1",
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "title": {
+        "es": "subastas - 10.2021",
+        "bg": "търгове — 10.2021 г.",
+        "uk": "auctions-10.2021",
+        "et": "enampakkumised 10,2021",
+        "fr": "ventes aux enchères 10.2021",
+        "de": "Auktionen-10.2021",
+        "sl": "dražbe – 10. 2021",
+        "pl": "aukcje-10.2021",
+        "nl": "veilingen-10.2021",
+        "fi": "huutokaupat 10.10.2021",
+        "pt": "leilões-10.2021",
+        "hr": "dražbe 10. 2021.",
+        "hu": "árverések – 2021. 10.",
+        "el": "δημοπρασίες-10.2021",
+        "da": "auktioner-10.2021",
+        "sv": "auktioner-10.2021",
+        "ro": "licitații-10.2021",
+        "en": "auctions-10.2021",
+        "lv": "izsoles-10.2021.",
+        "mt": "irkantijiet-10.2021",
+        "lt": "aukcionai 2021 10 10",
+        "sk": "aukcie – 10. 2021",
+        "ga": "ceantanna-10.2021",
+        "cs": "aukce – 10. 2021",
+        "it": "aste-10.2021"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/702439b8-4891-481d-9165-e4fc013580cb/download/auctions-01-10-2021.csv"
+      ]
+    },
+    {
+      "id": "eb4b7d81-cadd-4fdc-80cb-829703a66c94",
+      "title": {
+        "fr": "ventes aux enchères-06.2020",
+        "sv": "auktioner-06.2020",
+        "el": "δημοπρασίες-06.2020",
+        "es": "subastas-06.2020",
+        "ro": "licitații-06.2020",
+        "de": "Auktionen-06.2020",
+        "hu": "árverések – 2020. június",
+        "en": "auctions-06.2020",
+        "sl": "dražbe-06.2020",
+        "fi": "huutokaupat-06.2020",
+        "cs": "aukce-06.2020",
+        "ga": "ceantanna-06.2020",
+        "nl": "veilingen-06.2020",
+        "it": "aste-06.2020",
+        "da": "auktioner-06.2020",
+        "mt": "irkanti-06.2020",
+        "pt": "leilões-06.2020",
+        "lt": "aukcionai – 2020 m. birželio mėn.",
+        "hr": "dražbe – 6. 2020.",
+        "pl": "aukcje-06.2020",
+        "et": "enampakkumised-06.2020",
+        "sk": "aukcie – 6. 2020",
+        "bg": "търгове-06.2020 г.",
+        "lv": "izsoles-06.2020",
+        "uk": "auctions-06.2020"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/eb66359a-65fd-4bee-83d9-7276cfecac1a/download/auctions-30-06-2020.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "ab7a7581-ba10-42ef-83cc-34b1cd299545",
+      "title": {
+        "da": "auktioner-04.2025",
+        "de": "Auktionen-04.2025",
+        "cs": "aukce-04.2025",
+        "ro": "licitații-04.2025",
+        "sk": "aukcie – 4. 2025",
+        "pl": "aukcje-04.2025",
+        "it": "aste-04.2025",
+        "mt": "irkanti-04.2025",
+        "hu": "árverések-2025. április",
+        "bg": "търгове-04.2025 г.",
+        "lt": "aukcionai-04.2025",
+        "uk": "auctions-04.2025",
+        "fr": "ventes aux enchères-04.2025",
+        "sv": "auktioner-04.2025",
+        "nl": "veilingen-04.2025",
+        "es": "subastas-04.2025",
+        "sl": "dražbe-04.2025",
+        "et": "enampakkumised-04.2025",
+        "ga": "ceantanna-04.2025",
+        "hr": "aukcije-04.2025",
+        "fi": "huutokauppa-04.2025",
+        "pt": "leilões-04.2025",
+        "el": "δημοπρασίες-04.2025",
+        "lv": "izsoles-04.2025",
+        "en": "auctions-04.2025"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/213fb0d1-84ef-4f96-88f9-1d9566fd3a1b/download/auctions-30-04-2025.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv"
+    },
+    {
+      "id": "8badece4-256f-4ceb-9e51-1ef35e556fda",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "title": {
+        "el": "δημοπρασίες-08.2024",
+        "uk": "auctions-08.2024",
+        "da": "auktioner-08.2024",
+        "fr": "ventes aux enchères-08.2024",
+        "fi": "huutokaupat-08.2024",
+        "hr": "dražbe – 8. 2024.",
+        "cs": "aukce – 8. 2024",
+        "mt": "irkanti-08.2024",
+        "it": "aste-08.2024",
+        "bg": "търгове — 8.8.2024 г.",
+        "lv": "izsoles-08.2024.",
+        "et": "enampakkumised – 8. veebruar 2024",
+        "pt": "leilões-08.2024",
+        "de": "Auktionen-08.2024",
+        "es": "subastas-08.2024",
+        "sl": "dražbe-08.2024",
+        "nl": "veilingen-08.2024",
+        "lt": "aukcionai – 2024 m. rugpjūčio mėn.",
+        "sv": "auktioner-08.2024",
+        "ro": "licitații-08.2024",
+        "sk": "aukcie – 8. 2024",
+        "pl": "aukcje-08.2024",
+        "en": "auctions-08.2024",
+        "ga": "ceantanna-08.2024",
+        "hu": "árverések – 2024. augusztus"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/4f5dda08-8474-4a90-99d2-3d47d1042d3c/download/auctions-31-08-2024.csv"
+      ]
+    },
+    {
+      "id": "6ff25845-a37f-4212-9fd9-e9fefcd79663",
+      "title": {
+        "it": "aste-11.2019",
+        "el": "δημοπρασίες-11.2019",
+        "pl": "aukcje-11.2019",
+        "lv": "izsoles-11.2019",
+        "bg": "търгове-11.2019 г.",
+        "es": "subastas-11.2019",
+        "mt": "irkantijiet-11.2019",
+        "sl": "dražbe-11.2019",
+        "sk": "aukcie – 11. 2019",
+        "uk": "auctions-11.2019",
+        "fi": "huutokaupat-11.2019",
+        "fr": "ventes aux enchères-11.2019",
+        "en": "auctions-11.2019",
+        "sv": "auktioner-11.2019",
+        "hu": "árverések – 2019. 11.",
+        "ga": "ceantanna-11.2019",
+        "de": "Auktionen-11.2019",
+        "lt": "aukcionai-11.2019",
+        "cs": "aukce-11.2019",
+        "et": "enampakkumised-11.2019",
+        "ro": "licitații-11.2019",
+        "da": "auktioner-11.2019",
+        "nl": "veilingen-11.2019",
+        "pt": "leilões-11.2019",
+        "hr": "aukcije – 11. 2019."
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/e99e1eac-db11-44b3-b252-9e7cbdcb149d/download/auctions-31-03-2020.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "55af4722-2ca0-4a07-ba32-fc9e1ae4ab67",
+      "title": {
+        "mt": "irkantijiet-04.2024",
+        "ga": "ceantanna-04.2024",
+        "cs": "aukce – 4. 2024",
+        "et": "enampakkumised – 4. aprill 2024",
+        "de": "Auktionen-04.2024",
+        "el": "δημοπρασίες-04.2024",
+        "lv": "izsoles-04.2024.",
+        "hr": "dražbe – 4. 2024.",
+        "pl": "aukcje-04.2024",
+        "nl": "veilingen-04.2024",
+        "en": "auctions-04.2024",
+        "lt": "aukcionai – 2024 m. balandžio mėn.",
+        "es": "subastas-04.2024",
+        "it": "aste-04.2024",
+        "bg": "търгове-04.2024 г.",
+        "uk": "auctions-04.2024",
+        "pt": "leilões-04.2024",
+        "fr": "ventes aux enchères-04.2024",
+        "fi": "huutokaupat-04.2024",
+        "da": "auktioner-04.2024",
+        "ro": "licitații-04.2024",
+        "hu": "árverések – 2024. április",
+        "sv": "auktioner-04.2024",
+        "sl": "dražbe-04.2024",
+        "sk": "aukcie – 4. 2024"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/521484c7-e53d-453c-866b-daa5c39d0285/download/auctions-30-04-2024.csv"
+      ]
+    },
+    {
+      "id": "1c84c247-e78f-4c81-a824-7f238d073fa4",
+      "title": {
+        "fr": "ventes aux enchères du 1.1.2024",
+        "uk": "auctions-01.2024",
+        "pt": "leilões em 1.1.2024",
+        "fi": "huutokaupat-01.2024",
+        "ga": "ceantanna-01.2024",
+        "sv": "auktioner-01.2024",
+        "hu": "árverések – 2024. január",
+        "es": "subastas-01.2024",
+        "da": "auktioner-01.2024",
+        "pl": "aukcje-01.2024",
+        "sl": "dražbe-01.2024",
+        "et": "enampakkumised 1.1.2024",
+        "hr": "dražbe – 1. siječnja 2024.",
+        "el": "δημοπρασίες-01.2024",
+        "nl": "veilingen-01.2024",
+        "en": "auctions-01.2024",
+        "it": "aste-01.2024",
+        "sk": "aukcie – 1. 2024",
+        "bg": "търгове-01.2024 г.",
+        "de": "Auktionen-01.2024",
+        "ro": "licitații-01.2024",
+        "cs": "aukce 1. 2024",
+        "lt": "aukcionai 2024 01 01",
+        "mt": "irkantijiet-01.2024",
+        "lv": "izsoles-01.2024."
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/8e41ff81-c6db-4edb-a870-57815b821aed/download/auctions-31-01-2024.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "7c8a047c-7387-48ed-ba09-90115d699dde",
+      "title": {
+        "hu": "árverések – 2024. március",
+        "mt": "irkanti-03.2024",
+        "nl": "veilingen-03.2024",
+        "it": "aste-03.2024",
+        "cs": "aukce-03.2024",
+        "pt": "leilões-03.2024",
+        "sv": "auktioner-03.2024",
+        "sk": "aukcie – 3. 2024",
+        "bg": "търгове-03.2024 г.",
+        "sl": "dražbe-03.2024",
+        "lt": "aukcionai – 2024 m. kovo mėn.",
+        "hr": "dražbe – 3. 2024.",
+        "ro": "licitații-03.2024",
+        "es": "subastas-03.2024",
+        "pl": "aukcje-03.2024",
+        "uk": "auctions-03.2024",
+        "et": "enampakkumised – märts 2024",
+        "fr": "ventes aux enchères du 03.2024",
+        "de": "Auktionen-03.2024",
+        "el": "δημοπρασίες-03.2024",
+        "fi": "huutokaupat-03.2024",
+        "lv": "izsoles-03.2024",
+        "ga": "ceantanna-03.2024",
+        "da": "auktioner-03.2024",
+        "en": "auctions-03.2024"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/7c7afe8f-60fb-45c6-9d46-581a654763cb/download/auctions-31-03-2024.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "52ca8a44-02b0-40e2-9fcc-3ab5f724acee",
+      "title": {
+        "nl": "veilingen-09.2021",
+        "lt": "aukcionai – 2021 m. rugsėjo mėn.",
+        "it": "aste-09.2021",
+        "hr": "dražbe – 9. 2021.",
+        "pt": "leilões-09.2021",
+        "el": "δημοπρασίες-09.2021",
+        "da": "auktioner-09.2021",
+        "de": "Auktionen-09.2021",
+        "lv": "izsoles-09.2021.",
+        "fi": "huutokaupat-09.2021",
+        "sk": "aukcie – 9. 2021",
+        "sl": "dražbe – september 2021",
+        "fr": "ventes aux enchères-09.2021",
+        "bg": "търгове-09.2021 г.",
+        "es": "subastas-09.2021",
+        "pl": "aukcje-09.2021",
+        "mt": "irkantijiet-09.2021",
+        "cs": "aukce – 9. 2021",
+        "hu": "árverések – 2021. szeptember",
+        "et": "enampakkumised-09.2021",
+        "sv": "auktioner-09.2021",
+        "en": "auctions-09.2021",
+        "uk": "auctions-09.2021",
+        "ro": "licitații-09.2021",
+        "ga": "ceantanna-09.2021"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/a7c916c7-1be4-4d95-a12a-43e4eb20b55b/download/auctions-23-02-2023.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "4e441172-466b-449e-99fb-0b4de01882ba",
+      "title": {
+        "sk": "aukcie – 9. 2020",
+        "ro": "licitații-09.2020",
+        "en": "auctions-09.2020",
+        "ga": "ceantanna-09.2020",
+        "de": "Auktionen-09.2020",
+        "es": "subastas-09.2020",
+        "pt": "leilões-09.2020",
+        "sl": "dražbe-09.2020",
+        "it": "aste-09.2020",
+        "nl": "veilingen-09.2020",
+        "hu": "árverések – 2020. szeptember",
+        "cs": "aukce-09.2020",
+        "lv": "izsoles – 2020. gada 9. septembris",
+        "mt": "irkanti-09.2020",
+        "fr": "ventes aux enchères-09.2020",
+        "lt": "aukcionai – 2020 m. rugsėjo mėn.",
+        "bg": "търгове-09.2020 г.",
+        "el": "δημοπρασίες-09.2020",
+        "sv": "auktioner-09.2020",
+        "da": "auktioner-09.2020",
+        "uk": "auctions-09.2020",
+        "hr": "dražbe – 9. 2020.",
+        "et": "enampakkumised-09.2020",
+        "pl": "aukcje-09.2020",
+        "fi": "huutokaupat-09.2020"
+      },
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/7a4432bd-c939-4115-a5de-3aebe981a441/download/auctions-30-09-2020.csv"
+      ]
+    },
+    {
+      "id": "32960239-d2c4-458a-9518-cfb79f3aa002",
+      "title": {
+        "lt": "aukcionai – 2024 m. liepos mėn.",
+        "fr": "ventes aux enchères-07.2024",
+        "sk": "aukcie – 7. 2024",
+        "en": "auctions-07.2024",
+        "pt": "leilões-07.2024",
+        "lv": "izsoles-07.2024.",
+        "pl": "aukcje-07.2024",
+        "da": "auktioner-07.2024",
+        "bg": "търгове — 7.7.2024 г.",
+        "sl": "dražbe-07.2024",
+        "ga": "ceantanna-07.2024",
+        "it": "aste-07.2024",
+        "sv": "auktioner-07.2024",
+        "cs": "aukce – 7. 2024",
+        "hr": "dražbe – 7. 2024.",
+        "fi": "huutokaupat-07.2024",
+        "mt": "irkanti-07.2024",
+        "es": "subastas-07.2024",
+        "uk": "auctions-07.2024",
+        "el": "δημοπρασίες-07.2024",
+        "ro": "licitații-07.2024",
+        "hu": "árverések – 2024. július",
+        "de": "Auktionen-07.2024",
+        "nl": "veilingen-07.2024",
+        "et": "enampakkumised – juuli 2024"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/e6ab4968-3814-4954-a428-a9a74d0386b0/download/auctions-31-07-2024.csv"
+      ],
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    },
+    {
+      "id": "555a4d3b-64b8-424e-97fe-e3ff40f917a7",
+      "title": {
+        "pl": "aukcje-11.2024",
+        "pt": "leilões-11.2024",
+        "sl": "dražbe-11.2024",
+        "de": "Auktionen-11.2024",
+        "hu": "árverések 2024. 11.",
+        "et": "enampakkumised 11. jaanuaril 2024",
+        "bg": "търгове-11.2024 г.",
+        "sk": "aukcie – 11. 2024",
+        "da": "auktioner-11.2024",
+        "el": "δημοπρασίες-11.2024",
+        "lt": "2024 m. lapkričio 11 d. aukcionai",
+        "mt": "irkantijiet-11.2024",
+        "hr": "dražbe 11. 2024.",
+        "cs": "aukce – 11. 2024",
+        "fr": "ventes aux enchères du 11 novembre 2024",
+        "ro": "licitații-11.2024",
+        "lv": "izsoles (11.2024.)",
+        "nl": "veilingen-11.2024",
+        "uk": "auctions-11.2024",
+        "sv": "auktioner-11.2024",
+        "es": "subastas-11.2024",
+        "it": "aste-11.2024",
+        "en": "auctions-11.2024",
+        "ga": "ceantanna-11.2024",
+        "fi": "huutokaupat-11.2024"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/4bac325b-246f-43e2-bef5-5dc3fe12272e/download/auctions-30-11-2024.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv"
+    },
+    {
+      "id": "436e9278-5fd7-4d7f-95b7-ad02be2fe735",
+      "title": {
+        "bg": "търгове — 10.2023 г.",
+        "mt": "irkantijiet-10.2023",
+        "et": "enampakkumised – 10.2023",
+        "hr": "dražbe 10. 2023.",
+        "lv": "izsoles-10.2023.",
+        "sv": "auktioner-10.2023",
+        "sk": "aukcie – 10. 2023",
+        "nl": "veilingen-10.2023",
+        "pl": "aukcje-10.2023",
+        "pt": "leilões-10.2023",
+        "es": "subastas-10.2023",
+        "hu": "árverések 2023.10.10.",
+        "lt": "aukcionai – 2023 m. spalio mėn.",
+        "da": "auktioner-10.2023",
+        "sl": "dražbe – 10. 2023",
+        "fi": "huutokaupat 10.10.2023",
+        "ga": "ceantanna-10.2023",
+        "it": "aste-10.2023",
+        "cs": "aukce – 10. 2023",
+        "de": "Auktionen-10.2023",
+        "ro": "licitații-10.2023",
+        "en": "auctions-10.2023",
+        "uk": "auctions-10.2023",
+        "el": "δημοπρασίες-10.2023",
+        "fr": "ventes aux enchères 10.2023"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/f0a1fcaa-71f0-411e-b323-687053874a48/download/auctions-31-10-2023.csv"
+      ]
+    },
+    {
+      "id": "4cc78f4e-d1c8-4d5c-a024-e4abff69856c",
+      "title": {
+        "mt": "irkanti-09.2024",
+        "pt": "leilões-09.2024",
+        "ga": "ceantanna-09.2024",
+        "fi": "huutokaupat-09.2024",
+        "hu": "árverések – 2024. szeptember",
+        "fr": "ventes aux enchères-09.2024",
+        "sl": "dražbe–9.2024",
+        "nl": "veilingen-09.2024",
+        "en": "auctions-09.2024",
+        "lv": "izsoles-09.2024.",
+        "ro": "licitații-09.2024",
+        "lt": "aukcionai – 2024 m. rugsėjo mėn.",
+        "pl": "aukcje-09.2024",
+        "sv": "auktioner-09.2024",
+        "da": "auktioner-09.2024",
+        "uk": "auctions-09.2024",
+        "et": "enampakkumised-09.2024",
+        "es": "subastas-09.2024",
+        "bg": "търгове — 9.9.2024 г.",
+        "it": "aste-09.2024",
+        "el": "δημοπρασίες-09.2024",
+        "sk": "aukcie – 9. 2024",
+        "cs": "aukce – 9. 2024",
+        "de": "Auktionen-09.2024",
+        "hr": "dražbe – 9. 2024."
+      },
+      "media_type": "text/csv",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/f1ca8933-bb08-49ed-85fb-1558326070e2/download/auctions-30-09-2024.csv"
+      ]
+    },
+    {
+      "id": "1ce66b78-3d13-41ef-bac8-52d99e72ac3c",
+      "title": {
+        "fr": "ventes aux enchères du 06.2024",
+        "fi": "huutokaupat-06.2024",
+        "lt": "aukcionai – 2024 m. birželio mėn.",
+        "nl": "veilingen-06.2024",
+        "it": "aste-06.2024",
+        "da": "auktioner-06.2024",
+        "hr": "dražbe – 6. 2024.",
+        "et": "enampakkumised – 6. juuni 2024",
+        "sv": "auktioner-06.2024",
+        "en": "auctions-06.2024",
+        "bg": "търгове — 6.6.2024 г.",
+        "el": "δημοπρασίες-06.2024",
+        "sl": "dražbe-06.2024",
+        "pt": "leilões-06.2024",
+        "uk": "auctions-06.2024",
+        "mt": "irkanti-06.2024",
+        "pl": "aukcje-06.2024",
+        "ro": "licitații-06.2024",
+        "sk": "aukcie – 6. 2024",
+        "cs": "aukce-06.2024",
+        "de": "Auktionen-06.2024",
+        "hu": "árverések – 2024. június",
+        "lv": "izsoles-06.2024.",
+        "es": "subastas-06.2024",
+        "ga": "ceantanna-06.2024"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.gov.ua/dataset/c360d1ef-4eee-4158-812f-ede20c4cc943/resource/b51c2211-42be-4587-8c7c-d1748ef17934/download/auctions-30-06-2024.csv"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      }
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 205
+  },
+  "modified": "2026-05-31T20:04:56.268615",
+  "publisher": {
+    "type": "Organization",
+    "name": "Державне підприємство \"СЕТАМ\"",
+    "resource": "https://data.gov.ua/organization/b1120ea1-be8a-4371-90ce-6182afca204e"
+  },
+  "id": "c360d1ef-4eee-4158-812f-ede20c4cc943~~1",
+  "issued": "2019-11-26T14:24:01.064461",
+  "catalog_record": {
+    "modified": "2026-05-31T20:15:11Z",
+    "issued": "2025-04-25T20:15:14Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "name": "Іоффе Олександр Володимирович",
+      "email": "mailto:a.ioffe@setam.net.ua"
+    }
+  ]
+}

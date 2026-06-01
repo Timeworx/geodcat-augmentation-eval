@@ -1,0 +1,107 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/ab49b9f1-9f55-44d2-8fbc-f10b422a9dc2",
+      "@type": "dcat:Dataset",
+      "dct:identifier": "ab49b9f1-9f55-44d2-8fbc-f10b422a9dc2",
+      "dct:title": {
+        "@language": "en",
+        "@value": "Facilities"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "The Norwegian Offshore Directorate’s interactive FactMaps contain information on wells, surveys, fields and discoveries, production licences, agreement-based areas, permanent facilities and more."
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Sigbjørn Dale"
+        }
+      },
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "no"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "geonorge",
+        "homepage": "https://www.geonorge.no",
+        "description": {
+          "en": "Geo Data Portal Norway"
+        },
+        "title": {
+          "no": "Geonorge"
+        },
+        "source_type": "geospatial",
+        "issued": "2022-11-21T05:38:23Z",
+        "country": {
+          "label": "Norway",
+          "id": "no",
+          "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Norway",
+            "id": "no",
+            "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "no",
+            "label": "Norwegian",
+            "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+          }
+        ],
+        "modified": "2022-11-21T05:38:23Z",
+        "publisher": {
+          "type": "Agent",
+          "homepage": "https://www.kartverket.no",
+          "email": "mailto:post@kartverket.no",
+          "name": "Kartverket"
+        },
+        "count": 352
+      },
+      "deuropa:accrual_periodicity": {
+        "resource": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+        "label": "daily"
+      },
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 160
+      },
+      "deuropa:provenance": [
+        {
+          "label": "Ingen prosesshistorie tilgjengelig"
+        }
+      ],
+      "deuropa:spatial_resource": [
+        {}
+      ],
+      "deuropa:catalog_record": {
+        "modified": "2026-03-07T17:48:06Z",
+        "issued": "2021-10-15T08:49:31Z"
+      }
+    }
+  ]
+}

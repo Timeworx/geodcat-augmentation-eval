@@ -1,0 +1,3487 @@
+{
+  "identifier": [
+    "aa7a43b3-9d3a-4d45-abea-c74836c269b7"
+  ],
+  "country": {
+    "label": "Ukraine",
+    "id": "ua",
+    "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+  },
+  "keywords": [
+    {
+      "id": "споживання",
+      "label": "споживання",
+      "language": "uk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7",
+  "catalog": {
+    "id": "data-gov-ua",
+    "modified": "2023-02-10T20:19:48.373074",
+    "issued": "2022-11-21T05:36:39Z",
+    "publisher": {
+      "type": "Agent",
+      "name": "States site of Ukraine",
+      "email": "mailto:admin@data.gov.ua",
+      "homepage": "https://www.kmu.gov.ua/en"
+    },
+    "language": [
+      {
+        "id": "uk",
+        "label": "Ukrainian",
+        "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+      }
+    ],
+    "homepage": "https://data.gov.ua",
+    "source_type": "dcat-ap",
+    "description": {
+      "en": "Open Data Portal Ukraine"
+    },
+    "title": {
+      "en": "data.gov.ua"
+    },
+    "country": {
+      "label": "Ukraine",
+      "id": "ua",
+      "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ukraine",
+        "id": "ua",
+        "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+      }
+    ],
+    "spatial": []
+  },
+  "translation_meta": {
+    "details": {
+      "pt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "uk": {
+        "machine_translated": false,
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:26:15Z",
+        "issued": "2026-05-08T20:19:30Z"
+      }
+    },
+    "full_available_languages": [
+      "pt",
+      "lt",
+      "sk",
+      "mt",
+      "da",
+      "hr",
+      "hu",
+      "ga",
+      "nl",
+      "es",
+      "pl",
+      "it",
+      "fr",
+      "bg",
+      "uk",
+      "en",
+      "cs",
+      "sl",
+      "el",
+      "sv",
+      "de",
+      "lv",
+      "fi",
+      "ro",
+      "et"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "cs": "Údaje o spotřebě komunálních zdrojů: elektřina, topení, zásobování vodou a kanalizace\r\n",
+    "ga": "Sonraí maidir le tomhaltas acmhainní comhchoiteanna: leictreachas, téamh, soláthar uisce agus séarachas\r\n",
+    "fi": "Tiedot yhteisöjen resurssien kulutuksesta: sähkö, lämmitys, vesihuolto ja viemäröinti\r\n",
+    "et": "Andmed kohalike ressursside tarbimise kohta: elekter, küte, veevarustus ja kanalisatsioon\r\n",
+    "pl": "Dane dotyczące zużycia zasobów komunalnych: energia elektryczna, ogrzewanie, zaopatrzenie w wodę i kanalizacja\r\n",
+    "de": "Daten zum Verbrauch kommunaler Ressourcen: Strom, Heizung, Wasserversorgung und Kanalisation\r\n",
+    "pt": "Dados sobre o consumo de recursos comunitários: eletricidade, aquecimento, abastecimento de água e esgotos\r\n",
+    "mt": "Data dwar il-konsum tar-riżorsi komunali: l-elettriku, it-tisħin, il-provvista tal-ilma u d-drenaġġ\r\n",
+    "da": "Data om forbrug af kommunale ressourcer: elektricitet, opvarmning, vandforsyning og kloakering\r\n",
+    "sk": "Údaje o spotrebe spoločných zdrojov: elektrická energia, vykurovanie, zásobovanie vodou a kanalizácia\r\n",
+    "ro": "Date privind consumul de resurse comunale: electricitate, încălzire, alimentare cu apă și canalizare\r\n",
+    "el": "Δεδομένα σχετικά με την κατανάλωση κοινοτικών πόρων: ηλεκτρική ενέργεια, θέρμανση, ύδρευση και αποχέτευση\r\n",
+    "lt": "Komunalinių išteklių naudojimo duomenys: elektros energija, šildymas, vandens tiekimas ir kanalizacija\r\n",
+    "uk": "Дані про споживання комунальних ресурсів: електроенергія, опалення, водопостачання та водовідведення\r\n",
+    "lv": "Dati par komunālo resursu patēriņu: elektrība, apkure, ūdens apgāde un kanalizācija\r\n",
+    "nl": "Gegevens over het verbruik van gemeenschappelijke hulpbronnen: elektriciteit, verwarming, watervoorziening en riolering\r\n",
+    "hr": "Podaci o potrošnji komunalnih resursa: električna energija, grijanje, vodoopskrba i kanalizacija\r\n",
+    "sv": "Uppgifter om förbrukning av gemensamma resurser: el, värme, vattenförsörjning och avlopp\r\n",
+    "hu": "A közösségi erőforrások felhasználására vonatkozó adatok: villamos energia, fűtés, vízellátás és csatornázás\r\n",
+    "it": "Dati sul consumo di risorse comunali: elettricità, riscaldamento, approvvigionamento idrico e fognatura\r\n",
+    "fr": "Données sur la consommation des ressources communales: électricité, chauffage, approvisionnement en eau et assainissement\r\n",
+    "en": "Data on consumption of communal resources: electricity, heating, water supply and sewerage\r\n",
+    "sl": "Podatki o porabi komunalnih virov: elektrika, ogrevanje, oskrba z vodo in kanalizacija\r\n",
+    "bg": "Данни за потреблението на комунални ресурси: електричество, отопление, водоснабдяване и канализация\r\n",
+    "es": "Datos sobre el consumo de recursos comunales: electricidad, calefacción, suministro de agua y alcantarillado\r\n"
+  },
+  "index": "dataset",
+  "version_info": "1.0",
+  "language": [
+    {
+      "id": "ua",
+      "label": "ua"
+    }
+  ],
+  "title": {
+    "pt": "Consumo de recursos comunais da Pavlohrad TV and Radio Company da Câmara Municipal de Pavlohrad",
+    "lt": "Pavlohrado miesto tarybos Pavlohrado televizijos ir radijo bendrovės komunalinių išteklių vartojimas",
+    "sk": "Spotreba komunálnych zdrojov Pavlohradskej televíznej a rozhlasovej spoločnosti mestského zastupiteľstva Pavlohradu",
+    "mt": "Konsum ta' riżorsi komunali tal-Kumpanija tat-TV u tar-Radju ta' Pavlohrad tal-Kunsill Muniċipali ta' Pavlohrad",
+    "da": "Forbrug af kommunale ressourcer i Pavlohrad TV og Radio Company of Pavlohrad City Council",
+    "hr": "Potrošnja komunalnih resursa tvrtke Pavlohrad TV i Radio Gradskog vijeća Pavlohrada",
+    "hu": "A Pavlohrad Televízió és Rádiótársaság közösségi erőforrásainak fogyasztása Pavlohrad Városi Tanácsában",
+    "ga": "Ídiú acmhainní comhchoiteanna Pavlohrad TV agus Radio Company de chuid Chomhairle Cathrach Pavlohrad",
+    "nl": "Verbruik van gemeenschappelijke middelen van Pavlohrad TV en Radio Company van de gemeenteraad van Pavlohrad",
+    "es": "Consumo de recursos comunales de Pavlohrad TV and Radio Company del Ayuntamiento de Pavlohrad",
+    "pl": "Zużycie zasobów komunalnych Pavlohrad TV and Radio Company of Pavlohrad City Council",
+    "it": "Consumo di risorse comunali della Pavlohrad TV and Radio Company del consiglio comunale di Pavlohrad",
+    "fr": "Consommation des ressources communales de la société de télévision et de radio Pavlohrad du conseil municipal de Pavlohrad",
+    "bg": "Потребление на комунални ресурси на Павлоградската телевизионна и радиокомпания към Градския съвет на Павлоград",
+    "uk": "Споживання комунальних ресурсів КП \"Павлоградська телерадіокомпанія \" Павлоградської міської ради",
+    "en": "Consumption of communal resources of Pavlohrad TV and Radio Company of Pavlohrad City Council",
+    "cs": "Spotřeba komunálních zdrojů Pavlohradské televizní a rozhlasové společnosti zastupitelstva města Pavlohrad",
+    "sl": "Poraba komunalnih virov televizijske in radijske družbe Pavlohrad mestnega sveta Pavlohrada",
+    "el": "Κατανάλωση κοινοτικών πόρων της Pavlohrad TV and Radio Company of Pavlohrad City Council",
+    "sv": "Konsumtion av kommunala resurser i Pavlohrad TV och Radio Company i Pavlohrad kommunfullmäktige",
+    "de": "Verbrauch von kommunalen Ressourcen der Pavlohrad TV und Radio Company des Stadtrates von Pavlohrad",
+    "lv": "Pavlohradas pilsētas domes Pavlohrad TV un radio kompānijas kopējo resursu patēriņš",
+    "fi": "Pavlohradin kaupunginvaltuuston Pavlohrad TV:n ja Radio Companyn yhteisöresurssien kulutus",
+    "ro": "Consumul resurselor comunale ale Companiei de Radio și Televiziune Pavlohrad a Consiliului Local Pavlohrad",
+    "et": "Pavlohradi linnavolikogu tele- ja raadioettevõtte Pavlohrad TV ja raadio ühisressursside tarbimine"
+  },
+  "distributions": [
+    {
+      "id": "8706b91e-eb7a-402c-aaf3-04d285d3e0b8",
+      "title": {
+        "pt": "consumo de potência 2025 - 02.xlsx",
+        "bg": "консумация на енергия 2025 г. — 02.xlsx",
+        "en": "power consumption 2025 - 02.xlsx",
+        "pl": "Zużycie energii 2025 - 02.xlsx",
+        "sv": "strömförbrukning 2025 - 02.xlsx",
+        "hr": "potrošnja energije 2025. - 02.xlsx",
+        "sl": "Poraba električne energije 2025 - 02.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 02.xlsx",
+        "et": "energiatarve 2025 - 02.xlsx",
+        "ga": "ídiú cumhachta 2025 - 02.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 02.xlsx",
+        "it": "consumo energetico 2025 - 02.xlsx",
+        "ro": "Consumul de energie 2025 - 02.xlsx",
+        "fi": "tehonkulutus 2025 - 02.xlsx",
+        "da": "strømforbrug 2025 - 02.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 02.xlsx",
+        "nl": "Stroomverbruik 2025 - 02.xlsx",
+        "cs": "spotřeba energie 2025 - 02.xlsx",
+        "hu": "energiafogyasztás 2025 - 02.xlsx",
+        "de": "Stromverbrauch 2025 - 02.xlsx",
+        "fr": "consommation d'énergie 2025 - 02.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 02.xlsx",
+        "lt": "energijos suvartojimas 2025 m. – 02.xlsx",
+        "es": "consumo de energía 2025 - 02.xlsx",
+        "uk": "енергоспоживання 2025 - 02.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/892dc80a-0fe7-44be-a44d-1567181c8276/download/energospozhivannia-2025-02.xlsx"
+      ],
+      "byte_size": 12056,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "30007d69-8973-4be5-9b28-b65ead6139fe",
+      "title": {
+        "mt": "Konsum tal-enerġija 2024 - 02.xlsx",
+        "es": "consumo de energía 2024 - 02.xlsx",
+        "pl": "Zużycie energii 2024 - 02.xlsx",
+        "sv": "strömförbrukning 2024 – 02.xlsx",
+        "sl": "poraba električne energije 2024 – 02.xlsx",
+        "hr": "potrošnja energije 2024. 02.xlsx",
+        "pt": "consumo de energia 2024 - 02.xlsx",
+        "hu": "energiafogyasztás 2024-02.xlsx",
+        "en": "power consumption 2024 - 02.xlsx",
+        "it": "consumo energetico 2024 - 02.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 02.xlsx",
+        "fr": "Consommation électrique 2024 - 02.xlsx",
+        "de": "Stromverbrauch 2024 - 02.xlsx",
+        "fi": "tehonkulutus 2024 - 02.xlsx",
+        "ro": "consumul de putere 2024 - 02.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 02.xlsx",
+        "bg": "консумация на енергия 2024 г. — 02.xlsx",
+        "et": "energiatarve 2024 - 02.xlsx",
+        "da": "strømforbrug 2024 – 02.xlsx",
+        "cs": "spotřeba energie 2024 - 02.xlsx",
+        "ga": "ídiú cumhachta 2024 - 02.xlsx",
+        "nl": "Stroomverbruik 2024 - 02.xlsx",
+        "uk": "енергоспоживання 2024 - 02.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 02.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 02.xlsx"
+      },
+      "byte_size": 12049,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/a468d569-2d9a-4706-90a8-052d49b377c7/download/energospozhivannia-2024-02.xlsx"
+      ]
+    },
+    {
+      "id": "ef7bfb7d-26eb-4258-8858-6e93cc55edb7",
+      "title": {
+        "sk": "Spotreba energie 2023-1.xlsx",
+        "it": "Consumo energetico 2023-1.xlsx",
+        "hr": "Potrošnja energije 2023-1.xlsx",
+        "cs": "Spotřeba energie 2023-1.xlsx",
+        "bg": "Потребление на енергия 2023-1.xlsx",
+        "es": "Consumo de energía 2023-1.xlsx",
+        "pt": "Consumo de energia 2023-1.xlsx",
+        "pl": "Zużycie energii 2023-1.xlsx",
+        "ro": "Consumul de energie 2023-1,xlsx",
+        "et": "Energiatarbimine 2023-1.xlsx",
+        "nl": "Energieverbruik 2023-1.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2023-1.xlsx",
+        "de": "Energieverbrauch 2023-1.xlsx",
+        "lt": "Energijos suvartojimas 2023–1.xlsx",
+        "fi": "Energiankulutus 2023-1.xlsx",
+        "en": "Energy Consumption 2023-1.xlsx",
+        "hu": "Energiafogyasztás 2023–1.xlsx",
+        "el": "Κατανάλωση ενέργειας 2023-1.xlsx",
+        "fr": "Consommation d’énergie 2023-1.xlsx",
+        "uk": "енергоспоживаня 2023-1.xlsx",
+        "mt": "Konsum tal-Enerġija 2023-1.xlsx",
+        "lv": "Enerģijas patēriņš 2023. gadā-1.xlsx",
+        "da": "Energiforbrug 2023-1.xlsx",
+        "sl": "Poraba energije 2023-1.xlsx",
+        "sv": "Energianvändning 2023-1.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/1bd62e56-dde5-44a9-b67d-510574ad8ac6/download/energospozhivania-2023-1.xlsx"
+      ],
+      "byte_size": 11858
+    },
+    {
+      "id": "db4884c4-c1ed-4f50-8cd7-752c653004a7",
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "title": {
+        "hu": "Energiafogyasztás 2021-2.xlsx",
+        "bg": "Потребление на енергия 2021-2.xlsx",
+        "pl": "Zużycie energii 2021-2.xlsx",
+        "uk": "енергоспоживаня 2021-2.xlsx",
+        "sl": "Poraba energije 2021-2.xlsx",
+        "da": "Energiforbrug 2021-2.xlsx",
+        "es": "Consumo de energía 2021-2.xlsx",
+        "sk": "Spotreba energie 2021 – 2,xlsx",
+        "de": "Energieverbrauch 2021-2.xlsx",
+        "sv": "Energiförbrukning 2021-2.xlsx",
+        "lt": "Energijos suvartojimas 2021-2.xlsx",
+        "ga": "Ídiú fuinnimh 2021-2.xlsx",
+        "it": "Consumo energetico 2021-2.xlsx",
+        "mt": "Il-konsum tal-enerġija 2021-2.xlsx",
+        "cs": "Spotřeba energie 2021-2.xlsx",
+        "en": "Energy consumption 2021-2.xlsx",
+        "lv": "Enerģijas patēriņš 2021-2.xlsx",
+        "pt": "Consumo de energia 2021-2.xlsx",
+        "ro": "Consumul de energie 2021-2.xlsx",
+        "el": "Κατανάλωση ενέργειας 2021-2.xlsx",
+        "fr": "Consommation d’énergie 2021-2.xlsx",
+        "et": "Energiatarbimine 2021-2.xlsx",
+        "hr": "Potrošnja energije 2021-2.xlsx",
+        "nl": "Energieverbruik 2021-2.xlsx",
+        "fi": "Energiankulutus 2021-2.xlsx"
+      },
+      "byte_size": 11782,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/f32f72ea-ef20-4183-b60d-f17d580dfc52/download/energospozhivania-2021-2.xlsx"
+      ]
+    },
+    {
+      "id": "d41f3fd0-594d-4636-9809-41d0d5ec9333",
+      "title": {
+        "uk": "енергоспоживання 2024 - 06.xlsx",
+        "en": "power consumption 2024 - 06.xlsx",
+        "sk": "spotreba elektrickej energie 2024 – 06.xlsx",
+        "pl": "Zużycie energii 2024 - 06.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 06.xlsx",
+        "hr": "potrošnja energije 2024. 06.xlsx",
+        "fi": "tehonkulutus 2024 - 06.xlsx",
+        "da": "strømforbrug 2024 - 06.xlsx",
+        "pt": "consumo de energia 2024 - 06.xlsx",
+        "ga": "ídiú cumhachta 2024 - 06.xlsx",
+        "ro": "consumul de putere 2024 - 06.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 06.xlsx",
+        "sv": "strömförbrukning 2024 - 06.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 06.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 06.xlsx",
+        "de": "Stromverbrauch 2024 - 06.xlsx",
+        "es": "consumo de energía 2024 - 06.xlsx",
+        "et": "energiatarve 2024 - 06.xlsx",
+        "sl": "Poraba energije 2024 - 06.xlsx",
+        "bg": "консумация на енергия 2024 г. — 06.xlsx",
+        "fr": "Consommation électrique 2024 - 06.xlsx",
+        "it": "consumo energetico 2024 - 06.xlsx",
+        "cs": "spotřeba energie 2024 - 06.xlsx",
+        "hu": "energiafogyasztás 2024-06.xlsx",
+        "nl": "Stroomverbruik 2024 - 06.xlsx"
+      },
+      "byte_size": 12166,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/cc2c7844-2111-4966-8216-d409b3842c2e/download/energospozhivannia-2024-06.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "de75046c-240a-48ff-8af6-9f5d76fc6a16",
+      "title": {
+        "sl": "Poraba energije 2022-1.xlsx",
+        "pl": "Zużycie energii 2022-1.xlsx",
+        "sv": "Energianvändning 2022-1.xlsx",
+        "bg": "Потребление на енергия 2022-1.xlsx",
+        "uk": "енергоспоживаня 2022-1.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-1.xlsx",
+        "en": "Energy Consumption 2022-1.xlsx",
+        "it": "Consumo energetico 2022-1.xlsx",
+        "es": "Consumo de energía 2022-1.xlsx",
+        "fr": "Consommation d’énergie 2022-1.xlsx",
+        "da": "Energiforbrug 2022-1.xlsx",
+        "lt": "Energijos suvartojimas 2022-1.xlsx",
+        "cs": "Spotřeba energie 2022-1.xlsx",
+        "nl": "Energieverbruik 2022-1.xlsx",
+        "hr": "Potrošnja energije 2022-1.xlsx",
+        "ro": "Consumul de energie 2022-1,xlsx",
+        "de": "Energieverbrauch 2022-1.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-1.xlsx",
+        "lv": "Enerģijas patēriņš 2022-1.xlsx",
+        "hu": "Energiafogyasztás 2022-1.xlsx",
+        "sk": "Spotreba energie 2022-1.xlsx",
+        "et": "Energiatarbimine 2022-1.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-1.xlsx",
+        "fi": "Energiankulutus 2022-1.xlsx",
+        "pt": "Consumo de energia 2022-1.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/4d0c4c8c-d4bf-4277-a8b5-49ad85406507/download/energospozhivania-2022-1.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12148
+    },
+    {
+      "id": "63576f63-4ccf-4a98-ad40-d8c9d9287a97",
+      "title": {
+        "es": "Consumo de energía 2022-10.xlsx",
+        "sl": "Poraba energije v obdobju 2022–2010.xlsx",
+        "cs": "Spotřeba energie 2022-10.xlsx",
+        "ro": "Consumul de energie 2022-10.xlsx",
+        "sk": "Spotreba energie 2022 – 10.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-10.xlsx",
+        "sv": "Energianvändning 2022-10.xlsx",
+        "hu": "Energiafogyasztás 2022-10.xlsx",
+        "en": "Energy Consumption 2022-10.xlsx",
+        "fi": "Energiankulutus 2022-10.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-10.xlsx",
+        "lv": "Enerģijas patēriņš 2022-10.xlsx",
+        "it": "Consumo energetico 2022-10.xlsx",
+        "pl": "Zużycie energii 2022-10.xlsx",
+        "pt": "Consumo de energia 2022-10.xlsx",
+        "fr": "Consommation d’énergie 2022-10.xlsx",
+        "lt": "Energijos suvartojimas 2022-10.xlsx",
+        "nl": "Energieverbruik 2022-10.xlsx",
+        "bg": "Потребление на енергия 2022-10.xlsx",
+        "et": "Energiatarbimine 2022-10.xlsx",
+        "uk": "енергоспоживаня 2022-10.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-10.xlsx",
+        "da": "Energiforbrug 2022-10.xlsx",
+        "de": "Energieverbrauch 2022-10.xlsx",
+        "hr": "Potrošnja energije 2022-10.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/b743a160-655b-4eb0-bee1-09e54d7d61f3/download/energospozhivania-2022-10.xlsx"
+      ],
+      "byte_size": 12410,
+      "description": {
+        "ga": "Tomhaltas Fuinnimh 2022-10",
+        "es": "Consumo de energía 2022-2010",
+        "lt": "Energijos suvartojimas 2022–2010 m.",
+        "fr": "Consommation d’énergie 2022-2010",
+        "de": "Energieverbrauch 2022-10",
+        "sv": "Energianvändning 2022–2010",
+        "mt": "Konsum tal-Enerġija 2022-10",
+        "it": "Consumo energetico 2022-2010",
+        "hr": "Potrošnja energije 2022.–2010.",
+        "da": "Energiforbrug 2022-10",
+        "et": "Energiatarbimine 2022–2010",
+        "cs": "Spotřeba energie 2022–2010",
+        "bg": "Потребление на енергия 2022—2010 г.",
+        "sl": "Poraba energije v obdobju 2022–2010.",
+        "nl": "Energieverbruik 2022-2010",
+        "uk": "енергоспоживання 2022-10",
+        "fi": "Energiankulutus 2022–2010",
+        "lv": "Enerģijas patēriņš 2022.–2010. gadā",
+        "el": "Κατανάλωση ενέργειας 2022-10",
+        "pl": "Zużycie energii w latach 2022–2010",
+        "sk": "Spotreba energie 2022 – 2010",
+        "ro": "Consumul de energie 2022-2010",
+        "hu": "Energiafogyasztás 2022–2010",
+        "pt": "Consumo de energia 2022-10",
+        "en": "Energy Consumption 2022-10"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "e1c0600d-363e-4c5a-824d-78d5aee196f3",
+      "title": {
+        "lt": "energijos suvartojimas 2025 m. - 03.xlsx",
+        "bg": "консумация на енергия 2025 г. — 03.xlsx",
+        "sl": "Poraba energije 2025 - 03.xlsx",
+        "ga": "ídiú cumhachta 2025 - 03.xlsx",
+        "ro": "Consumul de energie 2025 - 03.xlsx",
+        "en": "power consumption 2025 - 03.xlsx",
+        "hu": "energiafogyasztás 2025 - 03.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 03.xlsx",
+        "es": "consumo de energía 2025 - 03.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 03.xlsx",
+        "fr": "consommation d'énergie 2025 - 03.xlsx",
+        "nl": "Stroomverbruik 2025 - 03.xlsx",
+        "pt": "consumo de potência 2025 - 03.xlsx",
+        "sv": "strömförbrukning 2025 - 03.xlsx",
+        "cs": "spotřeba energie 2025 - 03.xlsx",
+        "de": "Stromverbrauch 2025 - 03.xlsx",
+        "pl": "zużycie energii 2025 - 03.xlsx",
+        "et": "energiatarve 2025 - 03.xlsx",
+        "it": "consumo energetico 2025 - 03.xlsx",
+        "uk": "енергоспоживання 2025 - 03.xlsx",
+        "da": "strømforbrug 2025 - 03.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 03.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 03.xlsx",
+        "fi": "tehonkulutus 2025 - 03.xlsx",
+        "hr": "potrošnja energije 2025. - 03.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/85486cb2-67cc-4e35-803c-95d235fe8416/download/energospozhivannia-2025-03.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12079
+    },
+    {
+      "id": "d23733e6-cdcd-45fa-8762-706033c5313d",
+      "title": {
+        "lt": "energijos suvartojimas 2025 m. - 05.xlsx",
+        "pl": "Zużycie energii elektrycznej 2025 - 05.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 05.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 05.xlsx",
+        "pt": "consumo de potência 2025 - 05.xlsx",
+        "et": "energiatarve 2025 - 05.xlsx",
+        "uk": "енергоспоживання 2025 - 05.xlsx",
+        "sv": "strömförbrukning 2025 - 05.xlsx",
+        "da": "strømforbrug 2025 - 05.xlsx",
+        "cs": "spotřeba energie 2025 - 05.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 05.xlsx",
+        "nl": "Stroomverbruik 2025 - 05.xlsx",
+        "fr": "Consommation d'énergie 2025 - 05.xlsx",
+        "ro": "Consumul de energie 2025 - 05.xlsx",
+        "es": "consumo de energía 2025 - 05.xlsx",
+        "hu": "energiafogyasztás 2025 - 05.xlsx",
+        "sl": "Poraba energije 2025 - 05.xlsx",
+        "en": "power consumption 2025 - 05.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 05.xlsx",
+        "fi": "tehonkulutus 2025 - 05.xlsx",
+        "it": "consumo energetico 2025 - 05.xlsx",
+        "hr": "potrošnja energije 2025. - 05.xlsx",
+        "bg": "консумация на енергия 2025 г. — 05.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 05.xlsx",
+        "de": "Stromverbrauch 2025 - 05.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/ba265c99-c50a-48ea-bcea-38d622b5932a/download/energospozhivannia-2025-05.xlsx"
+      ],
+      "byte_size": 12097,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "af6ab2db-ad52-461f-a067-1a617c6d36b4",
+      "title": {
+        "de": "Energieverbrauch 2023-4.xlsx",
+        "sl": "poraba energije 2023–4.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-4.xlsx",
+        "nl": "energieverbruik 2023-4.xlsx",
+        "hu": "energiafogyasztás 2023-4.xlsx",
+        "cs": "spotřeba energie 2023–4.xlsx",
+        "hr": "potrošnja energije 2023-4.xlsx",
+        "it": "consumo energetico 2023-4.xlsx",
+        "sk": "spotreba energie 2023 – 4.xlsx",
+        "mt": "konsum tal-enerġija 2023-4.xlsx",
+        "pt": "consumo de energia 2023-4,xlsx",
+        "lt": "energijos suvartojimas 2023–4.xlsx",
+        "fr": "consommation d’énergie 2023-4.xlsx",
+        "pl": "zużycie energii 2023-4.xlsx",
+        "en": "energy consumption 2023-4.xlsx",
+        "ro": "consumul de energie 2023-4.xlsx",
+        "lv": "enerģijas patēriņš 2023-4.xlsx",
+        "ga": "ídiú fuinnimh 2023-4.xlsx",
+        "uk": "енергоспоживаня 2023-4.xlsx",
+        "et": "energiatarbimine 2023-4,xlsx",
+        "es": "consumo de energía 2023-4.xlsx",
+        "bg": "консумация на енергия 2023-4.xlsx",
+        "sv": "energiförbrukning 2023-4.xlsx",
+        "da": "energiforbrug 2023-4.xlsx",
+        "fi": "energiankulutus 2023–4.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/a66cf9c2-0c4f-439b-afee-93f3d1b4cd2f/download/energospozhivania-2023-4.xlsx"
+      ],
+      "byte_size": 11920,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "73ca72f9-537a-4db1-b107-8e881481ebc3",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "title": {
+        "sv": "Energiförbrukning 2021-6.xlsx",
+        "de": "Energieverbrauch 2021-6.xlsx",
+        "sk": "Spotreba energie 2021 – 6.xlsx",
+        "uk": "енергоспоживаня 2021-6.xlsx",
+        "es": "Consumo de energía 2021-6.xlsx",
+        "fr": "Consommation d’énergie 2021-6.xlsx",
+        "hr": "Potrošnja energije 2021-6.xlsx",
+        "lt": "Energijos suvartojimas 2021-6.xlsx",
+        "pl": "Zużycie energii 2021-6.xlsx",
+        "ro": "Consumul de energie 2021-6.xlsx",
+        "en": "Energy Consumption 2021-6.xlsx",
+        "bg": "Потребление на енергия 2021-6.xlsx",
+        "hu": "Energiafogyasztás 2021-6.xlsx",
+        "el": "Κατανάλωση ενέργειας 2021-6.xlsx",
+        "cs": "Spotřeba energie 2021-6.xlsx",
+        "pt": "Consumo de energia 2021-6.xlsx",
+        "da": "Energiforbrug 2021-6.xlsx",
+        "fi": "Energiankulutus 2021-6.xlsx",
+        "mt": "Konsum tal-Enerġija 2021-6.xlsx",
+        "nl": "Energieverbruik 2021-6.xlsx",
+        "sl": "Poraba energije 2021-6.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2021-6.xlsx",
+        "it": "Consumo energetico 2021-6.xlsx",
+        "et": "Energiatarbimine 2021-6.xlsx",
+        "lv": "Enerģijas patēriņš 2021-6.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/a1ba9560-4daa-4848-b48c-e7c5725294a0/download/energospozhivania-2021-6.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11902
+    },
+    {
+      "id": "0fde9164-1e37-440b-8043-04a3190db71e",
+      "title": {
+        "es": "consumo de energía 2025 - 11.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 11.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 11.xlsx",
+        "fr": "consommation d'énergie 2025 - 11.xlsx",
+        "pt": "consumo de potência 2025 - 11.xlsx",
+        "nl": "Stroomverbruik 2025 - 11.xlsx",
+        "hr": "potrošnja energije 2025. - 11.xlsx",
+        "cs": "spotřeba energie 2025 - 11.xlsx",
+        "pl": "zużycie energii 2025 - 11.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 11.xlsx",
+        "de": "Stromverbrauch 2025 - 11.xlsx",
+        "hu": "energiafogyasztás 2025 - 11.xlsx",
+        "ro": "Consumul de energie 2025 - 11.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 11.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 11.xlsx",
+        "sv": "strömförbrukning 2025 - 11.xlsx",
+        "en": "power consumption 2025 - 11.xlsx",
+        "et": "energiatarve 2025 - 11.xlsx",
+        "bg": "консумация на енергия 2025 - 11.xlsx",
+        "uk": "енергоспоживання 2025 - 11.xlsx",
+        "it": "consumo energetico 2025 - 11.xlsx",
+        "fi": "virrankulutus 2025 - 11.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 11.xlsx",
+        "sl": "Poraba energije 2025 - 11.xlsx",
+        "da": "strømforbrug 2025 - 11.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12213,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/a858c738-a9bd-42a4-834b-8493dfe30966/download/energospozhivannia-2025-11.xlsx"
+      ]
+    },
+    {
+      "id": "002a9940-e873-444b-8e01-52b8aac62ac5",
+      "title": {
+        "sk": "spotreba energie 2026-02.xlsx",
+        "hu": "energiafogyasztás 2026-02.xlsx",
+        "pl": "zużycie energii 2026-02.xlsx",
+        "lv": "enerģijas patēriņš 2026-02.xlsx",
+        "sl": "Poraba električne energije 2026-02.xlsx",
+        "uk": "енергоспоживання 2026-02.xlsx",
+        "cs": "spotřeba energie 2026-02.xlsx",
+        "it": "consumo di energia 2026-02.xlsx",
+        "de": "Leistungsaufnahme 2026-02.xlsx",
+        "ro": "consumul de putere 2026-02.xlsx",
+        "pt": "consumo de potência 2026-02.xlsx",
+        "sv": "strömförbrukning 2026-02.xlsx",
+        "nl": "stroomverbruik 2026-02.xlsx",
+        "hr": "potrošnja energije 2026-02.xlsx",
+        "mt": "konsum tal-enerġija 2026-02.xlsx",
+        "fi": "tehonkulutus 2026-02.xlsx",
+        "es": "consumo de energía 2026-02.xlsx",
+        "en": "power consumption 2026-02.xlsx",
+        "bg": "консумация на енергия 2026-02.xlsx",
+        "lt": "energijos suvartojimas 2026-02.xlsx",
+        "ga": "tomhaltas cumhachta 2026-02.xlsx",
+        "et": "energiatarve 2026-02.xlsx",
+        "da": "strømforbrug 2026-02.xlsx",
+        "fr": "Consommation d'énergie 2026-02.xlsx",
+        "el": "κατανάλωση ισχύος 2026-02.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/fcadf9f7-f3e8-4e06-80b2-867b33d053be/download/energospozhivannia-2026-02.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12121
+    },
+    {
+      "id": "cd04e7b5-9522-42db-8e09-d346ac6a757d",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "title": {
+        "uk": "енергоспоживаня 2021-9.xlsx",
+        "sl": "poraba energije 2021-9.xlsx",
+        "ga": "ídiú fuinnimh 2021-9.xlsx",
+        "en": "energy consumption 2021-9.xlsx",
+        "da": "energiforbrug 2021-9.xlsx",
+        "mt": "konsum tal-enerġija 2021-9.xlsx",
+        "es": "consumo de energía 2021-9.xlsx",
+        "it": "consumo energetico 2021-9.xlsx",
+        "fi": "energiankulutus 2021-9.xlsx",
+        "de": "Energieverbrauch 2021-9.xlsx",
+        "bg": "консумация на енергия 2021-9.xlsx",
+        "et": "energiatarbimine 2021-9,xlsx",
+        "pl": "zużycie energii 2021-9.xlsx",
+        "nl": "energieverbruik 2021-9.xlsx",
+        "lv": "enerģijas patēriņš 2021-9.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-9.xlsx",
+        "sk": "spotreba energie 2021 – 9.xlsx",
+        "lt": "energijos suvartojimas 2021-9.xlsx",
+        "sv": "energiförbrukning 2021-9.xlsx",
+        "ro": "consumul de energie 2021-9.xlsx",
+        "hr": "potrošnja energije 2021.–9.xlsx",
+        "cs": "spotřeba energie 2021-9.xlsx",
+        "pt": "consumo de energia 2021-9.xlsx",
+        "fr": "consommation d’énergie 2021-9.xlsx",
+        "hu": "energiafogyasztás 2021-9.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/0c30157f-1a6b-4e50-9caa-0e64561bf4e7/download/energospozhivania-2021-9.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11968
+    },
+    {
+      "id": "d66e52d0-5fbe-4873-853c-91ee86bc33a4",
+      "title": {
+        "bg": "консумация на енергия 2022—12.xlsx",
+        "lv": "enerģijas patēriņš 2022.–2012. gadā xlsx",
+        "hr": "potrošnja energije 2022-12.xlsx",
+        "it": "consumo energetico 2022-12.xlsx",
+        "sk": "spotreba energie 2022 – 12.xlsx",
+        "pl": "zużycie energii 2022-12.xlsx",
+        "sl": "poraba energije v obdobju 2022–2012.xlsx",
+        "hu": "energiafogyasztás 2022-12.xlsx",
+        "ro": "consumul de energie 2022-12.xlsx",
+        "de": "Energieverbrauch 2022-12.xlsx",
+        "mt": "il-konsum tal-enerġija 2022-12.xlsx",
+        "en": "energy consumption 2022-12.xlsx",
+        "ga": "ídiú fuinnimh 2022-12.xlsx",
+        "uk": "енергоспоживаня 2022-12.xlsx",
+        "fr": "consommation d’énergie 2022-12.xlsx",
+        "nl": "energieverbruik 2022-12.xlsx",
+        "et": "energiatarbimine 2022-12.xlsx",
+        "cs": "spotřeba energie 2022-12.xlsx",
+        "sv": "energiförbrukning 2022–12.xlsx",
+        "lt": "energijos suvartojimas 2022-12.xlsx",
+        "fi": "energiankulutus 2022-12.xlsx",
+        "es": "consumo de energía 2022-12.xlsx",
+        "pt": "consumo de energia 2022-12.xlsx",
+        "da": "energiforbrug 2022-12.xlsx",
+        "el": "κατανάλωση ενέργειας 2022-12.xlsx"
+      },
+      "description": {
+        "el": "Κατανάλωση ενέργειας 2022-12",
+        "nl": "Energieverbruik 2022-2012",
+        "da": "Energiforbrug 2022-12",
+        "fi": "Energiankulutus 2022–2012",
+        "sl": "Poraba energije v obdobju 2022–2012.",
+        "ro": "Consumul de energie 2022-2012",
+        "hr": "Potrošnja energije 2022.–2012.",
+        "sv": "Energianvändning 2022–2012",
+        "de": "Energieverbrauch 2022-12",
+        "ga": "Tomhaltas Fuinnimh 2022-12",
+        "hu": "Energiafogyasztás 2022–2012",
+        "mt": "Konsum tal-Enerġija 2022-12",
+        "es": "Consumo de energía 2022-12",
+        "bg": "Потребление на енергия 2022—2012 г.",
+        "pt": "Consumo de energia 2022-2012",
+        "en": "Energy Consumption 2022-12",
+        "pl": "Zużycie energii w latach 2022–2012",
+        "uk": "енергоспоживання 2022-12",
+        "sk": "Spotreba energie 2022 – 2012",
+        "lv": "Enerģijas patēriņš 2022.–2012. gadā",
+        "et": "Energiatarbimine 2022–2012",
+        "fr": "Consommation d’énergie 2022-2012",
+        "it": "Consumo energetico 2022-2012",
+        "cs": "Spotřeba energie 2022–2012",
+        "lt": "Energijos suvartojimas 2022–2012 m."
+      },
+      "byte_size": 12457,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/ff4b27f7-fa33-42b4-ab9c-16123392dbf1/download/energospozhivania-2022-12.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "5ec8232e-7c96-4553-920b-3ccdddda7dde",
+      "title": {
+        "fi": "Energiankulutus 2022-8.xlsx",
+        "en": "Energy Consumption 2022-8.xlsx",
+        "pl": "Zużycie energii 2022-8.xlsx",
+        "lv": "Enerģijas patēriņš 2022-8.xlsx",
+        "sv": "Energianvändning 2022-8.xlsx",
+        "ro": "Consumul de energie 2022-8.xlsx",
+        "hu": "Energiafogyasztás 2022-8.xlsx",
+        "cs": "Spotřeba energie 2022-8.xlsx",
+        "sl": "Poraba energije 2022–8.xlsx",
+        "sk": "Spotreba energie 2022 – 8.xlsx",
+        "hr": "Potrošnja energije 2022-8.xlsx",
+        "lt": "Energijos suvartojimas 2022-8.xlsx",
+        "uk": "енергоспоживаня 2022-8.xlsx",
+        "nl": "Energieverbruik 2022-8.xlsx",
+        "bg": "Потребление на енергия 2022-8.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-8.xlsx",
+        "et": "Energiatarbimine 2022-8.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-8.xlsx",
+        "de": "Energieverbrauch 2022-8.xlsx",
+        "it": "Consumo energetico 2022-8.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-8.xlsx",
+        "pt": "Consumo de energia 2022-8.xlsx",
+        "da": "Energiforbrug 2022-8.xlsx",
+        "fr": "Consommation d’énergie 2022-8.xlsx",
+        "es": "Consumo de energía 2022-8.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12376,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/ee76a576-06a8-4e64-8a03-db51138c5532/download/energospozhivania-2022-8.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "2d0a0f0e-2754-41e8-9a87-3ffcf4791b02",
+      "title": {
+        "pt": "consumo de energia 2024 - 08.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 08.xlsx",
+        "bg": "консумация на енергия 2024 г. — 08.xlsx",
+        "it": "consumo energetico 2024 - 08.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 08.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 08.xlsx",
+        "ro": "consumul de putere 2024 - 08.xlsx",
+        "fi": "virrankulutus 2024 - 08.xlsx",
+        "sl": "Poraba energije 2024 - 08.xlsx",
+        "fr": "Consommation électrique 2024 - 08.xlsx",
+        "uk": "енергоспоживання 2024 - 08.xlsx",
+        "en": "power consumption 2024 - 08.xlsx",
+        "nl": "Stroomverbruik 2024 - 08.xlsx",
+        "es": "consumo de energía 2024 - 08.xlsx",
+        "hr": "potrošnja energije 2024. 08.xlsx",
+        "sv": "strömförbrukning 2024 – 08.xlsx",
+        "et": "energiatarve 2024 - 08.xlsx",
+        "pl": "Zużycie energii 2024 - 08.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 08.xlsx",
+        "da": "strømforbrug 2024 - 08.xlsx",
+        "hu": "energiafogyasztás 2024 - 08.xlsx",
+        "de": "Stromverbrauch 2024 - 08.xlsx",
+        "ga": "ídiú cumhachta 2024 - 08.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 08.xlsx",
+        "cs": "spotřeba energie 2024 - 08.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/b99c5d98-f7ca-4bd0-9bc1-62059889c0e2/download/energospozhivannia-2024-08.xlsx"
+      ],
+      "byte_size": 12138
+    },
+    {
+      "id": "34fa7063-88bc-468d-a08b-6cf18b2cef54",
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "title": {
+        "uk": "енергоспоживаня 2021-5.xlsx",
+        "bg": "Потребление на енергия 2021-5.xlsx",
+        "el": "Κατανάλωση ενέργειας 2021-5.xlsx",
+        "pt": "Consumo de energia 2021-5.xlsx",
+        "de": "Energieverbrauch 2021-5.xlsx",
+        "pl": "Zużycie energii 2021-5.xlsx",
+        "sl": "Poraba energije 2021-5.xlsx",
+        "en": "Energy Consumption 2021-5.xlsx",
+        "lt": "Energijos suvartojimas 2021-5.xlsx",
+        "fr": "Consommation d’énergie 2021-5.xlsx",
+        "fi": "Energiankulutus 2021-5.xlsx",
+        "sv": "Energianvändning 2021-5.xlsx",
+        "lv": "Enerģijas patēriņš 2021-5.xlsx",
+        "et": "Energiatarbimine 2021-5.xlsx",
+        "hu": "Energiafogyasztás 2021-5.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2021-5.xlsx",
+        "hr": "Potrošnja energije 2021-5.xlsx",
+        "it": "Consumo energetico 2021-5.xlsx",
+        "nl": "Energieverbruik 2021-5.xlsx",
+        "es": "Consumo de energía 2021-5.xlsx",
+        "cs": "Spotřeba energie 2021-5.xlsx",
+        "mt": "Konsum tal-Enerġija 2021-5.xlsx",
+        "sk": "Spotreba energie 2021 – 5.xlsx",
+        "ro": "Consumul de energie 2021-5.xlsx",
+        "da": "Energiforbrug 2021-5.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11882,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/90937806-7e96-40a3-b9c0-1b61feda7d21/download/energospozhivania-2021-5.xlsx"
+      ]
+    },
+    {
+      "id": "94f1f5eb-f90a-4c40-b9c2-3a7bdf578599",
+      "title": {
+        "uk": "енергоспоживаня 2023-4.xlsx",
+        "bg": "консумация на енергия 2023-4.xlsx",
+        "sv": "energiförbrukning 2023-4.xlsx",
+        "fi": "energiankulutus 2023–4.xlsx",
+        "pl": "zużycie energii 2023-4.xlsx",
+        "da": "energiforbrug 2023-4.xlsx",
+        "it": "consumo energetico 2023-4.xlsx",
+        "ga": "ídiú fuinnimh 2023-4.xlsx",
+        "ro": "consumul de energie 2023-4.xlsx",
+        "fr": "consommation d’énergie 2023-4.xlsx",
+        "cs": "spotřeba energie 2023–4.xlsx",
+        "lv": "enerģijas patēriņš 2023-4.xlsx",
+        "lt": "energijos suvartojimas 2023–4.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-4.xlsx",
+        "mt": "konsum tal-enerġija 2023-4.xlsx",
+        "de": "Energieverbrauch 2023-4.xlsx",
+        "pt": "consumo de energia 2023-4,xlsx",
+        "hr": "potrošnja energije 2023-4.xlsx",
+        "sl": "poraba energije 2023–4.xlsx",
+        "es": "consumo de energía 2023-4.xlsx",
+        "nl": "energieverbruik 2023-4.xlsx",
+        "sk": "spotreba energie 2023 – 4.xlsx",
+        "en": "energy consumption 2023-4.xlsx",
+        "hu": "energiafogyasztás 2023-4.xlsx",
+        "et": "energiatarbimine 2023-4,xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11920,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/56853cf9-7a45-48b1-96d5-a0ec9a73dce4/download/energospozhivania-2023-4.xlsx"
+      ]
+    },
+    {
+      "id": "160330a9-17b2-4dd0-80a8-aaebcc8b56aa",
+      "title": {
+        "de": "Energieverbrauch 2022-10.xlsx",
+        "uk": "енергоспоживаня 2022-10.xlsx",
+        "pt": "Consumo de energia 2022-10.xlsx",
+        "bg": "Потребление на енергия 2022-10.xlsx",
+        "da": "Energiforbrug 2022-10.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-10.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-10.xlsx",
+        "fi": "Energiankulutus 2022-10.xlsx",
+        "lt": "Energijos suvartojimas 2022-10.xlsx",
+        "nl": "Energieverbruik 2022-10.xlsx",
+        "cs": "Spotřeba energie 2022-10.xlsx",
+        "sk": "Spotreba energie 2022 – 10.xlsx",
+        "lv": "Enerģijas patēriņš 2022-10.xlsx",
+        "en": "Energy Consumption 2022-10.xlsx",
+        "hr": "Potrošnja energije 2022-10.xlsx",
+        "fr": "Consommation d’énergie 2022-10.xlsx",
+        "et": "Energiatarbimine 2022-10.xlsx",
+        "sv": "Energianvändning 2022-10.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-10.xlsx",
+        "pl": "Zużycie energii 2022-10.xlsx",
+        "hu": "Energiafogyasztás 2022-10.xlsx",
+        "ro": "Consumul de energie 2022-10.xlsx",
+        "sl": "Poraba energije v obdobju 2022–2010.xlsx",
+        "es": "Consumo de energía 2022-10.xlsx",
+        "it": "Consumo energetico 2022-10.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/71d02324-a5f2-4360-8865-27b731b1bfee/download/energospozhivania-2022-10.xlsx"
+      ],
+      "byte_size": 12410,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "a7e611e8-5202-44d8-89e1-b67c970a9832",
+      "title": {
+        "hr": "potrošnja energije 2025. 12.xlsx",
+        "pl": "zużycie energii 2025 - 12.xlsx",
+        "uk": "енергоспоживання 2025 - 12.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 12.xlsx",
+        "it": "consumo energetico 2025 - 12.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 12.xlsx",
+        "en": "power consumption 2025 - 12.xlsx",
+        "sl": "poraba energije 2025 - 12.xlsx",
+        "cs": "spotřeba energie 2025 - 12.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 12.xlsx",
+        "es": "consumo de energía 2025 - 12.xlsx",
+        "bg": "консумация на енергия 2025 - 12.xlsx",
+        "pt": "consumo de potência 2025 - 12.xlsx",
+        "de": "Stromverbrauch 2025 - 12.xlsx",
+        "nl": "Stroomverbruik 2025 - 12.xlsx",
+        "sv": "strömförbrukning 2025 - 12.xlsx",
+        "fi": "virrankulutus 2025 - 12.xlsx",
+        "fr": "Consommation d'énergie 2025 - 12.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 12.xlsx",
+        "hu": "energiafogyasztás 2025 - 12.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 12.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 12.xlsx",
+        "da": "strømforbrug 2025 - 12.xlsx",
+        "et": "energiatarve 2025 - 12.xlsx",
+        "ro": "Consumul de energie 2025 - 12.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12232,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/205d0a5b-8b19-4caa-9cdc-94b471ec1851/download/energospozhivannia-2025-12.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "ca60bf07-db0e-4e36-9ab1-ed67643a1f0e",
+      "title": {
+        "fi": "Energiankulutus 2022-1.xlsx",
+        "uk": "енергоспоживаня 2022-1.xlsx",
+        "es": "Consumo de energía 2022-1.xlsx",
+        "bg": "Потребление на енергия 2022-1.xlsx",
+        "da": "Energiforbrug 2022-1.xlsx",
+        "pt": "Consumo de energia 2022-1.xlsx",
+        "de": "Energieverbrauch 2022-1.xlsx",
+        "hu": "Energiafogyasztás 2022-1.xlsx",
+        "pl": "Zużycie energii 2022-1.xlsx",
+        "lv": "Enerģijas patēriņš 2022-1.xlsx",
+        "en": "Energy Consumption 2022-1.xlsx",
+        "sl": "Poraba energije 2022-1.xlsx",
+        "lt": "Energijos suvartojimas 2022-1.xlsx",
+        "cs": "Spotřeba energie 2022-1.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-1.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-1.xlsx",
+        "it": "Consumo energetico 2022-1.xlsx",
+        "fr": "Consommation d’énergie 2022-1.xlsx",
+        "ro": "Consumul de energie 2022-1,xlsx",
+        "nl": "Energieverbruik 2022-1.xlsx",
+        "et": "Energiatarbimine 2022-1.xlsx",
+        "sk": "Spotreba energie 2022-1.xlsx",
+        "sv": "Energianvändning 2022-1.xlsx",
+        "hr": "Potrošnja energije 2022-1.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-1.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/9fa3c430-0d04-4a05-b43c-dbf186fc0aa7/download/energospozhivania-2022-1.xlsx"
+      ],
+      "byte_size": 12148
+    },
+    {
+      "id": "fe374184-e9d2-4c29-9e85-bcf8e12d02ef",
+      "title": {
+        "sl": "poraba energije 2023–8.xlsx",
+        "lv": "enerģijas patēriņš 2023-8.xlsx",
+        "sk": "spotreba energie 2023 – 8.xlsx",
+        "cs": "spotřeba energie 2023–8.xlsx",
+        "hr": "potrošnja energije 2023.–8.xlsx",
+        "lt": "energijos suvartojimas 2023–8.xlsx",
+        "en": "energy consumption 2023-8.xlsx",
+        "fi": "energiankulutus 2023–8.xlsx",
+        "ga": "ídiú fuinnimh 2023-8.xlsx",
+        "mt": "konsum tal-enerġija 2023-8.xlsx",
+        "fr": "consommation d’énergie 2023-8.xlsx",
+        "it": "consumo energetico 2023-8.xlsx",
+        "uk": "енергоспоживання 2023-8.xlsx",
+        "pt": "consumo de energia 2023-8.xlsx",
+        "nl": "energieverbruik 2023-8.xlsx",
+        "es": "consumo de energía 2023-8.xlsx",
+        "pl": "zużycie energii 2023-8.xlsx",
+        "hu": "energiafogyasztás 2023-8.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-8.xlsx",
+        "bg": "консумация на енергия 2023-8.xlsx",
+        "et": "energiatarbimine 2023-8,xlsx",
+        "sv": "energiförbrukning 2023-8.xlsx",
+        "da": "energiforbrug 2023-8.xlsx",
+        "de": "Energieverbrauch 2023-8.xlsx",
+        "ro": "consumul de energie 2023-8.xlsx"
+      },
+      "byte_size": 11961,
+      "description": {
+        "it": "consumo energetico 2023-2008",
+        "hu": "energiafogyasztás 2023–2008",
+        "sl": "poraba energije v obdobju 2023–2008",
+        "en": "energy consumption 2023-8",
+        "mt": "konsum tal-enerġija 2023-8",
+        "uk": "енергоспоживання 2023-8",
+        "sk": "spotreba energie v rokoch 2023 – 2020",
+        "sv": "energiförbrukning 2023–8",
+        "bg": "потребление на енергия за периода 2023—2008 г.",
+        "lt": "2023–208 m. suvartojamos energijos kiekis",
+        "da": "energiforbrug 2023-8",
+        "fi": "energiankulutus 2023–2018",
+        "fr": "consommation d’énergie 2023-2023",
+        "es": "consumo de energía 2023-2008",
+        "lv": "enerģijas patēriņš 2023.–2008. gadā",
+        "el": "κατανάλωση ενέργειας 2023-8",
+        "ro": "consumul de energie 2023-2008",
+        "ga": "tomhaltas fuinnimh 2023-8",
+        "pl": "zużycie energii w latach 2023–2008",
+        "et": "energiatarbimine 2023–2008",
+        "de": "Energieverbrauch 2023-8",
+        "hr": "potrošnja energije 2023.–2008.",
+        "cs": "spotřeba energie 2023–8",
+        "pt": "consumo de energia 2023-8",
+        "nl": "energieverbruik 2023-2008"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/2e71cc92-4a36-4ea9-86a7-55546230164c/download/energospozhivannia-2023-8.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "19ad4de1-e3d6-4963-8be8-78f3075c4028",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "title": {
+        "hr": "Potrošnja energije 2020.xlsx",
+        "lv": "Enerģijas patēriņš 2020.xlsx",
+        "cs": "Spotřeba energie 2020.xlsx",
+        "sk": "Spotreba energie 2020.xlsx",
+        "fr": "Consommation d'énergie 2020.xlsx",
+        "de": "Energieverbrauch 2020.xlsx",
+        "da": "Energiforbrug 2020.xlsx",
+        "pl": "Zużycie energii 2020.xlsx",
+        "en": "Energy consumption 2020.xlsx",
+        "mt": "Konsum tal-enerġija 2020.xlsx",
+        "ga": "Ídiú fuinnimh 2020.xlsx",
+        "sl": "Poraba energije 2020.xlsx",
+        "fi": "Energiankulutus 2020.xlsx",
+        "el": "Κατανάλωση ενέργειας 2020.xlsx",
+        "es": "Consumo de energía 2020.xlsx",
+        "it": "Consumo di energia 2020.xlsx",
+        "sv": "Energiförbrukning 2020.xlsx",
+        "nl": "Energieverbruik 2020.xlsx",
+        "pt": "Consumo de energia 2020.xlsx",
+        "hu": "Energiafogyasztás 2020.xlsx",
+        "et": "Energiatarbimine 2020.xlsx",
+        "bg": "Консумация на енергия 2020.xlsx",
+        "ro": "Consumul de energie 2020.xlsx",
+        "uk": "енергоспоживаня 2020.xlsx",
+        "lt": "Energijos suvartojimas 2020.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/78f7f23c-21fb-479e-8a82-e48646cb92f2/download/energospozhivania-2020.xlsx"
+      ],
+      "byte_size": 12049,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "6a60e87a-22c0-4906-b897-c93e95549856",
+      "title": {
+        "ro": "Consumul de energie 2025 - 09.xlsx",
+        "pt": "consumo de energia 2025 - 09.xlsx",
+        "de": "Stromverbrauch 2025 - 09.xlsx",
+        "hu": "energiafogyasztás 2025 - 09.xlsx",
+        "bg": "консумация на енергия 2025 - 09.xlsx",
+        "da": "strømforbrug 2025 - 09.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 09.xlsx",
+        "sl": "poraba električne energije 2025 - 09.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 09.xlsx",
+        "en": "power consumption 2025 - 09.xlsx",
+        "hr": "potrošnja energije 2025. - 09.xlsx",
+        "fr": "Consommation d'énergie 2025 - 09.xlsx",
+        "uk": "енергоспоживання 2025 - 09.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 09.xlsx",
+        "et": "energiatarve 2025 - 09.xlsx",
+        "pl": "Zużycie energii elektrycznej 2025 - 09.xlsx",
+        "it": "consumo energetico 2025 - 09.xlsx",
+        "sv": "strömförbrukning 2025 - 09.xlsx",
+        "nl": "Stroomverbruik 2025 - 09.xlsx",
+        "fi": "tehonkulutus 2025 - 09.xlsx",
+        "cs": "spotřeba energie 2025 - 09.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 09.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 09.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 09.xlsx",
+        "es": "consumo de energía 2025 - 09.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/37effaca-a136-438d-8d71-12694e15d039/download/energospozhivannia-2025-09.xlsx"
+      ],
+      "byte_size": 12200,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "cfb1f56c-0170-45a3-8e17-ea74f711778d",
+      "description": {
+        "pl": "zużycie energii 2023-2",
+        "es": "consumo de energía 2023-2",
+        "hu": "energiafogyasztás 2023–2",
+        "et": "energiatarbimine 2023–2022",
+        "fr": "consommation d’énergie 2023-2",
+        "sl": "poraba energije v obdobju 2023–202.",
+        "nl": "energieverbruik 2023-2",
+        "hr": "potrošnja energije 2023.–2020.",
+        "lv": "enerģijas patēriņš 2023.–2023. gadā",
+        "ro": "consumul de energie 2023-2",
+        "mt": "konsum tal-enerġija 2023-2",
+        "cs": "spotřeba energie 2023–202",
+        "lt": "2023–2022 m. suvartojamos energijos kiekis",
+        "pt": "consumo de energia 2023-2",
+        "bg": "потребление на енергия 2023—2 г.",
+        "it": "consumo energetico 2023-2",
+        "sk": "spotreba energie 2023 – 2",
+        "da": "energiforbrug 2023-2",
+        "fi": "energiankulutus 2023–2",
+        "en": "energy consumption 2023-2",
+        "sv": "energiförbrukning 2023–2",
+        "uk": "енергоспоживання 2023-2",
+        "el": "κατανάλωση ενέργειας 2023-2",
+        "ga": "tomhaltas fuinnimh 2023-2",
+        "de": "Energieverbrauch 2023-2"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "title": {
+        "da": "energiforbrug 2023-2.xlsx",
+        "ro": "consumul de energie 2023-2.xlsx",
+        "ga": "ídiú fuinnimh 2023-2.xlsx",
+        "fi": "energiankulutus 2023-2.xlsx",
+        "es": "consumo de energía 2023-2.xlsx",
+        "de": "Energieverbrauch 2023-2.xlsx",
+        "en": "energy consumption 2023-2.xlsx",
+        "bg": "консумация на енергия 2023-2.xlsx",
+        "sv": "energiförbrukning 2023-2.xlsx",
+        "uk": "енергоспоживаня 2023-2.xlsx",
+        "cs": "spotřeba energie 2023-2.xlsx",
+        "lt": "energijos suvartojimas 2023-2.xlsx",
+        "nl": "energieverbruik 2023-2.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-2.xlsx",
+        "sk": "spotreba energie 2023 – 2,xlsx",
+        "hu": "energiafogyasztás 2023–2.xlsx",
+        "hr": "potrošnja energije 2023-2.xlsx",
+        "pl": "zużycie energii 2023-2.xlsx",
+        "et": "energiatarbimine 2023-2,xlsx",
+        "sl": "poraba energije 2023–2.xlsx",
+        "it": "consumo energetico 2023-2.xlsx",
+        "lv": "enerģijas patēriņš 2023-2.xlsx",
+        "fr": "consommation d’énergie 2023-2.xlsx",
+        "pt": "consumo de energia 2023-2.xlsx",
+        "mt": "il-konsum tal-enerġija 2023-2.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11874,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/d31089e1-7012-40c6-9453-2963c8eed8d7/download/energospozhivania-2023-2.xlsx"
+      ]
+    },
+    {
+      "id": "f1258c70-25aa-4259-bf0e-074a498fa92b",
+      "title": {
+        "et": "Energiatarbimine 2022-11.xlsx",
+        "en": "Energy Consumption 2022-11.xlsx",
+        "da": "Energiforbrug 2022-11.xlsx",
+        "sl": "Poraba energije 2022–2011.xlsx",
+        "it": "Consumo energetico 2022-11.xlsx",
+        "bg": "Потребление на енергия 2022-11.xlsx",
+        "fr": "Consommation d’énergie 2022-11.xlsx",
+        "ro": "Consumul de energie 2022-11.xlsx",
+        "fi": "Energiankulutus 2022-11.xlsx",
+        "pt": "Consumo de energia 2022-11.xlsx",
+        "nl": "Energieverbruik 2022-11.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-11.xlsx",
+        "de": "Energieverbrauch 2022-11.xlsx",
+        "sv": "Energianvändning 2022-11.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-11.xlsx",
+        "cs": "Spotřeba energie 2022-11.xlsx",
+        "uk": "енергоспоживаня 2022-11.xlsx",
+        "pl": "Zużycie energii 2022-11.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-11.xlsx",
+        "es": "Consumo de energía 2022-11.xlsx",
+        "lt": "Energijos suvartojimas 2022-11.xlsx",
+        "lv": "Enerģijas patēriņš 2022-11.xlsx",
+        "hr": "Potrošnja energije 2022-11.xlsx",
+        "hu": "Energiafogyasztás 2022-11.xlsx",
+        "sk": "Spotreba energie 2022-11.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12458,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/c98be280-9ff3-4c6f-9c8c-fd7b4b3ea55e/download/energospozhivania-2022-11.xlsx"
+      ]
+    },
+    {
+      "id": "4e3e4ee6-14d4-4314-8e70-a57e48ef36e3",
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "title": {
+        "ga": "ídiú fuinnimh 2023-11.xlsx",
+        "sl": "poraba energije v obdobju 2023–2011.xlsx",
+        "nl": "energieverbruik 2023-11.xlsx",
+        "hu": "energiafogyasztás 2023-11.xlsx",
+        "es": "consumo de energía 2023-11.xlsx",
+        "da": "energiforbrug 2023-11.xlsx",
+        "fi": "energiankulutus 2023-11.xlsx",
+        "bg": "потребление на енергия 2023-11.xlsx",
+        "de": "Energieverbrauch 2023-11.xlsx",
+        "uk": "енергоспоживання 2023-11.xlsx",
+        "pl": "zużycie energii 2023-11.xlsx",
+        "lt": "energijos suvartojimas 2023–2011 m.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-11.xlsx",
+        "cs": "spotřeba energie 2023-11.xlsx",
+        "sv": "energiförbrukning 2023-11.xlsx",
+        "mt": "il-konsum tal-enerġija 2023-11.xlsx",
+        "en": "energy consumption 2023-11.xlsx",
+        "pt": "consumo de energia 2023-11.xlsx",
+        "lv": "enerģijas patēriņš 2023-11.xlsx",
+        "hr": "potrošnja energije 2023.-11.xlsx",
+        "it": "consumo energetico 2023-11.xlsx",
+        "et": "energiatarbimine 2023-11.xlsx",
+        "sk": "spotreba energie 2023 – 11.xlsx",
+        "ro": "consumul de energie 2023-11.xlsx",
+        "fr": "consommation d’énergie 2023-11.xlsx"
+      },
+      "byte_size": 12105,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/c10ce8d8-4e5e-4de1-8313-b1aa42cc7b72/download/energospozhivannia-2023-11.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "d76a6778-c1cb-4fd3-87a2-2b03d6f889bb",
+      "title": {
+        "hu": "energiafogyasztás 2025 - 04.xlsx",
+        "bg": "консумация на енергия 2025 г. — 04.xlsx",
+        "en": "power consumption 2025 - 04.xlsx",
+        "cs": "spotřeba energie 2025 - 04.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 04.xlsx",
+        "pt": "consumo de potência 2025 - 04.xlsx",
+        "fr": "consommation d'énergie 2025 - 04.xlsx",
+        "da": "strømforbrug 2025 - 04.xlsx",
+        "hr": "potrošnja energije 2025. - 04.xlsx",
+        "sl": "Poraba energije 2025 - 04.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 04.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 04.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 04.xlsx",
+        "nl": "Stroomverbruik 2025 - 04.xlsx",
+        "fi": "tehonkulutus 2025 - 04.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 04.xlsx",
+        "pl": "Zużycie energii 2025 - 04.xlsx",
+        "it": "consumo energetico 2025 - 04.xlsx",
+        "uk": "енергоспоживання 2025 - 04.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 04.xlsx",
+        "de": "Stromverbrauch 2025 - 04.xlsx",
+        "et": "energiatarve 2025 - 04.xlsx",
+        "ro": "Consumul de energie 2025 - 04.xlsx",
+        "es": "consumo de energía 2025 - 04.xlsx",
+        "sv": "strömförbrukning 2025 - 04.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/ca19c9c5-2c76-418f-99e1-13ebf32f56f8/download/energospozhivannia-2025-04.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12094,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "c96daaa2-85f8-48f9-9722-ee7c27a9d551",
+      "title": {
+        "lt": "energijos suvartojimas 2024 m. – 11.xlsx",
+        "pl": "Zużycie energii 2024 - 11.xlsx",
+        "fi": "virrankulutus 2024 - 11.xlsx",
+        "hu": "energiafogyasztás 2024 – 11.xlsx",
+        "en": "power consumption 2024 - 11.xlsx",
+        "nl": "Stroomverbruik 2024 - 11.xlsx",
+        "bg": "консумация на енергия 2024 г. — 11.xlsx",
+        "sl": "Poraba energije 2024 - 11.xlsx",
+        "ga": "tomhaltas cumhachta 2024 - 11.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 11.xlsx",
+        "uk": "енергоспоживання 2024 - 11.xlsx",
+        "et": "energiatarve 2024 - 11.xlsx",
+        "sk": "spotreba energie 2024 – 11.xlsx",
+        "es": "consumo de energía 2024 - 11.xlsx",
+        "cs": "spotřeba energie 2024 - 11.xlsx",
+        "de": "Stromverbrauch 2024 - 11.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 11.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 11.xlsx",
+        "it": "consumo energetico 2024 - 11.xlsx",
+        "ro": "Consumul de energie 2024 - 11.xlsx",
+        "da": "strømforbrug 2024 - 11.xlsx",
+        "pt": "consumo de potência 2024 - 11.xlsx",
+        "hr": "potrošnja energije 2024. 11.xlsx",
+        "sv": "strömförbrukning 2024 – 11.xlsx",
+        "fr": "Consommation d'énergie 2024 - 11.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12168,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/d2fe8f4b-7e3f-4e77-961e-79a555ffc098/download/energospozhivannia-2024-11.xlsx"
+      ]
+    },
+    {
+      "id": "3826d9a5-c8ec-4deb-9e1d-6832ef3b8310",
+      "title": {
+        "da": "Energiforbrug 2022-9.xlsx",
+        "es": "Consumo de energía 2022-9.xlsx",
+        "bg": "Потребление на енергия 2022-9.xlsx",
+        "pl": "Zużycie energii 2022-9.xlsx",
+        "hu": "Energiafogyasztás 2022-9.xlsx",
+        "en": "Energy Consumption 2022-9.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-9.xlsx",
+        "lv": "Enerģijas patēriņš 2022-9.xlsx",
+        "sv": "Energianvändning 2022-9.xlsx",
+        "uk": "енергоспоживаня 2022-9.xlsx",
+        "de": "Energieverbrauch 2022-9.xlsx",
+        "nl": "Energieverbruik 2022-9.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-9.xlsx",
+        "sk": "Spotreba energie 2022 – 9.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-9.xlsx",
+        "lt": "Energijos suvartojimas 2022-9.xlsx",
+        "fr": "Consommation d’énergie 2022-9.xlsx",
+        "cs": "Spotřeba energie 2022-9.xlsx",
+        "it": "Consumo energetico 2022-9.xlsx",
+        "pt": "Consumo de energia 2022-9.xlsx",
+        "hr": "Potrošnja energije 2022-9.xlsx",
+        "et": "Energiatarbimine 2022-9.xlsx",
+        "sl": "Poraba energije 2022-9.xlsx",
+        "ro": "Consumul de energie 2022-9.xlsx",
+        "fi": "Energiankulutus 2022-9.xlsx"
+      },
+      "byte_size": 12389,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/66dacc2a-35c7-4e60-96e1-4886a0fdaf65/download/energospozhivania-2022-9.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "648b1e6a-dbfe-45e8-994c-ff91f71757a8",
+      "title": {
+        "en": "power consumption 2025 - 10.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 10.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 10.xlsx",
+        "ro": "Consumul de energie 2025 - 10.xlsx",
+        "it": "consumo energetico 2025 - 10.xlsx",
+        "fr": "Consommation d'énergie 2025 - 10.xlsx",
+        "hr": "potrošnja energije 2025. - 10.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 10.xlsx",
+        "hu": "energiafogyasztás 2025 - 10.xlsx",
+        "cs": "spotřeba energie 2025 - 10.xlsx",
+        "nl": "Stroomverbruik 2025 - 10.xlsx",
+        "et": "energiatarve 2025 - 10.xlsx",
+        "bg": "консумация на енергия 2025 - 10.xlsx",
+        "sv": "strömförbrukning 2025 - 10.xlsx",
+        "es": "consumo de energía 2025 - 10.xlsx",
+        "fi": "tehonkulutus 2025 - 10.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 10.xlsx",
+        "lt": "energijos suvartojimas 2025 - 10.xlsx",
+        "pt": "consumo de potência 2025 - 10.xlsx",
+        "pl": "Zużycie energii 2025 - 10.xlsx",
+        "de": "Stromverbrauch 2025 - 10.xlsx",
+        "uk": "енергоспоживання 2025 - 10.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 10.xlsx",
+        "da": "strømforbrug 2025 - 10.xlsx",
+        "sl": "poraba energije 2025 - 10.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/3d88b779-0756-43fa-aae1-ef1b80e74662/download/energospozhivannia-2025-10.xlsx"
+      ],
+      "byte_size": 12206,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "ec76fe7a-1bbe-4552-9cad-999f28586585",
+      "title": {
+        "uk": "енергоспоживання 2026-03.xlsx",
+        "et": "energiatarve 2026-03.xlsx",
+        "fi": "tehonkulutus 2026-03.xlsx",
+        "lv": "enerģijas patēriņš 2026-03.xlsx",
+        "sv": "strömförbrukning 2026-03.xlsx",
+        "sl": "Poraba energije 2026-03.xlsx",
+        "pl": "zużycie energii 2026-03.xlsx",
+        "bg": "консумация на енергия 2026-03.xlsx",
+        "fr": "Consommation d'énergie 2026-03.xlsx",
+        "cs": "spotřeba energie 2026-03.xlsx",
+        "mt": "konsum tal-enerġija 2026-03.xlsx",
+        "de": "Leistungsaufnahme 2026-03.xlsx",
+        "en": "power consumption 2026-03.xlsx",
+        "hu": "energiafogyasztás 2026-03.xlsx",
+        "ga": "tomhaltas cumhachta 2026-03.xlsx",
+        "nl": "stroomverbruik 2026-03.xlsx",
+        "pt": "consumo de potência 2026-03.xlsx",
+        "it": "consumo di energia 2026-03.xlsx",
+        "sk": "spotreba energie 2026-03.xlsx",
+        "el": "κατανάλωση ισχύος 2026-03.xlsx",
+        "ro": "consumul de energie 2026-03.xlsx",
+        "lt": "energijos suvartojimas 2026-03.xlsx",
+        "es": "consumo de energía 2026-03.xlsx",
+        "hr": "potrošnja energije 2026-03.xlsx",
+        "da": "strømforbrug 2026-03.xlsx"
+      },
+      "byte_size": 12130,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/a1cf71fe-b565-4be0-8310-a47c0d100510/download/energospozhivannia-2026-03.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "f8704ad4-dfc3-4ba8-a237-6cabcd3fa9c3",
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "title": {
+        "sk": "spotreba energie 2023 – 10.xlsx",
+        "lv": "enerģijas patēriņš 2023-10.xlsx",
+        "ga": "ídiú fuinnimh 2023-10.xlsx",
+        "nl": "energieverbruik 2023-10.xlsx",
+        "cs": "spotřeba energie 2023-10.xlsx",
+        "fi": "energiankulutus 2023–10.xlsx",
+        "sl": "poraba energije v obdobju 2023–2010.xlsx",
+        "it": "consumo energetico 2023-10.xlsx",
+        "sv": "energiförbrukning 2023-10.xlsx",
+        "pl": "zużycie energii 2023-10.xlsx",
+        "hr": "potrošnja energije 2023-10.xlsx",
+        "uk": "енергоспоживання 2023-10.xlsx",
+        "da": "energiforbrug 2023-10.xlsx",
+        "bg": "потребление на енергия 2023—10.xlsx",
+        "de": "Energieverbrauch 2023-10.xlsx",
+        "pt": "consumo de energia 2023-10.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-10.xlsx",
+        "hu": "energiafogyasztás 2023–10.xlsx",
+        "lt": "energijos suvartojimas 2023–10.xlsx",
+        "en": "energy consumption 2023-10.xlsx",
+        "ro": "consumul de energie 2023-10.xlsx",
+        "mt": "konsum tal-enerġija 2023-10.xlsx",
+        "fr": "consommation d’énergie 2023-10.xlsx",
+        "et": "energiatarbimine 2023-10.xlsx",
+        "es": "consumo de energía 2023-10.xlsx"
+      },
+      "byte_size": 12113,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/e71faab9-df11-4cda-b458-943551a5ee7c/download/energospozhivannia-2023-10.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "aeab744a-6a99-4e99-889b-aefbde245c87",
+      "title": {
+        "it": "consumo energetico 2025 - 06.xlsx",
+        "pl": "Zużycie energii elektrycznej 2025 - 06.xlsx",
+        "hu": "energiafogyasztás 2025 - 06.xlsx",
+        "bg": "консумация на енергия 2025 - 06.xlsx",
+        "de": "Stromverbrauch 2025 - 06.xlsx",
+        "fi": "tehonkulutus 2025 - 06.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 06.xlsx",
+        "hr": "potrošnja energije 2025 - 06.xlsx",
+        "en": "power consumption 2025 - 06.xlsx",
+        "ro": "Consumul de energie 2025 - 06.xlsx",
+        "nl": "Stroomverbruik 2025 - 06.xlsx",
+        "uk": "енергоспоживання 2025 - 06.xlsx",
+        "pt": "consumo de potência 2025 - 06.xlsx",
+        "es": "consumo de energía 2025 - 06.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 06.xlsx",
+        "cs": "spotřeba energie 2025 - 06.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 06.xlsx",
+        "sv": "strömförbrukning 2025 - 06.xlsx",
+        "et": "energiatarve 2025 - 06.xlsx",
+        "fr": "Consommation d'énergie 2025 - 06.xlsx",
+        "sl": "Poraba energije 2025 - 06.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 06.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 06.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 06.xlsx",
+        "da": "strømforbrug 2025 - 06.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12107,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/2dcc2b63-0aa9-4c17-a980-0eadd38d2710/download/energospozhivannia-2025-06.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "ce686f4a-ae87-4091-8590-5032a6567cd9",
+      "title": {
+        "en": "energy consumption 2021-11.xlsx",
+        "it": "consumo energetico 2021-11.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-11.xlsx",
+        "hr": "potrošnja energije 2021-11.xlsx",
+        "pt": "consumo de energia 2021-11.xlsx",
+        "et": "energiatarbimine 2021-11.xlsx",
+        "sk": "spotreba energie 2021 – 11.xlsx",
+        "sl": "poraba energije v obdobju 2021–2011.xlsx",
+        "fr": "consommation d’énergie 2021-11.xlsx",
+        "nl": "energieverbruik 2021-11.xlsx",
+        "lv": "enerģijas patēriņš 2021-11.xlsx",
+        "da": "energiforbrug 2021-11.xlsx",
+        "fi": "energiankulutus 2021-11.xlsx",
+        "bg": "консумация на енергия 2021—11.xlsx",
+        "lt": "energijos suvartojimas 2021-11.xlsx",
+        "uk": "енергоспоживаня 2021-11.xlsx",
+        "sv": "energiförbrukning 2021-11.xlsx",
+        "de": "Energieverbrauch 2021-11.xlsx",
+        "cs": "spotřeba energie 2021-11.xlsx",
+        "hu": "energiafogyasztás 2021-11.xlsx",
+        "es": "consumo de energía 2021-11.xlsx",
+        "mt": "il-konsum tal-enerġija 2021-11.xlsx",
+        "ga": "ídiú fuinnimh 2021-11.xlsx",
+        "pl": "zużycie energii 2021-11.xlsx",
+        "ro": "consumul de energie 2021-11.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/8038f098-2cce-4ae2-aa1e-330900f30e77/download/energospozhivania-2021-11.xlsx"
+      ],
+      "byte_size": 12034,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "56483d3e-73df-4356-9508-98ba3845072d",
+      "title": {
+        "nl": "stroomverbruik 2024 - 10.xlsx",
+        "hu": "energiafogyasztás 2024 – 10.xlsx",
+        "uk": "енергоспоживання 2024 - 10.xlsx",
+        "sv": "strömförbrukning 2024 - 10.xlsx",
+        "lt": "energijos suvartojimas 2024 m. - 10.xlsx",
+        "pl": "Zużycie energii 2024 - 10.xlsx",
+        "bg": "консумация на енергия 2024 г. — 10.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 10.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 10.xlsx",
+        "hr": "potrošnja energije 2024. 10.xlsx",
+        "it": "consumo energetico 2024 - 10.xlsx",
+        "et": "energiatarve 2024 - 10.xlsx",
+        "fi": "virrankulutus 2024 - 10.xlsx",
+        "pt": "consumo de potência 2024 - 10.xlsx",
+        "fr": "Consommation d'énergie 2024 - 10.xlsx",
+        "de": "Stromverbrauch 2024 - 10.xlsx",
+        "en": "power consumption 2024 - 10.xlsx",
+        "es": "consumo de energía 2024 - 10.xlsx",
+        "ro": "Consumul de energie 2024 - 10.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 10.xlsx",
+        "ga": "ídiú cumhachta 2024 - 10.xlsx",
+        "sl": "poraba energije 2024 - 10.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 10.xlsx",
+        "cs": "spotřeba energie 2024 - 10.xlsx",
+        "da": "strømforbrug 2024 – 10.xlsx"
+      },
+      "byte_size": 12143,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/91766d0d-27cd-44ae-b706-7349ce5b501a/download/energospozhivannia-2024-10.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "3c1ff99f-5e17-459e-99fd-a75f8c0ef76b",
+      "title": {
+        "de": "Energieverbrauch 2021-4.xlsx",
+        "it": "consumo energetico 2021-4.xlsx",
+        "hu": "energiafogyasztás 2021-4.xlsx",
+        "ga": "ídiú fuinnimh 2021-4.xlsx",
+        "sk": "spotreba energie 2021 – 4.xlsx",
+        "da": "energiforbrug 2021-4.xlsx",
+        "pt": "consumo de energia 2021-4.xlsx",
+        "hr": "potrošnja energije 2021-4.xlsx",
+        "mt": "il-konsum tal-enerġija 2021-4.xlsx",
+        "uk": "енергоспоживаня 2021-4.xlsx",
+        "en": "energy consumption 2021-4.xlsx",
+        "ro": "consumul de energie 2021-4.xlsx",
+        "fr": "consommation d’énergie 2021-4.xlsx",
+        "lt": "energijos suvartojimas 2021-4.xlsx",
+        "sv": "energiförbrukning 2021-4.xlsx",
+        "bg": "консумация на енергия 2021-4.xlsx",
+        "fi": "energiankulutus 2021-4.xlsx",
+        "pl": "zużycie energii 2021-4.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-4.xlsx",
+        "cs": "spotřeba energie 2021–4.xlsx",
+        "nl": "energieverbruik 2021-4.xlsx",
+        "sl": "poraba energije 2021–4.xlsx",
+        "es": "consumo de energía 2021-4.xlsx",
+        "et": "energiatarbimine 2021-4,xlsx",
+        "lv": "enerģijas patēriņš 2021-4.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11879,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/546cd42f-f9ac-4e24-8aae-460de14fe125/download/energospozhivania-2021-4.xlsx"
+      ]
+    },
+    {
+      "id": "5e284130-dcff-4842-9375-2d05dba7f772",
+      "title": {
+        "cs": "spotřeba energie 2023-12.xlsx",
+        "en": "energy consumption 2023-12.xlsx",
+        "lv": "enerģijas patēriņš 2023.–2012. gadā xlsx",
+        "uk": "енергоспоживання 2023-12.xlsx",
+        "nl": "energieverbruik 2023-12.xlsx",
+        "hr": "potrošnja energije 2023.–2012.xlsx",
+        "sl": "poraba energije v obdobju 2023–2012.xlsx",
+        "it": "consumo energetico 2023-12.xlsx",
+        "es": "consumo de energía 2023-12.xlsx",
+        "sk": "spotreba energie 2023 – 12.xlsx",
+        "fr": "consommation d’énergie 2023-12.xlsx",
+        "ro": "consumul de energie 2023-12.xlsx",
+        "fi": "energiankulutus 2023-12.xlsx",
+        "bg": "потребление на енергия 2023—12.xlsx",
+        "da": "energiforbrug 2023-12.xlsx",
+        "sv": "energiförbrukning 2023-12.xlsx",
+        "et": "energiatarbimine 2023-12.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-12.xlsx",
+        "hu": "energiafogyasztás 2023-12.xlsx",
+        "mt": "konsum tal-enerġija 2023-12.xlsx",
+        "ga": "ídiú fuinnimh 2023-12.xlsx",
+        "de": "Energieverbrauch 2023-12.xlsx",
+        "pt": "consumo de energia 2023-12.xlsx",
+        "lt": "energijos suvartojimas 2023–2012 m.xlsx",
+        "pl": "zużycie energii 2023-12.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12128,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/33bc131f-cec0-4a67-a333-6cee79c54080/download/energospozhivannia-2023-12.xlsx"
+      ]
+    },
+    {
+      "id": "18d7db5e-1221-41a3-af69-8c6ad26b5505",
+      "title": {
+        "et": "energiatarbimine 2023-3.xlsx",
+        "mt": "il-konsum tal-enerġija 2023-3.xlsx",
+        "pt": "consumo de energia 2023-3,xlsx",
+        "el": "κατανάλωση ενέργειας 2023-3.xlsx",
+        "lv": "enerģijas patēriņš 2023-3.xlsx",
+        "hu": "energiafogyasztás 2023-3.xlsx",
+        "da": "energiforbrug 2023-3.xlsx",
+        "ro": "consumul de energie 2023-3.xlsx",
+        "uk": "енергоспоживаня 2023-3.xlsx",
+        "fi": "energiankulutus 2023-3.xlsx",
+        "pl": "zużycie energii 2023-3.xlsx",
+        "sv": "energiförbrukning 2023-3.xlsx",
+        "nl": "energieverbruik 2023-3.xlsx",
+        "cs": "spotřeba energie 2023–3.xlsx",
+        "it": "consumo energetico 2023-3.xlsx",
+        "sl": "poraba energije 2023–3.xlsx",
+        "fr": "consommation d’énergie 2023-3.xlsx",
+        "hr": "potrošnja energije 2023-3.xlsx",
+        "en": "energy consumption 2023-3.xlsx",
+        "de": "Energieverbrauch 2023-3.xlsx",
+        "bg": "консумация на енергия 2023-3.xlsx",
+        "ga": "ídiú fuinnimh 2023-3.xlsx",
+        "lt": "energijos suvartojimas 2023-3.xlsx",
+        "sk": "spotreba energie 2023 – 3.xlsx",
+        "es": "consumo de energía 2023-3.xlsx"
+      },
+      "description": {
+        "da": "Energiforbrug 2023-3",
+        "hr": "Potrošnja energije 2023.–2013.",
+        "lt": "2023–3 m. suvartojamos energijos kiekis",
+        "lv": "Enerģijas patēriņš 2023.–3. gadā",
+        "fr": "Consommation d’énergie 2023-2023",
+        "es": "Consumo de energía 2023-3",
+        "cs": "Spotřeba energie 2023–3",
+        "it": "Consumo energetico 2023-3",
+        "sv": "Energianvändning 2023–3",
+        "uk": "енергоспоживаня 2023-3",
+        "nl": "Energieverbruik 2023-3",
+        "ro": "Consumul de energie 2023-3",
+        "bg": "Потребление на енергия 2023—2023 г.",
+        "et": "Energiatarbimine 2023-3",
+        "fi": "Energiankulutus 2023–3",
+        "de": "Energieverbrauch 2023-3",
+        "el": "Κατανάλωση ενέργειας 2023-3",
+        "sl": "Poraba energije 2023–3",
+        "en": "Energy Consumption 2023-3",
+        "hu": "Energiafogyasztás 2023–2013",
+        "mt": "Konsum tal-Enerġija 2023-3",
+        "ga": "Tomhaltas Fuinnimh 2023-3",
+        "pl": "Zużycie energii 2023-3",
+        "sk": "Spotreba energie v rokoch 2023 – 2023",
+        "pt": "Consumo de energia 2023-3"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/cd9d8db1-0907-4f71-bdc3-26b1bc34e95b/download/energospozhivania-2023-3.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11910,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "05567ddd-53d2-4f50-b414-ae028f57ebb8",
+      "title": {
+        "mt": "konsum tal-enerġija 2023-4.xlsx",
+        "ga": "ídiú fuinnimh 2023-4.xlsx",
+        "fr": "consommation d’énergie 2023-4.xlsx",
+        "uk": "енергоспоживаня 2023-4.xlsx",
+        "sl": "poraba energije 2023–4.xlsx",
+        "sk": "spotreba energie 2023 – 4.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-4.xlsx",
+        "hu": "energiafogyasztás 2023-4.xlsx",
+        "da": "energiforbrug 2023-4.xlsx",
+        "it": "consumo energetico 2023-4.xlsx",
+        "lv": "enerģijas patēriņš 2023-4.xlsx",
+        "lt": "energijos suvartojimas 2023–4.xlsx",
+        "sv": "energiförbrukning 2023-4.xlsx",
+        "hr": "potrošnja energije 2023-4.xlsx",
+        "es": "consumo de energía 2023-4.xlsx",
+        "en": "energy consumption 2023-4.xlsx",
+        "de": "Energieverbrauch 2023-4.xlsx",
+        "fi": "energiankulutus 2023–4.xlsx",
+        "bg": "консумация на енергия 2023-4.xlsx",
+        "pt": "consumo de energia 2023-4,xlsx",
+        "cs": "spotřeba energie 2023–4.xlsx",
+        "ro": "consumul de energie 2023-4.xlsx",
+        "pl": "zużycie energii 2023-4.xlsx",
+        "et": "energiatarbimine 2023-4,xlsx",
+        "nl": "energieverbruik 2023-4.xlsx"
+      },
+      "description": {
+        "fi": "energiankulutus 2023–2014",
+        "hr": "potrošnja energije 2023.–4.",
+        "fr": "Consommation d’énergie 2023-2023",
+        "es": "consumo de energía 2023-4",
+        "de": "Energieverbrauch 2023-4",
+        "sv": "energiförbrukning 2023–4",
+        "bg": "потребление на енергия 2023—2014 г.",
+        "en": "energy consumption 2023-4",
+        "lt": "2023–204 m. suvartojamos energijos kiekis",
+        "nl": "energieverbruik 2023-4",
+        "lv": "enerģijas patēriņš 2023.–2014. gadā",
+        "et": "energiatarbimine 2023–4",
+        "mt": "konsum tal-enerġija 2023-4",
+        "sl": "poraba energije v obdobju 2023–2012",
+        "it": "consumo energetico 2023-4",
+        "el": "κατανάλωση ενέργειας 2023-4",
+        "pl": "zużycie energii w latach 2023–2014",
+        "ro": "consumul de energie 2023-2014",
+        "cs": "spotřeba energie v letech 2023–204",
+        "ga": "tomhaltas fuinnimh 2023-4",
+        "pt": "consumo de energia 2023-4",
+        "da": "energiforbrug 2023-4",
+        "hu": "energiafogyasztás 2023–4",
+        "uk": "енргоспоживання 2023-4",
+        "sk": "spotreba energie v rokoch 2023 – 2020"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/ccfab2af-31bf-46a2-a268-c2afffb6cdca/download/energospozhivania-2023-4.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11920
+    },
+    {
+      "id": "1bebae35-6e5c-4475-b3c1-c46ed04d906f",
+      "title": {
+        "hr": "Potrošnja energije 2022-10.xlsx",
+        "uk": "енергоспоживаня 2022-10.xlsx",
+        "lt": "Energijos suvartojimas 2022-10.xlsx",
+        "da": "Energiforbrug 2022-10.xlsx",
+        "it": "Consumo energetico 2022-10.xlsx",
+        "de": "Energieverbrauch 2022-10.xlsx",
+        "pt": "Consumo de energia 2022-10.xlsx",
+        "cs": "Spotřeba energie 2022-10.xlsx",
+        "nl": "Energieverbruik 2022-10.xlsx",
+        "ro": "Consumul de energie 2022-10.xlsx",
+        "et": "Energiatarbimine 2022-10.xlsx",
+        "pl": "Zużycie energii 2022-10.xlsx",
+        "sl": "Poraba energije v obdobju 2022–2010.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-10.xlsx",
+        "sv": "Energianvändning 2022-10.xlsx",
+        "en": "Energy Consumption 2022-10.xlsx",
+        "fi": "Energiankulutus 2022-10.xlsx",
+        "sk": "Spotreba energie 2022 – 10.xlsx",
+        "es": "Consumo de energía 2022-10.xlsx",
+        "hu": "Energiafogyasztás 2022-10.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-10.xlsx",
+        "fr": "Consommation d’énergie 2022-10.xlsx",
+        "lv": "Enerģijas patēriņš 2022-10.xlsx",
+        "bg": "Потребление на енергия 2022-10.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-10.xlsx"
+      },
+      "byte_size": 12410,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/ac04c761-8717-4a74-95b5-6da0e96cc718/download/energospozhivania-2022-10.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "ece32373-8b2e-4ff1-a84d-bb66664cafb9",
+      "title": {
+        "bg": "Потребление на енергия 2022-7.xlsx",
+        "fi": "Energiankulutus 2022-7.xlsx",
+        "lt": "Energijos suvartojimas 2022 m. – 7,xlsx",
+        "pt": "Consumo de energia 2022-7.xlsx",
+        "da": "Energiforbrug 2022-7.xlsx",
+        "de": "Energieverbrauch 2022-7.xlsx",
+        "sv": "Energianvändning 2022–7.xlsx",
+        "it": "Consumo energetico 2022-7.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-7.xlsx",
+        "sl": "Poraba energije 2022-7.xlsx",
+        "hu": "Energiafogyasztás 2022-7.xlsx",
+        "et": "Energiatarbimine 2022-7.xlsx",
+        "ro": "Consumul de energie 2022-7.xlsx",
+        "fr": "Consommation d’énergie 2022-7.xlsx",
+        "nl": "Energieverbruik 2022-7.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-7.xlsx",
+        "uk": "енергоспоживаня 2022-7.xlsx",
+        "lv": "Enerģijas patēriņš 2022-7.xlsx",
+        "hr": "Potrošnja energije 2022-7.xlsx",
+        "sk": "Spotreba energie 2022 – 7.xlsx",
+        "pl": "Zużycie energii 2022-7.xlsx",
+        "es": "Consumo de energía 2022-7.xlsx",
+        "en": "Energy Consumption 2022-7.xlsx",
+        "cs": "Spotřeba energie 2022-7.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-7.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/4ca8a5c7-f830-45d6-a4bc-a3adc2ede835/download/energospozhivania-2022-7.xlsx"
+      ],
+      "byte_size": 12347,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "77e88214-16a6-43cb-a3c4-ef748d6d99cd",
+      "title": {
+        "pt": "consumo de energia 2021-3.xlsx",
+        "cs": "spotřeba energie 2021–3.xlsx",
+        "mt": "il-konsum tal-enerġija 2021-3.xlsx",
+        "sl": "poraba energije 2021-3.xlsx",
+        "uk": "енергоспоживаня 2021-3.xlsx",
+        "hr": "potrošnja energije 2021-3.xlsx",
+        "lv": "enerģijas patēriņš 2021-3.xlsx",
+        "it": "consumo energetico 2021-3.xlsx",
+        "sv": "energiförbrukning 2021-3.xlsx",
+        "de": "Energieverbrauch 2021-3.xlsx",
+        "fi": "energiankulutus 2021-3.xlsx",
+        "nl": "energieverbruik 2021-3.xlsx",
+        "es": "consumo de energía 2021-3.xlsx",
+        "ro": "consumul de energie 2021-3.xlsx",
+        "en": "energy consumption 2021-3.xlsx",
+        "ga": "ídiú fuinnimh 2021-3.xlsx",
+        "hu": "energiafogyasztás 2021-3.xlsx",
+        "et": "energiatarbimine 2021-3.xlsx",
+        "lt": "energijos suvartojimas 2021-3.xlsx",
+        "bg": "консумация на енергия 2021-3.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-3.xlsx",
+        "fr": "consommation d’énergie 2021-3.xlsx",
+        "pl": "zużycie energii 2021-3.xlsx",
+        "sk": "spotreba energie 2021 – 3.xlsx",
+        "da": "energiforbrug 2021-3.xlsx"
+      },
+      "byte_size": 11847,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/cd6c9f5a-7781-45b8-a021-1169b70e4865/download/energospozhivania-2021-3.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "578af596-fd3b-4012-b419-60f03c20c0a0",
+      "title": {
+        "sv": "strömförbrukning 2024 – 04.xlsx",
+        "bg": "консумация на енергия 2024 г. — 04.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 04.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 04.xlsx",
+        "es": "consumo de energía 2024 - 04.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 04.xlsx",
+        "nl": "stroomverbruik 2024 - 04.xlsx",
+        "hu": "energiafogyasztás 2024-04.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 04.xlsx",
+        "it": "consumo energetico 2024 - 04.xlsx",
+        "ga": "ídiú cumhachta 2024 - 04.xlsx",
+        "ro": "consumul de putere 2024 - 04.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 04.xlsx",
+        "en": "power consumption 2024 - 04.xlsx",
+        "de": "Stromverbrauch 2024 - 04.xlsx",
+        "cs": "spotřeba energie 2024 - 04.xlsx",
+        "pt": "consumo de energia 2024 - 04.xlsx",
+        "hr": "potrošnja energije 2024. 04.xlsx",
+        "fi": "virrankulutus 2024 - 04.xlsx",
+        "et": "energiatarve 2024 - 04.xlsx",
+        "fr": "Consommation électrique 2024 - 04.xlsx",
+        "sl": "Poraba energije 2024 - 04.xlsx",
+        "da": "strømforbrug 2024 – 04.xlsx",
+        "pl": "Zużycie energii 2024 - 04.xlsx",
+        "uk": "енергоспоживання 2024 - 04.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/bea8cf30-2056-4aa4-afac-ecaa452062ed/download/energospozhivannia-2024-04.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12131
+    },
+    {
+      "id": "22dabe43-5085-4e3b-8f36-44e5676612d4",
+      "title": {
+        "lt": "energijos suvartojimas 2024 m. – 01.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 01.xlsx",
+        "sl": "poraba električne energije 2024 – 01.xlsx",
+        "de": "Stromverbrauch 2024 - 01.xlsx",
+        "fr": "Consommation électrique 2024 - 01.xlsx",
+        "hr": "potrošnja energije 2024. 01.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 01.xlsx",
+        "bg": "консумация на енергия 2024 г. — 01.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 01.xlsx",
+        "nl": "Stroomverbruik 2024 - 01.xlsx",
+        "uk": "енергоспоживання 2024 - 01.xlsx",
+        "it": "consumo energetico 2024 - 01.xlsx",
+        "cs": "spotřeba energie 2024 - 01.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 01.xlsx",
+        "da": "strømforbrug 2024 – 01.xlsx",
+        "et": "energiatarve 2024 - 01.xlsx",
+        "ga": "ídiú cumhachta 2024 - 01.xlsx",
+        "es": "consumo de energía 2024 - 01.xlsx",
+        "pt": "consumo de energia 2024 - 01.xlsx",
+        "en": "power consumption 2024 - 01.xlsx",
+        "sv": "strömförbrukning 2024 – 01.xlsx",
+        "fi": "tehonkulutus 2024 - 01.xlsx",
+        "hu": "energiafogyasztás 2024 - 01.xlsx",
+        "pl": "Zużycie energii 2024 - 01.xlsx",
+        "ro": "consumul de putere 2024 - 01.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/90c78158-ecba-451f-8bef-64eab645fce0/download/energospozhivannia-2024-01.xlsx"
+      ],
+      "byte_size": 12008,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "75037069-8ee6-4172-8d90-ec67419384de",
+      "title": {
+        "es": "consumo de energía 2023-7.xlsx",
+        "pt": "consumo de energia 2023-7.xlsx",
+        "mt": "il-konsum tal-enerġija 2023-7.xlsx",
+        "pl": "zużycie energii 2023-7.xlsx",
+        "sl": "poraba energije 2023–7.xlsx",
+        "nl": "energieverbruik 2023-7.xlsx",
+        "ga": "ídiú fuinnimh 2023-7.xlsx",
+        "et": "energiatarbimine 2023-7,xlsx",
+        "cs": "spotřeba energie 2023-7.xlsx",
+        "sk": "spotreba energie 2023 – 7.xlsx",
+        "en": "energy consumption 2023-7.xlsx",
+        "fr": "consommation d’énergie 2023-7.xlsx",
+        "fi": "energiankulutus 2023–7.xlsx",
+        "bg": "консумация на енергия 2023-7.xlsx",
+        "uk": "енергоспоживання 2023-7.xlsx",
+        "de": "Energieverbrauch 2023-7.xlsx",
+        "sv": "energiförbrukning 2023–7.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-7.xlsx",
+        "lt": "energijos suvartojimas 2023–7.xlsx",
+        "ro": "consumul de energie 2023-7.xlsx",
+        "da": "energiforbrug 2023-7.xlsx",
+        "it": "consumo energetico 2023-7.xlsx",
+        "hu": "energiafogyasztás 2023-7.xlsx",
+        "lv": "enerģijas patēriņš 2023-7.xlsx",
+        "hr": "potrošnja energije 2023-7.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11947,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/b1c6683f-b324-4dcc-9c00-1350da4f0eef/download/energospozhivannia-2023-7.xlsx"
+      ]
+    },
+    {
+      "id": "e5b53afe-4883-4117-b844-3085e95dd18c",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/a2146fc4-0858-4683-b4d3-35119c5899e1/download/energospozhivannia-2024-12.xlsx"
+      ],
+      "title": {
+        "nl": "Stroomverbruik 2024 - 12.xlsx",
+        "hr": "potrošnja energije 2024. 12.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 12.xlsx",
+        "fr": "Consommation d'énergie 2024 - 12.xlsx",
+        "hu": "energiafogyasztás 2024 – 12.xlsx",
+        "it": "consumo energetico 2024 - 12.xlsx",
+        "bg": "консумация на енергия 2024 г. — 12.xlsx",
+        "uk": "енергоспоживання 2024 - 12.xlsx",
+        "cs": "spotřeba energie 2024 - 12.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 12.xlsx",
+        "da": "strømforbrug 2024 - 12.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 12.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 12.xlsx",
+        "pl": "Zużycie energii 2024 - 12.xlsx",
+        "de": "Stromverbrauch 2024 - 12.xlsx",
+        "es": "consumo de energía 2024 - 12.xlsx",
+        "sl": "Poraba energije 2024 - 12.xlsx",
+        "en": "power consumption 2024 - 12.xlsx",
+        "ga": "ídiú cumhachta 2024 - 12.xlsx",
+        "sv": "strömförbrukning 2024 - 12.xlsx",
+        "ro": "consumul de putere 2024 - 12.xlsx",
+        "fi": "virrankulutus 2024 - 12.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 12.xlsx",
+        "pt": "consumo de energia 2024 - 12.xlsx",
+        "et": "energiatarve 2024 - 12.xlsx"
+      },
+      "byte_size": 12197,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "8d026fdf-ea0a-4b41-bbe8-bb999dfa24a9",
+      "title": {
+        "pl": "Zużycie energii 2021-1.xlsx",
+        "de": "Energieverbrauch 2021-1.xlsx",
+        "el": "Κατανάλωση ενέργειας 2021-1.xlsx",
+        "fi": "Energiankulutus 2021-1.xlsx",
+        "lv": "Enerģijas patēriņš 2021-1.xlsx",
+        "mt": "Konsum tal-Enerġija 2021-1.xlsx",
+        "sk": "Spotreba energie 2021-1.xlsx",
+        "da": "Energiforbrug 2021-1.xlsx",
+        "nl": "Energieverbruik 2021-1.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2021-1.xlsx",
+        "fr": "Consommation d’énergie 2021-1.xlsx",
+        "et": "Energiatarbimine 2021-1.xlsx",
+        "lt": "Energijos suvartojimas 2021-1.xlsx",
+        "uk": "енергоспоживаня 2021-1.xlsx",
+        "en": "Energy Consumption 2021-1.xlsx",
+        "pt": "Consumo de energia 2021-1.xlsx",
+        "sl": "Poraba energije 2021-1.xlsx",
+        "hr": "Potrošnja energije 2021-1.xlsx",
+        "ro": "Consumul de energie 2021-1.xlsx",
+        "bg": "Потребление на енергия 2021-1.xlsx",
+        "es": "Consumo de energía 2021-1.xlsx",
+        "cs": "Spotřeba energie 2021-1.xlsx",
+        "it": "Consumo energetico 2021-1.xlsx",
+        "sv": "Energianvändning 2021-1.xlsx",
+        "hu": "Energiafogyasztás 2021-1.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/c39e454c-5651-454b-862a-dc1acbbd5038/download/energospozhivania-2021-1.xlsx"
+      ],
+      "byte_size": 11738
+    },
+    {
+      "id": "85025453-924f-49bc-a167-4506e1af8511",
+      "title": {
+        "it": "consumo energetico 2024 - 05.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 05.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 05.xlsx",
+        "uk": "енергоспоживання 2024 - 05.xlsx",
+        "fi": "tehonkulutus 2024 - 05.xlsx",
+        "hr": "potrošnja energije 2024. 05.xlsx",
+        "sl": "Poraba energije 2024 - 05.xlsx",
+        "nl": "Stroomverbruik 2024 - 05.xlsx",
+        "en": "power consumption 2024 - 05.xlsx",
+        "pl": "Zużycie energii 2024 - 05.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 05.xlsx",
+        "pt": "consumo de energia 2024 - 05.xlsx",
+        "bg": "консумация на енергия 2024 г. — 05.xlsx",
+        "ga": "ídiú cumhachta 2024 - 05.xlsx",
+        "ro": "consumul de putere 2024 - 05.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 05.xlsx",
+        "hu": "energiafogyasztás 2024-05.xlsx",
+        "sv": "strömförbrukning 2024 - 05.xlsx",
+        "es": "consumo de energía 2024 - 05.xlsx",
+        "cs": "spotřeba energie 2024 - 05.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 05.xlsx",
+        "et": "energiatarve 2024 - 05.xlsx",
+        "da": "strømforbrug 2024 - 05.xlsx",
+        "de": "Stromverbrauch 2024 - 05.xlsx",
+        "fr": "Consommation électrique 2024 - 05.xlsx"
+      },
+      "byte_size": 12115,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/27507e67-a5fa-48fe-b229-f40286a2c563/download/energospozhivannia-2024-05.xlsx"
+      ]
+    },
+    {
+      "id": "6c743b9e-ed15-4020-8793-8b94bf677301",
+      "description": {
+        "lt": "2023–206 m. suvartojamos energijos kiekis",
+        "sv": "Energianvändning 2023–2020",
+        "hr": "Potrošnja energije 2023.–6.",
+        "sk": "Spotreba energie v rokoch 2023 – 2016",
+        "uk": "енергоспоживання 2023-6",
+        "pl": "Zużycie energii w latach 2023–2006",
+        "it": "Consumo energetico 2023-6",
+        "et": "Energiatarbimine 2023-2006",
+        "lv": "Enerģijas patēriņš 2023.–2020. gadā",
+        "fi": "Energiankulutus 2023–2016",
+        "es": "Consumo de energía 2023-6",
+        "cs": "Spotřeba energie v letech 2023–2006",
+        "nl": "Energieverbruik 2023-2006",
+        "ga": "Tomhaltas Fuinnimh 2023-6",
+        "fr": "Consommation d’énergie 2023-2018",
+        "sl": "Poraba energije v obdobju 2023–206.",
+        "el": "Κατανάλωση ενέργειας 2023-6",
+        "da": "Energiforbrug 2023-6",
+        "ro": "Consumul de energie 2023-2006",
+        "mt": "Konsum tal-Enerġija 2023-6",
+        "bg": "Потребление на енергия 2023 – 6 г.",
+        "en": "Energy Consumption 2023-6",
+        "hu": "Energiafogyasztás 2023–2016",
+        "de": "Energieverbrauch 2023-6",
+        "pt": "Consumo de energia 2023-6"
+      },
+      "title": {
+        "lv": "enerģijas patēriņš 2023-6.xlsx",
+        "nl": "energieverbruik 2023-6.xlsx",
+        "es": "consumo de energía 2023-6.xlsx",
+        "da": "energiforbrug 2023-6.xlsx",
+        "fr": "consommation d’énergie 2023-6.xlsx",
+        "fi": "energiankulutus 2023-6.xlsx",
+        "cs": "spotřeba energie 2023-6.xlsx",
+        "mt": "konsum tal-enerġija 2023-6.xlsx",
+        "ro": "consumul de energie 2023-6.xlsx",
+        "de": "Energieverbrauch 2023-6.xlsx",
+        "bg": "потребление на енергия 2023-6.xlsx",
+        "sl": "poraba energije 2023–6.xlsx",
+        "it": "consumo energetico 2023-6.xlsx",
+        "sv": "energiförbrukning 2023-6.xlsx",
+        "uk": "енергоспоживання 2023-6.xlsx",
+        "sk": "spotreba energie 2023 – 6.xlsx",
+        "pl": "zużycie energii 2023-6.xlsx",
+        "lt": "energijos suvartojimas 2023–6.xlsx",
+        "ga": "ídiú fuinnimh 2023-6.xlsx",
+        "hu": "energiafogyasztás 2023-6.xlsx",
+        "en": "energy consumption 2023-6.xlsx",
+        "et": "energiatarbimine 2023-6.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-6.xlsx",
+        "hr": "potrošnja energije 2023.–6.xlsx",
+        "pt": "consumo de energia 2023-6.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11916,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/9c11f238-7d7e-411a-9dbb-8a1b58292195/download/energospozhivannia-2023-6.xlsx"
+      ]
+    },
+    {
+      "id": "673954ad-7d6e-4d18-a958-b249b5161a35",
+      "title": {
+        "fi": "tehonkulutus 2025 - 08.xlsx",
+        "bg": "консумация на енергия 2025 - 08.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 08.xlsx",
+        "pt": "consumo de potência 2025 - 08.xlsx",
+        "cs": "spotřeba energie 2025 - 08.xlsx",
+        "it": "consumo energetico 2025 - 08.xlsx",
+        "fr": "Consommation d'énergie 2025 - 08.xlsx",
+        "sv": "strömförbrukning 2025 - 08.xlsx",
+        "nl": "Stroomverbruik 2025 - 08.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 08.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 08.xlsx",
+        "hr": "potrošnja energije 2025. 08.xlsx",
+        "sl": "Poraba energije 2025 - 08.xlsx",
+        "es": "consumo de energía 2025 - 08.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 08.xlsx",
+        "en": "power consumption 2025 - 08.xlsx",
+        "et": "energiatarve 2025 - 08.xlsx",
+        "uk": "енергоспоживання 2025 - 08.xlsx",
+        "pl": "Zużycie energii 2025 - 08.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 08.xlsx",
+        "ro": "Consumul de energie 2025 - 08.xlsx",
+        "da": "strømforbrug 2025 - 08.xlsx",
+        "de": "Stromverbrauch 2025 - 08.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 08.xlsx",
+        "hu": "energiafogyasztás 2025 - 08.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/f6052548-d204-4890-97ac-843b1f4c17f6/download/energospozhivannia-2025-08.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12190,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "cd47723e-d06a-47de-9c36-59434c90943c",
+      "title": {
+        "en": "energy consumption 2021-7.xlsx",
+        "pl": "zużycie energii 2021-7.xlsx",
+        "de": "Energieverbrauch 2021-7.xlsx",
+        "cs": "spotřeba energie 2021–7.xlsx",
+        "lv": "enerģijas patēriņš 2021-7.xlsx",
+        "es": "consumo de energía 2021-7.xlsx",
+        "sl": "poraba energije 2021-7.xlsx",
+        "lt": "suvartojamos energijos kiekis 2021–7.xlsx",
+        "mt": "il-konsum tal-enerġija 2021-7.xlsx",
+        "et": "energiatarbimine 2021-7.xlsx",
+        "ga": "ídiú fuinnimh 2021-7.xlsx",
+        "fr": "consommation d’énergie 2021-7.xlsx",
+        "sv": "energiförbrukning 2021–7.xlsx",
+        "pt": "consumo de energia 2021-7.xlsx",
+        "bg": "консумация на енергия 2021—7.xlsx",
+        "ro": "consumul de energie 2021-7.xlsx",
+        "da": "energiforbrug 2021-7.xlsx",
+        "fi": "energiankulutus 2021-7.xlsx",
+        "hr": "potrošnja energije 2021-7.xlsx",
+        "nl": "energieverbruik 2021-7.xlsx",
+        "it": "consumo energetico 2021-7.xlsx",
+        "uk": "енергоспоживаня 2021-7.xlsx",
+        "hu": "energiafogyasztás 2021-7.xlsx",
+        "sk": "spotreba energie 2021 – 7.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-7.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11922,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/f4f219e2-c8d8-4ea3-966f-8c6a6d8b50b7/download/energospozhivania-2021-7.xlsx"
+      ]
+    },
+    {
+      "id": "4ded3867-9f8b-4157-86dc-7f6a7cb75076",
+      "title": {
+        "lt": "energijos suvartojimas 2024 m. – 09.xlsx",
+        "uk": "енергоспоживання 2024 - 09.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 09.xlsx",
+        "ga": "ídiú cumhachta 2024 - 09.xlsx",
+        "it": "consumo energetico 2024 - 09.xlsx",
+        "de": "Stromverbrauch 2024 - 09.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 09.xlsx",
+        "et": "energiatarve 2024 - 09.xlsx",
+        "fr": "Consommation électrique 2024 - 09.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 09.xlsx",
+        "ro": "consumul de putere 2024 - 09.xlsx",
+        "en": "power consumption 2024 - 09.xlsx",
+        "bg": "консумация на енергия 2024 г. — 09.xlsx",
+        "fi": "tehonkulutus 2024 - 09.xlsx",
+        "pt": "consumo de energia 2024 - 09.xlsx",
+        "cs": "spotřeba energie 2024 - 09.xlsx",
+        "sl": "Poraba električne energije 2024 - 09.xlsx",
+        "sv": "strömförbrukning 2024 – 09.xlsx",
+        "hu": "energiafogyasztás 2024–09.xlsx",
+        "da": "strømforbrug 2024 – 09.xlsx",
+        "pl": "Zużycie energii 2024 - 09.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 09.xlsx",
+        "hr": "potrošnja energije 2024. 09.xlsx",
+        "es": "consumo de energía 2024 - 09.xlsx",
+        "nl": "Stroomverbruik 2024 - 09.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/21cf236d-6830-44ab-b845-4cf2d946d398/download/energospozhivannia-2024-09.xlsx"
+      ],
+      "byte_size": 12143,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "215cdda8-3a66-4ba3-bc82-1d0519a7a0e2",
+      "title": {
+        "it": "consumo energetico 2024 - 07.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 07.xlsx",
+        "et": "energiatarve 2024 - 07.xlsx",
+        "bg": "консумация на енергия 2024 г. — 07.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 07.xlsx",
+        "uk": "енергоспоживання 2024 - 07.xlsx",
+        "sl": "poraba energije 2024 - 07.xlsx",
+        "hr": "potrošnja energije 2024. 07.xlsx",
+        "fi": "virrankulutus 2024 - 07.xlsx",
+        "fr": "Consommation électrique 2024 - 07.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 07.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 07.xlsx",
+        "nl": "Stroomverbruik 2024 - 07.xlsx",
+        "cs": "spotřeba energie 2024 - 07.xlsx",
+        "sv": "strömförbrukning 2024 – 07.xlsx",
+        "pt": "consumo de energia 2024 - 07.xlsx",
+        "de": "Stromverbrauch 2024 - 07.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 07.xlsx",
+        "pl": "Zużycie energii 2024 - 07.xlsx",
+        "en": "power consumption 2024 - 07.xlsx",
+        "ro": "consumul de putere 2024 - 07.xlsx",
+        "da": "strømforbrug 2024 - 07.xlsx",
+        "es": "consumo de energía 2024 - 07.xlsx",
+        "ga": "ídiú cumhachta 2024 - 07.xlsx",
+        "hu": "energiafogyasztás 2024-07.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12118,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/f2a84c2e-f9e1-4d2f-b536-a9b7cc67cadc/download/energospozhivannia-2024-07.xlsx"
+      ]
+    },
+    {
+      "id": "73798579-c89d-4046-8fc2-8c1cfd55ff53",
+      "title": {
+        "el": "Κατανάλωση ενέργειας 2022-3.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-3.xlsx",
+        "fi": "Energiankulutus 2022-3.xlsx",
+        "de": "Energieverbrauch 2022-3.xlsx",
+        "sv": "Energianvändning 2022-3.xlsx",
+        "sk": "Spotreba energie 2022 – 3.xlsx",
+        "cs": "Spotřeba energie 2022-3.xlsx",
+        "en": "Energy Consumption 2022-3.xlsx",
+        "uk": "енергоспоживаня 2022-3.xlsx",
+        "lt": "Energijos suvartojimas 2022-3.xlsx",
+        "et": "Energiatarbimine 2022-3.xlsx",
+        "da": "Energiforbrug 2022-3.xlsx",
+        "hr": "Potrošnja energije 2022-3.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-3.xlsx",
+        "pt": "Consumo de energia 2022-3.xlsx",
+        "lv": "Enerģijas patēriņš 2022-3.xlsx",
+        "sl": "Poraba energije 2022-3.xlsx",
+        "bg": "Потребление на енергия 2022-3.xlsx",
+        "fr": "Consommation d’énergie 2022-3.xlsx",
+        "hu": "Energiafogyasztás 2022-3.xlsx",
+        "nl": "Energieverbruik 2022-3.xlsx",
+        "ro": "Consumul de energie 2022-3.xlsx",
+        "es": "Consumo de energía 2022-3.xlsx",
+        "pl": "Zużycie energii 2022-3.xlsx",
+        "it": "Consumo energetico 2022-3.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12245,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/917b6a5a-1345-419a-9e40-c287367c67fb/download/energospozhivania-2022-3.xlsx"
+      ]
+    },
+    {
+      "id": "050584a7-c975-4c0f-bc21-a2f5189fa30b",
+      "title": {
+        "sk": "Spotreba elektrickej energie 2025 - 01.xlsx",
+        "pl": "Zużycie energii 2025 - 01.xlsx",
+        "hr": "potrošnja energije 2025. - 01.xlsx",
+        "fr": "consommation d'énergie 2025 - 01.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 01.xlsx",
+        "it": "consumo energetico 2025 - 01.xlsx",
+        "ro": "Consumul de energie 2025 - 01.xlsx",
+        "sv": "strömförbrukning 2025 - 01.xlsx",
+        "bg": "консумация на енергия 2025 г. — 01.xlsx",
+        "en": "power consumption 2025 - 01.xlsx",
+        "da": "strømforbrug 2025 - 01.xlsx",
+        "cs": "spotřeba energie 2025 - 01.xlsx",
+        "fi": "tehonkulutus 2025 - 01.xlsx",
+        "uk": "енергоспоживання 2025 - 01.xlsx",
+        "es": "consumo de energía 2025 - 01.xlsx",
+        "de": "Stromverbrauch 2025 - 01.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 01.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 01.xlsx",
+        "hu": "energiafogyasztás 2025 - 01.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 01.xlsx",
+        "sl": "Poraba električne energije 2025 - 01.xlsx",
+        "nl": "Stroomverbruik 2025 - 01.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 01.xlsx",
+        "et": "energiatarve 2025 - 01.xlsx",
+        "pt": "consumo de potência 2025 - 01.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 12016,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/771e946f-bf1f-40a0-a31c-1bf2a092786e/download/energospozhivannia-2025-01.xlsx"
+      ]
+    },
+    {
+      "id": "9bccee72-bff6-49e0-b53e-c80f4120eb4f",
+      "title": {
+        "es": "Consumo de energía 2022-2.xlsx",
+        "sk": "Spotreba energie 2022-2.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-2.xlsx",
+        "uk": "енергоспоживаня 2022-2.xlsx",
+        "nl": "Energieverbruik 2022-2.xlsx",
+        "fi": "Energiankulutus 2022-2.xlsx",
+        "sv": "Energianvändning 2022-2.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-2.xlsx",
+        "bg": "Потребление на енергия 2022-2.xlsx",
+        "ro": "Consumul de energie 2022-2.xlsx",
+        "lt": "Energijos suvartojimas 2022-2.xlsx",
+        "it": "Consumo energetico 2022-2.xlsx",
+        "en": "Energy Consumption 2022-2.xlsx",
+        "hr": "Potrošnja energije 2022-2.xlsx",
+        "lv": "Enerģijas patēriņš 2022-2.xlsx",
+        "pt": "Consumo de energia 2022-2.xlsx",
+        "de": "Energieverbrauch 2022-2.xlsx",
+        "hu": "Energiafogyasztás 2022-2.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-2.xlsx",
+        "fr": "Consommation d’énergie 2022-2.xlsx",
+        "et": "Energiatarbimine 2022-2.xlsx",
+        "sl": "Poraba energije 2022-2.xlsx",
+        "pl": "Zużycie energii 2022-2.xlsx",
+        "cs": "Spotřeba energie 2022-2.xlsx",
+        "da": "Energiforbrug 2022-2.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/54d61c45-9019-4d47-911f-07699262962f/download/energospozhivania-2022-2.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12210
+    },
+    {
+      "id": "1478e9df-a900-4f38-b6ba-5bec0330e672",
+      "title": {
+        "fr": "Consommation d’énergie 2022-4.xlsx",
+        "pl": "Zużycie energii 2022-4.xlsx",
+        "sl": "Poraba energije 2022–4.xlsx",
+        "hr": "Potrošnja energije 2022-4.xlsx",
+        "es": "Consumo de energía 2022-4.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-4.xlsx",
+        "hu": "Energiafogyasztás 2022-4.xlsx",
+        "ro": "Consumul de energie 2022-4.xlsx",
+        "pt": "Consumo de energia 2022-4.xlsx",
+        "en": "Energy Consumption 2022-4.xlsx",
+        "et": "Energiatarbimine 2022-4.xlsx",
+        "da": "Energiforbrug 2022-4.xlsx",
+        "sv": "Energianvändning 2022-4.xlsx",
+        "fi": "Energiankulutus 2022-4.xlsx",
+        "uk": "енергоспоживаня 2022-4.xlsx",
+        "sk": "Spotreba energie 2022 – 4.xlsx",
+        "cs": "Spotřeba energie 2022-4.xlsx",
+        "nl": "Energieverbruik 2022-4.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-4.xlsx",
+        "bg": "Потребление на енергия 2022-4.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-4.xlsx",
+        "lt": "Energijos suvartojimas 2022-4.xlsx",
+        "lv": "Enerģijas patēriņš 2022-4.xlsx",
+        "it": "Consumo energetico 2022-4.xlsx",
+        "de": "Energieverbrauch 2022-4.xlsx"
+      },
+      "byte_size": 12289,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/efacd228-2be9-4a88-9b24-d2ae4f3cf5c2/download/energospozhivania-2022-4.xlsx"
+      ]
+    },
+    {
+      "id": "4b2b32ec-1884-4a01-a793-c3a1cadac56b",
+      "title": {
+        "hr": "Potrošnja energije 2022-1.xlsx",
+        "de": "Energieverbrauch 2022-1.xlsx",
+        "lv": "Enerģijas patēriņš 2022-1.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-1.xlsx",
+        "sv": "Energianvändning 2022-1.xlsx",
+        "en": "Energy Consumption 2022-1.xlsx",
+        "hu": "Energiafogyasztás 2022-1.xlsx",
+        "sk": "Spotreba energie 2022-1.xlsx",
+        "bg": "Потребление на енергия 2022-1.xlsx",
+        "sl": "Poraba energije 2022-1.xlsx",
+        "fi": "Energiankulutus 2022-1.xlsx",
+        "da": "Energiforbrug 2022-1.xlsx",
+        "es": "Consumo de energía 2022-1.xlsx",
+        "et": "Energiatarbimine 2022-1.xlsx",
+        "cs": "Spotřeba energie 2022-1.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-1.xlsx",
+        "lt": "Energijos suvartojimas 2022-1.xlsx",
+        "pl": "Zużycie energii 2022-1.xlsx",
+        "pt": "Consumo de energia 2022-1.xlsx",
+        "it": "Consumo energetico 2022-1.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-1.xlsx",
+        "uk": "енергоспоживаня 2022-1.xlsx",
+        "fr": "Consommation d’énergie 2022-1.xlsx",
+        "ro": "Consumul de energie 2022-1,xlsx",
+        "nl": "Energieverbruik 2022-1.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/cc7999bb-3d2f-4c02-a5fc-98f1e970afaf/download/energospozhivania-2022-1.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12148,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "2d591d54-1d39-424e-8de3-a3a47ba59fe0",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/d0901043-3d16-480c-9fd0-2cf1032a6ada/download/energospozhivania-2022-7.xlsx"
+      ],
+      "title": {
+        "sk": "Spotreba energie 2022 – 7.xlsx",
+        "fr": "Consommation d’énergie 2022-7.xlsx",
+        "uk": "енергоспоживаня 2022-7.xlsx",
+        "en": "Energy Consumption 2022-7.xlsx",
+        "hu": "Energiafogyasztás 2022-7.xlsx",
+        "da": "Energiforbrug 2022-7.xlsx",
+        "nl": "Energieverbruik 2022-7.xlsx",
+        "pt": "Consumo de energia 2022-7.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-7.xlsx",
+        "sv": "Energianvändning 2022–7.xlsx",
+        "bg": "Потребление на енергия 2022-7.xlsx",
+        "cs": "Spotřeba energie 2022-7.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-7.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-7.xlsx",
+        "lt": "Energijos suvartojimas 2022 m. – 7,xlsx",
+        "it": "Consumo energetico 2022-7.xlsx",
+        "et": "Energiatarbimine 2022-7.xlsx",
+        "de": "Energieverbrauch 2022-7.xlsx",
+        "hr": "Potrošnja energije 2022-7.xlsx",
+        "sl": "Poraba energije 2022-7.xlsx",
+        "fi": "Energiankulutus 2022-7.xlsx",
+        "lv": "Enerģijas patēriņš 2022-7.xlsx",
+        "es": "Consumo de energía 2022-7.xlsx",
+        "pl": "Zużycie energii 2022-7.xlsx",
+        "ro": "Consumul de energie 2022-7.xlsx"
+      },
+      "byte_size": 12347,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "fee385c1-44c2-4860-b41d-6e8499e2e8c1",
+      "description": {
+        "bg": "Потребление на енергия 2023—2015 г.",
+        "pl": "Zużycie energii w latach 2023–2015",
+        "lt": "2023–2020 m. suvartojamos energijos kiekis",
+        "et": "Energiatarbimine 2023-5",
+        "ro": "Consumul de energie 2023-5",
+        "fr": "Consommation d’énergie 2023-2023",
+        "lv": "Enerģijas patēriņš 2023.–2025. gadā",
+        "es": "Consumo de energía 2023-5",
+        "sk": "Spotreba energie v rokoch 2023 – 2020",
+        "de": "Energieverbrauch 2023–2020",
+        "da": "Energiforbrug 2023-5",
+        "ga": "Tomhaltas Fuinnimh 2023-5",
+        "nl": "Energieverbruik 2023-5",
+        "mt": "Konsum tal-Enerġija 2023-5",
+        "pt": "Consumo de energia 2023-5",
+        "hr": "Potrošnja energije 2023.–5.",
+        "en": "Energy Consumption 2023-5",
+        "sl": "Poraba energije 2023–5",
+        "el": "Κατανάλωση ενέργειας 2023-5",
+        "hu": "Energiafogyasztás 2023–5",
+        "cs": "Spotřeba energie v letech 2023–205",
+        "fi": "Energiankulutus 2023–2015",
+        "uk": "енергоспоживання 2023-5",
+        "sv": "Energianvändning 2023–5",
+        "it": "Consumo energetico 2023-5"
+      },
+      "title": {
+        "hu": "energiafogyasztás 2023-5.xlsx",
+        "pl": "zużycie energii 2023-5.xlsx",
+        "en": "energy consumption 2023-5.xlsx",
+        "lv": "enerģijas patēriņš 2023-5.xlsx",
+        "sk": "spotreba energie 2023 – 5.xlsx",
+        "et": "energiatarbimine 2023-5,xlsx",
+        "da": "energiforbrug 2023-5.xlsx",
+        "it": "consumo energetico 2023-5.xlsx",
+        "es": "consumo de energía 2023-5.xlsx",
+        "fi": "energiankulutus 2023-5.xlsx",
+        "nl": "energieverbruik 2023-5.xlsx",
+        "hr": "potrošnja energije 2023-5.xlsx",
+        "uk": "енергоспоживання 2023-5.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-5.xlsx",
+        "cs": "spotřeba energie 2023–5.xlsx",
+        "ga": "ídiú fuinnimh 2023-5.xlsx",
+        "de": "Energieverbrauch 2023-5.xlsx",
+        "bg": "потребление на енергия 2023—5.xlsx",
+        "ro": "consumul de energie 2023-5.xlsx",
+        "sv": "energiförbrukning 2023–5.xlsx",
+        "fr": "consommation d’énergie 2023-5.xlsx",
+        "mt": "il-konsum tal-enerġija 2023-5.xlsx",
+        "pt": "consumo de energia 2023-5,xlsx",
+        "sl": "poraba energije 2023–5.xlsx",
+        "lt": "energijos suvartojimas 2023–5.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11928,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/372ea646-dd69-4163-aaa2-0b883396492e/download/energospozhivannia-2023-5.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "e9a9999b-bf6d-4deb-878e-03bb5d5ac84e",
+      "title": {
+        "lt": "suvartojamos energijos kiekis 2021–7.xlsx",
+        "uk": "енергоспоживаня 2021-7.xlsx",
+        "hr": "potrošnja energije 2021-7.xlsx",
+        "sk": "spotreba energie 2021 – 7.xlsx",
+        "da": "energiforbrug 2021-7.xlsx",
+        "sl": "poraba energije 2021-7.xlsx",
+        "bg": "консумация на енергия 2021—7.xlsx",
+        "cs": "spotřeba energie 2021–7.xlsx",
+        "ga": "ídiú fuinnimh 2021-7.xlsx",
+        "lv": "enerģijas patēriņš 2021-7.xlsx",
+        "en": "energy consumption 2021-7.xlsx",
+        "es": "consumo de energía 2021-7.xlsx",
+        "it": "consumo energetico 2021-7.xlsx",
+        "pt": "consumo de energia 2021-7.xlsx",
+        "fi": "energiankulutus 2021-7.xlsx",
+        "fr": "consommation d’énergie 2021-7.xlsx",
+        "et": "energiatarbimine 2021-7.xlsx",
+        "mt": "il-konsum tal-enerġija 2021-7.xlsx",
+        "ro": "consumul de energie 2021-7.xlsx",
+        "sv": "energiförbrukning 2021–7.xlsx",
+        "de": "Energieverbrauch 2021-7.xlsx",
+        "pl": "zużycie energii 2021-7.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-7.xlsx",
+        "nl": "energieverbruik 2021-7.xlsx",
+        "hu": "energiafogyasztás 2021-7.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/b11a4531-7d95-4d3d-8917-c4dea467661b/download/energospozhivania-2021-7.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 11922
+    },
+    {
+      "id": "b76c37eb-2e76-42bb-bed9-b5a4df24a4c7",
+      "title": {
+        "da": "energiforbrug 2021-10.xlsx",
+        "pt": "consumo de energia 2021-10.xlsx",
+        "et": "energiatarbimine 2021-10.xlsx",
+        "bg": "консумация на енергия 2021—10.xlsx",
+        "mt": "il-konsum tal-enerġija 2021-10.xlsx",
+        "uk": "енергоспоживаня 2021-10.xlsx",
+        "lt": "energijos suvartojimas 2021-10.xlsx",
+        "hr": "potrošnja energije 2021-10.xlsx",
+        "de": "Energieverbrauch 2021-10.xlsx",
+        "pl": "zużycie energii 2021-10.xlsx",
+        "ro": "consumul de energie 2021-10.xlsx",
+        "ga": "ídiú fuinnimh 2021-10.xlsx",
+        "en": "energy consumption 2021-10.xlsx",
+        "cs": "spotřeba energie 2021–2010.xlsx",
+        "sl": "poraba energije v obdobju 2021–2010.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-10.xlsx",
+        "nl": "energieverbruik 2021-10.xlsx",
+        "fr": "consommation d’énergie 2021-10.xlsx",
+        "es": "consumo de energía 2021-10.xlsx",
+        "hu": "energiafogyasztás 2021-10.xlsx",
+        "it": "consumo energetico 2021-10.xlsx",
+        "sv": "energiförbrukning 2021-10.xlsx",
+        "lv": "enerģijas patēriņš 2021-10.xlsx",
+        "sk": "spotreba energie 2021 – 10.xlsx",
+        "fi": "energiankulutus 2021-10.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11983,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/688c7657-bfdf-4519-a387-bea4c4b29d47/download/energospozhivania-2021-10.xlsx"
+      ]
+    },
+    {
+      "id": "26ee849b-0937-4492-bc27-e8a1b78231cf",
+      "title": {
+        "lt": "energijos suvartojimas 2021-8.xlsx",
+        "es": "consumo de energía 2021-8.xlsx",
+        "uk": "енергоспоживаня 2021-8.xlsx",
+        "cs": "spotřeba energie 2021–8.xlsx",
+        "hr": "potrošnja energije 2021-8.xlsx",
+        "pt": "consumo de energia 2021-8.xlsx",
+        "ga": "ídiú fuinnimh 2021-8.xlsx",
+        "sv": "energiförbrukning 2021-8.xlsx",
+        "lv": "enerģijas patēriņš 2021-8.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-8.xlsx",
+        "fi": "energiankulutus 2021-8.xlsx",
+        "en": "energy consumption 2021-8.xlsx",
+        "nl": "energieverbruik 2021-8.xlsx",
+        "it": "consumo energetico 2021-8.xlsx",
+        "et": "energiatarbimine 2021-8.xlsx",
+        "ro": "consumul de energie 2021-8.xlsx",
+        "sk": "spotreba energie 2021 – 8.xlsx",
+        "sl": "poraba energije v obdobju 2021–2008.xlsx",
+        "bg": "консумация на енергия 2021—8.xlsx",
+        "fr": "consommation d’énergie 2021-8.xlsx",
+        "pl": "zużycie energii 2021-8.xlsx",
+        "mt": "konsum tal-enerġija 2021-8.xlsx",
+        "hu": "energiafogyasztás 2021-8.xlsx",
+        "de": "Energieverbrauch 2021-8.xlsx",
+        "da": "energiforbrug 2021-8.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/40c399bc-3614-4a87-b055-6c8f52e52534/download/energospozhivania-2021-8.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11941
+    },
+    {
+      "id": "13578f6d-447a-47af-a5c0-25abefdeab5a",
+      "title": {
+        "fr": "consommation d’énergie 2023-9.xlsx",
+        "el": "κατανάλωση ενέργειας 2023-9.xlsx",
+        "sv": "energiförbrukning 2023–9.xlsx",
+        "hr": "potrošnja energije 2023.–9.xlsx",
+        "it": "consumo energetico 2023-9.xlsx",
+        "et": "energiatarbimine 2023-9,xlsx",
+        "es": "consumo de energía 2023-9.xlsx",
+        "fi": "energiankulutus 2023–9.xlsx",
+        "sl": "poraba energije 2023–9.xlsx",
+        "lv": "enerģijas patēriņš 2023-9.xlsx",
+        "bg": "потребление на енергия 2023-9.xlsx",
+        "mt": "konsum tal-enerġija 2023-9.xlsx",
+        "ga": "ídiú fuinnimh 2023-9.xlsx",
+        "en": "energy consumption 2023-9.xlsx",
+        "pl": "zużycie energii 2023-9.xlsx",
+        "pt": "consumo de energia 2023-9,xlsx",
+        "ro": "consumul de energie 2023-9.xlsx",
+        "da": "energiforbrug 2023-9.xlsx",
+        "hu": "energiafogyasztás 2023-9.xlsx",
+        "uk": "енергоспоживання 2023-9.xlsx",
+        "de": "Energieverbrauch 2023-9.xlsx",
+        "cs": "spotřeba energie 2023-9.xlsx",
+        "sk": "spotreba energie 2023 – 9.xlsx",
+        "nl": "energieverbruik 2023-9.xlsx",
+        "lt": "energijos suvartojimas 2023–9.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/9fdea37c-ab40-4c0a-a35d-6e4f9258e289/download/energospozhivannia-2023-9.xlsx"
+      ],
+      "byte_size": 11970
+    },
+    {
+      "id": "ec332586-d934-44f2-959e-67e14ea478ed",
+      "title": {
+        "ga": "ídiú cumhachta 2026-01.xlsx",
+        "lv": "enerģijas patēriņš 2026-01.xlsx",
+        "cs": "spotřeba energie 2026-01.xlsx",
+        "fi": "tehonkulutus 2026-01.xlsx",
+        "de": "Leistungsaufnahme 2026-01.xlsx",
+        "uk": "енергоспоживання 2026-01.xlsx",
+        "lt": "energijos suvartojimas 2026-01.xlsx",
+        "ro": "consumul de putere 2026-01.xlsx",
+        "pl": "Zużycie energii 2026-01.xlsx",
+        "hr": "potrošnja energije 2026-01.xlsx",
+        "hu": "energiafogyasztás 2026-01.xlsx",
+        "sl": "poraba električne energije 2026-01.xlsx",
+        "pt": "consumo de potência 2026-01.xlsx",
+        "en": "power consumption 2026-01.xlsx",
+        "bg": "консумация на енергия 2026-01.xlsx",
+        "sv": "strömförbrukning 2026-01.xlsx",
+        "sk": "spotreba energie 2026-01.xlsx",
+        "el": "κατανάλωση ισχύος 2026-01.xlsx",
+        "da": "strømforbrug 2026-01.xlsx",
+        "mt": "konsum tal-enerġija 2026-01.xlsx",
+        "es": "consumo de energía 2026-01.xlsx",
+        "fr": "Consommation d'énergie 2026-01.xlsx",
+        "et": "energiatarve 2026-01.xlsx",
+        "nl": "stroomverbruik 2026-01.xlsx",
+        "it": "consumo di energia 2026-01.xlsx"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/94af249d-f154-4b1a-ac0f-b2d807073275/download/energospozhivannia-2026-01.xlsx"
+      ],
+      "byte_size": 12080,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      }
+    },
+    {
+      "id": "853c9a13-eb13-4b74-86d6-859fa197f17c",
+      "title": {
+        "it": "consumo energetico 2021-12.xlsx",
+        "sl": "poraba energije v obdobju 2021–2012.xlsx",
+        "pl": "zużycie energii 2021-12.xlsx",
+        "da": "energiforbrug 2021-12.xlsx",
+        "hr": "potrošnja energije 2021-12.xlsx",
+        "hu": "energiafogyasztás 2021–2012.xlsx",
+        "et": "energiatarbimine 2021-12.xlsx",
+        "de": "Energieverbrauch 2021-12.xlsx",
+        "es": "consumo de energía 2021-12.xlsx",
+        "sk": "spotreba energie 2021 – 12.xlsx",
+        "pt": "consumo de energia 2021-12.xlsx",
+        "fi": "energiankulutus 2021-12.xlsx",
+        "sv": "energiförbrukning 2021-12.xlsx",
+        "lv": "enerģijas patēriņš 2021.–2012. gadā xlsx",
+        "nl": "energieverbruik 2021-12.xlsx",
+        "uk": "енергоспоживаня 2021-12.xlsx",
+        "ro": "consumul de energie 2021-12.xlsx",
+        "mt": "konsum tal-enerġija 2021-12.xlsx",
+        "lt": "energijos suvartojimas 2021–2012 m.xlsx",
+        "bg": "консумация на енергия 2021—12.xlsx",
+        "cs": "spotřeba energie 2021–2012,xlsx",
+        "ga": "ídiú fuinnimh 2021-12.xlsx",
+        "en": "energy consumption 2021-12.xlsx",
+        "fr": "consommation d’énergie 2021-12.xlsx",
+        "el": "κατανάλωση ενέργειας 2021-12.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12442,
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/e3d07b1b-5f38-45b5-9130-578bf7f5e315/download/energospozhivania-2021-12.xlsx"
+      ]
+    },
+    {
+      "id": "d332c667-b8f5-4e6d-a398-bca3b7018f69",
+      "title": {
+        "de": "Energieverbrauch 2022-6.xlsx",
+        "it": "Consumo energetico 2022-6.xlsx",
+        "cs": "Spotřeba energie 2022-6.xlsx",
+        "da": "Energiforbrug 2022-6.xlsx",
+        "uk": "енергоспоживаня 2022-6.xlsx",
+        "sk": "Spotreba energie 2022 – 6.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-6.xlsx",
+        "ro": "Consumul de energie 2022-6.xlsx",
+        "es": "Consumo de energía 2022-6.xlsx",
+        "lt": "Energijos suvartojimas 2022 m. – 6,xlsx",
+        "fr": "Consommation d’énergie 2022-6.xlsx",
+        "fi": "Energiankulutus 2022-6.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-6.xlsx",
+        "en": "Energy Consumption 2022-6.xlsx",
+        "pt": "Consumo de energia 2022-6.xlsx",
+        "pl": "Zużycie energii 2022-6.xlsx",
+        "sv": "Energianvändning 2022-6.xlsx",
+        "lv": "Enerģijas patēriņš 2022-6.xlsx",
+        "nl": "Energieverbruik 2022-6.xlsx",
+        "hr": "Potrošnja energije 2022-6.xlsx",
+        "hu": "Energiafogyasztás 2022-6.xlsx",
+        "bg": "Потребление на енергия 2022-6.xlsx",
+        "sl": "Poraba energije 2022–6.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-6.xlsx",
+        "et": "Energiatarbimine 2022-6.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/928801b4-2cf6-4355-90be-18b5d8b21da8/download/energospozhivania-2022-6.xlsx"
+      ],
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "byte_size": 12338
+    },
+    {
+      "id": "49be0dc9-9c14-49fa-80b4-0d41b5d3efc7",
+      "title": {
+        "et": "energiatarve 2024 - 03.xlsx",
+        "sk": "Spotreba elektrickej energie 2024 - 03.xlsx",
+        "fr": "Consommation électrique 2024 - 03.xlsx",
+        "sl": "Poraba energije 2024 - 03.xlsx",
+        "hr": "potrošnja energije 2024. 03.xlsx",
+        "da": "strømforbrug 2024 – 03.xlsx",
+        "nl": "Stroomverbruik 2024 - 03.xlsx",
+        "hu": "energiafogyasztás 2024-03.xlsx",
+        "ro": "consumul de putere 2024 - 03.xlsx",
+        "lv": "elektroenerģijas patēriņš 2024 - 03.xlsx",
+        "lt": "energijos suvartojimas 2024 m. – 03.xlsx",
+        "de": "Stromverbrauch 2024 - 03.xlsx",
+        "uk": "енергоспоживання 2024 - 03.xlsx",
+        "bg": "консумация на енергия 2024 г. — 03.xlsx",
+        "pt": "consumo de energia 2024 - 03.xlsx",
+        "sv": "strömförbrukning 2024 – 03.xlsx",
+        "mt": "Konsum tal-enerġija 2024 - 03.xlsx",
+        "ga": "ídiú cumhachta 2024 - 03.xlsx",
+        "pl": "Zużycie energii 2024 - 03.xlsx",
+        "en": "power consumption 2024 - 03.xlsx",
+        "es": "consumo de energía 2024 - 03.xlsx",
+        "fi": "tehonkulutus 2024 - 03.xlsx",
+        "cs": "spotřeba energie 2024 - 03.xlsx",
+        "it": "consumo energetico 2024 - 03.xlsx",
+        "el": "κατανάλωση ισχύος 2024 - 03.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/48afa8d1-4093-473b-8806-1ead6e61a803/download/energospozhivannia-2024-03.xlsx"
+      ],
+      "byte_size": 12114,
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "e3721195-6213-47f0-b246-1d29bcc832f7",
+      "title": {
+        "hr": "potrošnja energije 2025 - 07.xlsx",
+        "hu": "energiafogyasztás 2025 - 07.xlsx",
+        "cs": "spotřeba energie 2025 - 07.xlsx",
+        "de": "Stromverbrauch 2025 - 07.xlsx",
+        "mt": "Konsum tal-enerġija 2025 - 07.xlsx",
+        "it": "consumo energetico 2025 - 07.xlsx",
+        "lv": "enerģijas patēriņš 2025 - 07.xlsx",
+        "da": "strømforbrug 2025 - 07.xlsx",
+        "uk": "енергоспоживання 2025 - 07.xlsx",
+        "el": "κατανάλωση ισχύος 2025 - 07.xlsx",
+        "fr": "Consommation d'énergie 2025 - 07.xlsx",
+        "et": "energiatarve 2025 - 07.xlsx",
+        "sl": "poraba energije 2025 - 07.xlsx",
+        "pl": "Zużycie energii elektrycznej 2025 - 07.xlsx",
+        "es": "consumo de energía 2025 - 07.xlsx",
+        "nl": "Stroomverbruik 2025 - 07.xlsx",
+        "lt": "energijos suvartojimas 2025 m. - 07.xlsx",
+        "sv": "strömförbrukning 2025 - 07.xlsx",
+        "ro": "Consumul de energie 2025 - 07.xlsx",
+        "sk": "Spotreba elektrickej energie 2025 - 07.xlsx",
+        "fi": "tehonkulutus 2025 - 07.xlsx",
+        "ga": "tomhaltas cumhachta 2025 - 07.xlsx",
+        "pt": "consumo de potência 2025 - 07.xlsx",
+        "bg": "консумация на енергия 2025 - 07.xlsx",
+        "en": "power consumption 2025 - 07.xlsx"
+      },
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/1afd5a64-6be6-47ad-b4da-00c408a6ca21/download/energospozhivannia-2025-07.xlsx"
+      ],
+      "byte_size": 12120
+    },
+    {
+      "id": "057356dd-b2e9-4b5f-ba24-0edb47c00f0d",
+      "title": {
+        "lt": "Energijos suvartojimas 2022-5.xlsx",
+        "el": "Κατανάλωση ενέργειας 2022-5.xlsx",
+        "es": "Consumo de energía 2022-5.xlsx",
+        "cs": "Spotřeba energie 2022-5.xlsx",
+        "lv": "Enerģijas patēriņš 2022-5.xlsx",
+        "et": "Energiatarbimine 2022-5.xlsx",
+        "sv": "Energianvändning 2022-5.xlsx",
+        "fr": "Consommation d’énergie 2022-5.xlsx",
+        "sl": "Poraba energije 2022-5.xlsx",
+        "mt": "Konsum tal-Enerġija 2022-5.xlsx",
+        "en": "Energy Consumption 2022-5.xlsx",
+        "hr": "Potrošnja energije 2022-5.xlsx",
+        "hu": "Energiafogyasztás 2022-5.xlsx",
+        "uk": "енергоспоживаня 2022-5.xlsx",
+        "bg": "Потребление на енергия 2022-5.xlsx",
+        "ga": "Tomhaltas Fuinnimh 2022-5.xlsx",
+        "pl": "Zużycie energii 2022-5.xlsx",
+        "de": "Energieverbrauch 2022-5.xlsx",
+        "fi": "Energiankulutus 2022-5.xlsx",
+        "nl": "Energieverbruik 2022-5.xlsx",
+        "pt": "Consumo de energia 2022-5.xlsx",
+        "ro": "Consumul de energie 2022-5.xlsx",
+        "sk": "Spotreba energie 2022 – 5.xlsx",
+        "it": "Consumo energetico 2022-5.xlsx",
+        "da": "Energiforbrug 2022-5.xlsx"
+      },
+      "byte_size": 12316,
+      "format": {
+        "id": "XLSX",
+        "label": "Excel XLSX",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLSX"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/8c19161e-f811-430e-989c-981631dacd7c/download/energospozhivania-2022-5.xlsx"
+      ],
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"
+    },
+    {
+      "id": "d9f90a18-bf17-45db-9038-5f5a8dd6159e",
+      "description": {
+        "hr": "Komunalni resursi",
+        "en": "the Communal Resources",
+        "el": "των Κοινοτικών Πόρων",
+        "nl": "de gemeenschappelijke middelen",
+        "bg": "комуналните ресурси",
+        "it": "delle Risorse Comunali",
+        "da": "de fælles ressourcer",
+        "de": "der Kommunalen Ressourcen",
+        "ro": "Resurselor Comunale",
+        "mt": "ir-Riżorsi Komunali",
+        "sk": "Komunálne zdroje",
+        "ga": "Acmhainní Comhchoiteanna",
+        "sv": "de gemensamma resurserna",
+        "et": "kommuunide ressursside",
+        "uk": "комунальні ресурси",
+        "es": "los Recursos Comunales",
+        "pl": "Zasobów Komunalnych",
+        "fi": "yhteisöresurssien",
+        "cs": "Komunální zdroje",
+        "lt": "komunalinius išteklius",
+        "fr": "les Ressources Communales",
+        "lv": "Komunālo resursu",
+        "hu": "a Közösségi Erőforrások",
+        "sl": "skupnih virov",
+        "pt": "os Recursos Comunais"
+      },
+      "title": {
+        "pl": "Zużycie energii 2020.xlsx",
+        "hu": "Energiafogyasztás 2020.xlsx",
+        "lt": "Energijos suvartojimas 2020.xlsx",
+        "uk": "енергоспоживаня 2020.xlsx",
+        "de": "Energieverbrauch 2020.xlsx",
+        "it": "Consumo di energia 2020.xlsx",
+        "el": "Κατανάλωση ενέργειας 2020.xlsx",
+        "lv": "Enerģijas patēriņš 2020.xlsx",
+        "da": "Energiforbrug 2020.xlsx",
+        "sv": "Energiförbrukning 2020.xlsx",
+        "pt": "Consumo de energia 2020.xlsx",
+        "fi": "Energiankulutus 2020.xlsx",
+        "ro": "Consumul de energie 2020.xlsx",
+        "fr": "Consommation d'énergie 2020.xlsx",
+        "hr": "Potrošnja energije 2020.xlsx",
+        "et": "Energiatarbimine 2020.xlsx",
+        "ga": "Ídiú fuinnimh 2020.xlsx",
+        "en": "Energy consumption 2020.xlsx",
+        "mt": "Konsum tal-enerġija 2020.xlsx",
+        "sk": "Spotreba energie 2020.xlsx",
+        "nl": "Energieverbruik 2020.xlsx",
+        "bg": "Консумация на енергия 2020.xlsx",
+        "es": "Consumo de energía 2020.xlsx",
+        "sl": "Poraba energije 2020.xlsx",
+        "cs": "Spotřeba energie 2020.xlsx"
+      },
+      "media_type": "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+      "byte_size": 11954,
+      "format": {
+        "id": "хls",
+        "label": "хls"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/aa7a43b3-9d3a-4d45-abea-c74836c269b7/resource/12fc26e7-2f40-4f55-9e79-8b37851eec9c/download/energospozhivania-2020.xlsx"
+      ]
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 135
+  },
+  "publisher": {
+    "type": "Organization",
+    "name": "КП „Павлоградська ТРК” Павлоградської міської ради",
+    "resource": "https://data.gov.ua/organization/ba2d80b6-99c3-4d3f-9be3-5d6e68a4a168"
+  },
+  "modified": "2026-04-21T08:53:17.941704",
+  "id": "aa7a43b3-9d3a-4d45-abea-c74836c269b7",
+  "issued": "2020-12-14T13:06:48.112972",
+  "catalog_record": {
+    "issued": "2026-05-08T20:19:30Z",
+    "modified": "2026-05-10T18:26:15Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "email": "mailto:20255831@mail.gov.ua",
+      "name": "Костельнюк Тетяна Миколївна"
+    }
+  ]
+}

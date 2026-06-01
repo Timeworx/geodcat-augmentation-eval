@@ -1,0 +1,5 @@
+# Runtime dependency for the harvester + shape vendor scripts.
+# Everything else (rdflib, pyshacl, PyLD, pycocotools, torchvision,
+# locust, matplotlib, pytest) lives in requirements-dev.txt because
+# it's only needed when running the experiments and gates.
+httpx==0.28.1

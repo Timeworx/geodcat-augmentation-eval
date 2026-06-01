@@ -1,0 +1,247 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "en",
+      "id": "fairway",
+      "label": "fairway"
+    },
+    {
+      "language": "nor",
+      "id": "kystverket",
+      "label": "Kystverket"
+    },
+    {
+      "language": "en",
+      "id": "norwegian-coastal-administartion",
+      "label": "Norwegian Coastal Administartion"
+    },
+    {
+      "language": "nor",
+      "id": "hele-landet",
+      "label": "Hele landet"
+    },
+    {
+      "language": "nor",
+      "id": "farled",
+      "label": "Farled"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/b485b76a-aa58-4fa5-a983-85af6d35d4a0",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:22Z",
+        "issued": "2024-06-11T17:48:05Z"
+      }
+    },
+    "full_available_languages": [
+      "nor"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Der Datensatz zeigt den definierten Zuständigkeitsbereich der norwegischen Küstenverwaltung, wie er durch Vorschriften über Fairways festgelegt wurde.",
+    "fi": "Tietoaineistosta käy ilmi Norjan rannikkohallinnon määrittelemä väylämääräysten mukainen toimivalta-alue.",
+    "pt": "O conjunto de dados mostra a área de autoridade definida da Administração Costeira norueguesa, dada através de regulamentos sobre vias navegáveis.",
+    "bg": "Наборът от данни показва определената от норвежката брегова администрация област на власт, както е дадена чрез регламентите относно фарватерите.",
+    "lt": "Iš duomenų rinkinio matyti Norvegijos pakrančių administracijos nustatyta įgaliojimų sritis, nustatyta farvaterių reglamentuose.",
+    "hr": "Skup podataka prikazuje definirano područje nadležnosti norveške obalne uprave kako je određeno propisima o plovnim putovima.",
+    "lv": "Datu kopa parāda Norvēģijas Piekrastes administrācijas noteikto kompetences jomu, kas noteikta noteikumos par kuģu ceļiem.",
+    "fr": "L’ensemble de données montre la zone d’autorité définie par l’Administration côtière norvégienne telle qu’elle est définie par la réglementation sur les fairways.",
+    "hu": "Az adatkészlet a Norvég Parti Hatóság által a hajóutakra vonatkozó rendeletek által meghatározott hatáskört mutatja be.",
+    "nor": "Datasettet viser Kystverkets definerte myndighetsområde slik det er gitt gjennom forskrift om farleder.",
+    "uk": "Набір даних показує визначену область повноважень Норвезької прибережної адміністрації, як це передбачено за допомогою правил на фарватрах.",
+    "sk": "V súbore údajov sa uvádza vymedzená oblasť právomoci nórskej pobrežnej správy, ako sa uvádza v nariadeniach o plavebných dráhach.",
+    "sl": "Nabor podatkov prikazuje opredeljeno območje pristojnosti norveške obalne uprave, kot je določeno v predpisih o plovnih poteh.",
+    "ga": "Taispeánann an tacar sonraí limistéar údarás sainithe Riarachán Cósta na hIorua mar a thugtar trí rialacháin maidir le seolbhealaí.",
+    "sv": "Datasetet visar den norska kustförvaltningens definierade myndighetsområde som ges genom föreskrifter om farleder.",
+    "mt": "Is-sett ta’ data juri ż-żona ta’ awtorità definita tal-Amministrazzjoni Kostali Norveġiża kif mogħtija permezz ta’ regolamenti dwar il-kanali navigabbli.",
+    "el": "Το σύνολο δεδομένων δείχνει την καθορισμένη περιοχή εξουσίας της νορβηγικής διοίκησης ακτών, όπως αυτή παρέχεται μέσω κανονισμών για τις οδούς διαύλου.",
+    "en": "The data set shows the Norwegian Coastal Administration's defined area of authority as given through regulations on fairways.",
+    "it": "Il set di dati mostra l'area di autorità definita dall'amministrazione costiera norvegese, come previsto dalle normative sui fairway.",
+    "es": "El conjunto de datos muestra el área de autoridad definida de la Administración Costera de Noruega, tal como se da a través de las regulaciones en las calles.",
+    "et": "Andmekogum näitab Norra rannikuameti määratletud tegevusvaldkonda, mis on esitatud laevateid käsitlevate eeskirjade kaudu.",
+    "cs": "Soubor údajů ukazuje vymezenou oblast působnosti norské pobřežní správy, která je dána předpisy o plavebních drahách.",
+    "pl": "Zestaw danych pokazuje określony obszar kompetencji Norweskiej Administracji Przybrzeżnej zgodnie z przepisami dotyczącymi torów wodnych.",
+    "da": "Datasættet viser den norske kystadministrations afgrænsede myndighedsområde som givet gennem regler om fairways.",
+    "ro": "Setul de date arată zona de autoritate definită de Administrația de Coastă norvegiană, astfel cum este dată prin reglementările privind căile navigabile.",
+    "nl": "De gegevensreeks toont het afgebakende bevoegdheidsgebied van de Noorse kustadministratie, zoals bepaald door regelgeving inzake fairways."
+  },
+  "index": "dataset",
+  "title": {
+    "nor": "Hoved- og biled, arealavgrensning"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/CONT",
+    "label": "continuous"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "https://data.norge.no/nlod/no/2.0",
+        "id": "https://data.norge.no/nlod/no/2.0",
+        "label": "https://data.norge.no/nlod/no/2.0"
+      },
+      "access_url": [
+        "https://services.kystverket.no/wms.ashx?service=WMS&request=GetCapabilities"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2020-01-01T00:00:00Z",
+      "id": "0ecf9d00-df4f-4fba-8e8f-322e9c3639de",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://services.kystverket.no/wms.ashx"
+          ],
+          "endpoint_description": [
+            "https://services.kystverket.no/wms.ashx?service=WMS&request=GetCapabilities"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "mt": "ħarsa",
+        "el": "προβολή",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "da": "udsigt",
+        "ro": "vizualizare",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 240
+  },
+  "provenance": [
+    {
+      "label": "https://lovdata.no/dokument/SF/forskrift/2019-12-11-1834?q=forskrift%20om%20farleder"
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Kystverket / Geodatatjenesten",
+    "type": "Person",
+    "email": "mailto:geodatatjenesten@kystverket.no"
+  },
+  "modified": "2020-01-01T00:00:00Z",
+  "id": "b485b76a-aa58-4fa5-a983-85af6d35d4a0",
+  "categories": [],
+  "issued": "0001-01-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            72
+          ],
+          [
+            33,
+            72
+          ],
+          [
+            33,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-06T18:00:11Z",
+    "issued": "2021-10-15T08:49:33Z"
+  },
+  "contact_point": [
+    {
+      "address": "Serviceboks 625, Arendal, 4809, Norge",
+      "name": "Stian Aamot",
+      "type": "Individual",
+      "email": "mailto:stian.aamot@kystverket.no"
+    }
+  ]
+}

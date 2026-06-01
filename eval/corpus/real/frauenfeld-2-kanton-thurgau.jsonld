@@ -1,0 +1,282 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/frauenfeld-2-kanton-thurgau",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "frauenfeld-2@kanton-thurgau"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Parking occupancy city Frauenfeld by hours"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "The dataset includes data on parking occupancy in five public parking lots in Frauenfeld, which are in municipal hands: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 hours and 10 hours), Altstadt (Freie-Strasse, Bankplatz) and Zürcherstrasse (section downtown). The data are aggregated on an hourly basis and include the average occupancy in %, the number of exits and entries as well as the average service life (median) of the vehicles. All parking spaces are also geocoded. The data is updated every day and includes data up to the previous day.The data are part of the Smart Parking Frauenfeld pilot project. The [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) can be used to check the current parking situation on the five parking lots using real-time data.[Link to the desktop view of the app](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Data source: City of Frauenfeld"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.tg.ch/explore/?refine.dcat_ap_ch.domain=kanton-thurgau",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "kanton-thurgau"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        },
+        {
+          "@language": "language",
+          "@value": "de"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ch"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "opendata-swiss",
+        "description": {
+          "en": "Open Data Portal Switzerland"
+        },
+        "publisher": {
+          "type": "Agent",
+          "email": "mailto:opendata@bfs.admin.ch",
+          "name": "Federal Statistical Office",
+          "homepage": "https://www.bfs.admin.ch"
+        },
+        "source_type": "dcat-ap",
+        "title": {
+          "de": "opendata.swiss"
+        },
+        "modified": "2024-03-12T10:32:33Z",
+        "homepage": "https://opendata.swiss",
+        "issued": "2024-03-12T10:32:33Z",
+        "country": {
+          "label": "Switzerland",
+          "id": "ch",
+          "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+        },
+        "spatial_resource": [
+          {
+            "label": "Switzerland",
+            "id": "ch",
+            "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "de",
+            "label": "German",
+            "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+          }
+        ]
+      },
+      "deuropa:landing_page": [
+        {
+          "resource": "https://data.tg.ch/explore/dataset/frauenfeld-2/"
+        }
+      ],
+      "deuropa:language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "deuropa:relation": [
+        "https://www.frauenfeld.ch/wohnen-mobilitaet/mobilitaet/smart-parking.html/2327"
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 335
+      },
+      "deuropa:categories": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+          "id": "TRAN",
+          "label": {
+            "nn": "Transport",
+            "de": "Verkehr",
+            "no": "Transport",
+            "fi": "Liikenne",
+            "pt": "Transportes",
+            "bg": "Транспорт",
+            "lt": "Transportas",
+            "lv": "Transports",
+            "hr": "Promet",
+            "fr": "Transports",
+            "hu": "Közlekedés",
+            "sk": "Doprava",
+            "sl": "Transport",
+            "ga": "Iompar",
+            "sv": "Transport",
+            "mt": "Trasport",
+            "el": "Μεταφορές",
+            "en": "Transport",
+            "it": "Trasporti",
+            "es": "Transporte",
+            "et": "Transport",
+            "cs": "Doprava",
+            "nb": "Transport",
+            "pl": "Transport",
+            "ro": "Transport",
+            "da": "Transport",
+            "nl": "Vervoer"
+          }
+        },
+        {
+          "resource": "http://publications.europa.eu/resource/authority/data-theme/REGI",
+          "id": "REGI",
+          "label": {
+            "nn": "Regionar og byar",
+            "de": "Regionen und Städte",
+            "no": "Regioner og byer",
+            "fi": "Alueet ja kaupungit",
+            "pt": "Regiões e cidades",
+            "bg": "Региони и градове",
+            "lt": "Regionai ir miestai",
+            "lv": "Reģioni un pilsētas",
+            "hr": "Regije i gradovi",
+            "fr": "Régions et villes",
+            "hu": "Régiók és városok",
+            "sk": "Regióny a mestá",
+            "sl": "Regije in mesta",
+            "ga": "Réigiúin agus cathracha",
+            "sv": "Regioner och städer",
+            "el": "Περιφέρειες και πόλεις",
+            "mt": "Reġjuni u bliet",
+            "en": "Regions and cities",
+            "it": "Regioni e città",
+            "es": "Regiones y ciudades",
+            "et": "Piirkonnad ja linnad",
+            "cs": "Regiony a města",
+            "nb": "Regioner og byer",
+            "pl": "Regiony i miasta",
+            "da": "Regioner og byer",
+            "ro": "Regiuni şi orașe",
+            "nl": "Regio's en steden"
+          }
+        }
+      ],
+      "deuropa:catalog_record": {
+        "modified": "2026-05-31T20:05:07Z",
+        "issued": "2025-10-16T20:06:07Z"
+      }
+    }
+  ]
+}

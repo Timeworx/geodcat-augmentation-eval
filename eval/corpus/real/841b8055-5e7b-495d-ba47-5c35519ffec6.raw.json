@@ -1,0 +1,560 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "ankringsforhold",
+      "label": "ankringsforhold"
+    },
+    {
+      "language": "nor",
+      "id": "fjord",
+      "label": "fjord"
+    },
+    {
+      "language": "nor",
+      "id": "gravbarhet",
+      "label": "gravbarhet"
+    },
+    {
+      "language": "nor",
+      "id": "havbunn",
+      "label": "havbunn"
+    },
+    {
+      "language": "nor",
+      "id": "bunnfellingsområder",
+      "label": "bunnfellingsområder"
+    },
+    {
+      "language": "nor",
+      "id": "sjø",
+      "label": "sjø"
+    },
+    {
+      "language": "nor",
+      "id": "bunn",
+      "label": "bunn"
+    },
+    {
+      "language": "nor",
+      "id": "astafjorden",
+      "label": "Astafjorden"
+    },
+    {
+      "language": "nor",
+      "id": "sediment",
+      "label": "sediment"
+    },
+    {
+      "language": "nor",
+      "id": "sør-troms",
+      "label": "Sør-Troms"
+    },
+    {
+      "language": "nor",
+      "id": "søre-sunnmøre",
+      "label": "Søre-Sunnmøre"
+    },
+    {
+      "language": "nor",
+      "id": "sjøbunn",
+      "label": "sjøbunn"
+    },
+    {
+      "language": "nor",
+      "id": "biotop",
+      "label": "biotop"
+    },
+    {
+      "language": "nor",
+      "id": "hav",
+      "label": "hav"
+    },
+    {
+      "language": "nor",
+      "id": "marinegrunnkartwms",
+      "label": "MarineGrunnkartWMS"
+    },
+    {
+      "language": "nor",
+      "id": "bunnforhold",
+      "label": "bunnforhold"
+    },
+    {
+      "language": "nor",
+      "id": "ankring",
+      "label": "Ankring"
+    },
+    {
+      "language": "nor",
+      "id": "fosnes",
+      "label": "Fosnes"
+    },
+    {
+      "language": "nor",
+      "id": "møre-og-romsdal",
+      "label": "Møre og Romsdal"
+    },
+    {
+      "language": "nor",
+      "id": "forankring",
+      "label": "forankring"
+    },
+    {
+      "language": "nor",
+      "id": "skråning",
+      "label": "skråning"
+    },
+    {
+      "language": "nor",
+      "id": "overflate",
+      "label": "overflate"
+    },
+    {
+      "language": "nor",
+      "id": "naturtype",
+      "label": "naturtype"
+    },
+    {
+      "language": "nor",
+      "id": "sedimentasjon",
+      "label": "sedimentasjon"
+    },
+    {
+      "language": "nor",
+      "id": "ngu",
+      "label": "NGU"
+    },
+    {
+      "language": "nor",
+      "id": "helning",
+      "label": "helning"
+    },
+    {
+      "language": "nor",
+      "id": "oslofjorden",
+      "label": "Oslofjorden"
+    },
+    {
+      "language": "nor",
+      "id": "kyst",
+      "label": "kyst"
+    },
+    {
+      "language": "nor",
+      "id": "marin",
+      "label": "marin"
+    },
+    {
+      "language": "nor",
+      "id": "sogn-og-fordane",
+      "label": "Sogn og Fordane"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/841b8055-5e7b-495d-ba47-5c35519ffec6",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:18Z",
+        "issued": "2024-06-11T17:48:08Z"
+      }
+    },
+    "full_available_languages": [
+      "es",
+      "lv",
+      "en",
+      "sl",
+      "lt",
+      "ga",
+      "pl",
+      "sk",
+      "cs",
+      "pt",
+      "hr",
+      "da",
+      "fi",
+      "el",
+      "de",
+      "sv",
+      "mt",
+      "et",
+      "fr",
+      "nl",
+      "it",
+      "ro",
+      "bg",
+      "nor",
+      "uk",
+      "hu"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Die Karte basiert auf der Korngrößenverteilung und zeigt an, wie einfach es wäre, in den Meeresboden zu graben und wie stabil die Grabendepression wäre.",
+    "fi": "Kartta perustuu raekokojakaumaan ja osoittaa, kuinka helppoa olisi kaivaa merenpohjaan ja kuinka vakaata kaivettu masennus olisi.",
+    "pt": "O mapa é ganza na distribuição do tamanho do grão e indica como seria fácil cavar no fundo do mar, e quão estável a depressão do dugout seria.",
+    "bg": "Картата се основава на разпределението на размера на зърното и показва колко лесно би било да се копае в морското дъно и колко стабилна ще бъде изкопаната депресия.",
+    "lt": "Žemėlapis remiasi grūdų dydžio pasiskirstymu ir nurodo, kaip lengva kasti į jūros dugną ir kaip stabili būtų iškasta depresija.",
+    "hr": "Karta se temelji na raspodjeli veličine zrna i pokazuje kako bi bilo lako kopati u morsko dno i koliko bi bila stabilna depresija iskopavanja.",
+    "lv": "Karte ir balstīta uz graudu izmēru sadalījumu un norāda, cik viegli būtu rakt jūras grīdā, un cik stabila būtu izrakt depresija.",
+    "fr": "La carte est basée sur la distribution de la taille des grains et indique à quel point il serait facile de creuser dans le fond marin et à quel point la dépression des étangs serait stable.",
+    "hu": "A térkép a szemcseméret-eloszláson alapul, és jelzi, hogy milyen könnyű lenne a tengerfenékre ásni, és mennyire stabil lenne a kiásott mélyedés.",
+    "nor": "Kartlaget er basert på sedimentfordeling og angir både hvor enkelt det er å grave i bunnen og den forventede stabiliteten til den utgravde området.",
+    "uk": "Карта заснована на розподілі розмірів зерна і вказує на те, наскільки легко було б закопуватися в морське дно, і наскільки стабільною була бліндажова депресія.",
+    "sk": "Mapa je založená na rozdelení veľkosti zrna a ukazuje, aké ľahké by bolo kopať do morského dna a ako stabilná by bola vykopaná depresia.",
+    "sl": "Zemljevid temelji na porazdelitvi velikosti zrn in prikazuje, kako enostavno bi bilo kopati v morsko dno in kako stabilna bi bila depresija izkopavanja.",
+    "ga": "Tá an léarscáil bunaithe ar dháileadh méid gráin agus léiríonn sé cé chomh héasca a bheadh sé tochailt isteach i ngrinneall na farraige, agus cé chomh cobhsaí a bheadh an dúlagar dugout.",
+    "sv": "Kartan är baserad på kornstorleksfördelning och visar hur lätt det skulle vara att gräva i havsbotten och hur stabil den grävda depressionen skulle vara.",
+    "mt": "Il-mappa hija bbażata fuq id-distribuzzjoni tad-daqs tal-qamħ u tindika kemm ikun faċli li titħaffer f’qiegħ il-baħar, u kemm tkun stabbli d-dipressjoni tad-dugout.",
+    "el": "Ο χάρτης βασίζεται στην κατανομή του μεγέθους των κόκκων και δείχνει πόσο εύκολο θα ήταν να σκάψει στον πυθμένα της θάλασσας και πόσο σταθερή θα ήταν η κατάθλιψη.",
+    "en": "The map is based on grain size distribution and indicates how easy it would be to dig into the sea floor, and how stable the dugout depression would be.",
+    "it": "La mappa si basa sulla distribuzione della granulometria e indica quanto sarebbe facile scavare nel fondo del mare e quanto sarebbe stabile la depressione scavata.",
+    "es": "El mapa se basa en la distribución del tamaño del grano e indica lo fácil que sería cavar en el fondo del mar, y cuán estable sería la depresión del dugout.",
+    "et": "Kaart põhineb teravilja suuruse jaotumisel ja näitab, kui lihtne oleks merepõhja kaevata ja kui stabiilne oleks kaevatud depressioon.",
+    "cs": "Mapa je založena na rozložení velikosti obilí a ukazuje, jak snadné by bylo kopat do mořského dna a jak stabilní by byla vykopaná deprese.",
+    "pl": "Mapa opiera się na rozkładzie wielkości ziarna i wskazuje, jak łatwo byłoby wykopać się na dno morza i jak stabilna byłaby depresja dugout.",
+    "ro": "Harta se bazează pe distribuția mărimii cerealelor și indică cât de ușor ar fi să sapi în fundul mării și cât de stabilă ar fi depresia săpată.",
+    "da": "Kortet er baseret på kornstørrelsesfordeling og angiver, hvor nemt det ville være at grave ned i havbunden, og hvor stabil udgravningsdepressionen ville være.",
+    "nl": "De kaart is gebaseerd op de verdeling van de korrelgrootte en geeft aan hoe gemakkelijk het zou zijn om in de zeebodem te graven, en hoe stabiel de dugoutdepressie zou zijn."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Dehnbarkeit",
+    "fi": "Ruuansulatuskyky",
+    "pt": "Diggabilidade",
+    "bg": "Възможност за копаене",
+    "lt": "Štampavimas",
+    "lv": "Rakšanas iespējas",
+    "hr": "Diggabilnost",
+    "fr": "Diggabilité",
+    "hu": "Áshatóság",
+    "nor": "Gravbarhet",
+    "uk": "Здатність до занурення",
+    "sk": "Diggability",
+    "sl": "Diggability",
+    "ga": "Diggability",
+    "sv": "Dugbarhet",
+    "el": "Δυνατότητα εκσκαφής",
+    "mt": "Kapaċità ta’ tħaffir",
+    "en": "Diggability",
+    "it": "Diggabilità",
+    "es": "Diggability",
+    "et": "Diggability",
+    "cs": "Diggovatelnost",
+    "pl": "Delikatność",
+    "da": "Diggability",
+    "ro": "Diggabilitate",
+    "nl": "Diggabiliteit"
+  },
+  "accrual_periodicity": {},
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://geo.ngu.no/mapserver/MarineGrunnkartWMS?REQUEST=GetCapabilities&SERVICE=WMS"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "cc48ad92-466d-4135-90a4-62a08078aeb2",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://geo.ngu.no/mapserver/MarineGrunnkartWMS"
+          ],
+          "endpoint_description": [
+            "https://geo.ngu.no/mapserver/MarineGrunnkartWMS?REQUEST=GetCapabilities&SERVICE=WMS"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "el": "προβολή",
+        "mt": "ħarsa",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "2010-04-20T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Aave Lepland",
+    "type": "Person",
+    "email": "mailto:aave.lepland@ngu.no"
+  },
+  "modified": "0001-01-01T00:00:00Z",
+  "id": "841b8055-5e7b-495d-ba47-5c35519ffec6",
+  "categories": [],
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            0.0,
+            80
+          ],
+          [
+            14,
+            80
+          ],
+          [
+            14,
+            56
+          ],
+          [
+            0.0,
+            56
+          ],
+          [
+            0.0,
+            80
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "issued": "2010-04-20T00:00:00Z",
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:08Z",
+    "issued": "2021-10-15T08:49:32Z"
+  }
+}

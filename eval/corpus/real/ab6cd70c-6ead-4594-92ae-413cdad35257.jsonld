@@ -1,0 +1,114 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/ab6cd70c-6ead-4594-92ae-413cdad35257",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "ab6cd70c-6ead-4594-92ae-413cdad35257"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Information about the organizational structure of the information manager"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "Documentation of the institution: organizational, organizational and administrative, educational (Charter of the institution, staffing, contingent of students  "
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/c9aae363-0e34-4ce0-b66f-bb0f1c59e930",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Комунальний заклад спеціалізованої мистецької освіти \"Музична школа №13\" Криворізької міської ради "
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "загальні-положення"
+        },
+        {
+          "@language": "id",
+          "@value": "прикінцеві-положення"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:version_info": "1.0",
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 155
+      },
+      "deuropa:catalog_record": {
+        "modified": "2026-05-10T18:43:43Z",
+        "issued": "2026-05-08T20:19:31Z"
+      }
+    }
+  ]
+}

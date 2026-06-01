@@ -1,0 +1,383 @@
+{
+  "identifier": [
+    "https://data.twisto.fr/explore/dataset/availability/"
+  ],
+  "country": {
+    "label": "France",
+    "id": "fr",
+    "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+  },
+  "creator": [
+    {
+      "type": "Agent",
+      "name": "Twisto",
+      "resource": "https://www.data.gouv.fr/api/1/contacts/67b7c3858743ff58f7e260b7/"
+    }
+  ],
+  "keywords": [
+    {
+      "id": "velolib",
+      "label": "velolib",
+      "language": "fr"
+    },
+    {
+      "id": "emplacement",
+      "label": "emplacement",
+      "language": "fr"
+    },
+    {
+      "id": "disponibilite",
+      "label": "disponibilite",
+      "language": "fr"
+    },
+    {
+      "id": "places",
+      "label": "places",
+      "language": "fr"
+    },
+    {
+      "id": "velo",
+      "label": "velo",
+      "language": "fr"
+    },
+    {
+      "id": "station",
+      "label": "station",
+      "language": "fr"
+    },
+    {
+      "id": "borne",
+      "label": "borne",
+      "language": "fr"
+    },
+    {
+      "id": "location",
+      "label": "location",
+      "language": "fr"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/https-data-twisto-fr-explore-dataset-availability-",
+  "catalog": {
+    "id": "plateforme-ouverte-des-donnees-publiques-francaises",
+    "homepage": "https://data.gouv.fr",
+    "description": {
+      "en": "Open Data Portal France"
+    },
+    "language": [
+      {
+        "id": "fr",
+        "label": "French",
+        "resource": "http://publications.europa.eu/resource/authority/language/FRA"
+      }
+    ],
+    "issued": "2022-06-24T12:25:39Z",
+    "country": {
+      "label": "France",
+      "id": "fr",
+      "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+    },
+    "spatial_resource": [
+      {
+        "label": "France",
+        "id": "fr",
+        "resource": "http://publications.europa.eu/resource/authority/country/FRA"
+      }
+    ],
+    "spatial": [],
+    "source_type": "dcat-ap",
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:info@data.gouv.fr",
+      "homepage": "https://www.etalab.gouv.fr",
+      "name": "etalab"
+    },
+    "modified": "2023-02-12T03:33:16.402027",
+    "title": {
+      "fr": "Plateforme ouverte des données publiques françaises"
+    }
+  },
+  "translation_meta": {
+    "details": {
+      "fr": {
+        "machine_translated": false,
+        "received": "2026-05-14T05:18:21Z",
+        "issued": "2026-02-12T03:35:35Z"
+      }
+    },
+    "full_available_languages": [
+      "fr"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "fr": "Liste des stations Vélolib, comprenant l'adresse, le nombre de places et la disponibilité des vélos en temps réel."
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.twisto.fr/explore/dataset/availability/"
+    }
+  ],
+  "index": "dataset",
+  "title": {
+    "fr": "Liste des stations Vélolib et disponibilité en temps réel"
+  },
+  "distributions": [
+    {
+      "id": "9ecb3de1-0d7d-442c-bf02-c84877d507a4",
+      "description": {
+        "fr": "Liste des stations Vélolib et disponibilité en temps réel (json)"
+      },
+      "title": {
+        "fi": "availability.json",
+        "lt": "availability.json",
+        "mt": "disponibbiltà.json",
+        "it": "Disponibilità.json",
+        "sv": "Tillgänglighet.json",
+        "de": "availability.json",
+        "sk": "Dostupnosť.json",
+        "da": "tilgængelighed.json",
+        "et": "kättesaadavus.json",
+        "pt": "availability.json",
+        "en": "availability.json",
+        "lv": "availability.json",
+        "ro": "availability.json",
+        "pl": "Dostępność.json",
+        "bg": "availability.json",
+        "hr": "availability.json",
+        "nl": "Beschikbaarheid.json",
+        "cs": "Dostupnost.json",
+        "sl": "Razpoložljivost.json",
+        "es": "availability.json",
+        "ga": "availability.json",
+        "uk": "Доступність.json",
+        "el": "διαθεσιμότητα.json",
+        "fr": "availability.json",
+        "hu": "Elérhetőség.json"
+      },
+      "download_url": [
+        "https://data.twisto.fr/api/explore/v2.1/catalog/datasets/availability/exports/json"
+      ],
+      "issued": "2026-05-31T00:07:04",
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/6d6f8d40-6c55-4f2b-98a3-86102abe6b8c"
+      ],
+      "media_type": "application/json",
+      "modified": "2026-05-31T00:07:04",
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      }
+    },
+    {
+      "id": "a0203845-2ab4-4851-99da-9013a3b3c56d",
+      "title": {
+        "hr": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "lv": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "ro": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "pt": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "uk": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "hu": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "et": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "pl": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "sl": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "fi": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "cs": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "el": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "mt": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "it": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "sv": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "nl": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "en": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "de": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "da": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "sk": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "fr": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "lt": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "ga": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "bg": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json",
+        "es": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json"
+      },
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/4d9f9941-3b9f-4fc2-a939-e19d460f5b1d"
+      ],
+      "format": {
+        "id": "octet-stream",
+        "label": "octet-stream"
+      },
+      "media_type": "application/octet-stream",
+      "description": {
+        "fr": "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json"
+      },
+      "download_url": [
+        "https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json"
+      ]
+    },
+    {
+      "id": "4de7c8ad-1a0d-45cf-8e6f-6bd3e7385dcd",
+      "title": {
+        "en": "availability.geojson",
+        "hr": "availability.geojson",
+        "el": "διαθεσιμότητα.geojson",
+        "sk": "Dostupnosť.geojson",
+        "sv": "Tillgänglighet.geojson",
+        "fi": "availability.geojson",
+        "mt": "disponibbiltà.geojson",
+        "ro": "availability.geojson",
+        "uk": "Доступність.geojson",
+        "pt": "availability.geojson",
+        "it": "Disponibilità.geojson",
+        "nl": "Beschikbaarheid.geojson",
+        "da": "tilgængelighed.geojson",
+        "hu": "Elérhetőség.geojson",
+        "et": "availability.geojson",
+        "pl": "Dostępność.geojson",
+        "de": "availability.geojson",
+        "ga": "availability.geojson",
+        "lv": "availability.geojson",
+        "es": "availability.geojson",
+        "sl": "Razpoložljivost.geojson",
+        "bg": "availability.geojson",
+        "cs": "Dostupnost.geojson",
+        "fr": "availability.geojson",
+        "lt": "availability.geojson"
+      },
+      "description": {
+        "fr": "Liste des stations Vélolib et disponibilité en temps réel (geojson)"
+      },
+      "download_url": [
+        "https://data.twisto.fr/api/explore/v2.1/catalog/datasets/availability/exports/geojson"
+      ],
+      "issued": "2026-05-31T00:07:04",
+      "media_type": "application/json",
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      },
+      "modified": "2026-05-31T00:07:04",
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/b73e4a46-8454-4b77-b462-47ec2fb2240b"
+      ]
+    },
+    {
+      "id": "9c18eff9-0e56-454b-89a1-1051541dacc2",
+      "title": {
+        "sk": "availability.csv",
+        "nl": "Beschikbaarheid.csv",
+        "fi": "availability.csv",
+        "de": "availability.csv",
+        "bg": "Наличност.csv",
+        "uk": "Доступність.csv",
+        "ro": "Disponibilitate.csv",
+        "ga": "infhaighteacht.csv",
+        "en": "availability.csv",
+        "cs": "Dostupnost.csv",
+        "lt": "availability.csv",
+        "da": "tilgængelighed.csv",
+        "hu": "Elérhetőség.csv",
+        "pl": "Dostępność.csv",
+        "lv": "availability.csv",
+        "sv": "Tillgänglighet.csv",
+        "es": "availability.csv",
+        "hr": "availability.csv",
+        "el": "διαθεσιμότητα.csv",
+        "et": "availability.csv",
+        "fr": "availability.csv",
+        "pt": "availability.csv",
+        "it": "Disponibilità.csv",
+        "sl": "availability.csv",
+        "mt": "disponibbiltà.csv"
+      },
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "issued": "2026-05-31T00:07:04",
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/21044579-4e8f-4780-86d3-6e4eec93a0ad"
+      ],
+      "media_type": "text/csv",
+      "modified": "2026-05-31T00:07:04",
+      "download_url": [
+        "https://data.twisto.fr/api/explore/v2.1/catalog/datasets/availability/exports/csv?use_labels=false"
+      ],
+      "description": {
+        "fr": "Liste des stations Vélolib et disponibilité en temps réel (csv)"
+      }
+    },
+    {
+      "id": "30a1ec43-f254-439e-a78e-eb067cc4f5e8",
+      "title": {
+        "nl": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "ro": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "sv": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "et": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "fr": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "cs": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "uk": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "fi": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "sl": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "hu": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "lv": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "es": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "it": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "en": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "pl": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "el": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "sk": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "lt": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "pt": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "de": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "bg": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "hr": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "mt": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "ga": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json",
+        "da": "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json"
+      },
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      },
+      "description": {
+        "fr": "[https://gbfs.partners.fifteen.eu/gbfs/caen/station\\_status.json](https://gbfs.partners.fifteen.eu/gbfs/2.2/caen/en/station_status.json)\n"
+      },
+      "download_url": [
+        "https://gbfs.partners.fifteen.eu/gbfs/caen/station_status.json"
+      ],
+      "media_type": "text/csv",
+      "access_url": [
+        "https://www.data.gouv.fr/api/1/datasets/r/cdb70dfd-1183-4478-93d7-5e598a2f8710"
+      ]
+    }
+  ],
+  "access_right": {
+    "label": "public",
+    "resource": "http://publications.europa.eu/resource/authority/access-right/PUBLIC"
+  },
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 160
+  },
+  "modified": "2026-05-31T00:07:04",
+  "publisher": {
+    "type": "Organization",
+    "homepage": "https://www.twisto.fr/",
+    "name": "Twisto",
+    "resource": "https://www.data.gouv.fr/organizations/5c09189f8b4c414a8d02298e"
+  },
+  "id": "https-data-twisto-fr-explore-dataset-availability-",
+  "adms_identifier": [
+    {
+      "identifier": "https://www.data.gouv.fr/datasets/68f1879e2c4ca61855ff1997",
+      "scheme": "http://www.w3.org/2001/XMLSchema#string"
+    }
+  ],
+  "issued": "2026-05-31T00:07:04",
+  "catalog_record": {
+    "modified": "2026-05-31T03:39:43Z",
+    "issued": "2025-10-17T03:30:08Z"
+  }
+}

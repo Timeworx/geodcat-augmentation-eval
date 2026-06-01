@@ -1,0 +1,118 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/c2e91c2d-3b80-4cd0-94a0-2fd2353f9e95",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "c2e91c2d-3b80-4cd0-94a0-2fd2353f9e95"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Information Determined by Legislation on the Principles of Regulatory Policy"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "Information Determined by the Legislation on the Principles of Regulatory Policy (Law of Ukraine of September 11, 2003 № 1160 \"On the Principles of State Regulatory Policy in the Sphere of Economic Activity\")\r\n\r\nAccording to the Law of Ukraine “On Access to Public Information” public information in the form of open data (open data) is made public for free and free access to it. Open data is allowed for its further free use and distribution.\r\n\r\nAny person may freely copy, publish, distribute, use, in particular for commercial purposes, in combination with other information or by including open data in his own product with a mandatory ’ reference to the source of their receipt.\r\n\r\nThe condition for any further use of open data is a mandatory ’ link to the source of their receipt (including a hyperlink to the web page of open data of the information manager)."
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/0e7afa71-3424-489d-886a-5828ef737d0d",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Дніпропетровська обласна державна адміністрація"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "регуляторна-діяльність"
+        },
+        {
+          "@language": "id",
+          "@value": "відстеження-регуляторного-акта"
+        },
+        {
+          "@language": "id",
+          "@value": "регуляторний-акт"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:version_info": "1.0",
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 155
+      },
+      "deuropa:catalog_record": {
+        "issued": "2026-05-08T20:19:30Z",
+        "modified": "2026-05-10T18:43:11Z"
+      }
+    }
+  ]
+}

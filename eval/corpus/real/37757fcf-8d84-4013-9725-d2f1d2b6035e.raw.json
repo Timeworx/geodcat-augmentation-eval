@@ -1,0 +1,618 @@
+{
+  "identifier": [
+    "37757fcf-8d84-4013-9725-d2f1d2b6035e"
+  ],
+  "country": {
+    "label": "Ireland",
+    "id": "ie",
+    "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+  },
+  "keywords": [
+    {
+      "id": "hpsc",
+      "label": "HPSC",
+      "language": "ga"
+    },
+    {
+      "id": "ireland",
+      "label": "Ireland",
+      "language": "ga"
+    },
+    {
+      "id": "covid",
+      "label": "Covid",
+      "language": "ga"
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "language": "ga"
+    },
+    {
+      "id": "covid-19",
+      "label": "Covid-19",
+      "language": "ga"
+    },
+    {
+      "id": "noca",
+      "label": "NOCA",
+      "language": "ga"
+    },
+    {
+      "id": "hse",
+      "label": "HSE",
+      "language": "ga"
+    },
+    {
+      "id": "dgihealth",
+      "label": "dgihealth",
+      "language": "ga"
+    },
+    {
+      "id": "ireland",
+      "label": "ireland",
+      "language": "ga"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/37757fcf-8d84-4013-9725-d2f1d2b6035e",
+  "catalog": {
+    "id": "data-gov-ie",
+    "modified": "2023-02-10T20:35:45.162705",
+    "source_type": "dcat-ap",
+    "issued": "2022-06-24T12:25:17Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform",
+      "email": "mailto:opendata@per.gov.ie",
+      "name": "Government Reform Unit, Dept of Public Expenditure & Reform"
+    },
+    "title": {
+      "ga": "Data.gov.ie"
+    },
+    "description": {
+      "ga": "Open Data Portal Ireland"
+    },
+    "homepage": "https://data.gov.ie",
+    "language": [
+      {
+        "id": "ga",
+        "label": "Irish",
+        "resource": "http://publications.europa.eu/resource/authority/language/GLE"
+      }
+    ],
+    "country": {
+      "label": "Ireland",
+      "id": "ie",
+      "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ireland",
+        "id": "ie",
+        "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+      }
+    ],
+    "spatial": [],
+    "count": 30287
+  },
+  "translation_meta": {
+    "details": {
+      "cs": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "ga": {
+        "machine_translated": false,
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:21Z",
+        "issued": "2026-04-06T20:36:54Z"
+      }
+    },
+    "full_available_languages": [
+      "cs",
+      "el",
+      "hu",
+      "mt",
+      "fi",
+      "pt",
+      "sl",
+      "fr",
+      "bg",
+      "hr",
+      "sv",
+      "ga",
+      "it",
+      "de",
+      "ro",
+      "da",
+      "en",
+      "sk",
+      "et",
+      "uk",
+      "es",
+      "lt",
+      "nl",
+      "lv",
+      "pl"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "es": "<p>Conjunto de datos sobre pacientes con COVID-19 en unidades de cuidados intensivos en Irlanda. Datos diarios de casos confirmados de COVID-19 y número de nuevas admisiones y altas en las últimas 24 horas. Los datos se basan en un agregado de hospitales públicos para adultos (26 con UCI/HDU), hospitales pediátricos (2 con UCI/HDU) y hospitales privados (5 con UCI/HDU) . Los datos han sido proporcionados por el Sistema de Información de Camas de la UCI (ICU-BIS) de la Oficina Nacional de Auditoría Clínica (NOCA).</p><p>Conjunto de datos de series temporales de marzo de 2020 a noviembre de 2025.</p>",
+    "pl": "<p>Zbiór danych dotyczących pacjentów z COVID-19 na oddziałach intensywnej terapii w Irlandii. Dzienne dane dotyczące potwierdzonych przypadków COVID-19 oraz liczby nowych przyjęć i zrzutów w ciągu ostatnich 24 godzin. Dane oparte są na zagregowanej liczbie szpitali publicznych dla dorosłych (26 z OIOM/HDU), szpitali pediatrycznych (2 z OIOM/HDU) i szpitali prywatnych (5 z OIOM/HDU) . Dane zostały dostarczone przez Krajowy Urząd Audytu Klinicznego (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Zbiór danych szeregów czasowych od marca 2020 r. do listopada 2025 r.</p>",
+    "hu": "<p>Dataset on COVID-19 patients in Intensive Care Units in Ireland (A Covid19-betegek adatkészlete az írországi intenzív osztályokon). A megerősített Covid19-esetek napi adatai, valamint az új befogadások és mentesítések száma az elmúlt 24 órában. Az adatok a felnőtt közkórházak (26 intenzív osztályos/HDU-s), a gyermekkórházak (2 intenzív osztályos/HDU-s) és a magánkórházak (5 intenzív osztályos/HDU-s) összesített adatain alapulnak . Az adatokat az Országos Klinikai Ellenőrzési Hivatal (NOCA) ICU Ágyinformációs Rendszere (ICU-BIS) szolgáltatta.</p><p>Idősoros adatkészlet 2020 márciusa és 2025 novembere között.</p>",
+    "sk": "<p>Súbor údajov o pacientoch s ochorením COVID-19 na jednotkách intenzívnej starostlivosti v Írsku. Denné údaje o potvrdených prípadoch ochorenia COVID-19 a počte nových prijatí a prepustení za posledných 24 hodín. Údaje sú založené na súhrne verejných nemocníc pre dospelých (26 s ICU/HDU), pediatrických nemocníc (2 s ICU/HDU) a súkromných nemocníc (5 s ICU/HDU) . Údaje poskytol Národný úrad klinického auditu (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Súbor údajov časových radov od marca 2020 do novembra 2025.</p>",
+    "bg": "<p>Набор от данни за пациенти с COVID-19 в интензивни отделения в Ирландия. Ежедневни данни за потвърдените случаи на COVID-19 и броя на новите случаи на прием и освобождаване от отговорност през последните 24 часа. Данните се основават на съвкупност от обществени болници за възрастни (26 с ICU/HDU), педиатрични болници (2 с ICU/HDU) и частни болници (5 с ICU/HDU) . Данните са предоставени от Информационната система за леглата на ICU (ICU-BIS) на Националната служба за клиничен одит (NOCA).</p><p>Набор от данни от времеви серии от март 2020 г. до ноември 2025 г.</p>",
+    "da": "<p>Datasæt om covid-19-patienter på intensivafdelinger i Irland. Daglige data for bekræftede covid-19-tilfælde og antallet af nye indlæggelser og udskrivninger inden for de seneste 24 timer. Dataene er baseret på et aggregat af offentlige voksenhospitaler (26 med intensivafdelinger/hospitaler på hjemmemarkedet), pædiatriske hospitaler (2 med intensivafdelinger/hospitaler på hjemmemarkedet) og private hospitaler (5 med intensivafdelinger/hospitaler på hjemmemarkedet) . Data er leveret af det nationale kontor for klinisk audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Tidsseriedatasæt fra marts 2020 til november 2025.</p>",
+    "et": "<p>Andmed COVID-19 patsientide kohta intensiivravi üksustes Iirimaal. Igapäevased andmed kinnitatud COVID-19 juhtumite kohta ning uute vastuvõtmiste ja lõpetamiste arv viimase 24 tunni jooksul. Andmed põhinevad täiskasvanud avalik-õiguslike haiglate (26 ICU/HDUga), pediaatriahaiglate (2 ICU/HDUga) ja erahaiglate (5 ICU/HDUga) koondandmetel . Andmeid on esitanud riiklik kliinilise auditi büroo (NOCA) ICU vooditeabesüsteem (ICU-BIS).</p><p>Ajaridade andmestik 2020. aasta märtsist kuni 2025. aasta novembrini.</p>",
+    "it": "<p>Dataset sui pazienti affetti da COVID-19 nelle unità di terapia intensiva in Irlanda. Dati giornalieri per i casi confermati di COVID-19 e numero di nuovi ricoveri e dimissioni nelle ultime 24 ore. I dati si basano su un aggregato di ospedali pubblici per adulti (26 con terapia intensiva/HDU), ospedali pediatrici (2 con terapia intensiva/HDU) e ospedali privati (5 con terapia intensiva/HDU) . I dati sono stati forniti dall'Ufficio nazionale di audit clinico (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Set di dati delle serie temporali da marzo 2020 a novembre 2025.</p>",
+    "en": "<p>Dataset on COVID-19 patients in Intensive Care Units in Ireland. Daily data for Confirmed COVID-19 cases and the number of new admissions and discharges in the past 24 hours. Data is based on an aggregate of adult public hospitals (26 with ICU/HDUs), paediatric hospitals (2 with ICU/HDUs) and private hospitals (5 with ICU/HDUs) . Data has been provided by the National Office of Clinical Audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Time series dataset from March 2020 to November 2025.</p>",
+    "lt": "<p>Dataset on COVID-19 patients intensyvaus gydymo skyriuose Airijoje. Patvirtintų COVID-19 atvejų dienos duomenys ir per pastarąsias 24 valandas priimtų ir išleistų naujų asmenų skaičius. Duomenys pagrįsti suaugusių valstybinių ligoninių (26 ligoninės, kuriose yra ICU/HDU), pediatrinių ligoninių (2 ligoninės, kuriose yra ICU/HDU) ir privačių ligoninių (5 ligoninės, kuriose yra ICU/HDU) suvestiniais duomenimis . Duomenis pateikė Nacionalinė klinikinio audito tarnyba (NOCA) ICU lovų informacinė sistema (ICU-BIS).</p><p>Laiko eilučių duomenų rinkinys nuo 2020 m. kovo mėn. iki 2025 m. lapkričio mėn.</p>",
+    "pt": "<p>Dados sobre doentes com COVID-19 em unidades de cuidados intensivos na Irlanda. Dados diários relativos aos casos confirmados de COVID-19 e ao número de novas admissões e descargas nas últimas 24 horas. Os dados baseiam-se num agregado de hospitais públicos adultos (26 com UTI/HDU), hospitais pediátricos (2 com UTI/HDU) e hospitais privados (5 com UTI/HDU) . Os dados foram fornecidos pelo National Office of Clinical Audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Conjunto de dados das séries cronológicas de março de 2020 a novembro de 2025.</p>",
+    "fi": "<p>Tietokanta covid-19-potilaista tehohoitoyksiköissä Irlannissa. Päivittäiset tiedot vahvistetuista covid-19-tapauksista ja uusien maahanpääsyjen ja kotiutusten määrästä viimeisten 24 tunnin aikana. Tiedot perustuvat aggregaattiin aikuisia julkisia sairaaloita (26 tehohoitoyksikköä/HDU:ta), pediatrisia sairaaloita (2 tehohoitoyksikköä/HDU:ta) ja yksityisiä sairaaloita (5 tehohoitoyksikköä/HDU:ta) . Tiedot on toimittanut National Office of Clinical Audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Time series dataset maaliskuusta 2020 marraskuuhun 2025.</p>",
+    "nl": "<p>Dataset over COVID-19-patiënten op intensive care-afdelingen in Ierland. Dagelijkse gegevens voor bevestigde COVID-19-gevallen en het aantal nieuwe opnames en ontslagen in de afgelopen 24 uur. Gegevens zijn gebaseerd op een aggregaat van volwassen openbare ziekenhuizen (26 met ICU/HDU's), pediatrische ziekenhuizen (2 met ICU/HDU's) en particuliere ziekenhuizen (5 met ICU/HDU's) . De gegevens zijn verstrekt door het National Office of Clinical Audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Tijdreeksgegevensset van maart 2020 tot november 2025.</p>",
+    "de": "<p>Datensatz zu COVID-19-Patienten in Intensivstationen in Irland. Tägliche Daten für bestätigte COVID-19-Fälle und die Zahl der Neuzulassungen und Entlassungen in den letzten 24 Stunden. Die Daten basieren auf einer Aggregation von erwachsenen öffentlichen Krankenhäusern (26 mit Intensivstationen/HDUs), pädiatrischen Krankenhäusern (2 mit Intensivstationen/HDUs) und privaten Krankenhäusern (5 mit Intensivstationen/HDUs) . Die Daten wurden vom National Office of Clinical Audit (NOCA) ICU Bed Information System (ICU-BIS) bereitgestellt.</p><p>Zeitreihendatensatz von März 2020 bis November 2025.</p>",
+    "sv": "<p>Dataset om covid-19-patienter vid intensivvårdsenheter i Irland. Dagliga uppgifter för bekräftade covid-19-fall och antalet nya antagningar och utsläpp under de senaste 24 timmarna. Data baseras på ett aggregat av vuxna offentliga sjukhus (26 med ICU/HDU), pediatriska sjukhus (2 med ICU/HDU) och privata sjukhus (5 med ICU/HDU) . Data har tillhandahållits av National Office of Clinical Audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Dataset för tidsserier från mars 2020 till november 2025.</p>",
+    "lv": "<p>Dataset par Covid-19 pacientiem intensīvās aprūpes nodaļās Īrijā. Dienas dati par apstiprinātiem Covid-19 gadījumiem un jaunu uzņemto un izrakstīto pacientu skaitu pēdējo 24 stundu laikā. Datu pamatā ir pieaugušo valsts slimnīcu (26 ar ICU/HDU), bērnu slimnīcu (2 ar ICU/HDU) un privāto slimnīcu (5 ar ICU/HDU) agregāts .. Datus ir sniedzis Valsts klīniskā audita birojs (NOCA) ICU Gultu informācijas sistēma (ICU-BIS).</p><p>Laika rindu datu kopa no 2020. gada marta līdz 2025. gada novembrim</p>",
+    "ro": "<p>Set de date privind pacienții cu COVID-19 din unitățile de terapie intensivă din Irlanda. Date zilnice pentru cazurile confirmate de COVID-19 și numărul de noi internări și evacuări în ultimele 24 de ore. Datele se bazează pe un agregat de spitale publice pentru adulți (26 cu UTI/HDU), spitale pediatrice (2 cu UTI/HDU) și spitale private (5 cu UTI/HDU) . Datele au fost furnizate de Oficiul Național de Audit Clinic (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Set de date din seria de timp din martie 2020 până în noiembrie 2025.</p>",
+    "hr": "<p>Podaci o bolesnicima s bolešću COVID-19 u jedinicama intenzivne skrbi u Irskoj. Dnevne podatke o potvrđenim slučajevima bolesti COVID-19 i broju novih prihvata i otpuštanja u posljednja 24 sata. Podaci se temelje na skupu javnih bolnica za odrasle (26 s ICU-om/HDU-om), pedijatrijskih bolnica (2 s ICU-om/HDU-om) i privatnih bolnica (5 s ICU-om/HDU-om) . Podatke je dostavio Nacionalni ured za kliničku reviziju (NOCA) Informacijski sustav kreveta ICU-a (ICU-BIS).</p><p>Serija podataka vremenske serije od ožujka 2020. do studenoga 2025.</p>",
+    "ga": "<p>Sonraí maidir le hothair COVID-19 in Aonaid Dianchúraim in Éirinn. Sonraí laethúla maidir le cásanna deimhnithe COVID-19 agus líon na n-iontrálacha agus na sceitheadh nua le 24 uair an chloig anuas. · Tá sonraí bunaithe ar chomhiomlán d'ospidéil phoiblí aosacha (26 le ICU/HDUanna), ospidéil phéidiatraiceacha (2 le ICU/HDUanna) agus ospidéil phríobháideacha (5 le ICU/HDUanna) . Tá sonraí curtha ar fáil ag an Oifig Náisiúnta um Iniúchóireacht Chliniciúil (NOCA) Córas Faisnéise Leaba ICU (ICU-BIS).</p><p> Tacar sonraí sraitheanna ama ó mhí an Mhárta 2020 go dtí mí na Samhna 2025.</p>",
+    "mt": "<p>Sett ta’ data dwar pazjenti bil-COVID-19 f’Unitajiet ta’ Kura Intensiva fl-Irlanda. Data ta’ kuljum għall-każijiet ikkonfermati tal-COVID-19 u l-għadd ta’ ammissjonijiet u skariki ġodda fl-aħħar 24 siegħa. Dejta hija bbażata fuq aggregat ta' sptarijiet pubbliċi adulti (26 b'ICU/HDUs), sptarijiet pedjatriċi (2 b'ICU/HDUs) u sptarijiet privati (5 b'ICU/HDUs) . Id-data ġiet ipprovduta mis-Sistema ta’ Informazzjoni tas-Sodda tal-ICU (ICU-BIS) tal-Uffiċċju Nazzjonali tal-Awditjar Kliniku (NOCA).</p><p>Sett ta’ data tas-serje ta’ żmien minn Marzu 2020 sa Novembru 2025.</p>",
+    "cs": "<p>Soubor údajů o pacientech s onemocněním COVID-19 na jednotkách intenzivní péče v Irsku. Denní údaje o potvrzených případech onemocnění COVID-19 a počtu nově přijatých a propuštěných osob za posledních 24 hodin. Údaje jsou založeny na souhrnu veřejných nemocnic pro dospělé (26 s JIP/HDU), pediatrických nemocnic (2 s JIP/HDU) a soukromých nemocnic (5 s JIP/HDU) . Údaje poskytl Národní úřad pro klinický audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Soubor údajů časových řad od března 2020 do listopadu 2025.</p>",
+    "sl": "<p>Podatki o bolnikih s COVID-19 v enotah za intenzivno nego na Irskem. Dnevni podatki za potrjene primere COVID-19 ter število novih sprejemov in odpustov v zadnjih 24 urah. Podatki temeljijo na skupnem številu javnih bolnišnic za odrasle (26 z ICU/HDU), pediatričnih bolnišnic (2 z ICU/HDU) in zasebnih bolnišnic (5 z ICU/HDU) . Podatke je zagotovil nacionalni urad za klinično revizijo (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Nabor podatkov časovne vrste od marca 2020 do novembra 2025.</p>",
+    "uk": "Набір даних про пацієнтів з COVID-19 у відділеннях інтенсивної терапії в Ірландії. Щоденні дані щодо підтверджених випадків COVID-19 та кількості нових госпіталізацій та виписок за останні 24 години. * Дані базуються на сукупності державних лікарень для дорослих (26 з ICU/HDU), педіатричних лікарень (2 з ICU/HDU) та приватних лікарень (5 з ICU/HDU) . Дані були надані Національним бюро клінічного аудиту (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Набір даних часових рядів з березня 2020 року по листопад 2025 року.</p>",
+    "el": "<p>Στοιχεία ασθενών με COVID-19 σε Μονάδες Εντατικής Θεραπείας στην Ιρλανδία. Ημερήσια στοιχεία για τα επιβεβαιωμένα κρούσματα COVID-19 και τον αριθμό των νέων εισαγωγών και απορρίψεων τις τελευταίες 24 ώρες. Τα δεδομένα βασίζονται σε ένα σύνολο δημόσιων νοσοκομείων ενηλίκων (26 με ΜΕΘ/ΧΕΝ), παιδιατρικών νοσοκομείων (2 με ΜΕΘ/ΧΕΝ) και ιδιωτικών νοσοκομείων (5 με ΜΕΘ/ΧΕΝ) . Τα δεδομένα παρασχέθηκαν από το Εθνικό Γραφείο Κλινικού Ελέγχου (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Σύνολο δεδομένων χρονοσειρών από τον Μάρτιο του 2020 έως τον Νοέμβριο του 2025.</p>",
+    "fr": "<p>Ensemble de données sur les patients atteints de COVID-19 dans les unités de soins intensifs en Irlande. Données quotidiennes pour les cas confirmés de COVID-19 et le nombre de nouvelles admissions et sorties au cours des dernières 24 heures. Les données sont basées sur un agrégat d'hôpitaux publics pour adultes (26 avec UIC/UDH), d'hôpitaux pédiatriques (2 avec UIC/UDH) et d'hôpitaux privés (5 avec UIC/UDH) . Les données ont été fournies par le National Office of Clinical Audit (NOCA) ICU Bed Information System (ICU-BIS).</p><p>Ensemble de données de séries chronologiques de mars 2020 à novembre 2025.</p>"
+  },
+  "landing_page": [
+    {
+      "resource": "https://opendata-geohive.hub.arcgis.com/datasets/c8208a0a8ff04a45b2922ae69e9b2206_0"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "id": "en",
+      "label": "English",
+      "resource": "http://publications.europa.eu/resource/authority/language/ENG"
+    }
+  ],
+  "title": {
+    "cs": "COVID-19 Historická časová řada NOCA ICUBIS",
+    "el": "COVID-19 NOCA ICUBIS Ιστορική Χρονική Σειρά",
+    "hu": "COVID-19 NOCA ICUBIS történelmi idősor",
+    "mt": "COVID-19 NOCA ICUBIS Sensiela ta' Żmien Storiku",
+    "fi": "COVID-19 NOCA ICUBIS historiallinen aikasarja",
+    "pt": "COVID-19 NOCA ICUBIS Historic Time Series",
+    "sl": "Covid-19 NOCA ICUBIS Historic Time Series (Zgodovinska časovna serija ICUBIS)",
+    "fr": "COVID-19 NOCA ICUBIS Série chronologique historique",
+    "bg": "Историческа часова серия COVID-19 NOCA ICUBIS",
+    "hr": "COVID-19 NOCA ICUBIS Povijesni vremenski niz",
+    "sv": "COVID-19 NOCA ICUBIS historiska tidsserie",
+    "ga": "COVID-19 NOCA ICUBIS Historic Time Series",
+    "it": "Serie temporale storica di COVID-19 NOCA ICUBIS",
+    "de": "COVID-19 NOCA ICUBIS Historische Zeitreihe",
+    "ro": "Seria cronologică istorică COVID-19 NOCA ICUBIS",
+    "da": "COVID-19 NOCA ICUBIS Historic Time Series",
+    "en": "COVID-19 NOCA ICUBIS Historic Time Series",
+    "sk": "Historický časový rad COVID-19 NOCA ICUBIS",
+    "et": "COVID-19 NOCA ICUBISe ajalooline aegrida",
+    "uk": "COVID-19 NOCA ICUBIS Історичні часові ряди",
+    "es": "COVID-19 NOCA ICUBIS Serie cronológica histórica",
+    "lt": "COVID-19 NOCA ICUBIS istorinė laiko serija",
+    "nl": "COVID-19 NOCA ICUBIS Historische Tijdreeks",
+    "lv": "Covid-19 NOCA ICUBIS vēsturiskā laika sērija",
+    "pl": "COVID-19 NOCA ICUBIS Historyczna seria czasu"
+  },
+  "distributions": [
+    {
+      "id": "26f5fd58-6cdd-4b4c-9108-ccf7f666c6ec",
+      "title": {
+        "hr": "CSV",
+        "lv": "CSV",
+        "pt": "CSV",
+        "cs": "CSV",
+        "en": "CSV",
+        "sl": "CSV",
+        "et": "CSV",
+        "pl": "CSV",
+        "es": "CSV",
+        "da": "CSV",
+        "ro": "CSV",
+        "sk": "CSV",
+        "mt": "CSV",
+        "de": "CSV",
+        "lt": "CSV",
+        "nl": "CSV",
+        "it": "CSV",
+        "el": "CSV",
+        "fr": "CSV",
+        "sv": "CSV",
+        "ga": "CSV",
+        "uk": "CSV",
+        "fi": "CSV",
+        "bg": "CSV",
+        "hu": "CSV"
+      },
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/c8208a0a8ff04a45b2922ae69e9b2206/csv?layers=0"
+      ],
+      "format": {
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/c8208a0a8ff04a45b2922ae69e9b2206/csv?layers=0"
+      ],
+      "issued": "2025-12-09T16:20:28",
+      "modified": "2025-12-09T16:20:28"
+    },
+    {
+      "id": "28ab89b2-1a41-4902-be05-f7ad4f275f4c",
+      "title": {
+        "sk": "ArcGIS GeoService",
+        "bg": "ArcGIS GeoService",
+        "el": "ArcGIS GeoService",
+        "de": "ArcGIS GeoService",
+        "uk": "геосервісу ArcGIS",
+        "fr": "ArcGIS GeoService",
+        "fi": "ArcGIS GeoService",
+        "ga": "ArcGIS GeoService",
+        "mt": "ArcGIS GeoService",
+        "it": "ArcGIS GeoService",
+        "pl": "ArcGIS GeoService",
+        "ro": "ArcGIS GeoService",
+        "da": "ArcGIS GeoService",
+        "et": "ArcGIS GeoService",
+        "hr": "ArcGIS GeoService",
+        "en": "ArcGIS GeoService",
+        "hu": "ArcGIS GeoService",
+        "pt": "ArcGIS GeoService",
+        "cs": "ArcGIS GeoService",
+        "sv": "ArcGIS GeoService",
+        "sl": "ArcGIS GeoService",
+        "nl": "ArcGIS GeoService",
+        "lv": "ArcGIS GeoService",
+        "lt": "ArcGIS GeoService",
+        "es": "ArcGIS GeoService"
+      },
+      "access_url": [
+        "https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/ICUBISHistoricTimelinePublicView/FeatureServer/0"
+      ],
+      "format": {
+        "id": "ARCGIS GEOSERVICES REST API",
+        "label": "ARCGIS GEOSERVICES REST API"
+      },
+      "issued": "2025-12-09T16:20:28",
+      "media_type": "application/json",
+      "modified": "2025-12-09T16:20:28"
+    },
+    {
+      "id": "14d04615-1b2e-4f54-9006-508cb81db488",
+      "title": {
+        "uk": "Файл форми",
+        "pt": "Shapefile",
+        "lv": "Formas fails",
+        "sv": "Shapefile",
+        "ro": "Shapefile",
+        "mt": "Forpefile",
+        "hr": "Datoteka oblika",
+        "cs": "Tvarový soubor",
+        "nl": "Vormbestand",
+        "ga": "Shapefile",
+        "sl": "Shapefile",
+        "el": "Φάκελος σχήματος",
+        "de": "Shapefile",
+        "es": "Shapefile",
+        "da": "Formfil",
+        "fi": "Shapefile",
+        "lt": "Formos failas",
+        "sk": "Tvarový súbor",
+        "en": "Shapefile",
+        "bg": "Формуляр",
+        "hu": "Alakfájl",
+        "it": "File di forma",
+        "et": "Shapefile",
+        "fr": "Shapefile",
+        "pl": "Plik kształtu"
+      },
+      "issued": "2025-12-09T16:20:28",
+      "format": {
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/c8208a0a8ff04a45b2922ae69e9b2206/shapefile?layers=0"
+      ],
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/c8208a0a8ff04a45b2922ae69e9b2206/shapefile?layers=0"
+      ],
+      "modified": "2025-12-09T16:20:28",
+      "media_type": "application/zip"
+    },
+    {
+      "id": "eb0ba930-8427-459e-a475-dfc080e3fc2b",
+      "title": {
+        "fi": "ArcGIS Hub -datajoukko",
+        "ro": "Setul de date ArcGIS Hub",
+        "et": "ArcGIS keskuse andmekogum",
+        "lv": "ArcGIS centra datu kopa",
+        "hr": "Skup podataka ArcGIS Hub",
+        "de": "ArcGIS-Hub-Datensatz",
+        "ga": "ArcGIS Hub Dataset",
+        "en": "ArcGIS Hub Dataset",
+        "lt": "ArcGIS Hub duomenų rinkinys",
+        "es": "Conjunto de datos de ArcGIS Hub",
+        "da": "Datasæt for ArcGIS-hub",
+        "sv": "Dataset för ArcGIS Hub",
+        "sk": "ArcGIS Hub Dataset",
+        "pt": "Conjunto de dados da plataforma ArcGIS",
+        "fr": "Ensemble de données ArcGIS Hub",
+        "el": "Σύνολο δεδομένων κόμβου ArcGIS",
+        "pl": "Zestaw danych ArcGIS Hub",
+        "hu": "ArcGIS Hub adatkészlet",
+        "nl": "ArcGIS Hub-gegevensset",
+        "mt": "Sett ta' Data tal-Hub tal-ArcGIS",
+        "sl": "Nabor podatkov vozlišča ArcGIS",
+        "bg": "Набор от данни за ArcGIS Hub",
+        "uk": "Набір даних ArcGIS Hub",
+        "it": "Set di dati ArcGIS Hub",
+        "cs": "Datový soubor ArcGIS Hub"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/datasets/c8208a0a8ff04a45b2922ae69e9b2206_0"
+      ],
+      "issued": "2025-12-09T16:20:28",
+      "media_type": "text/html",
+      "format": {
+        "id": "HTML",
+        "label": "HTML"
+      },
+      "modified": "2025-12-09T16:20:28"
+    },
+    {
+      "id": "e4c4d625-4006-4190-bf93-ad2a590c6a2e",
+      "title": {
+        "et": "KML",
+        "da": "KML",
+        "ro": "KML",
+        "ga": "KML",
+        "lv": "KML",
+        "fi": "KML",
+        "pl": "KML",
+        "sk": "KML",
+        "en": "KML",
+        "el": "ΧΜΛ",
+        "de": "KML",
+        "lt": "KML",
+        "cs": "KML",
+        "bg": "KML",
+        "nl": "KML",
+        "fr": "KML",
+        "pt": "KML",
+        "sl": "KML",
+        "es": "KML",
+        "hr": "KML",
+        "it": "KML",
+        "uk": "КМЛ (KML)",
+        "mt": "KML",
+        "sv": "KML",
+        "hu": "KML"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/c8208a0a8ff04a45b2922ae69e9b2206/kml?layers=0"
+      ],
+      "format": {
+        "id": "KML",
+        "label": "KML"
+      },
+      "issued": "2025-12-09T16:20:28",
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/c8208a0a8ff04a45b2922ae69e9b2206/kml?layers=0"
+      ],
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "modified": "2025-12-09T16:20:28"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "modified": "2026-05-31T18:41:55",
+  "publisher": {
+    "type": "Agent",
+    "name": "Tailte Éireann",
+    "resource": "https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97"
+  },
+  "id": "37757fcf-8d84-4013-9725-d2f1d2b6035e",
+  "categories": [
+    {
+      "id": "HEAL",
+      "label": {
+        "lv": "Veselība",
+        "hu": "Egészségügy",
+        "ga": "Sláinte",
+        "no": "Helse",
+        "mt": "Saħħa",
+        "et": "Tervis",
+        "fi": "Terveys",
+        "pt": "Saúde",
+        "es": "Salud",
+        "lt": "Sveikata",
+        "da": "Sundhed",
+        "el": "Υγεία",
+        "ro": "Sănătate",
+        "cs": "Zdraví",
+        "sv": "Hälsa",
+        "nl": "Gezondheid",
+        "de": "Gesundheit",
+        "nb": "Helse",
+        "sl": "Zdravje",
+        "hr": "Zdravlje",
+        "en": "Health",
+        "nn": "Helse",
+        "it": "Salute",
+        "pl": "Zdrowie",
+        "sk": "Zdravotníctvo",
+        "bg": "Здраве",
+        "fr": "Santé"
+      },
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+    }
+  ],
+  "issued": "2020-06-16",
+  "catalog_record": {
+    "issued": "2026-04-06T20:36:53Z",
+    "modified": "2026-05-31T20:25:03Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "telephone": "-"
+    },
+    {
+      "type": "Organization",
+      "name": "content_osireland"
+    }
+  ]
+}

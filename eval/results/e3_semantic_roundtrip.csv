@@ -1,0 +1,8 @@
+sample_id,theme_uris,semantic_uris,intersection,set_equal,missing_in_coco,extra_in_coco
+fixture_maize,0,1,0,no,,http://aims.fao.org/aos/agrovoc/c_12332
+synthetic_rich_full,3,3,3,yes,,
+synthetic_missing_publisher,3,3,3,yes,,
+synthetic_missing_spatial,3,3,3,yes,,
+synthetic_missing_temporal,3,3,3,yes,,
+synthetic_multi_geometry,3,3,3,yes,,
+synthetic_custom_predicates,3,3,3,yes,,

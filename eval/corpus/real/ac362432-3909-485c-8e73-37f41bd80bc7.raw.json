@@ -1,0 +1,386 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/ac362432-3909-485c-8e73-37f41bd80bc7",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2026-02-22T03:53:22Z",
+        "issued": "2025-01-31T17:54:14Z"
+      }
+    },
+    "full_available_languages": [
+      "ga",
+      "pl",
+      "nl",
+      "es",
+      "mt",
+      "uk",
+      "ro",
+      "et",
+      "fr",
+      "de",
+      "pt",
+      "el",
+      "sl",
+      "fi",
+      "lv",
+      "lt",
+      "bg",
+      "it",
+      "hr",
+      "nor",
+      "sv",
+      "en",
+      "hu",
+      "da",
+      "sk",
+      "cs"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Sokkeldirektoratets Faktakartteneste inneholder informasjon om blant annet lete- og utvinningsbrønner, undersøkelser, funn og felt og utvinningstillatelser.",
+    "en": "The Norwegian Offshore Directorate’s interactive FactMaps contain information on wells, surveys, fields and discoveries, production licences, agreement-based areas, permanent facilities and more."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Quadranten",
+    "fi": "Quadrants",
+    "pt": "Quadrantes",
+    "bg": "Квадранти",
+    "lt": "Keturračiai",
+    "lv": "Kvadranti",
+    "hr": "Kvadrati",
+    "fr": "Quadrants",
+    "hu": "Kvadránsok",
+    "nor": "Kvadranter",
+    "uk": "Квадранти (квадранти)",
+    "sk": "Kvadranty",
+    "sl": "kvadranti",
+    "ga": "Caidrimh",
+    "sv": "Kvadranter",
+    "mt": "Kwaranti",
+    "el": "Τεταρτημόρια",
+    "en": "Quadrants",
+    "it": "Quadranti",
+    "es": "Cuadrantes",
+    "et": "Kvadrandid",
+    "cs": "Kvadranty",
+    "pl": "Kwadranty",
+    "ro": "Cvadrante",
+    "da": "Kvadranter",
+    "nl": "Kwadranten"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "label": "daily"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://factmaps.sodir.no/api/rest/services/Factmaps/FactMapsED50UTM32/MapServer/803"
+      ],
+      "format": {
+        "id": "OTHER",
+        "label": "OTHER"
+      },
+      "modified": "2020-05-07T00:00:00Z",
+      "id": "d29b4f77-a2c6-43e1-8adb-3be637c45baf",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://factmaps.sodir.no/api/rest/services/Factmaps/FactMapsED50UTM32/MapServer/803"
+          ],
+          "endpoint_description": [
+            "https://factmaps.sodir.no/api/rest/services/Factmaps/FactMapsED50UTM32/MapServer/803"
+          ],
+          "title": {
+            "en": "WFS"
+          }
+        }
+      ],
+      "title": {
+        "de": "andere",
+        "fi": "muu",
+        "pt": "outros",
+        "bg": "друго",
+        "lt": "kita",
+        "lv": "citi",
+        "hr": "drugo",
+        "fr": "autres",
+        "hu": "egyéb",
+        "uk": "інші",
+        "sk": "iné",
+        "sl": "druge",
+        "ga": "eile",
+        "sv": "övrig",
+        "mt": "oħrajn",
+        "el": "άλλα",
+        "en": "other",
+        "it": "altro",
+        "es": "otros",
+        "et": "muud",
+        "cs": "ostatní",
+        "pl": "inne",
+        "da": "andre",
+        "ro": "alte",
+        "nl": "andere"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 160
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosesshistorie tilgjengelig"
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Sigbjørn Dale",
+    "type": "Person",
+    "email": "mailto:factweb@sodir.no"
+  },
+  "modified": "2020-05-07T00:00:00Z",
+  "id": "ac362432-3909-485c-8e73-37f41bd80bc7",
+  "categories": [],
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            83
+          ],
+          [
+            51,
+            83
+          ],
+          [
+            51,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            83
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "issued": "0001-01-01T00:00:00Z",
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-06T17:54:16Z",
+    "issued": "2021-10-15T08:49:31Z"
+  }
+}

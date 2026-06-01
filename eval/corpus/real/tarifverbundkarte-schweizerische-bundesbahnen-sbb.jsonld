@@ -1,0 +1,144 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/tarifverbundkarte-schweizerische-bundesbahnen-sbb",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "tarifverbundkarte@schweizerische-bundesbahnen-sbb"
+      ],
+      "dct:title": {
+        "@language": "de",
+        "@value": "Tarifverbundkarte"
+      },
+      "dct:description": {
+        "@language": "de",
+        "@value": "Tarifverbünde der Schweiz"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.sbb.ch/explore/?refine.dcat_ap_ch.domain=schweizerische-bundesbahnen-sbb",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "schweizerische-bundesbahnen-sbb"
+        }
+      },
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ch"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "opendata-swiss",
+        "description": {
+          "en": "Open Data Portal Switzerland"
+        },
+        "publisher": {
+          "type": "Agent",
+          "email": "mailto:opendata@bfs.admin.ch",
+          "name": "Federal Statistical Office",
+          "homepage": "https://www.bfs.admin.ch"
+        },
+        "source_type": "dcat-ap",
+        "title": {
+          "de": "opendata.swiss"
+        },
+        "modified": "2024-03-12T10:32:33Z",
+        "homepage": "https://opendata.swiss",
+        "issued": "2024-03-12T10:32:33Z",
+        "country": {
+          "label": "Switzerland",
+          "id": "ch",
+          "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+        },
+        "spatial_resource": [
+          {
+            "label": "Switzerland",
+            "id": "ch",
+            "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "de",
+            "label": "German",
+            "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+          }
+        ]
+      },
+      "deuropa:landing_page": [
+        {
+          "resource": "https://data.sbb.ch/explore/dataset/tarifverbundkarte/"
+        }
+      ],
+      "deuropa:language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 305
+      },
+      "deuropa:categories": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+          "id": "TRAN",
+          "label": {
+            "nn": "Transport",
+            "de": "Verkehr",
+            "no": "Transport",
+            "fi": "Liikenne",
+            "pt": "Transportes",
+            "bg": "Транспорт",
+            "lt": "Transportas",
+            "lv": "Transports",
+            "hr": "Promet",
+            "fr": "Transports",
+            "hu": "Közlekedés",
+            "sk": "Doprava",
+            "sl": "Transport",
+            "ga": "Iompar",
+            "sv": "Transport",
+            "mt": "Trasport",
+            "el": "Μεταφορές",
+            "en": "Transport",
+            "it": "Trasporti",
+            "es": "Transporte",
+            "et": "Transport",
+            "cs": "Doprava",
+            "nb": "Transport",
+            "pl": "Transport",
+            "ro": "Transport",
+            "da": "Transport",
+            "nl": "Vervoer"
+          }
+        }
+      ],
+      "deuropa:catalog_record": {
+        "modified": "2026-05-31T20:05:07Z",
+        "issued": "2025-08-24T20:11:30Z"
+      }
+    }
+  ]
+}

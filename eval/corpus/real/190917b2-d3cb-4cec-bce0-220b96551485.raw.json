@@ -1,0 +1,406 @@
+{
+  "identifier": [
+    "190917b2-d3cb-4cec-bce0-220b96551485"
+  ],
+  "country": {
+    "label": "Ukraine",
+    "id": "ua",
+    "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+  },
+  "keywords": [
+    {
+      "id": "спорт",
+      "label": "спорт",
+      "language": "uk"
+    },
+    {
+      "id": "майданчик",
+      "label": "майданчик",
+      "language": "uk"
+    },
+    {
+      "id": "діти",
+      "label": "діти",
+      "language": "uk"
+    },
+    {
+      "id": "оздоровлення",
+      "label": "оздоровлення",
+      "language": "uk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/190917b2-d3cb-4cec-bce0-220b96551485",
+  "catalog": {
+    "id": "data-gov-ua",
+    "modified": "2023-02-10T20:19:48.373074",
+    "issued": "2022-11-21T05:36:39Z",
+    "publisher": {
+      "type": "Agent",
+      "name": "States site of Ukraine",
+      "email": "mailto:admin@data.gov.ua",
+      "homepage": "https://www.kmu.gov.ua/en"
+    },
+    "language": [
+      {
+        "id": "uk",
+        "label": "Ukrainian",
+        "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+      }
+    ],
+    "homepage": "https://data.gov.ua",
+    "source_type": "dcat-ap",
+    "description": {
+      "en": "Open Data Portal Ukraine"
+    },
+    "title": {
+      "en": "data.gov.ua"
+    },
+    "country": {
+      "label": "Ukraine",
+      "id": "ua",
+      "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ukraine",
+        "id": "ua",
+        "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+      }
+    ],
+    "spatial": []
+  },
+  "translation_meta": {
+    "details": {
+      "hu": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "uk": {
+        "machine_translated": false,
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:44:46Z",
+        "issued": "2026-05-08T20:19:31Z"
+      }
+    },
+    "full_available_languages": [
+      "hu",
+      "bg",
+      "en",
+      "ro",
+      "uk",
+      "de",
+      "sk",
+      "sv",
+      "pl",
+      "mt",
+      "cs",
+      "hr",
+      "it",
+      "pt",
+      "lt",
+      "fi",
+      "es",
+      "da",
+      "ga",
+      "sl",
+      "et",
+      "lv",
+      "el",
+      "nl",
+      "fr"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "ga": "Is éard atá sa tacar sonraí clós súgartha acmhainne amháin, ina bhfuil faisnéis faoi spóirt, leanaí agus clóis súgartha eile atá suite ar chríoch phobal críochach chathair na Mara Duibhe.",
+    "lv": "Datu kopa sastāv no viena resursa rotaļu laukumiem, kas satur informāciju par sporta, bērnu un citiem rotaļu laukumiem, kas atrodas Melnās jūras pilsētas teritoriālās kopienas teritorijā.",
+    "es": "El conjunto de datos consta de un parque infantil de recursos, que contiene información sobre deportes, parques infantiles y otros parques infantiles ubicados en el territorio de la comunidad territorial de la ciudad del Mar Negro.",
+    "lt": "Duomenų rinkinį sudaro viena ištekliaus žaidimų aikštelė, kurioje pateikiama informacija apie sporto, vaikų ir kitas žaidimų aikšteles, esančias Juodosios jūros miesto teritorinės bendruomenės teritorijoje.",
+    "ro": "Setul de date constă dintr-un loc de joacă de resurse, care conține informații despre sport, locuri de joacă pentru copii și alte locuri de joacă situate pe teritoriul comunității teritoriale a orașului Mării Negre.",
+    "it": "Il set di dati è costituito da un parco giochi di risorse, che contiene informazioni su sport, bambini e altri campi da gioco situati sul territorio della comunità territoriale della città del Mar Nero.",
+    "el": "Το σύνολο δεδομένων αποτελείται από παιδικές χαρές, οι οποίες περιέχουν πληροφορίες σχετικά με τον αθλητισμό, τις παιδικές χαρές και άλλες παιδικές χαρές που βρίσκονται στο έδαφος της εδαφικής κοινότητας της πόλης της Μαύρης Θάλασσας.",
+    "et": "Andmekogum koosneb ühest ressursimänguväljakust, mis sisaldab teavet Musta mere linna territoriaalse kogukonna territooriumil asuvate spordi-, laste- ja muude mänguväljakute kohta.",
+    "hu": "Az adatkészlet egy erőforrás-játszótérből áll, amely információkat tartalmaz a fekete-tengeri városi területi közösség területén található sport-, gyermek- és egyéb játszóterekről.",
+    "sl": "Podatkovni niz je sestavljen iz enega vira igrišča, ki vsebuje informacije o športu, otroških in drugih igriščih, ki se nahajajo na ozemlju črnomorske mestne teritorialne skupnosti.",
+    "uk": "Набір даних складається із одного ресурсу playgrounds, який містить інформацію про спортивні, дитячі та інші майданчики, розташовані на території Чорноморської міської територіальної громади.",
+    "pt": "O conjunto de dados consiste em um parque infantil de recursos, que contém informações sobre esportes, parques infantis e outros parques infantis localizados no território da comunidade territorial da cidade do Mar Negro.",
+    "da": "Datasættet består af en ressource legepladser, som indeholder oplysninger om sport, børns og andre legepladser placeret på det område af Sortehavets by territoriale samfund.",
+    "de": "Der Datensatz besteht aus einem Ressourcenspielplatz, der Informationen über Sport-, Kinder- und andere Spielplätze enthält, die sich auf dem Gebiet der Territorialgemeinschaft der Stadt am Schwarzen Meer befinden.",
+    "en": "The data set consists of one resource playgrounds, which contains information about sports, children's and other playgrounds located on the territory of the Black Sea city territorial community.",
+    "sk": "Súbor údajov pozostáva z jedného zdrojového ihriska, ktoré obsahuje informácie o športe, detských ihriskách a iných ihriskách nachádzajúcich sa na území čiernomorského mestského územného spoločenstva.",
+    "pl": "Zestaw danych składa się z jednego zasobu placów zabaw, który zawiera informacje o sportach, placach zabaw dla dzieci i innych placach zabaw znajdujących się na terytorium społeczności terytorialnej miasta Morza Czarnego.",
+    "fi": "Aineisto koostuu yhdestä resurssileikkikentästä, joka sisältää tietoa Mustanmeren kaupungin alueella sijaitsevista urheilu-, lasten- ja muista leikkikentistä.",
+    "hr": "Skup podataka sastoji se od jednog resursnog igrališta koje sadrži informacije o sportu, dječjim i drugim igralištima koja se nalaze na području teritorijalne zajednice crnomorskog grada.",
+    "mt": "Is-sett tad-dejta jikkonsisti f'bitħa waħda ta 'riżorsi, li fiha informazzjoni dwar l-isports, it-tfal u bitħa oħra li jinsabu fit-territorju tal-komunità territorjali tal-belt tal-Baħar l-Iswed.",
+    "nl": "De dataset bestaat uit één resource-speeltuin, die informatie bevat over sport-, kinder- en andere speeltuinen op het grondgebied van de territoriale gemeenschap van de Zwarte Zeestad.",
+    "fr": "L'ensemble de données se compose d'un terrain de jeu de ressources, qui contient des informations sur les sports, les enfants et d'autres terrains de jeux situés sur le territoire de la communauté territoriale de la ville de la mer Noire.",
+    "bg": "Наборът от данни се състои от една ресурсна детска площадка, която съдържа информация за спортни, детски и други детски площадки, разположени на територията на териториалната общност на Черноморския град.",
+    "cs": "Soubor dat se skládá z jednoho zdroje dětských hřišť, který obsahuje informace o sportovištích, dětských a dalších hřištích nacházejících se na území teritoriální komunity města Černého moře.",
+    "sv": "Datauppsättningen består av en resurs lekplatser, som innehåller information om sport, barn och andra lekplatser som ligger på territoriet i Svarta havets stadsterritorium."
+  },
+  "index": "dataset",
+  "version_info": "1.0",
+  "language": [
+    {
+      "id": "ua",
+      "label": "ua"
+    }
+  ],
+  "title": {
+    "hu": "A közösségi tulajdonban lévő gyermek-, sport- és egyéb szabadidős és szabadidős játszóterekre vonatkozó adatok",
+    "bg": "Данни за детски, спортни и други площадки за отдих и развлечение, които са общинска собственост",
+    "en": "Data on children's, sports and other playgrounds for leisure and recreation, which are in communal ownership",
+    "ro": "Date privind terenurile de joacă pentru copii, sport și alte locuri de joacă pentru petrecerea timpului liber și recreere, aflate în proprietate comună",
+    "uk": "Дані про дитячі, спортивні та інші майданчики для дозвілля та відпочинку, що перебувають у комунальній власності",
+    "de": "Daten über Kinder-, Sport- und andere Spielplätze für Freizeit und Erholung, die sich in kommunalem Besitz befinden",
+    "sk": "Údaje o detských, športových a iných ihriskách na voľný čas a rekreáciu, ktoré sú v spoločnom vlastníctve",
+    "sv": "Uppgifter om gemensamma lekplatser för barn, idrott och fritid",
+    "pl": "Dane o placach zabaw dla dzieci, placach sportowych i innych placach zabaw do celów rekreacyjnych i rekreacyjnych będących własnością gminy",
+    "mt": "Data dwar il-grawnds tal-logħob tat-tfal, tal-isports u oħrajn għad-divertiment u r-rikreazzjoni, li huma proprjetà komunali",
+    "cs": "Údaje o dětských, sportovních a jiných hřištích pro volný čas a rekreaci, která jsou ve společném vlastnictví",
+    "hr": "Podaci o dječjim, sportskim i drugim igralištima za slobodno vrijeme i rekreaciju, koja su u zajedničkom vlasništvu",
+    "it": "Dati sui parchi giochi per bambini, sportivi e di altro tipo per il tempo libero e la ricreazione, che sono di proprietà comune",
+    "pt": "Dados sobre parques infantis, desportivos e outros parques infantis de lazer e recreação, que são propriedade comunitária",
+    "lt": "Bendruomenės valdomų vaikų, sporto ir kitų laisvalaikio ir poilsio žaidimų aikštelių duomenys",
+    "fi": "Tiedot yhteisomistuksessa olevista lasten-, urheilu- ja muista vapaa-ajan leikkipaikoista",
+    "es": "Datos sobre juegos infantiles, deportivos y de otro tipo para el esparcimiento y el esparcimiento, que son propiedad de la comunidad",
+    "da": "Data om børne-, sports- og andre legepladser til fritid og rekreation, som er i fælles eje",
+    "ga": "Sonraí maidir le clóis súgartha leanaí, spóirt agus eile le haghaidh fóillíochta agus áineasa, atá faoi chomhúinéireacht",
+    "sl": "Podatki o otroških, športnih in drugih igriščih za prosti čas in rekreacijo, ki so v skupni lasti",
+    "et": "Andmed laste-, spordi- ja muude vaba aja veetmise ja vaba aja veetmise mänguväljakute kohta, mis on ühisomandis",
+    "lv": "Dati par bērnu, sporta un citiem atpūtas un atpūtas rotaļu laukumiem, kas pieder pašvaldībai",
+    "el": "Δεδομένα σχετικά με παιδικές, αθλητικές και άλλες παιδικές χαρές για αναψυχή και ψυχαγωγία, οι οποίες είναι κοινόχρηστες",
+    "nl": "Gegevens over kinder-, sport- en andere speelplaatsen voor vrijetijdsbesteding en recreatie, die in gemeenschappelijk bezit zijn",
+    "fr": "Données sur les terrains de jeux pour enfants, les terrains de sport et autres terrains de loisirs, qui appartiennent à la communauté"
+  },
+  "distributions": [
+    {
+      "id": "b740cb0f-726c-4176-a515-112d39da621c",
+      "access_url": [
+        "https://data.gov.ua/dataset/190917b2-d3cb-4cec-bce0-220b96551485/resource/ee78e78b-2ed1-4a3f-9514-136f632cf4d5/download/playgrounds.csv"
+      ],
+      "description": {
+        "pl": "Zasób zawiera informacje na temat obiektów sportowych i placów zabaw dla dzieci znajdujących się we Wspólnocie Terytorialnej Miasta Morza Czarnego dla każdego obiektu, w szczególności: informacje o adresie i lokalizacji, wyposażeniu, stanie magazynowym",
+        "uk": "Ресурс містить інформацію про спортивні та дитячі майданчики, розташовані в Чорноморській міській територіальній громаді, щодо кожного майданчика, зокрема: інформацію про адресу та місце розташування, обладнання, проведенні інвентаризації",
+        "ro": "Resursa conține informații despre terenurile de sport și de joacă pentru copii situate în Comunitatea Teritorială a Orașului Mării Negre pentru fiecare sit, în special: informații despre adresă și locație, echipament, inventar",
+        "it": "La risorsa contiene informazioni su sport e parchi giochi per bambini situati nella Comunità Territoriale della Città del Mar Nero per ogni sito, in particolare: informazioni sull'indirizzo e la posizione, le attrezzature, l'inventario",
+        "sk": "Zdroj obsahuje informácie o športových a detských ihriskách nachádzajúcich sa v Čiernomorskom mestskom územnom spoločenstve pre každú lokalitu, najmä: informácie o adrese a mieste, vybavení, inventári",
+        "da": "Ressourcen indeholder oplysninger om sport og legepladser i Sortehavsbyens territoriale fællesskab for hvert sted, navnlig: oplysninger om adresse og placering, udstyr, beholdning",
+        "hr": "Resurs sadržava informacije o sportskim i dječjim igralištima koja se nalaze u Teritorijalnoj zajednici crnomorskih gradova za svako područje, a posebno: informacije o adresi i lokaciji, opremi, inventaru",
+        "hu": "A forrás információkat tartalmaz a Fekete-tenger városának területi közösségében található sport- és játszótérekről, különösen az alábbiakról: a címre és a helyre, a felszerelésre, a leltárra vonatkozó információk",
+        "de": "Die Ressource enthält Informationen über Sport- und Kinderspielplätze in der Black Sea City Territorial Community für jeden Standort, insbesondere: Informationen über Adresse und Standort, Ausstattung, Inventar",
+        "el": "Ο πόρος περιέχει πληροφορίες σχετικά με τον αθλητισμό και τις παιδικές χαρές που βρίσκονται στην εδαφική κοινότητα της πόλης της Μαύρης Θάλασσας για κάθε τόπο, και συγκεκριμένα: πληροφορίες σχετικά με τη διεύθυνση και τη θέση, τον εξοπλισμό, το απόθεμα",
+        "pt": "O recurso contém informações sobre desportos e parques infantis localizados na Comunidade Territorial da Cidade do Mar Negro para cada local, em especial: informações sobre o endereço e a localização, o equipamento, o inventário",
+        "et": "Ressurss sisaldab teavet Musta mere linna territoriaalses kogukonnas asuvate spordi- ja laste mänguväljakute kohta iga saidi kohta, eelkõige: teave aadressi ja asukoha, seadmete, inventari kohta",
+        "nl": "De bron bevat informatie over sport- en kinderspeelplaatsen in de Zwarte Zee City Territorial Community voor elke site, met name: informatie over het adres en de locatie, apparatuur, inventaris",
+        "sv": "Resursen innehåller information om idrotts- och lekplatser i Svartahavsstadens territoriella gemenskap för varje område, särskilt följande: information om adress och plats, utrustning, inventering",
+        "bg": "Ресурсът съдържа информация за спортни и детски площадки, разположени в Териториална общност \"Черноморски град\" за всеки обект, по-специално: информация за адреса и местоположението, оборудването, инвентара",
+        "ga": "Tá faisnéis san acmhainn faoi chlóis súgartha spóirt agus leanaí atá lonnaithe i gComhphobal Críochach Chathair na Mara Duibhe do gach láithreán, go háirithe: faisnéis faoi sheoladh agus suíomh, trealamh, fardal",
+        "fi": "Resurssi sisältää tietoa Mustanmeren kaupungin alueella sijaitsevista urheilu- ja lasten leikkikentistä kunkin kohteen osalta, erityisesti: tiedot osoitteesta ja sijainnista, laitteista, varastosta",
+        "sl": "Vir vsebuje informacije o športnih in otroških igriščih v teritorialni skupnosti črnomorskega mesta za vsako spomeniško območje, zlasti: informacije o naslovu in lokaciji, opremi, inventarju",
+        "cs": "Zdroj obsahuje informace o sportovních a dětských hřištích nacházejících se v Územním společenství města Černého moře pro každou lokalitu, zejména: informace o adrese a umístění, vybavení, inventáři",
+        "en": "The resource contains information about sports and children's playgrounds located in the Black Sea City Territorial Community for each site, in particular: information about the address and location, equipment, inventory",
+        "mt": "Ir-riżorsa fiha informazzjoni dwar l-isports u l-grawnds tal-logħob tat-tfal li jinsabu fil-Komunità Territorjali tal-Belt tal-Baħar l-Iswed għal kull sit, b’mod partikolari: informazzjoni dwar l-indirizz u l-post, it-tagħmir, l-inventarju",
+        "lv": "Resurss satur informāciju par sporta un bērnu rotaļu laukumiem, kas atrodas Melnās jūras pilsētas teritoriālajā kopienā, par katru teritoriju, jo īpaši: informācija par adresi un atrašanās vietu, aprīkojumu, inventāru",
+        "fr": "La ressource contient des informations sur les sports et les terrains de jeux pour enfants situés dans la communauté territoriale de Black Sea City pour chaque site, en particulier: informations sur l'adresse et l'emplacement, l'équipement, l'inventaire",
+        "lt": "Išteklių sudaro informacija apie sporto ir vaikų žaidimų aikšteles, esančias Juodosios jūros miesto teritorinėje bendruomenėje kiekvienoje vietoje, visų pirma: informacija apie adresą ir vietą, įrangą, inventorių",
+        "es": "El recurso contiene información sobre deportes y parques infantiles ubicados en la Comunidad Territorial de la Ciudad del Mar Negro para cada sitio, en particular: información sobre la dirección y la ubicación, el equipo, el inventario"
+      },
+      "title": {
+        "sv": "lekplatser.csv",
+        "hu": "játszótér.csv",
+        "pt": "playgrounds.csv",
+        "ro": "Locuri de joacă.csv",
+        "uk": "playgrounds.csv",
+        "ga": "clós súgartha.csv",
+        "lt": "žaidimų aikštelės.csv",
+        "nl": "Speeltuinen.csv",
+        "et": "mänguväljakud.csv",
+        "da": "legepladser.csv",
+        "sk": "Detské ihriská.csv",
+        "bg": "детски площадки.csv",
+        "it": "Parco giochi.csv",
+        "sl": "otroška igrišča.csv",
+        "pl": "placów zabaw.csv",
+        "lv": "rotaļu laukumi.csv",
+        "en": "playgrounds.csv",
+        "fi": "leikkikentät.csv",
+        "cs": "dětské hřiště.csv",
+        "el": "παιδικές χαρές.csv",
+        "mt": "playgrounds.csv",
+        "es": "parques infantiles.csv",
+        "de": "Spielplätze.csv",
+        "hr": "igrališta.csv",
+        "fr": "Terrains de jeux.csv"
+      },
+      "format": {
+        "id": ".сsv",
+        "label": ".сsv"
+      },
+      "byte_size": 2167,
+      "media_type": "text/csv"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 115
+  },
+  "publisher": {
+    "type": "Organization",
+    "name": "Чорноморська міська рада Одеського району Одеської області",
+    "resource": "https://data.gov.ua/organization/90fcc177-5004-4832-a3d5-14d4f1c48d19"
+  },
+  "modified": "2026-04-21T06:06:51.898899",
+  "id": "190917b2-d3cb-4cec-bce0-220b96551485",
+  "issued": "2025-04-15T18:38:19.971466",
+  "catalog_record": {
+    "issued": "2026-05-08T20:19:31Z",
+    "modified": "2026-05-10T18:44:46Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "email": "mailto:education@cmr.gov.ua",
+      "name": " Соцька Тетяна Ігорівна"
+    }
+  ]
+}

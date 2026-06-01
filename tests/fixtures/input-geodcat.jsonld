@@ -1,0 +1,75 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "foaf": "http://xmlns.com/foaf/0.1/"
+  },
+  "@graph": [
+    {
+      "@id": "did:op:2222da1779efe727bb2e9ebe6950e905eb5d79148fa0169805acd9bbe6a11fbe",
+      "@type": "dcat:Dataset",
+      "dct:title": "AgrifoodTEF: Time series of maize images (RGB)",
+      "dct:description": "Time series images of maize plants from one field. Contains raw RGB UAV imagery captured at Wieselburg, Austria.",
+      "dct:publisher": {
+        "@id": "https://agrifoodtef.eu/organization",
+        "@type": ["foaf:Organization", "foaf:Agent"],
+        "foaf:name": "AgrifoodTEF Consortium"
+      },
+      "dcat:theme": [
+        {
+          "@id": "http://publications.europa.eu/resource/authority/data-theme/AGRI",
+          "@type": "skos:Concept",
+          "skos:prefLabel": { "@language": "en", "@value": "Agriculture, fisheries, forestry and food" }
+        },
+        {
+          "@id": "http://aims.fao.org/aos/agrovoc/c_45113221",
+          "@type": "skos:Concept",
+          "skos:prefLabel": { "@language": "en", "@value": "phenotyping" }
+        },
+        {
+          "@id": "http://aims.fao.org/aos/agrovoc/c_92363",
+          "@type": "skos:Concept",
+          "skos:prefLabel": { "@language": "en", "@value": "precision agriculture" }
+        },
+        {
+          "@id": "http://aims.fao.org/aos/agrovoc/c_12332",
+          "@type": "skos:Concept",
+          "skos:prefLabel": { "@language": "en", "@value": "maize" }
+        }
+      ],
+      "dcat:keyword": [
+        { "@language": "en", "@value": "Phenotyping" },
+        { "@language": "en", "@value": "Precision Agriculture" },
+        { "@language": "en", "@value": "Time series images of maize plants from one field" }
+      ],
+      "dct:spatial": {
+        "@type": ["dct:Location", "skos:Concept"],
+        "dcat:bbox": {
+          "@type": "geo:wktLiteral",
+          "@value": "POLYGON((15.12 48.12, 15.15 48.12, 15.15 48.15, 15.12 48.15, 15.12 48.12))"
+        },
+        "skos:prefLabel": { "@language": "en", "@value": "Wieselburg, Austria" }
+      },
+      "dct:temporal": {
+        "@type": "dct:PeriodOfTime",
+        "dcat:startDate": { "@type": "xsd:date", "@value": "2025-07-28" },
+        "dcat:endDate":   { "@type": "xsd:date", "@value": "2025-08-22" }
+      },
+      "dcat:distribution": [
+        {
+          "@id": "did:op:2222da1779efe727bb2e9ebe6950e905eb5d79148fa0169805acd9bbe6a11fbe#raw-images",
+          "@type": "dcat:Distribution",
+          "dct:title": "Raw UAV Imagery Archive",
+          "dcat:accessURL": {
+            "@id": "https://dataspace.agrifoodtef.eu/asset/download/2222da1779efe727bb2e9ebe6950e905eb5d79148fa0169805acd9bbe6a11fbe",
+            "@type": "rdfs:Resource"
+          }
+        }
+      ]
+    }
+  ]
+}

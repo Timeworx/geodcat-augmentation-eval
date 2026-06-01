@@ -1,0 +1,145 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/44a4068d-0f60-418f-8ddf-16268938a76f~~1",
+      "@type": "dcat:Dataset",
+      "dct:identifier": "44a4068d-0f60-418f-8ddf-16268938a76f~~1",
+      "dct:title": {
+        "@language": "en",
+        "@value": "Fisheries Protection Zone around Svalbard"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "An adjacent belt at sea, the breadth of which is measured from the outer limit of territorial waters, calculated 12 Nautical Miles from the baselines of Svalbard, to the outer limit calculated 200 Nautical Miles from the same baseline, and which is bounded by the Economic Zone for Norway and the agreed delimitation lines where there are less than 400 nm to another state baseline"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Kartverket"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "no"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "geonorge",
+        "homepage": "https://www.geonorge.no",
+        "description": {
+          "en": "Geo Data Portal Norway"
+        },
+        "title": {
+          "no": "Geonorge"
+        },
+        "source_type": "geospatial",
+        "issued": "2022-11-21T05:38:23Z",
+        "country": {
+          "label": "Norway",
+          "id": "no",
+          "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Norway",
+            "id": "no",
+            "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "no",
+            "label": "Norwegian",
+            "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+          }
+        ],
+        "modified": "2022-11-21T05:38:23Z",
+        "publisher": {
+          "type": "Agent",
+          "homepage": "https://www.kartverket.no",
+          "email": "mailto:post@kartverket.no",
+          "name": "Kartverket"
+        },
+        "count": 352
+      },
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 240
+      },
+      "deuropa:provenance": [
+        {
+          "label": "Ingen prosseshistorie tilgjenglig."
+        }
+      ],
+      "deuropa:spatial_resource": [
+        {}
+      ],
+      "deuropa:catalog_record": {
+        "modified": "2026-03-07T17:48:12Z",
+        "issued": "2023-07-28T17:49:44Z"
+      }
+    }
+  ]
+}

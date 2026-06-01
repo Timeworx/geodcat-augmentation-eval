@@ -1,0 +1,134 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/1c6ca365-81fa-40f8-9c88-8914f2cb2c9d",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "1c6ca365-81fa-40f8-9c88-8914f2cb2c9d"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Financial statements of ’ entities of the state and municipal sectors of the economy"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "Financial statements and consolidated financial statements (quarterly) of the Department of Social and Veterans Policy of the Kamenskoye City Council, compiled according to national accounting regulations (standards)"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/f584872b-dc18-4045-8928-20af6ae0d1de",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Департамент соціальної та ветеранської політики Кам'янської міської ради"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "фінзвітність"
+        },
+        {
+          "@language": "id",
+          "@value": "суб'єкти"
+        },
+        {
+          "@language": "id",
+          "@value": "місцевий"
+        },
+        {
+          "@language": "id",
+          "@value": "державний"
+        },
+        {
+          "@language": "id",
+          "@value": "господарювання"
+        },
+        {
+          "@language": "id",
+          "@value": "кам'янської"
+        },
+        {
+          "@language": "id",
+          "@value": "бюджет"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:version_info": "1.0",
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 155
+      },
+      "deuropa:catalog_record": {
+        "modified": "2026-05-10T18:31:39Z",
+        "issued": "2026-05-08T20:19:30Z"
+      }
+    }
+  ]
+}

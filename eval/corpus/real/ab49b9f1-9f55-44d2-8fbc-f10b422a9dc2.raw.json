@@ -1,0 +1,373 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "resource": "http://data.europa.eu/88u/dataset/ab49b9f1-9f55-44d2-8fbc-f10b422a9dc2",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:13Z",
+        "issued": "2024-06-11T17:48:05Z"
+      }
+    },
+    "full_available_languages": [
+      "pl",
+      "lt",
+      "ro",
+      "en",
+      "lv",
+      "hu",
+      "pt",
+      "et",
+      "uk",
+      "bg",
+      "da",
+      "hr",
+      "mt",
+      "el",
+      "nor",
+      "sl",
+      "nl",
+      "de",
+      "fi",
+      "es",
+      "ga",
+      "cs",
+      "fr",
+      "sv",
+      "sk",
+      "it"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Sokkeldirektoratets Faktakartteneste inneholder informasjon om blant annet lete- og utvinningsbrønner, undersøkelser, funn og felt og utvinningstillatelser.",
+    "en": "The Norwegian Offshore Directorate’s interactive FactMaps contain information on wells, surveys, fields and discoveries, production licences, agreement-based areas, permanent facilities and more."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Ausstattungen",
+    "fi": "Palvelut",
+    "pt": "Instalações",
+    "bg": "Съоръжения",
+    "lt": "Įrenginiai",
+    "lv": "Iekārtas un aprīkojums",
+    "hr": "Sadržaji u smještajnom objektu",
+    "fr": "Installations",
+    "hu": "Szolgáltatások",
+    "nor": "Innretninger",
+    "uk": "Послуги з обслуговування",
+    "sk": "Zariadenia",
+    "sl": "Objekti in naprave",
+    "ga": "Áiseanna",
+    "sv": "Faciliteter",
+    "mt": "Faċilitajiet",
+    "el": "Παροχές",
+    "en": "Facilities",
+    "it": "Strutture e servizi",
+    "es": "Instalaciones",
+    "et": "Ruumid ja teenused",
+    "cs": "Zařízení",
+    "pl": "Udogodnienia",
+    "ro": "Facilități",
+    "da": "Faciliteter",
+    "nl": "Faciliteiten"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/DAILY",
+    "label": "daily"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://factmaps.sodir.no/api/rest/services/Factmaps/FactMapsED50UTM32/MapServer/307"
+      ],
+      "format": {
+        "id": "INSPIRE DOWNLOAD SERVICE",
+        "label": "INSPIRE DOWNLOAD SERVICE"
+      },
+      "modified": "2020-05-07T00:00:00Z",
+      "id": "b99ef04f-b02d-4449-8bae-3b4bc91d6012",
+      "title": {
+        "de": "herunterladen",
+        "fi": "lataa",
+        "pt": "baixar",
+        "bg": "изтегли",
+        "lt": "atsiųsti",
+        "hr": "preuzimanje",
+        "lv": "lejupielādēt",
+        "fr": "télécharger",
+        "hu": "letöltés",
+        "uk": "Завантажити",
+        "sk": "stiahnuť",
+        "sl": "prenos",
+        "ga": "íoslódáil",
+        "sv": "nedladdning",
+        "el": "τηλεφόρτωση",
+        "mt": "tniżżil",
+        "en": "download",
+        "it": "scarica",
+        "es": "descargar",
+        "et": "allalaadimine",
+        "cs": "stáhnout",
+        "pl": "Pobierz",
+        "da": "download",
+        "ro": "Descarcă",
+        "nl": "download"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 160
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosesshistorie tilgjengelig"
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Sigbjørn Dale",
+    "type": "Person",
+    "email": "mailto:factweb@sodir.no"
+  },
+  "modified": "2020-05-07T00:00:00Z",
+  "id": "ab49b9f1-9f55-44d2-8fbc-f10b422a9dc2",
+  "categories": [],
+  "issued": "0001-01-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            83
+          ],
+          [
+            51,
+            83
+          ],
+          [
+            51,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            83
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:06Z",
+    "issued": "2021-10-15T08:49:31Z"
+  }
+}

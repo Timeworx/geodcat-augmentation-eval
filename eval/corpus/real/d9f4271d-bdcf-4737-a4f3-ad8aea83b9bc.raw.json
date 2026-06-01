@@ -1,0 +1,253 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "norges-maritime-grenser",
+      "label": "Norges maritime grenser"
+    },
+    {
+      "language": "nor",
+      "id": "200-milsgrense",
+      "label": "200 Milsgrense"
+    },
+    {
+      "language": "nor",
+      "id": "norwegian-maritime-boundaries",
+      "label": "Norwegian maritime boundaries"
+    },
+    {
+      "language": "nor",
+      "id": "grunnlinje",
+      "label": "Grunnlinje"
+    },
+    {
+      "language": "nor",
+      "id": "det-særskilte-området",
+      "label": "Det særskilte området"
+    },
+    {
+      "language": "nor",
+      "id": "the-special-area",
+      "label": "The Special Area"
+    },
+    {
+      "language": "nor",
+      "id": "sjøgrenser",
+      "label": "sjøgrenser"
+    },
+    {
+      "language": "nor",
+      "id": "sjøområder",
+      "label": "sjøområder"
+    },
+    {
+      "language": "nor",
+      "id": "dso",
+      "label": "DSO"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/d9f4271d-bdcf-4737-a4f3-ad8aea83b9bc",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:23Z",
+        "issued": "2024-06-11T17:48:02Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:23Z",
+        "issued": "2024-06-11T17:48:02Z"
+      }
+    },
+    "full_available_languages": [
+      "en",
+      "nor"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Havområde som ligger øst for avgrensningslinjen mot Russland, og innenfor 200 nm fra grunnlinjen ved Fastlands-Norge, men utenfor 200 nm fra grunnlinjen ved Russland.",
+    "en": "Sea ​​area east of the delimitation line with Russia and within 200 Nautical Miles from the baseline of Norway Mainland, but beyond 200 Nautical Miles from the baseline of Russia."
+  },
+  "index": "dataset",
+  "title": {
+    "nor": "Det særskilte området, DSO",
+    "en": "The Special Area"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/UNKNOWN",
+    "label": "unknown"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "https://creativecommons.org/licenses/by/4.0/",
+        "id": "https://creativecommons.org/licenses/by/4.0/",
+        "label": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "access_url": [
+        "https://wms.geonorge.no/skwms1/wms.nmg?"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2012-08-10T00:00:00Z",
+      "id": "97e74405-5020-4bfd-be20-308a205fa087",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://wms.geonorge.no/skwms1/wms.nmg"
+          ],
+          "endpoint_description": [
+            "https://wms.geonorge.no/skwms1/wms.nmg?"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "lv": "apskatīt",
+        "hr": "pogled",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "el": "προβολή",
+        "mt": "ħarsa",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 240
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "2012-08-10T00:00:00Z",
+  "publisher": {
+    "name": "Kartverket",
+    "type": "Organization",
+    "email": "mailto:kundesenter@kartverket.no"
+  },
+  "id": "d9f4271d-bdcf-4737-a4f3-ad8aea83b9bc",
+  "categories": [],
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            -16,
+            85
+          ],
+          [
+            45,
+            85
+          ],
+          [
+            45,
+            -56
+          ],
+          [
+            -16,
+            -56
+          ],
+          [
+            -16,
+            85
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "issued": "0001-01-01T00:00:00Z",
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-06T17:54:12Z",
+    "issued": "2021-10-15T08:49:31Z"
+  },
+  "contact_point": [
+    {
+      "address": "Kartverket, Hønefoss, 3507, Norway",
+      "name": "Carina Tolpinrud Jøntvedt",
+      "type": "Individual",
+      "email": "mailto:tolcar@kartverket.no",
+      "url": [
+        "http://geoh.conterra:8080/oai-pmh-geo-harvest/harvesters/www.kartverket.no"
+      ]
+    }
+  ]
+}

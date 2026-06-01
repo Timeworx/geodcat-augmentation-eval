@@ -1,0 +1,484 @@
+{
+  "identifier": [
+    "93852201-bdbb-493b-8e83-8d9a60a180d9"
+  ],
+  "country": {
+    "label": "Ukraine",
+    "id": "ua",
+    "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+  },
+  "keywords": [
+    {
+      "id": "паспорти",
+      "label": "паспорти",
+      "language": "uk"
+    },
+    {
+      "id": "ділянка",
+      "label": "ділянка",
+      "language": "uk"
+    },
+    {
+      "id": "будівництво",
+      "label": "будівництво",
+      "language": "uk"
+    },
+    {
+      "id": "містобудування",
+      "label": "містобудування",
+      "language": "uk"
+    },
+    {
+      "id": "забудова",
+      "label": "забудова",
+      "language": "uk"
+    },
+    {
+      "id": "проектування",
+      "label": "проектування",
+      "language": "uk"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/93852201-bdbb-493b-8e83-8d9a60a180d9",
+  "catalog": {
+    "id": "data-gov-ua",
+    "modified": "2023-02-10T20:19:48.373074",
+    "issued": "2022-11-21T05:36:39Z",
+    "publisher": {
+      "type": "Agent",
+      "name": "States site of Ukraine",
+      "email": "mailto:admin@data.gov.ua",
+      "homepage": "https://www.kmu.gov.ua/en"
+    },
+    "language": [
+      {
+        "id": "uk",
+        "label": "Ukrainian",
+        "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+      }
+    ],
+    "homepage": "https://data.gov.ua",
+    "source_type": "dcat-ap",
+    "description": {
+      "en": "Open Data Portal Ukraine"
+    },
+    "title": {
+      "en": "data.gov.ua"
+    },
+    "country": {
+      "label": "Ukraine",
+      "id": "ua",
+      "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ukraine",
+        "id": "ua",
+        "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+      }
+    ],
+    "spatial": []
+  },
+  "translation_meta": {
+    "details": {
+      "hr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "uk": {
+        "machine_translated": false,
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "uk",
+        "received": "2026-05-10T18:43:09Z",
+        "issued": "2026-05-08T20:19:31Z"
+      }
+    },
+    "full_available_languages": [
+      "hr",
+      "es",
+      "mt",
+      "hu",
+      "de",
+      "pt",
+      "ga",
+      "nl",
+      "fr",
+      "da",
+      "pl",
+      "cs",
+      "et",
+      "uk",
+      "el",
+      "it",
+      "sk",
+      "bg",
+      "lv",
+      "sl",
+      "lt",
+      "fi",
+      "ro",
+      "sv",
+      "en"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "ro": "Setul conține o listă de pașapoarte de construcție pentru dezvoltarea unui teren emis de Departamentul de Urbanism și Arhitectură al Consiliului satului Berehomet. În special, informații despre clienți, organism autorizat, documente emise, proiecte de construcții ’ etc.",
+    "bg": "Комплектът съдържа списък на строителни паспорти за застрояване на поземлен имот, издадени от Департамента по градоустройство и архитектура на селския съвет на Берехомет. По-специално, информация за клиенти, упълномощен орган, издадени документи, строителни проекти на ’ и др.",
+    "hr": "Skup sadrži popis građevinskih putovnica za izradu zemljišne čestice koje izdaje Odjel za urbanizam i arhitekturu seoskog vijeća Berehomet. Konkretno, informacije o kupcima, ovlaštenom tijelu, izdanim dokumentima, građevinskim projektima ’ itd.",
+    "ga": "Tá liosta de phasanna tógála sa tacar chun dáileacht talún a fhorbairt arna eisiúint ag Roinn Pleanála Uirbí agus Ailtireachta Chomhairle Sráidbhaile Berehomet. · Go háirithe, faisnéis faoi chustaiméirí, comhlacht údaraithe, doiciméid eisithe, tionscadail tógála ’, etc.",
+    "fr": "L'ensemble contient une liste de passeports de construction pour le développement d'un terrain délivré par le Département de l'urbanisme et de l'architecture du Conseil du village de Berehomet. En particulier, des informations sur les clients, l'organisme autorisé, les documents délivrés, les projets de construction ’, etc.",
+    "fi": "Setti sisältää luettelon Berehomet Village Councilin kaupunkisuunnittelu- ja arkkitehtuuriosaston myöntämistä rakennuspasseja tontin kehittämiseksi. Erityisesti tiedot asiakkaista, valtuutetuista elimistä, myönnetyistä asiakirjoista, rakennushankkeista jne.",
+    "et": "Komplekt sisaldab Berehomet Village'i nõukogu linnaplaneerimise ja arhitektuuri osakonna väljastatud ehituspasside loetelu maatüki arendamiseks. Eelkõige teave klientide, volitatud asutuse, väljastatud dokumentide, ’ ehitusprojektide jne kohta.",
+    "sv": "Setet innehåller en lista över byggpass för utveckling av en tomt som utfärdats av avdelningen för stadsplanering och arkitektur i Berehomet Village Council. I synnerhet information om kunder, behörigt organ, utfärdade dokument, ”byggprojekt osv.",
+    "sl": "Komplet vsebuje seznam gradbenih potnih listov za razvoj zemljišča, ki jih je izdal oddelek za urbanistično načrtovanje in arhitekturo mestnega sveta Berehomet. Zlasti informacije o strankah, pooblaščenem organu, izdanih dokumentih, gradbenih projektih ’ itd.",
+    "cs": "Sada obsahuje seznam stavebních pasů pro rozvoj pozemku vydaných odborem územního plánování a architektury rady obce Berehomet. Zejména informace o zákaznících, autorizovaném orgánu, vydaných dokladech, stavebních projektech ’ atd.",
+    "uk": "Набір містить перелік будівельних паспортів забудови земельної ділянки, виданих відділом містобудування та архітектури Берегометської селищної ради. Зокрема, інформацію про замовників, уповноважений орган, видані документи, об’єкти будівництва тощо",
+    "hu": "A készlet tartalmazza a Berehomet falu tanácsának várostervezési és építészeti osztálya által kiadott építési útlevelek listáját egy telek fejlesztéséhez. Különösen az ügyfelekre, a felhatalmazott szervre, a kiadott dokumentumokra, a ’ építési projektjeire stb. vonatkozó információk.",
+    "da": "Sættet indeholder en liste over byggepas til udvikling af en grund udstedt af afdelingen for byplanlægning og arkitektur i Berehomet Village Council. Især oplysninger om kunder, autoriseret organ, udstedte dokumenter, ’-byggeprojekter osv.",
+    "pt": "O conjunto contém uma lista de passaportes de construção para o desenvolvimento de um terreno emitido pelo Departamento de Planeamento Urbano e Arquitetura do Conselho da Aldeia de Berehomet. Em especial, informações sobre clientes, organismo autorizado, documentos emitidos, projetos de construção ’, etc.",
+    "nl": "De set bevat een lijst van bouwpaspoorten voor de ontwikkeling van een perceel uitgegeven door het Department of Urban Planning and Architecture van de Berehomet Village Council. In het bijzonder, informatie over klanten, bevoegde instantie, uitgegeven documenten, ’ bouwprojecten, enz.",
+    "lt": "Rinkinyje pateikiamas Berehometo kaimo tarybos Miestų planavimo ir architektūros departamento išduotų statybos pasų, skirtų žemės sklypo plėtrai, sąrašas. Visų pirma, informacija apie klientus, įgaliotą įstaigą, išduotus dokumentus, ’ statybos projektus ir kt.",
+    "lv": "Komplektā ir iekļauts Berehomet ciemata padomes Pilsētplānošanas un arhitektūras departamenta izdoto būvpasu saraksts zemes gabala attīstīšanai. Jo īpaši informācija par klientiem, pilnvaroto iestādi, izsniegtajiem dokumentiem, ’ būvniecības projektiem utt.",
+    "it": "Il set contiene un elenco di passaporti di costruzione per lo sviluppo di un appezzamento di terreno rilasciato dal Dipartimento di Urbanistica e Architettura del Berehomet Village Council. In particolare, informazioni su clienti, ente autorizzato, documenti rilasciati, progetti di costruzione ’, ecc.",
+    "mt": "Is-sett fih lista ta’ passaporti tal-kostruzzjoni għall-iżvilupp ta’ plott tal-art maħruġ mid-Dipartiment tal-Ippjanar Urban u l-Arkitettura tal-Kunsill tal-Villaġġ ta’ Berehomet. B'mod partikolari, informazzjoni dwar klijenti, korp awtorizzat, dokumenti maħruġa, proġetti ta 'kostruzzjoni ’, eċċ.",
+    "pl": "Zestaw zawiera listę paszportów budowlanych do zagospodarowania działki wydanych przez Wydział Urbanistyki i Architektury Rady Miejskiej Berehomet. W szczególności informacje o klientach, upoważnionym organie, wydanych dokumentach, projektach budowlanych ’ itp.",
+    "es": "El conjunto contiene una lista de pasaportes de construcción para el desarrollo de un terreno emitido por el Departamento de Planificación Urbana y Arquitectura del Consejo de la Aldea de Berehomet. En particular, información sobre clientes, organismo autorizado, documentos emitidos, proyectos de construcción ’, etc.",
+    "el": "Το σύνολο περιέχει κατάλογο των διαβατηρίων κατασκευής για την ανάπτυξη οικοπέδου που εκδόθηκε από το Τμήμα Πολεοδομίας και Αρχιτεκτονικής του δημοτικού συμβουλίου του Berehomet. Ειδικότερα, πληροφορίες σχετικά με πελάτες, εξουσιοδοτημένο φορέα, εκδοθέντα έγγραφα, κατασκευαστικά έργα ’ κ.λπ.",
+    "de": "Das Set enthält eine Liste von Baupässen für die Entwicklung eines Grundstücks, das vom Department of Urban Planning and Architecture des Berehomet Village Council ausgestellt wurde. Insbesondere Informationen über Kunden, autorisierte Stelle, ausgestellte Dokumente, ’-Bauprojekte usw.",
+    "en": "The set contains a list of construction passports for the development of a land plot issued by the Department of Urban Planning and Architecture of the Berehomet Village Council. In particular, information about customers, authorized body, issued documents, ’ construction projects, etc.",
+    "sk": "Súbor obsahuje zoznam stavebných pasportov na výstavbu pozemku, ktoré vydalo oddelenie územného plánovania a architektúry obce Berehomet. Najmä informácie o zákazníkoch, autorizovanom orgáne, vydaných dokumentoch, stavebných projektoch ’ atď."
+  },
+  "index": "dataset",
+  "language": [
+    {
+      "id": "ua",
+      "label": "ua"
+    }
+  ],
+  "version_info": "1.0",
+  "title": {
+    "hr": "Podaci o izdanim putovnicama za zgrade",
+    "es": "Datos sobre pasaportes de construcción expedidos",
+    "mt": "Data dwar il-passaporti tal-bini maħruġa",
+    "hu": "A kiállított építési útlevelekre vonatkozó adatok",
+    "de": "Daten zu ausgestellten Baupässen",
+    "pt": "Dados sobre os passaportes de edifícios emitidos",
+    "ga": "Sonraí maidir le pasanna tógála eisithe",
+    "nl": "Gegevens over afgegeven bouwpaspoorten",
+    "fr": "Données relatives aux passeports de bâtiment délivrés",
+    "da": "Data om udstedte bygningspas",
+    "pl": "Dane dotyczące wydanych paszportów budowlanych",
+    "cs": "Údaje o vydaných stavebních pasech",
+    "et": "Andmed väljastatud ehituspasside kohta",
+    "uk": "Дані про видані будівельні паспорти",
+    "el": "Δεδομένα σχετικά με τα εκδοθέντα διαβατήρια κτιρίων",
+    "it": "Dati sui passaporti degli edifici rilasciati",
+    "sk": "Údaje o vydaných pasportoch budov",
+    "bg": "Данни за издадените строителни паспорти",
+    "lv": "Dati par izsniegtajām ēku pasēm",
+    "sl": "Podatki o izdanih gradbenih potnih listih",
+    "lt": "Išduotų pastato pasų duomenys",
+    "fi": "Myönnettyjä rakennuspasseja koskevat tiedot",
+    "ro": "Date privind pașapoartele eliberate pentru clădiri",
+    "sv": "Uppgifter om utfärdade byggnadspass",
+    "en": "Data on issued building passports"
+  },
+  "distributions": [
+    {
+      "id": "97c4704b-07a6-4386-96e9-8c44037fd99b",
+      "title": {
+        "da": "register.json",
+        "hr": "register.json",
+        "el": "μητρώο.json",
+        "uk": "register.json",
+        "nl": "registreer.json",
+        "sv": "register.json",
+        "ro": "register.json",
+        "fr": "register.json",
+        "ga": "register.json",
+        "pl": "Rejestracja.json",
+        "lv": "register.json",
+        "it": "register.json",
+        "pt": "register.json",
+        "sl": "register.json",
+        "lt": "register.json",
+        "fi": "register.json",
+        "cs": "Doména register.json je hostována u One.com",
+        "sk": "register.json",
+        "en": "register.json",
+        "bg": "регистър.json",
+        "et": "register.json",
+        "hu": "Regisztráció.json",
+        "es": "register.json",
+        "mt": "register.json",
+        "de": "register.json"
+      },
+      "description": {
+        "lt": "Lentelėje pateikiami registracijos numeriai, statybos pasų išdavimo datos, ’ statybos projektų pavadinimai, adresai, informacija apie klientus, įgaliotą instituciją, dokumentų keitimo ar panaikinimo pagrindai. Kiekvienas įrašas lentelėje yra vienas statybos pasas.",
+        "es": "La tabla contiene números de registro, fechas de emisión de pasaportes de construcción, nombres, direcciones de los proyectos de construcción de ’, información sobre los clientes, el organismo autorizado, motivos para cambios o cancelación de documentos. Cada entrada en la tabla es un pasaporte de construcción.",
+        "ro": "Tabelul conține numerele de înregistrare, datele eliberării pașapoartelor de construcție, numele, adresele proiectelor de construcție ’, informații despre clienți, organismul autorizat, motivele modificării sau anulării documentelor. Fiecare intrare din tabel este un pașaport de construcție.",
+        "cs": "Tabulka obsahuje registrační čísla, data vydání stavebních pasů, názvy, adresy stavebních projektů ’, informace o zákaznících, pověřeném orgánu, důvody pro změny nebo zrušení dokladů. Každá položka v tabulce je jeden stavební pas.",
+        "nl": "De tabel bevat registratienummers, datums van afgifte van bouwpaspoorten, namen, adressen van ’-bouwprojecten, informatie over klanten, de bevoegde instantie, redenen voor wijzigingen of annulering van documenten. Elke vermelding in de tabel is een bouwpaspoort.",
+        "pl": "Tabela zawiera numery rejestracyjne, daty wydania paszportów budowlanych, nazwy, adresy projektów budowlanych ’, informacje o klientach, upoważnionym organie, podstawy do zmian lub anulowania dokumentów. Każdy wpis w tabeli jest jednym paszportem budowlanym.",
+        "fr": "Le tableau contient les numéros d'enregistrement, les dates de délivrance des passeports de construction, les noms, les adresses des projets de construction ’, des informations sur les clients, l'organisme autorisé, les motifs de modification ou d'annulation des documents. Chaque entrée dans le tableau est un passeport de construction.",
+        "bg": "Таблицата съдържа регистрационни номера, дати на издаване на строителни паспорти, имена, адреси на строителни проекти на ’, информация за клиенти, упълномощен орган, основания за промени или анулиране на документи. Всеки запис в таблицата е един строителен паспорт.",
+        "hr": "Tablica sadrži registracijske brojeve, datume izdavanja građevinskih putovnica, imena, adrese građevinskih projekata ’, informacije o kupcima, ovlaštenom tijelu, osnove za izmjene ili poništenje dokumenata. Svaki ulaz u tablicu je jedna građevinska putovnica.",
+        "et": "Tabel sisaldab registreerimisnumbreid, ehituspasside väljastamise kuupäevi, ’ ehitusprojektide nimesid, aadresse, teavet klientide, volitatud asutuse kohta, dokumentide muutmise või tühistamise põhjuseid. Iga kirje tabelis on üks ehituspass.",
+        "mt": "It-tabella fiha n-numri tar-reġistrazzjoni, id-dati tal-ħruġ tal-passaporti tal-kostruzzjoni, l-ismijiet, l-indirizzi tal-proġetti tal-kostruzzjoni tal-’, l-informazzjoni dwar il-klijenti, il-korp awtorizzat, ir-raġunijiet għall-bidliet jew il-kanċellazzjoni tad-dokumenti. Kull entrata fit-tabella hija passaport tal-kostruzzjoni wieħed.",
+        "fi": "Taulukko sisältää rekisteröintinumerot, rakennuspassien myöntämispäivät, rakennushankkeiden nimet, osoitteet, tiedot asiakkaista, valtuutetusta elimestä sekä syyt asiakirjojen muuttamiseen tai peruuttamiseen. Jokainen taulukon kohta on yksi rakennuspassi.",
+        "en": "The table contains registration numbers, dates of issuance of construction passports, names, addresses of ’ construction projects, information about customers, the authorized body, grounds for changes or cancellation of documents. Each entry in the table is one construction passport.",
+        "sl": "Tabela vsebuje registrske številke, datume izdaje gradbenih potnih listov, imena, naslove gradbenih projektov ’, podatke o kupcih, pooblaščenem organu, razloge za spremembe ali preklic dokumentov. Vsak vnos v tabeli je en gradbeni potni list.",
+        "el": "Ο πίνακας περιέχει αριθμούς καταχώρισης, ημερομηνίες έκδοσης διαβατηρίων κατασκευής, ονόματα, διευθύνσεις κατασκευαστικών έργων ’, πληροφορίες σχετικά με τους πελάτες, τον εξουσιοδοτημένο φορέα, λόγους αλλαγών ή ακύρωσης εγγράφων. Κάθε καταχώρηση στον πίνακα είναι ένα διαβατήριο κατασκευής.",
+        "de": "Die Tabelle enthält Registrierungsnummern, Datum der Ausstellung von Baupässen, Namen, Adressen von ’-Bauprojekten, Informationen über Kunden, die autorisierte Stelle, Gründe für Änderungen oder Löschung von Dokumenten. Jeder Eintrag in der Tabelle ist ein Baupass.",
+        "ga": "* Cuimsíonn an tábla uimhreacha clárúcháin, dátaí eisiúna pasanna tógála, ainmneacha, seoltaí tionscadal tógála ’, faisnéis faoi chustaiméirí, an comhlacht údaraithe, forais le haghaidh athruithe nó cealú doiciméad. Tá pas tógála amháin ag gach iontráil sa tábla.",
+        "it": "La tabella contiene i numeri di registrazione, le date di rilascio dei passaporti di costruzione, i nomi, gli indirizzi dei progetti di costruzione ’, le informazioni sui clienti, l'organismo autorizzato, i motivi per le modifiche o la cancellazione dei documenti. Ogni voce nella tabella è un passaporto di costruzione.",
+        "sk": "Tabuľka obsahuje registračné čísla, dátumy vydania stavebných pasov, názvy, adresy stavebných projektov ’, informácie o zákazníkoch, autorizovanom orgáne, dôvody na zmeny alebo zrušenie dokumentov. Každá položka v tabuľke je jeden stavebný pas.",
+        "sv": "Tabellen innehåller registreringsnummer, datum för utfärdande av byggpass, namn, adresser till byggprojekt, information om kunder, behörigt organ, skäl för ändringar eller annullering av handlingar. Varje post i tabellen är ett byggpass.",
+        "pt": "A tabela contém números de registro, datas de emissão de passaportes de construção, nomes, endereços de projetos de construção ’, informações sobre os clientes, o organismo autorizado, motivos para alterações ou cancelamento de documentos. Cada entrada na tabela é um passaporte de construção.",
+        "da": "Tabellen indeholder registreringsnumre, datoer for udstedelse af byggepas, navne, adresser på ’-byggeprojekter, oplysninger om kunder, det autoriserede organ, begrundelse for ændringer eller annullering af dokumenter. Hver post i tabellen er et byggepas.",
+        "hu": "A táblázat tartalmazza a regisztrációs számokat, az építési útlevelek kiállításának dátumát, a ’ építési projektek nevét, címét, az ügyfelekre, a felhatalmazott szervre vonatkozó információkat, a dokumentumok megváltoztatásának vagy törlésének okait. A táblázat minden egyes bejegyzése egy építési útlevél.",
+        "uk": "Таблиця містить реєстраційні номери, дати видачі будівельних паспортів, назви, адреси об’єктів будівництва, інформацію про замовників, уповноважений орган, підстави для змін або скасування документів. Кожним записом у таблиці є один будівельний паспорт.",
+        "lv": "Tabulā ir iekļauti reģistrācijas numuri, būvniecības pasu izsniegšanas datumi, nosaukumi, ’ būvniecības projektu adreses, informācija par klientiem, pilnvarotā iestāde, dokumentu izmaiņu vai anulēšanas pamatojums. Katrs ieraksts tabulā ir viena būvniecības pase."
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/93852201-bdbb-493b-8e83-8d9a60a180d9/resource/f0973a51-d341-4bf6-a849-97ea46c9d05b/download/register.json"
+      ],
+      "media_type": "application/json",
+      "byte_size": 137419,
+      "format": {
+        "id": "JSON",
+        "label": "JSON",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON"
+      }
+    },
+    {
+      "id": "10717a67-f7ea-4911-ab36-769dc25e0a34",
+      "format": {
+        "id": "CSV",
+        "label": "CSV",
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV"
+      },
+      "description": {
+        "hu": "A táblázat tartalmazza a regisztrációs számokat, az építési útlevelek kiállításának dátumát, a ’ építési projektek nevét, címét, az ügyfelekre, a felhatalmazott szervre vonatkozó információkat, a dokumentumok megváltoztatásának vagy törlésének okait. A táblázat minden egyes bejegyzése egy építési útlevél",
+        "et": "Tabel sisaldab registreerimisnumbreid, ehituspasside väljastamise kuupäevi, ’ ehitusprojektide nimesid, aadresse, teavet klientide, volitatud asutuse kohta, dokumentide muutmise või tühistamise põhjuseid. Iga kirje tabelis on üks hoone pass",
+        "el": "Ο πίνακας περιέχει αριθμούς καταχώρισης, ημερομηνίες έκδοσης διαβατηρίων κατασκευής, ονόματα, διευθύνσεις κατασκευαστικών έργων ’, πληροφορίες σχετικά με τους πελάτες, τον εξουσιοδοτημένο φορέα, λόγους αλλαγών ή ακύρωσης εγγράφων. Κάθε καταχώρηση στον πίνακα είναι ένα διαβατήριο κτιρίου",
+        "lt": "Lentelėje pateikiami registracijos numeriai, statybos pasų išdavimo datos, ’ statybos projektų pavadinimai, adresai, informacija apie klientus, įgaliotą instituciją, dokumentų keitimo ar panaikinimo pagrindai. Kiekvienas įrašas lentelėje yra vienas pastato pasas",
+        "mt": "It-tabella fiha n-numri tar-reġistrazzjoni, id-dati tal-ħruġ tal-passaporti tal-kostruzzjoni, l-ismijiet, l-indirizzi tal-proġetti tal-kostruzzjoni tal-’, l-informazzjoni dwar il-klijenti, il-korp awtorizzat, ir-raġunijiet għall-bidliet jew il-kanċellazzjoni tad-dokumenti. Kull entrata fit-tabella hija passaport wieħed tal-bini",
+        "de": "Die Tabelle enthält Registrierungsnummern, Datum der Ausstellung von Baupässen, Namen, Adressen von ’-Bauprojekten, Informationen über Kunden, die autorisierte Stelle, Gründe für Änderungen oder Löschung von Dokumenten. Jeder Eintrag in der Tabelle ist ein Gebäudepass",
+        "pl": "Tabela zawiera numery rejestracyjne, daty wydania paszportów budowlanych, nazwy, adresy projektów budowlanych ’, informacje o klientach, upoważnionym organie, podstawy do zmian lub anulowania dokumentów. Każdy wpis w tabeli jest jednym paszportem budynku",
+        "ro": "Tabelul conține numerele de înregistrare, datele eliberării pașapoartelor de construcție, numele, adresele proiectelor de construcție ’, informații despre clienți, organismul autorizat, motivele modificării sau anulării documentelor. Fiecare intrare din tabel este un pașaport de construcție",
+        "sk": "Tabuľka obsahuje registračné čísla, dátumy vydania stavebných pasov, názvy, adresy stavebných projektov ’, informácie o zákazníkoch, autorizovanom orgáne, dôvody na zmeny alebo zrušenie dokumentov. Každá položka v tabuľke je jeden pas budovy",
+        "bg": "Таблицата съдържа регистрационни номера, дати на издаване на строителни паспорти, имена, адреси на строителни проекти на ’, информация за клиенти, упълномощен орган, основания за промени или анулиране на документи. Всеки запис в таблицата е един строителен паспорт",
+        "hr": "Tablica sadrži registracijske brojeve, datume izdavanja građevinskih putovnica, imena, adrese građevinskih projekata ’, informacije o kupcima, ovlaštenom tijelu, osnove za izmjene ili poništenje dokumenata. Svaki ulaz u tablicu je jedna građevinska putovnica",
+        "it": "La tabella contiene i numeri di registrazione, le date di rilascio dei passaporti di costruzione, i nomi, gli indirizzi dei progetti di costruzione ’, le informazioni sui clienti, l'organismo autorizzato, i motivi per le modifiche o la cancellazione dei documenti. Ogni voce nella tabella è un passaporto dell'edificio",
+        "nl": "De tabel bevat registratienummers, datums van afgifte van bouwpaspoorten, namen, adressen van ’-bouwprojecten, informatie over klanten, de bevoegde instantie, redenen voor wijzigingen of annulering van documenten. Elke vermelding in de tabel is een bouwpaspoort",
+        "sv": "Tabellen innehåller registreringsnummer, datum för utfärdande av byggpass, namn, adresser till byggprojekt, information om kunder, behörigt organ, skäl för ändringar eller annullering av handlingar. Varje post i tabellen är ett byggpass",
+        "da": "Tabellen indeholder registreringsnumre, datoer for udstedelse af byggepas, navne, adresser på ’-byggeprojekter, oplysninger om kunder, det autoriserede organ, begrundelse for ændringer eller annullering af dokumenter. Hver post i tabellen er et bygningspas",
+        "sl": "Tabela vsebuje registrske številke, datume izdaje gradbenih potnih listov, imena, naslove gradbenih projektov ’, podatke o kupcih, pooblaščenem organu, razloge za spremembe ali preklic dokumentov. Vsak vnos v tabeli je en potni list stavbe",
+        "ga": "* Cuimsíonn an tábla uimhreacha clárúcháin, dátaí eisiúna pasanna tógála, ainmneacha, seoltaí tionscadal tógála ’, faisnéis faoi chustaiméirí, an comhlacht údaraithe, forais le haghaidh athruithe nó cealú doiciméad. Pas tógála amháin atá i ngach iontráil sa tábla",
+        "lv": "Tabulā ir iekļauti reģistrācijas numuri, būvniecības pasu izsniegšanas datumi, nosaukumi, ’ būvniecības projektu adreses, informācija par klientiem, pilnvarotā iestāde, dokumentu izmaiņu vai anulēšanas pamatojums. Katrs ieraksts tabulā ir viena ēkas pase",
+        "pt": "A tabela contém números de registro, datas de emissão de passaportes de construção, nomes, endereços de projetos de construção ’, informações sobre os clientes, o organismo autorizado, motivos para alterações ou cancelamento de documentos. Cada entrada na tabela é um passaporte do edifício",
+        "fr": "Le tableau contient les numéros d'enregistrement, les dates de délivrance des passeports de construction, les noms, les adresses des projets de construction ’, des informations sur les clients, l'organisme autorisé, les motifs de modification ou d'annulation des documents. Chaque entrée dans le tableau est un passeport de bâtiment",
+        "cs": "Tabulka obsahuje registrační čísla, data vydání stavebních pasů, názvy, adresy stavebních projektů ’, informace o zákaznících, pověřeném orgánu, důvody pro změny nebo zrušení dokladů. Každá položka v tabulce je jeden stavební pas",
+        "en": "The table contains registration numbers, dates of issuance of construction passports, names, addresses of ’ construction projects, information about customers, the authorized body, grounds for changes or cancellation of documents. Each entry in the table is one building passport",
+        "fi": "Taulukko sisältää rekisteröintinumerot, rakennuspassien myöntämispäivät, rakennushankkeiden nimet, osoitteet, tiedot asiakkaista, valtuutetusta elimestä sekä syyt asiakirjojen muuttamiseen tai peruuttamiseen. Jokainen taulukon kohta on yksi rakennuspassi",
+        "es": "La tabla contiene números de registro, fechas de emisión de pasaportes de construcción, nombres, direcciones de los proyectos de construcción de ’, información sobre los clientes, el organismo autorizado, motivos para cambios o cancelación de documentos. Cada entrada en la tabla es un pasaporte de construcción",
+        "uk": "Таблиця містить реєстраційні номери, дати видачі будівельних паспортів, назви, адреси об’єктів будівництва, інформацію про замовників, уповноважений орган, підстави для змін або скасування документів. Кожним записом у таблиці є один будівельний паспорт"
+      },
+      "title": {
+        "da": "register.json",
+        "it": "register.json",
+        "fi": "register.json",
+        "ro": "register.json",
+        "cs": "Doména register.json je hostována u One.com",
+        "hr": "register.json",
+        "sv": "register.json",
+        "nl": "registreer.json",
+        "de": "register.json",
+        "en": "register.json",
+        "lt": "register.json",
+        "sk": "register.json",
+        "el": "μητρώο.json",
+        "lv": "register.json",
+        "mt": "register.json",
+        "uk": "register.json",
+        "ga": "register.json",
+        "bg": "регистър.json",
+        "fr": "register.json",
+        "sl": "register.json",
+        "pl": "Rejestracja.json",
+        "hu": "Regisztráció.json",
+        "pt": "register.json",
+        "es": "register.json",
+        "et": "register.json"
+      },
+      "access_url": [
+        "https://data.gov.ua/dataset/93852201-bdbb-493b-8e83-8d9a60a180d9/resource/524d19de-d86e-45e1-ad27-fa2e3e490fce/download/register.json"
+      ],
+      "media_type": "application/json",
+      "byte_size": 137419
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 155
+  },
+  "publisher": {
+    "type": "Organization",
+    "name": "Берегометська селищна рада",
+    "resource": "https://data.gov.ua/organization/018798a1-9a50-4974-9145-03385b0b595a"
+  },
+  "modified": "2026-04-21T09:05:29.770766",
+  "id": "93852201-bdbb-493b-8e83-8d9a60a180d9",
+  "issued": "2025-09-23T13:11:47.460202",
+  "catalog_record": {
+    "issued": "2026-05-08T20:19:31Z",
+    "modified": "2026-05-10T18:43:09Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "name": "Стражир Людмила Вікторівна",
+      "email": "mailto:beregomet.rada.tg@gmail.com"
+    }
+  ]
+}

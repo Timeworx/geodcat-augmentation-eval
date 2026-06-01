@@ -1,0 +1,646 @@
+{
+  "identifier": [
+    "3b01a2c0-616b-48a3-b80d-50dd6fe23e95"
+  ],
+  "country": {
+    "label": "Ireland",
+    "id": "ie",
+    "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+  },
+  "keywords": [
+    {
+      "id": "dgihealth",
+      "label": "dgihealth",
+      "language": "ga"
+    },
+    {
+      "id": "health",
+      "label": "health",
+      "language": "ga"
+    },
+    {
+      "id": "covid",
+      "label": "Covid",
+      "language": "ga"
+    },
+    {
+      "id": "covid-19",
+      "label": "Covid-19",
+      "language": "ga"
+    },
+    {
+      "id": "ireland",
+      "label": "Ireland",
+      "language": "ga"
+    },
+    {
+      "id": "hpsc",
+      "label": "HPSC",
+      "language": "ga"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/3b01a2c0-616b-48a3-b80d-50dd6fe23e95",
+  "catalog": {
+    "id": "data-gov-ie",
+    "modified": "2023-02-10T20:35:45.162705",
+    "source_type": "dcat-ap",
+    "issued": "2022-06-24T12:25:17Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.gov.ie/en/organisation/department-of-public-expenditure-and-reform",
+      "email": "mailto:opendata@per.gov.ie",
+      "name": "Government Reform Unit, Dept of Public Expenditure & Reform"
+    },
+    "title": {
+      "ga": "Data.gov.ie"
+    },
+    "description": {
+      "ga": "Open Data Portal Ireland"
+    },
+    "homepage": "https://data.gov.ie",
+    "language": [
+      {
+        "id": "ga",
+        "label": "Irish",
+        "resource": "http://publications.europa.eu/resource/authority/language/GLE"
+      }
+    ],
+    "country": {
+      "label": "Ireland",
+      "id": "ie",
+      "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+    },
+    "spatial_resource": [
+      {
+        "label": "Ireland",
+        "id": "ie",
+        "resource": "http://publications.europa.eu/resource/authority/country/IRL"
+      }
+    ],
+    "spatial": [],
+    "count": 30287
+  },
+  "translation_meta": {
+    "details": {
+      "lt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "de": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "ga": {
+        "machine_translated": false,
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "ga",
+        "received": "2026-05-12T20:21:44Z",
+        "issued": "2026-04-06T20:32:43Z"
+      }
+    },
+    "full_available_languages": [
+      "lt",
+      "fr",
+      "it",
+      "bg",
+      "es",
+      "sv",
+      "hr",
+      "hu",
+      "nl",
+      "uk",
+      "cs",
+      "en",
+      "de",
+      "sl",
+      "ro",
+      "da",
+      "et",
+      "pt",
+      "pl",
+      "mt",
+      "ga",
+      "lv",
+      "fi",
+      "sk",
+      "el"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "et": "<p>Dataset of 14-Day Incidence Rate per 100 000 population of COVID-19 cases at Local Electoral Area (LEA) level in Ireland (14-päevane COVID-19 juhtumite esinemissagedus 100 000 elaniku kohta kohaliku valimispiirkonna (LEA) tasandil Iirimaal). Need andmed hõlmavad ainult kinnitatud juhtumeid (PCR) ega hõlma HSE portaali üles laaditud antigeeni positiivseid tulemusi.  Iirimaal on 166 õiguskaitseasutust.</p><p>Palun pange tähele: Konfidentsiaalsuse huvides on pärast kodanikuühiskonna organisatsiooniga konsulteerimist kõik õiguskaitseasutused, mille väärtused on alla 5, jäetud välja kui „vähem kui 5“. Kui kiiruseks 100 k kohta on määratud \"vähem kui 5\", tähendab see, et LEA esinemissagedus on 14 päeva jooksul alla 5 ja selle väärtus on alla surutud, et näidata \"vähem kui 5\". See ei näita null (0) kinnitatud haigusjuhtu.</p><p>Põhjaliku osa teatatud COVID-19 juhtumite puhul võib nende asukoht kaardil kajastada pigem nende töökohta kui kodust aadressi. Kinnitatud juhtumid on geokodeeritud ja tervishoiuameti terviseteabe üksus (HIU) on need määranud õiguskaitseasutustele.</p><p>Viimased andmed hõlmavad 14-päevast ajavahemikku 10. maist kuni 23. maini 2022.</p>",
+    "cs": "<p>Soubor údajů o čtrnáctidenní míře výskytu onemocnění COVID-19 na 100 000 obyvatel na úrovni místní volební oblasti (LEA) v Irsku. Tyto údaje zahrnují pouze potvrzené případy (PCR) a nezahrnují pozitivní výsledky antigenu nahrané na portál HSE.  V Irsku je 166 donucovacích orgánů.</p><p>Upozorňuje se: Z důvodu zachování důvěrnosti byly po konzultaci s organizací občanské společnosti všechny donucovací orgány s hodnotami nižšími než 5 potlačeny na hodnotu „méně než 5“. Pokud je sazba na 100k nastavena na \"méně než 5\", znamená to, že LEA má 14denní incidenci nižší než 5 a její hodnota byla potlačena, aby ukazovala \"méně než 5\". Nejedná se o údaj o nulových (0) potvrzených případech.</p><p>U části oznámených případů COVID-19 může jejich umístění na mapě odrážet místo výkonu práce, a nikoli adresu bydliště. Potvrzené případy byly geokódovány a přiděleny donucovacím orgánům zdravotní zpravodajskou jednotkou (HIU) na HSE.</p><p>Nejnovější údaje se týkají 14denního období od 10. května do 23. května 2022.</p>",
+    "pt": "Conjunto de dados da taxa de incidência de 14 dias por 100 000 habitantes de casos de COVID-19 ao nível da área eleitoral local (LEA) na Irlanda. Estes dados incluem apenas os casos confirmados (PCR) e não incluem os resultados positivos de antigénios carregados no portal HSE.  Existem 166 autoridades policiais em toda a Irlanda.</p><p>Nota: Por razões de confidencialidade, após consulta da OSC, todas as autoridades responsáveis pela aplicação da lei com valores inferiores a 5 foram suprimidas para «menos de 5». Quando uma taxa por 100k é definida como «inferior a 5», significa que a LEA tem uma incidência de 14 dias inferior a 5 e que o seu valor foi suprimido para indicar «inferior a 5». Esta não é uma indicação de zero (0) casos confirmados.</p><p>Para uma percentagem de casos de COVID-19 notificados, a sua localização no mapa pode refletir o seu local de trabalho e não o seu endereço de residência. Os casos confirmados foram geocodificados e atribuídos às autoridades policiais pela Unidade de Informações de Saúde (UHI) no SAN.</p><p>Os últimos dados referem-se ao período de 14 dias de 10 de maio a 23 de maio de 2022.</p>",
+    "sv": "<p>Uppgifter om 14-dagars incidens per 100 000 invånare i covid-19-fall på lokal valområdesnivå i Irland. Dessa uppgifter omfattar endast bekräftade fall (PCR) och inte positiva antigenresultat som laddats upp på HSE-portalen.  Det finns 166 brottsbekämpande organ i Irland.</p><p>Observera att Av sekretesskäl har alla brottsbekämpande organ med värden under 5, efter samråd med det civila samhällets organisationer, strukits till \"mindre än 5\". Om en sats per 100k sätts till ”mindre än 5” betyder det att den brottsbekämpande myndigheten har en 14-dagars incidens under 5 och dess värde har undertryckts för att visa ”mindre än 5”. Detta är inte en indikation på noll (0) bekräftade fall.</p><p>För en del av de anmälda covid-19-fallen kan deras placering på kartan återspegla deras arbetsplats snarare än deras hemadress. Bekräftade fall har geokodats och tilldelats brottsbekämpande myndigheter av hälsounderrättelseenheten vid HSE.</p><p>Senaste uppgifter avser 14-dagarsperioden 10 maj–23 maj 2022.</p>",
+    "it": "<p>Dataset of 14-Day Incidence Rate per 100,000 population of COVID-19 cases at Local Electoral Area (LEA) level in Ireland (Dataset del tasso di incidenza di 14 giorni per 100.000 abitanti di casi di COVID-19 a livello di area elettorale locale (LEA) in Irlanda). Questi dati includono solo i casi confermati (PCR) e non includono i risultati positivi dell'antigene caricati sul portale HSE.  In tutta l'Irlanda vi sono 166 LEA.</p><p>Si prega di notare: Per motivi di riservatezza, previa consultazione con l'OSC, tutte le autorità di contrasto con valori inferiori a 5 sono state soppresse a \"meno di 5\". Quando un tasso per 100k è impostato su \"Meno di 5\", significa che la LEA ha un'incidenza di 14 giorni inferiore a 5 e il suo valore è stato soppresso per mostrare \"Meno di 5\". Non si tratta di un'indicazione di zero (0) casi confermati.</p><p>Per una percentuale di casi di COVID-19 notificati, la loro ubicazione sulla mappa potrebbe riflettere il loro luogo di lavoro piuttosto che il loro indirizzo di casa. I casi confermati sono stati geocodificati e assegnati alle LEA dalla Health Intelligence Unit (HIU) presso l'HSE.</p><p>Gli ultimi dati si riferiscono al periodo di 14 giorni dal 10 maggio al 23 maggio 2022.</p>",
+    "lt": "14 dienų sergamumo rodiklis 100 000 gyventojų, užsikrėtusių COVID-19, Airijos vietos rinkimų erdvės (LEA) lygmeniu. Šie duomenys apima tik patvirtintus atvejus (PGR) ir neapima teigiamų antigenų rezultatų, įkeltų į SSA portalą.  Visoje Airijoje yra 166 teisėsaugos institucijos.</p><p>Atkreipkite dėmesį į tai, kad: Dėl konfidencialumo priežasčių, pasikonsultavus su PVO, visos teisėsaugos institucijos, kurių vertės yra mažesnės nei 5, buvo sumažintos iki „mažiau nei 5“. Kai 100 k norma yra \"mažiau nei 5\", tai reiškia, kad LEA dažnis per 14 dienų yra mažesnis nei 5, o jo vertė buvo nuslopinta, kad būtų rodoma \"mažiau nei 5\". Tai nėra 0 (0) patvirtintų atvejų rodiklis.</p><p>Kai kurių COVID-19 atvejų, apie kuriuos pranešta, atveju jų vieta žemėlapyje gali atspindėti jų darbo vietą, o ne namų adresą. Patvirtintus atvejus geografiškai užkodavo ir LEA priskyrė Sveikatos žvalgybos padalinys (HIU) HSE.</p><p>Paskutiniai duomenys susiję su 14 dienų laikotarpiu nuo 2022 m. gegužės 10 d. iki gegužės 23 d.</p>",
+    "fi": "<p>Dataset of 14-Day Incidence Rate per 100 000 population of COVID-19 cases at Local Electoral Area (LEA) level in Ireland (Tiedot 14 päivän ilmaantuvuusasteesta 100 000:ta covid-19-tapausta kohti paikallisen vaalialueen (LEA) tasolla Irlannissa). Nämä tiedot sisältävät vain vahvistetut tapaukset (PCR), eivätkä ne sisällä HSE-portaaliin ladattuja positiivisia antigeenituloksia.  Irlannissa on 166 lainvalvontaviranomaista.</p><p>Huomaa: Luottamuksellisuussyistä kaikki lainvalvontaviranomaiset, joiden arvot ovat alle 5, on kansalaisyhteiskunnan organisaatioiden kuulemisen jälkeen poistettu kohdasta ”Vähemmän kuin 5”. Jos 100 000:ta kohti on asetettu \"alle 5\", se tarkoittaa, että LEA:n 14 päivän esiintyvyys on alle 5 ja sen arvo on poistettu näyttäen \"alle 5\". Tämä ei ole merkki nollasta (0) vahvistetusta tapauksesta.</p><p>Osalle ilmoitetuista covid-19-tapauksista heidän sijaintinsa kartalla voi kuvastaa heidän työpaikkaansa eikä heidän kotiosoitettaan. HSE:n terveystiedusteluyksikkö (HIU) on geokoodannut vahvistetut tapaukset ja osoittanut ne lainvalvontaviranomaisille.</p><p>Viimeisimmät tiedot viittaavat 14 päivän ajanjaksoon 10.–23. toukokuuta 2022.</p>",
+    "lv": "<p>Dataset of 14-Day Incidence Rate per 100 000 population of COVID-19 cases at Local Electoral Area (LEA) level in Ireland (14 dienu saslimstības rādītājs uz 100 000 Covid-19 gadījumu iedzīvotāju vietējo vēlēšanu apgabalu (LEA) līmenī Īrijā). Šie dati ietver tikai apstiprinātus gadījumus (PĶR) un neietver pozitīvus antigēna rezultātus, kas augšupielādēti HSE portālā.  Īrijā ir 166 tiesībaizsardzības iestādes.</p><p>Lūdzu, ņemiet vērā: Konfidencialitātes apsvērumu dēļ pēc apspriešanās ar PSO visas tiesībaizsardzības iestādes, kuru vērtības ir mazākas par 5, ir samazinātas līdz “mazāk nekā 5”. Ja ātrums uz 100k ir iestatīts uz \"mazāk nekā 5\", tas nozīmē, ka tiesībaizsardzības iestāžu 14 dienu biežums ir mazāks par 5 un tā vērtība ir nomākta, lai parādītu \"mazāk nekā 5\". Šī nav norāde uz nulles (0) apstiprinātiem gadījumiem.</p><p>Attiecībā uz paziņoto Covid-19 gadījumu daļu to atrašanās vieta kartē var atspoguļot viņu darba vietu, nevis dzīvesvietas adresi. Apstiprinātie gadījumi ir ģeokodēti, un Veselības izlūkošanas vienība (HIU) tos ir iedalījusi tiesībaizsardzības iestādēm HSE.</p><p>Jaunākie dati attiecas uz 14 dienu periodu no 2022. gada 10. maija līdz 23. maijam.</p>",
+    "hr": "<p>Podaci o 14-dnevnoj stopi incidencije na 100 000 stanovnika oboljelih od bolesti COVID-19 na razini lokalnog izbornog područja (LEA) u Irskoj. Ti podaci uključuju samo potvrđene slučajeve (PCR) i ne uključuju pozitivne rezultate antigena učitane na portal HSE.  Irska ima 166 tijela za izvršavanje zakonodavstva.</p><p>Napomena: Zbog povjerljivosti, nakon savjetovanja s organizacijama civilnog društva, sva tijela za izvršavanje zakonodavstva čija je vrijednost manja od 5 potisnuta su na „manje od 5”. Ako je stopa na 100 k postavljena na „manje od 5”, to znači da LEA ima 14-dnevnu incidenciju manju od 5 i da je njezina vrijednost potisnuta kako bi pokazala „manje od 5”. To nije pokazatelj nula potvrđenih slučajeva (0).</p><p>Za dio prijavljenih slučajeva bolesti COVID-19 njihova lokacija na karti može odražavati njihovo mjesto rada, a ne kućnu adresu. Potvrđene slučajeve geokodirala je i LEA-i dodijelila Zdravstveno-obavještajna jedinica (HIU) na HSE-u.</p><p>Najnoviji podaci odnose se na 14-dnevno razdoblje od 10. svibnja do 23. svibnja 2022.</p>",
+    "uk": "Дані 14-денного рівня захворюваності на 100 000 населення захворюваності на COVID-19 на рівні місцевої виборчої зони (LEA) в Ірландії. Ці дані включають лише підтверджені випадки (ПЛР) і не включають позитивні результати антигену, завантажені на портал HSE.  * Є 166 LEA’ по всій Ірландії.</p><p>Будь ласка, зверніть увагу: З міркувань конфіденційності, після консультацій з ОГС, всі LEA з значеннями нижче 5 були придушені до \"Менше 5\". Якщо ставка на 100k встановлена як «Менше 5», це означає, що LEA має 14-денну частоту нижче 5, а його значення було придушено, щоб показати «Менше 5». Це не вказує на нуль (0) підтверджених випадків.</p><p>Для частини повідомлених випадків COVID-19 їх розташування на карті може відображати місце роботи, а не домашню адресу. Підтверджені випадки були геокодовані та розподілені в LEA підрозділом розвідки охорони здоров'я (HIIU) при HSE.</p><p>Останні дані відносяться до 14-денного періоду з 10 травня по 23 травня 2022 року.</p>",
+    "de": "<p>Datensatz der 14-Tage-Inzidenzrate pro 100.000 Einwohner von COVID-19-Fällen auf Ebene der lokalen Wahlbezirke (LEA) in Irland. Diese Daten umfassen nur bestätigte Fälle (PCR) und keine positiven Antigenergebnisse, die auf das HSE-Portal hochgeladen wurden.  In Irland gibt es 166 LEA.</p><p>Bitte beachten Sie: Aus Gründen der Vertraulichkeit wurden nach Rücksprache mit der ZGO alle LEAs mit Werten unter 5 auf \"Weniger als 5\" gestrichen. Wenn eine Rate pro 100k auf \"Weniger als 5\" eingestellt ist, bedeutet dies, dass die LEA eine 14-Tage-Inzidenz unter 5 hat und ihr Wert unterdrückt wurde, um \"Weniger als 5\" anzuzeigen. Dies ist kein Hinweis auf null (0) bestätigte Fälle.</p><p>Für einen Teil der gemeldeten COVID-19-Fälle kann ihr Standort auf der Karte ihren Arbeitsplatz und nicht ihre Wohnadresse widerspiegeln. Bestätigte Fälle wurden von der Health Intelligence Unit (HIU) am HSE geocodiert und den LEAs zugewiesen.</p><p>Die neuesten Daten beziehen sich auf den 14-Tage-Zeitraum vom 10. Mai bis 23. Mai 2022.</p>",
+    "fr": "<p>Ensemble de données sur le taux d’incidence sur 14 jours pour 100 000 habitants de cas de COVID-19 au niveau des zones électorales locales (LEA) en Irlande. Ces données incluent uniquement les cas confirmés (PCR) et n'incluent pas les résultats positifs d'antigènes téléchargés sur le portail HSE.  Il y a 166 LEA en Irlande.</p><p>Veuillez noter: Pour des raisons de confidentialité, après consultation du CSO, tous les LEA dont les valeurs sont inférieures à 5 ont été supprimés à «Moins de 5». Lorsqu'un taux par 100k est fixé à 'Moins de 5', cela signifie que le LEA a une incidence de 14 jours inférieure à 5 et que sa valeur a été supprimée pour afficher 'Moins de 5'. Ce n'est pas une indication de zéro (0) cas confirmés.</p><p>Pour une proportion de cas de COVID-19 notifiés, leur emplacement sur la carte peut refléter leur lieu de travail plutôt que leur adresse domiciliaire. Les cas confirmés ont été géocodés et attribués aux LEA par le Health Intelligence Unit (HIU) du HSE.</p><p>Les dernières données concernent la période de 14 jours allant du 10 mai au 23 mai 2022.</p>",
+    "sk": "<p>Súbor údajov o 14-dňovej miere výskytu na 100 000 obyvateľov v prípadoch ochorenia COVID-19 na úrovni miestnej volebnej oblasti (LEA) v Írsku. Tieto údaje zahŕňajú len potvrdené prípady (PCR) a nezahŕňajú pozitívne výsledky antigénov nahraté na portál HSE.  V celom Írsku je 166 orgánov presadzovania práva.</p><p>Upozornenie: Z dôvodu zachovania dôvernosti boli po konzultácii s OOS všetky OPP s hodnotami nižšími ako 5 potlačené na hodnotu „menej ako 5“. Ak je sadzba na 100 k nastavená na hodnotu „menej ako 5“, znamená to, že LEA má 14-dňovú incidenciu nižšiu ako 5 a jej hodnota bola potlačená tak, aby znázorňovala hodnotu „menej ako 5“. Neznamená to nulu (0) potvrdených prípadov.</p><p>V prípade časti oznámených prípadov ochorenia COVID-19 môže ich umiestnenie na mape odrážať miesto výkonu práce, a nie adresu ich bydliska. Potvrdené prípady boli geokódované a pridelené orgánom presadzovania práva jednotkou zdravotnej inteligencie (HIU) na HSE.</p><p>Najnovšie údaje sa týkajú 14-dňového obdobia od 10. mája do 23. mája 2022.</p>",
+    "el": "<p>Σύνολο δεδομένων του ποσοστού επίπτωσης 14 ημερών ανά 100 000 άτομα πληθυσμού κρουσμάτων COVID-19 σε επίπεδο τοπικής εκλογικής περιοχής (LEA) στην Ιρλανδία. Τα δεδομένα αυτά περιλαμβάνουν μόνο επιβεβαιωμένα κρούσματα (PCR) και δεν περιλαμβάνουν θετικά αποτελέσματα αντιγόνων που αναφορτώνονται στην πύλη HSE.  Υπάρχουν 166 LEA σε ολόκληρη την Ιρλανδία.</p><p>Παρακαλούμε σημειώστε: Για λόγους εμπιστευτικότητας, κατόπιν διαβούλευσης με την ΟΚΠ, όλες οι αρχές επιβολής του νόμου με τιμές κάτω του 5 καταργήθηκαν σε «λιγότερες από 5». Όταν ένα ποσοστό ανά 100k ορίζεται σε «Λιγότερο από 5», αυτό σημαίνει ότι η LEA έχει επίπτωση 14 ημερών κάτω από 5 και η τιμή της έχει κατασταλεί για να δείξει «Λιγότερο από 5». Αυτό δεν αποτελεί ένδειξη μηδενικών (0) επιβεβαιωμένων κρουσμάτων.</p><p>Για ένα ποσοστό κοινοποιημένων κρουσμάτων COVID-19, η θέση τους στον χάρτη μπορεί να αντικατοπτρίζει τον τόπο εργασίας τους και όχι τη διεύθυνση κατοικίας τους. Τα επιβεβαιωμένα κρούσματα έχουν κωδικοποιηθεί γεωγραφικά και έχουν κατανεμηθεί στις αρχές επιβολής του νόμου από τη μονάδα πληροφοριών υγείας (HIU) στην HSE.</p><p>Τα τελευταία δεδομένα αναφέρονται στην περίοδο 14 ημερών από τις 10 Μαΐου έως τις 23 Μαΐου 2022.</p>",
+    "mt": "<p>Sett ta’ data tar-Rata ta’ Inċidenza ta’ 14-il Jum għal kull 100,000 popolazzjoni ta’ każijiet tal-COVID-19 fil-livell taż-Żona Elettorali Lokali (LEA) fl-Irlanda. Din id-data tinkludi każijiet ikkonfermati (PCR) biss u ma tinkludix riżultati pożittivi tal-antiġeni mtellgħin fuq il-portal tal-HSE.  Hemm 166 LEA madwar l-Irlanda.</p><p>Jekk jogħġbok innota: Għal raġunijiet ta’ kunfidenzjalità, wara konsultazzjoni mas-CSO, l-LEAs kollha b’valuri taħt il-5 ġew imrażżna għal “Inqas minn 5”. Fejn rata għal kull 100k hija stabbilita għal \"Inqas minn 5\" dan ifisser li l-LEA għandha inċidenza ta' 14-il jum taħt il-5 u l-valur tagħha ġie mrażżan biex juri \"Inqas minn 5\". Din mhijiex indikazzjoni ta’ żero (0) każijiet ikkonfermati.</p><p>Għal proporzjon ta’ każijiet notifikati tal-COVID-19, il-post tagħhom fuq il-mappa jista’ jirrifletti l-post tax-xogħol tagħhom aktar milli l-indirizz tad-dar tagħhom. Il-każijiet ikkonfermati ġew ġeokodifikati u allokati lil-LEAs mill-Unità tal-Intelligence tas-Saħħa (HIU) fl-HSE.</p><p>L-aħħar data tirreferi għall-perjodu ta’ 14-il jum mill-10 ta’ Mejju sat-23 ta’ Mejju 2022.</p>",
+    "es": "<p>Conjunto de datos de la tasa de incidencia de 14 días por cada 100 000 habitantes de casos de COVID-19 a nivel de zona electoral local (ZLE) en Irlanda. Estos datos solo incluyen casos confirmados (PCR) y no incluyen resultados positivos de antígenos cargados en el portal de HSE.  Hay 166 LEA en toda Irlanda.</p><p>Tenga en cuenta: Por razones de confidencialidad, tras consultar con la OSC, todas las LEA con valores inferiores a 5 se han suprimido a «Menos de 5». Cuando una tasa por 100k se establece en 'Menos de 5' significa que el LEA tiene una incidencia de 14 días por debajo de 5 y su valor se ha suprimido para mostrar 'Menos de 5'. Esto no es una indicación de cero (0) casos confirmados.</p><p>Para una proporción de casos notificados de COVID-19, su ubicación en el mapa puede reflejar su lugar de trabajo en lugar de su domicilio. Los casos confirmados han sido geocodificados y asignados a LEA por la Unidad de Inteligencia Sanitaria (HIU) en el HSE.</p><p>Los últimos datos se refieren al período de 14 días del 10 de mayo al 23 de mayo de 2022.</p>",
+    "hu": "<p>A 14 napos incidenciaarány adatkészlete 100 000 főre vetítve a Covid19-esetek esetében a helyi választási terület (LEA) szintjén Írországban. Ezek az adatok csak a megerősített eseteket (PCR) tartalmazzák, és nem tartalmazzák a HSE portálra feltöltött pozitív antigén eredményeket.  Írországban 166 bűnüldöző hatóság működik.</p><p>Kérjük, vegye figyelembe: Titoktartási okokból a civil társadalmi szervezettel folytatott konzultációt követően az 5-nél kisebb értékű bűnüldöző hatóságok mindegyikét „5-nél kisebb” értékre csökkentették. Ha a 100 k-ra vetített arány értéke \"5-nél kevesebb\", az azt jelenti, hogy a LEA 14 napos előfordulási gyakorisága 5 alatt van, és értékét úgy csökkentették, hogy az \"5-nél kevesebb\" értéket mutasson. Ez nem azt jelzi, hogy nulla (0) megerősített esetről van szó.</p><p>A bejelentett Covid19-esetek egy részénél előfordulhat, hogy a térképen való elhelyezkedésük nem az otthoni címüket, hanem a munkahelyüket tükrözi. A megerősített eseteket a HSE egészségügyi hírszerző egysége földrajzilag kódolta és hozzárendelte a bűnüldöző hatóságokhoz.</p><p>A legfrissebb adatok a 2022. május 10. és május 23. közötti 14 napos időszakra vonatkoznak.</p>",
+    "ga": "<p>Sataset of 14-Day Incidence Rate per 100,000 population of COVID-19 cases at Local Electoral Area (LEA) level in Ireland [Sonraí de ráta teagmhais 14 lá in aghaidh gach 100,000 duine de chásanna COVID-19 ag leibhéal an Toghcháin Áitiúil (LEA) in Éirinn]. Ní áirítear leis na sonraí sin ach cásanna deimhnithe (PCR) agus ní áirítear leo torthaí dearfacha antaiginí a uaslódáladh chuig tairseach FSS.  Tá 166 LEA ar fud na hÉireann.</p><p>Tabhair faoi deara: Ar chúiseanna rúndachta, tar éis dul i gcomhairle leis an bPríomh-Oifig Staidrimh, tá gach LEA le luachanna faoi bhun 5 curtha faoi chois go dtí 'Níos lú ná 5'. Nuair a shocraítear ráta in aghaidh an 100k ag 'Níos lú ná 5' ciallaíonn sé go bhfuil minicíocht 14 lá ag an LEA faoi bhun 5 agus go bhfuil a luach curtha faoi chois chun 'Níos lú ná 5' a thaispeáint. Ní léiriú é seo ar náid (0) cás deimhnithe.</p><p>I gcás cion de chásanna COVID-19 ar tugadh fógra ina leith, d’fhéadfadh a suíomh ar an léarscáil a n-áit oibre a léiriú seachas a seoladh baile. Rinne an tAonad um Fhaisnéis Sláinte (HIU) cásanna deimhnithe a gheochódú agus a leithdháileadh ar LEAanna ag FSS.</p>Tagraíonn na sonraí is déanaí don tréimhse 14 lá ón 10 Bealtaine go dtí an 23 Bealtaine 2022.</p>",
+    "ro": "<p>Dataset of 14-Day Incidence Rate per 100,000 population of COVID-19 cases at Local Electoral Area (LEA) level in Ireland [Un set de date privind rata incidenței pe 14 zile la 100 000 de locuitori a cazurilor de COVID-19 la nivelul zonei electorale locale (LEA) din Irlanda]. Aceste date includ numai cazurile confirmate (PCR) și nu includ rezultatele pozitive ale antigenului încărcate pe portalul HSE.  Există 166 de autorități de aplicare a legii în Irlanda.</p><p>Vă rugăm să rețineți: Din motive de confidențialitate, în urma consultării cu OSC, toate autoritățile de aplicare a legii cu valori mai mici de 5 au fost eliminate la „mai puțin de 5”. În cazul în care o rată per 100 000 este setată la „mai puțin de 5”, aceasta înseamnă că LEA are o incidență de 14 zile sub 5, iar valoarea sa a fost suprimată pentru a indica „mai puțin de 5”. Aceasta nu indică zero (0) cazuri confirmate.</p><p>Pentru o proporție din cazurile notificate de COVID-19, localizarea lor pe hartă poate reflecta locul lor de muncă, mai degrabă decât adresa lor de domiciliu. Cazurile confirmate au fost geocodificate și alocate autorităților de aplicare a legii de către unitatea de informații medicale (HIU) din cadrul HSE.</p><p>Ultimele date se referă la perioada de 14 zile cuprinsă între 10 mai și 23 mai 2022.</p>",
+    "pl": "<p>Zestaw danych dotyczących 14-dniowego wskaźnika zachorowalności na 100 000 mieszkańców w przypadku COVID-19 na poziomie lokalnego obszaru wyborczego (LEA) w Irlandii. Dane te obejmują wyłącznie przypadki potwierdzone (PCR) i nie obejmują pozytywnych wyników antygenowych przesłanych do portalu HSE.  W całej Irlandii jest 166 organów ścigania.</p><p>Uwaga: Ze względu na poufność, po konsultacji z GUS, wszystkie LEA o wartościach poniżej 5 zostały zniesione do \"Mniej niż 5\". Jeśli stawka za 100k jest ustawiona na \"Mniej niż 5\", oznacza to, że LEA ma 14-dniową częstość występowania poniżej 5, a jej wartość została zmniejszona, aby pokazać \"Mniej niż 5\". Nie wskazuje to na zero (0) potwierdzonych przypadków.</p><p>W przypadku części zgłoszonych przypadków COVID-19 ich lokalizacja na mapie może odzwierciedlać miejsce pracy, a nie adres zamieszkania. Potwierdzone przypadki zostały geokodowane i przydzielone LEA przez jednostkę wywiadu zdrowotnego (HIU) w HSE.</p><p>Ostatnie dane odnoszą się do 14-dniowego okresu od 10 maja do 23 maja 2022 r.</p>",
+    "bg": "<p>Набор от данни за 14-дневната честота на случаите на COVID-19 на 100 000 души от населението на ниво местна избирателна зона (LEA) в Ирландия. Тези данни включват само потвърдени случаи (PCR) и не включват положителни резултати от антигени, качени на портала за HSE.  В Ирландия има 166 правоприлагащи органи.</p><p>Моля, имайте предвид: От съображения за поверителност, след консултация с ОГО, всички правоприлагащи органи със стойности под 5 бяха премахнати до „по-малко от 5“. Когато ставката на 100k е определена на \"по-малко от 5\", това означава, че LEA има 14-дневна честота под 5 и нейната стойност е потисната, за да покаже \"по-малко от 5\". Това не е индикация за нула (0) потвърдени случаи.</p><p>За част от съобщените случаи на COVID-19 местоположението им на картата може да отразява работното им място, а не домашния им адрес. Потвърдените случаи са геокодирани и разпределени на правоприлагащите органи от звеното за здравно разузнаване (ЗЗР) в HSE.</p><p>Последните данни се отнасят за 14-дневния период от 10 май до 23 май 2022 г.</p>",
+    "en": "<p>Dataset of 14-Day Incidence Rate per 100,000 population of COVID-19 cases at Local Electoral Area (LEA) level in Ireland. This data includes confirmed cases (PCR) only and does not include positive antigen results uploaded to the HSE portal.  There are 166 LEA’s across Ireland.</p><p>Please note: For confidentiality reasons, following consultation with the CSO, all LEA's with values below 5 have been suppressed to 'Less than 5'. Where a rate per 100k is set to 'Less than 5' it means that the LEA has a 14-Day incidence below 5 and its value has been suppressed to show 'Less than 5'. This is not an indication of zero (0) confirmed cases.</p><p>For a proportion of notified COVID-19 cases, their location on the map may reflect their place of work rather than their home address. Confirmed cases have been geo-coded and allocated to LEA's by the Health Intelligence Unit (HIU) at the HSE.</p><p>Latest data refers to the 14-day period 10 May to 23 May 2022.</p>",
+    "da": "<p>Datasæt for 14-dages incidensrate pr. 100 000 indbyggere med covid-19-tilfælde på lokalt valgområdeniveau (LEA-niveau) i Irland. Disse data omfatter kun bekræftede tilfælde (PCR) og omfatter ikke positive antigenresultater, der er uploadet til HSE-portalen.  Der er 166 retshåndhævende myndigheder i Irland.</p><p>Bemærk: Af fortrolighedshensyn er alle LEA'er med værdier under 5 efter høring af civilsamfundsorganisationen blevet undertrykt til \"mindre end 5\". Hvis en sats pr. 100k er sat til \"mindre end 5\", betyder det, at LEA har en 14-dages incidens under 5, og dens værdi er blevet undertrykt for at vise \"mindre end 5\". Dette er ikke en indikation af nul (0) bekræftede tilfælde.</p><p>For en del af de anmeldte covid-19-tilfælde kan deres placering på kortet afspejle deres arbejdssted snarere end deres hjemmeadresse. Bekræftede tilfælde er blevet geokodet og tildelt de retshåndhævende myndigheder af sundhedsefterretningsenheden (HIU) i HSE.</p><p>Seneste data vedrører perioden på 14 dage fra den 10. maj til den 23. maj 2022.</p>",
+    "sl": "<p>Nabor podatkov o 14-dnevni stopnji incidence na 100 000 prebivalcev primerov COVID-19 na ravni lokalnega volilnega območja (LEA) na Irskem. Ti podatki vključujejo samo potrjene primere (PCR) in ne vključujejo pozitivnih rezultatov antigena, ki so bili naloženi na portal HSE.  Na Irskem je 166 organov kazenskega pregona.</p><p>Opomba: Zaradi zaupnosti so bili po posvetovanju z organizacijo civilne družbe vsi organi kazenskega pregona z vrednostmi pod 5 črtani na „manj kot 5“. Če je stopnja na 100k nastavljena na „manj kot 5“, to pomeni, da ima organ kazenskega pregona 14-dnevno pojavnost pod 5, njena vrednost pa je bila ukinjena, da bi se prikazala „manj kot 5“. To ni znak nič (0) potrjenih primerov.</p><p>Za delež prijavljenih primerov COVID-19 lahko njihova lokacija na zemljevidu odraža njihov kraj dela in ne njihovega domačega naslova. Potrjene primere je enota za zdravstveno obveščanje (HIU) pri HSE geokodirala in dodelila organom kazenskega pregona.</p><p>Zadnji podatki se nanašajo na 14-dnevno obdobje od 10. maja do 23. maja 2022.</p>",
+    "nl": "<p>Dataset van het incidentiepercentage van 14 dagen per 100 000 inwoners van COVID-19-gevallen op het niveau van het lokale kiesgebied (LEA) in Ierland. Deze gegevens omvatten alleen bevestigde gevallen (PCR) en geen positieve antigeenresultaten die naar het HSE-portaal zijn geüpload.  Er zijn 166 LEA’s in heel Ierland.</p><p>Let op: Om redenen van vertrouwelijkheid zijn na overleg met het maatschappelijk middenveld alle LEA's met waarden van minder dan 5 geschrapt tot \"minder dan 5\". Wanneer een tarief per 100k is ingesteld op 'Minder dan 5', betekent dit dat de LEA een incidentie van 14 dagen heeft van minder dan 5 en dat de waarde ervan is onderdrukt om 'Minder dan 5' weer te geven. Dit is geen indicatie van nul (0) bevestigde gevallen.</p><p>Voor een deel van de gemelde COVID-19-gevallen kan hun locatie op de kaart hun werkplek weerspiegelen in plaats van hun thuisadres. Bevestigde gevallen zijn geogecodeerd en toegewezen aan LEA's door de Health Intelligence Unit (HIU) op de HSE.</p><p>De meest recente gegevens hebben betrekking op de periode van 14 dagen van 10 mei tot en met 23 mei 2022.</p>"
+  },
+  "landing_page": [
+    {
+      "resource": "https://opendata-geohive.hub.arcgis.com/datasets/27d401c9ae084097bb1f3a69b69462a1_0"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "id": "en",
+      "label": "English",
+      "resource": "http://publications.europa.eu/resource/authority/language/ENG"
+    }
+  ],
+  "title": {
+    "lt": "COVID-19 HPSC HIU naujausia vietos rinkimų zona",
+    "fr": "COVID-19 HPSC HIU Dernière zone électorale locale cartographiée",
+    "it": "COVID-19 HPSC HIU Ultima mappatura dell'area elettorale locale",
+    "bg": "COVID-19 HPSC HIU Последна картографирана местна избирателна зона",
+    "es": "COVID-19 HPSC HIU Última zona electoral local mapeada",
+    "sv": "COVID-19 HPSC HIU Senaste lokala valområdet kartlagt",
+    "hr": "COVID-19 HPSC HIU Najnoviji lokalni izborni prostor",
+    "hu": "COVID-19 HPSC HIU Legutóbbi helyi választási terület feltérképezése",
+    "nl": "COVID-19 HPSC HIU Laatste lokale verkiezingszone in kaart gebracht",
+    "uk": "Карта останньої місцевої виборчої зони COVID-19 HPSC HIIU",
+    "cs": "Nejnovější mapovaná místní volební oblast HPSC HIU v souvislosti s onemocněním COVID-19",
+    "en": "COVID-19 HPSC HIU Latest Local Electoral Area Mapped",
+    "de": "COVID-19 HPSC HIU Neueste lokale Wahlbereich Mapped",
+    "sl": "COVID-19 HPSC HIU Najnovejše kartirano lokalno volilno območje",
+    "ro": "COVID-19 HPSC HIU Cea mai recentă cartografiere a zonei electorale locale",
+    "da": "COVID-19 HPSC HIU seneste lokale valgområde kortlagt",
+    "et": "COVID-19 HPSC HIU Viimane kohalik valimispiirkond kaardistatud",
+    "pt": "COVID-19 HPSC HIU Última área eleitoral local mapeada",
+    "pl": "COVID-19 HPSC HIU Najnowsza lokalna strefa wyborcza z mapą",
+    "mt": "COVID-19 HPSC HIU L-Aħħar Żona Elettorali Lokali Mapped",
+    "ga": "COVID-19 HPSC HIU Latest Local Electoral Area Mapped",
+    "lv": "COVID-19 HPSC HIU Jaunākā vietējā vēlēšanu zona Mapped",
+    "fi": "COVID-19 HPSC HIU Viimeisin paikallinen vaalialue kartoitettu",
+    "sk": "COVID-19 HPSC HIU Najnovšia mapovaná miestna volebná oblasť",
+    "el": "COVID-19 HPSC HIU Τελευταία Τοπική Εκλογική Περιοχή Χαρτογραφήθηκε"
+  },
+  "distributions": [
+    {
+      "id": "82ee9e20-a2f0-490c-b36b-6e5c2d266249",
+      "title": {
+        "sv": "GeoJSON",
+        "sk": "GeoJSON",
+        "lt": "GeoJSON",
+        "ro": "GeoJSON",
+        "de": "GeoJSON",
+        "sl": "GeoJSON",
+        "fr": "GeoJSON",
+        "fi": "GeoJSON",
+        "et": "GeoJSON",
+        "nl": "GeoJSON",
+        "cs": "GeoJSON",
+        "mt": "ĠeoJSON",
+        "pt": "GeoJSON",
+        "el": "ΓΕΩΤΖΣΟΝ",
+        "da": "GeoJSON",
+        "lv": "GeoJSON",
+        "bg": "ГеоДЖСОН",
+        "ga": "GeoJSON",
+        "es": "GeoJSON",
+        "it": "GeoJSON",
+        "uk": "GeoJSON",
+        "en": "GeoJSON",
+        "hr": "GeoJSON",
+        "pl": "GeoJSON",
+        "hu": "GeoJSON"
+      },
+      "format": {
+        "id": "GEOJSON",
+        "label": "GEOJSON"
+      },
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/geojson?layers=0"
+      ],
+      "media_type": "application/vnd.geo+json",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/geojson?layers=0"
+      ],
+      "issued": "2026-04-06T12:40:27",
+      "modified": "2026-04-06T12:40:27"
+    },
+    {
+      "id": "b1216203-02ff-41e1-b5e8-84cf598ba9da",
+      "title": {
+        "sk": "ArcGIS Hub Dataset",
+        "et": "ArcGIS keskuse andmekogum",
+        "en": "ArcGIS Hub Dataset",
+        "mt": "Sett ta' Data tal-Hub tal-ArcGIS",
+        "de": "ArcGIS-Hub-Datensatz",
+        "es": "Conjunto de datos de ArcGIS Hub",
+        "uk": "Набір даних ArcGIS Hub",
+        "bg": "Набор от данни за ArcGIS Hub",
+        "ro": "Setul de date ArcGIS Hub",
+        "sl": "Nabor podatkov vozlišča ArcGIS",
+        "pt": "Conjunto de dados da plataforma ArcGIS",
+        "lt": "ArcGIS Hub duomenų rinkinys",
+        "nl": "ArcGIS Hub-gegevensset",
+        "it": "Set di dati ArcGIS Hub",
+        "lv": "ArcGIS centra datu kopa",
+        "cs": "Datový soubor ArcGIS Hub",
+        "hr": "Skup podataka ArcGIS Hub",
+        "hu": "ArcGIS Hub adatkészlet",
+        "fr": "Ensemble de données ArcGIS Hub",
+        "da": "Datasæt for ArcGIS-hub",
+        "sv": "Dataset för ArcGIS Hub",
+        "fi": "ArcGIS Hub -datajoukko",
+        "ga": "ArcGIS Hub Dataset",
+        "pl": "Zestaw danych ArcGIS Hub",
+        "el": "Σύνολο δεδομένων κόμβου ArcGIS"
+      },
+      "issued": "2025-12-09T16:20:55",
+      "modified": "2025-12-09T16:20:55",
+      "format": {
+        "id": "HTML",
+        "label": "HTML"
+      },
+      "media_type": "text/html",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/datasets/27d401c9ae084097bb1f3a69b69462a1_0"
+      ]
+    },
+    {
+      "id": "4012c7c9-4ad7-400f-8d0c-9f26b994f6a2",
+      "title": {
+        "bg": "Формуляр",
+        "lt": "Formos failas",
+        "cs": "Tvarový soubor",
+        "sk": "Tvarový súbor",
+        "es": "Shapefile",
+        "it": "File di forma",
+        "lv": "Formas fails",
+        "pt": "Shapefile",
+        "fr": "Shapefile",
+        "ga": "Shapefile",
+        "pl": "Plik kształtu",
+        "fi": "Shapefile",
+        "et": "Shapefile",
+        "mt": "Forpefile",
+        "el": "Φάκελος σχήματος",
+        "sl": "Shapefile",
+        "en": "Shapefile",
+        "sv": "Shapefile",
+        "nl": "Vormbestand",
+        "de": "Shapefile",
+        "ro": "Shapefile",
+        "hr": "Datoteka oblika",
+        "hu": "Alakfájl",
+        "da": "Formfil",
+        "uk": "Файл форми"
+      },
+      "issued": "2025-12-09T16:20:55",
+      "modified": "2025-12-09T16:20:55",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/shapefile?layers=0"
+      ],
+      "media_type": "application/zip",
+      "format": {
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/shapefile?layers=0"
+      ]
+    },
+    {
+      "id": "1af74ac0-53b4-40fe-860a-c20c4daa710b",
+      "title": {
+        "ro": "KML",
+        "pt": "KML",
+        "ga": "KML",
+        "sl": "KML",
+        "bg": "KML",
+        "hr": "KML",
+        "pl": "KML",
+        "da": "KML",
+        "es": "KML",
+        "it": "KML",
+        "uk": "КМЛ (KML)",
+        "et": "KML",
+        "hu": "KML",
+        "el": "ΧΜΛ",
+        "fi": "KML",
+        "de": "KML",
+        "mt": "KML",
+        "nl": "KML",
+        "fr": "KML",
+        "sv": "KML",
+        "en": "KML",
+        "lv": "KML",
+        "sk": "KML",
+        "cs": "KML",
+        "lt": "KML"
+      },
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/kml?layers=0"
+      ],
+      "format": {
+        "id": "KML",
+        "label": "KML"
+      },
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "issued": "2025-12-09T16:20:55",
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/kml?layers=0"
+      ],
+      "modified": "2025-12-09T16:20:55"
+    },
+    {
+      "id": "c96a28f1-51f3-4a72-8747-c182c7d9575d",
+      "title": {
+        "ro": "ArcGIS GeoService",
+        "fi": "ArcGIS GeoService",
+        "es": "ArcGIS GeoService",
+        "sk": "ArcGIS GeoService",
+        "en": "ArcGIS GeoService",
+        "cs": "ArcGIS GeoService",
+        "sl": "ArcGIS GeoService",
+        "da": "ArcGIS GeoService",
+        "uk": "геосервісу ArcGIS",
+        "et": "ArcGIS GeoService",
+        "fr": "ArcGIS GeoService",
+        "sv": "ArcGIS GeoService",
+        "el": "ArcGIS GeoService",
+        "lt": "ArcGIS GeoService",
+        "ga": "ArcGIS GeoService",
+        "mt": "ArcGIS GeoService",
+        "nl": "ArcGIS GeoService",
+        "it": "ArcGIS GeoService",
+        "pl": "ArcGIS GeoService",
+        "de": "ArcGIS GeoService",
+        "hr": "ArcGIS GeoService",
+        "hu": "ArcGIS GeoService",
+        "bg": "ArcGIS GeoService",
+        "lv": "ArcGIS GeoService",
+        "pt": "ArcGIS GeoService"
+      },
+      "access_url": [
+        "https://services-eu1.arcgis.com/z6bHNio59iTqqSUY/arcgis/rest/services/COVID19_14_Day_Incidence_Rate_per_100k_LEA/FeatureServer/0"
+      ],
+      "media_type": "application/json",
+      "issued": "2025-12-09T16:20:55",
+      "format": {
+        "id": "ARCGIS GEOSERVICES REST API",
+        "label": "ARCGIS GEOSERVICES REST API"
+      },
+      "modified": "2025-12-09T16:20:55"
+    },
+    {
+      "id": "9bd8bd75-152a-4f51-841c-c3c916b10fd4",
+      "modified": "2025-12-09T16:20:55",
+      "format": {
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "title": {
+        "mt": "CSV",
+        "sv": "CSV",
+        "et": "CSV",
+        "pt": "CSV",
+        "en": "CSV",
+        "fr": "CSV",
+        "de": "CSV",
+        "lv": "CSV",
+        "uk": "CSV",
+        "el": "CSV",
+        "sk": "CSV",
+        "bg": "CSV",
+        "nl": "CSV",
+        "hu": "CSV",
+        "lt": "CSV",
+        "ro": "CSV",
+        "es": "CSV",
+        "pl": "CSV",
+        "da": "CSV",
+        "cs": "CSV",
+        "ga": "CSV",
+        "sl": "CSV",
+        "hr": "CSV",
+        "it": "CSV",
+        "fi": "CSV"
+      },
+      "download_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/csv?layers=0"
+      ],
+      "issued": "2025-12-09T16:20:55",
+      "media_type": "text/csv",
+      "access_url": [
+        "https://opendata-geohive.hub.arcgis.com/api/download/v1/items/27d401c9ae084097bb1f3a69b69462a1/csv?layers=0"
+      ]
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 270
+  },
+  "modified": "2026-05-31T18:41:49",
+  "publisher": {
+    "type": "Agent",
+    "name": "Tailte Éireann",
+    "resource": "https://data.gov.ie/organization/c2f170ca-63d0-4498-9e81-759827708e97"
+  },
+  "id": "3b01a2c0-616b-48a3-b80d-50dd6fe23e95",
+  "categories": [
+    {
+      "id": "HEAL",
+      "label": {
+        "lv": "Veselība",
+        "hu": "Egészségügy",
+        "ga": "Sláinte",
+        "no": "Helse",
+        "mt": "Saħħa",
+        "et": "Tervis",
+        "fi": "Terveys",
+        "pt": "Saúde",
+        "es": "Salud",
+        "lt": "Sveikata",
+        "da": "Sundhed",
+        "el": "Υγεία",
+        "ro": "Sănătate",
+        "cs": "Zdraví",
+        "sv": "Hälsa",
+        "nl": "Gezondheid",
+        "de": "Gesundheit",
+        "nb": "Helse",
+        "sl": "Zdravje",
+        "hr": "Zdravlje",
+        "en": "Health",
+        "nn": "Helse",
+        "it": "Salute",
+        "pl": "Zdrowie",
+        "sk": "Zdravotníctvo",
+        "bg": "Здраве",
+        "fr": "Santé"
+      },
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/HEAL"
+    }
+  ],
+  "issued": "2020-09-17",
+  "catalog_record": {
+    "issued": "2026-04-06T20:32:42Z",
+    "modified": "2026-05-31T20:25:02Z"
+  },
+  "contact_point": [
+    {
+      "type": "Organization",
+      "name": "content_osireland"
+    },
+    {
+      "type": "Organization",
+      "telephone": "-"
+    }
+  ]
+}

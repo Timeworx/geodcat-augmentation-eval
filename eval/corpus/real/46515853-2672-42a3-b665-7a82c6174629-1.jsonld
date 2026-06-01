@@ -1,0 +1,107 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/46515853-2672-42a3-b665-7a82c6174629~~1",
+      "@type": "dcat:Dataset",
+      "dct:identifier": "46515853-2672-42a3-b665-7a82c6174629~~1",
+      "dct:title": {
+        "@language": "en",
+        "@value": "Hydrology - locations WMS"
+      },
+      "dct:description": {
+        "@language": "nor",
+        "@value": "Karttjeneste som viser vannforekomster for overflatevann og grunnvann.\n\nEn overflatevannforekomst er en betydelig mengde vann (tilsigsareal for elv og overflateareal for innsjø og kystvann). I tillegg til hydrografiske forhold defineres utstrekningen i henhold til kriterier for vanntype, påvirkninger, økologisk tilstand eller potensial (Sterkt modifiserte vannforekomster) og kjemisk tilstand. En grunnvannsforekomst defineres som en avgrenset forekomst som enten produserer 10m3 per døgn eller som kan forsyne 50 personer, påvirkningsbildet, kvantitativ og kjemisk tilstand. Vannforekomstene danner grunnenheten i vannforskriften, hvor hovedhensikten med vannforekomstene er å sikre en helhetlig vannforvaltning fra fjell til fjord. Vannforekomstene utgjør forvaltningsenhetene som skal forvaltes i samsvar med bestemmelsene gitt i vannforskriften. Felles for elementene som inngår i vannforekomster, er at de er homogene med tanke på kjemiske, biologiske og fysiske egenskaper samt antropogene påvirkninger innenfor et nedbørfelt.\n\nFor overflatevann ligger følgende informasjon på hver vannforekomst: opplysning om den er naturlig eller sterkt modifisert, økologisk tilstand eller potensial, kjemisk tilstand, miljømål og risikovurderingen om miljømålet vil bli nådd innen 2021. \n\nFor grunnvann ligger følgende informasjon på hver vannforekomst: kvantitativ tilstand, kjemisk tilstand, miljømål og risikovurderingen om miljømålet vil bli nådd innen 2021. \n\nDatasettets nøyaktighet tilsier at man ved bruk av bakgrunnsdata som inneholder bedre detaljeringsgrad enn 1:50 000 må ta hensyn til dette. Dataene vil i løpet av 2019 – 2020 bli oppdatert i henhold til nye vanntemadata fra Statens kartverk. Dette gjelder kategoriene kystvann, innsjø og elv."
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Seksjon for miljødata og geoinformasjon"
+        }
+      },
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "no"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "geonorge",
+        "homepage": "https://www.geonorge.no",
+        "description": {
+          "en": "Geo Data Portal Norway"
+        },
+        "title": {
+          "no": "Geonorge"
+        },
+        "source_type": "geospatial",
+        "issued": "2022-11-21T05:38:23Z",
+        "country": {
+          "label": "Norway",
+          "id": "no",
+          "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Norway",
+            "id": "no",
+            "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "no",
+            "label": "Norwegian",
+            "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+          }
+        ],
+        "modified": "2022-11-21T05:38:23Z",
+        "publisher": {
+          "type": "Agent",
+          "homepage": "https://www.kartverket.no",
+          "email": "mailto:post@kartverket.no",
+          "name": "Kartverket"
+        },
+        "count": 352
+      },
+      "deuropa:accrual_periodicity": {
+        "resource": "http://publications.europa.eu/resource/authority/frequency/CONT",
+        "label": "continuous"
+      },
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 140
+      },
+      "deuropa:provenance": [
+        {
+          "label": "Ingen prosesshistorie tilgjengelig"
+        }
+      ],
+      "deuropa:spatial_resource": [
+        {}
+      ],
+      "deuropa:catalog_record": {
+        "modified": "2026-03-07T17:48:12Z",
+        "issued": "2023-07-28T17:49:44Z"
+      }
+    }
+  ]
+}

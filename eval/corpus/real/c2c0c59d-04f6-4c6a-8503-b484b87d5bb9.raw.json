@@ -1,0 +1,431 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "tillstøtende-sone",
+      "label": "Tillstøtende sone"
+    },
+    {
+      "language": "nor",
+      "id": "24-nm",
+      "label": "24 NM"
+    },
+    {
+      "language": "nor",
+      "id": "fastlands-norge",
+      "label": "Fastlands-Norge"
+    },
+    {
+      "language": "nor",
+      "id": "grunnlinje",
+      "label": "Grunnlinje"
+    },
+    {
+      "language": "nor",
+      "id": "outer-limit-of-contiguous-zone-24-nautical-miles",
+      "label": "Outer Limit of Contiguous Zone 24 Nautical Miles"
+    },
+    {
+      "language": "nor",
+      "id": "norges-maritime-grenser",
+      "label": "Norges maritime grenser"
+    },
+    {
+      "language": "nor",
+      "id": "yttergrense-for-tilstøtende-sone-24-nautiske-mil",
+      "label": "Yttergrense for tilstøtende sone 24 nautiske mil"
+    },
+    {
+      "language": "nor",
+      "id": "sjøgrenser",
+      "label": "sjøgrenser"
+    },
+    {
+      "language": "nor",
+      "id": "norwegian-maritime-boundaries",
+      "label": "Norwegian Maritime Boundaries"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/c2c0c59d-04f6-4c6a-8503-b484b87d5bb9",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:44Z",
+        "issued": "2024-06-11T17:48:03Z"
+      }
+    },
+    "full_available_languages": [
+      "fr",
+      "bg",
+      "es",
+      "ga",
+      "fi",
+      "et",
+      "it",
+      "lv",
+      "nl",
+      "nor",
+      "pl",
+      "pt",
+      "uk",
+      "sv",
+      "de",
+      "cs",
+      "hu",
+      "lt",
+      "mt",
+      "sk",
+      "hr",
+      "sl",
+      "el",
+      "en",
+      "da",
+      "ro"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Ytre begrensningslinje i hav, beregnet 24 nm (44 448 m) utenfor og parallelt med grunnlinjen ved Fastlands-Norge, og som avgrenser tilstøtende sone",
+    "en": "The line every point of which is at a distance of 12 NM (22 224 m) from the nearest point of the Baseline of Norway Mainland"
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Äußere Grenze der Contiguous Zone 24 Seemeilen",
+    "fi": "Viereisen vyöhykkeen ulkoraja 24 merimailia",
+    "pt": "Limite Exterior da Zona Contígua 24 Milhas Náuticas",
+    "bg": "Външна граница на съседна зона 24 морски мили",
+    "lt": "Išorinė riba gretimoje zonoje 24 Jūrmylės",
+    "lv": "Pieguļošās zonas ārējā robeža 24 jūras jūdzes",
+    "hr": "Vanjska granica susjedne zone 24 nautičke milje",
+    "fr": "Limite extérieure de la zone contiguë 24 milles marins",
+    "hu": "A szomszédos zóna külső határa 24 tengeri mérföld",
+    "nor": "Yttergrense for tilstøtende sone 24 nautiske mil",
+    "uk": "Зовнішня межа суміжної зони 24 морських миль",
+    "sk": "Vonkajší limit susednej zóny 24 námorných míľ",
+    "sl": "Zunanja meja sosednje cone 24 Navtičnih milj",
+    "ga": "Teorainn Amuigh de Chrios Contiguous 24 Miles Nautical",
+    "sv": "Yttre gräns för sammanhängande zon 24 sjömil",
+    "mt": "Limitu ta’ Barra ta’ Żona Kontigwa 24 Mil Nawtiċi",
+    "el": "Εξωτερικό όριο συνεχόμενης ζώνης 24 ναυτικών μιλίων",
+    "en": "Outer Limit of Contiguous Zone 24 Nautical Miles",
+    "it": "Limite esterno della zona continua 24 miglia nautiche",
+    "es": "Límite exterior de la zona contigua 24 millas náuticas",
+    "et": "Külgneva tsooni välimine piir 24 meremiili",
+    "cs": "Vnější hranice přilehlé zóny 24 námořních mil",
+    "pl": "Zewnętrzny limit przyległej strefy 24 mil morskich",
+    "da": "Ydre grænse for sammenhængende zone 24 sømil",
+    "ro": "Limita exterioară a zonei continue 24 mile marine",
+    "nl": "Buitengrens van aaneengesloten zone 24 nautische mijlen"
+  },
+  "accrual_periodicity": {},
+  "distributions": [
+    {
+      "license": {
+        "resource": "https://creativecommons.org/licenses/by/4.0/",
+        "id": "https://creativecommons.org/licenses/by/4.0/",
+        "label": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "access_url": [
+        "https://wms.geonorge.no/skwms1/wms.nmg?service=wms&request=getcapabilities"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2012-08-10T00:00:00Z",
+      "id": "627a5ed0-9b45-48e7-8a99-d05ec0faca87",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://wms.geonorge.no/skwms1/wms.nmg"
+          ],
+          "endpoint_description": [
+            "https://wms.geonorge.no/skwms1/wms.nmg?service=wms&request=getcapabilities"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "mt": "ħarsa",
+        "el": "προβολή",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "ro": "vizualizare",
+        "da": "udsigt",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 220
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "2012-08-10T00:00:00Z",
+  "publisher": {
+    "name": "Kartverket",
+    "type": "Organization",
+    "email": "mailto:kundesenter@kartverket.no"
+  },
+  "id": "c2c0c59d-04f6-4c6a-8503-b484b87d5bb9",
+  "categories": [],
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            -16,
+            85
+          ],
+          [
+            45,
+            85
+          ],
+          [
+            45,
+            -56
+          ],
+          [
+            -16,
+            -56
+          ],
+          [
+            -16,
+            85
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "issued": "0001-01-01T00:00:00Z",
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:04Z",
+    "issued": "2021-10-15T08:49:31Z"
+  }
+}

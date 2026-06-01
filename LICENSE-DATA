@@ -1,0 +1,18 @@
+The data artefacts in this repository — the corpus under `eval/corpus/`,
+the experiment results under `eval/results/`, the JSON-LD / COCO sample
+fixtures under `tests/fixtures/` (except the vendored SHACL shapes, see
+NOTICE) — are licensed under the Creative Commons Attribution 4.0
+International License (CC-BY 4.0).
+
+You are free to:
+  * Share — copy and redistribute the material in any medium or format
+  * Adapt — remix, transform, and build upon the material for any purpose
+
+Under the following terms:
+  * Attribution — You must give appropriate credit, provide a link to
+    the license, and indicate if changes were made.
+
+Full license text: https://creativecommons.org/licenses/by/4.0/legalcode
+
+When citing this data in academic work, please cite the accompanying
+paper and reference the DOI of the archived release (see CITATION.cff).

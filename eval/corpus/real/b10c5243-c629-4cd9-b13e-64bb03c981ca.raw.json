@@ -1,0 +1,396 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "geographical-names",
+      "label": "geographical names"
+    },
+    {
+      "language": "nor",
+      "id": "placenames",
+      "label": "placenames"
+    },
+    {
+      "language": "nor",
+      "id": "named-place",
+      "label": "named place"
+    },
+    {
+      "language": "nor",
+      "id": "stedsnavn",
+      "label": "Stedsnavn"
+    },
+    {
+      "language": "nor",
+      "id": "stadnamn",
+      "label": "Stadnamn"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/b10c5243-c629-4cd9-b13e-64bb03c981ca",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:30:05Z",
+        "issued": "2024-06-11T17:48:05Z"
+      }
+    },
+    "full_available_languages": [
+      "sk",
+      "en",
+      "nor",
+      "sl",
+      "nl",
+      "hu",
+      "pt",
+      "hr",
+      "bg",
+      "lv",
+      "mt",
+      "es",
+      "ro",
+      "de",
+      "pl",
+      "fr",
+      "ga",
+      "sv",
+      "it",
+      "lt",
+      "et",
+      "cs",
+      "fi",
+      "el",
+      "uk",
+      "da"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Norwegian Download service for INSPIRE Geographical Names",
+    "en": "Norwegian Download service for Inspire Geographical Names"
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Inspirieren Geographische Namen WFS",
+    "fi": "Innostaa maantieteellisiä nimiä WFS",
+    "pt": "INSPIRE nomes geográficos WFS",
+    "bg": "Вдъхновени географски имена WFS",
+    "lt": "Inspire geografiniai pavadinimai WFS",
+    "hr": "Inspirirajte zemljopisna imena WFS",
+    "lv": "Iedvesmot ģeogrāfiskos nosaukumus WFS",
+    "fr": "Inspirez les noms géographiques WFS",
+    "hu": "Inspire földrajzi nevek WFS",
+    "nor": "INSPIRE Geographical Names WFS",
+    "uk": "Надихайте географічні назви WFS",
+    "sk": "Inšpirovať zemepisné názvy WFS",
+    "sl": "INSPIRE Geographical Names WFS",
+    "ga": "Spreagadh Ainmneacha Geografacha WFS",
+    "sv": "Inspirera geografiska namn WFS",
+    "mt": "Ispirazzjoni Ismijiet Ġeografiċi WFS",
+    "el": "Inspire Γεωγραφικά ονόματα WFS",
+    "en": "Inspire Geographical Names WFS",
+    "it": "Ispirare i nomi geografici WFS",
+    "es": "Inspirar nombres geográficos WFS",
+    "et": "Inspire geograafilised nimetused WFS",
+    "cs": "Inspirovat zeměpisné názvy WFS",
+    "pl": "Inspirować nazwy geograficzne WFS",
+    "ro": "Inspirați numele geografice WFS",
+    "da": "Inspirere til geografiske navne WFS",
+    "nl": "Inspiratie Geografische namen WFS"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/CONT",
+    "label": "continuous"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://wfs.geonorge.no/skwms1/wfs.inspire-gn?service=WFS&request=GetCapabilities"
+      ],
+      "format": {
+        "id": "INSPIRE DOWNLOAD SERVICE",
+        "label": "INSPIRE DOWNLOAD SERVICE"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "8881656b-2362-432d-b7a8-793666218ceb",
+      "title": {
+        "de": "herunterladen",
+        "fi": "lataa",
+        "pt": "baixar",
+        "bg": "изтегли",
+        "lt": "atsiųsti",
+        "lv": "lejupielādēt",
+        "hr": "preuzimanje",
+        "fr": "télécharger",
+        "hu": "letöltés",
+        "uk": "Завантажити",
+        "sk": "stiahnuť",
+        "sl": "prenos",
+        "ga": "íoslódáil",
+        "sv": "nedladdning",
+        "mt": "tniżżil",
+        "el": "τηλεφόρτωση",
+        "en": "download",
+        "it": "scarica",
+        "es": "descargar",
+        "et": "allalaadimine",
+        "cs": "stáhnout",
+        "pl": "Pobierz",
+        "da": "download",
+        "ro": "Descarcă",
+        "nl": "download"
+      },
+      "issued": "2015-04-10T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 190
+  },
+  "conforms_to": [],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Kartverket",
+    "type": "Organization",
+    "email": "mailto:kundesenter@kartverket.no"
+  },
+  "modified": "0001-01-01T00:00:00Z",
+  "id": "b10c5243-c629-4cd9-b13e-64bb03c981ca",
+  "categories": [],
+  "issued": "2015-04-10T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            -2,
+            72
+          ],
+          [
+            33,
+            72
+          ],
+          [
+            33,
+            57
+          ],
+          [
+            -2,
+            57
+          ],
+          [
+            -2,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:06Z",
+    "issued": "2021-10-15T08:49:25Z"
+  }
+}

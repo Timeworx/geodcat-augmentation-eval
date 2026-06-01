@@ -1,0 +1,223 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "norge",
+      "label": "Norge"
+    },
+    {
+      "language": "nor",
+      "id": "prospektering",
+      "label": "prospektering"
+    },
+    {
+      "language": "en",
+      "id": "mineral-resources",
+      "label": "mineral resources"
+    },
+    {
+      "language": "nor",
+      "id": "mineralske-ressurser",
+      "label": "mineralske ressurser"
+    },
+    {
+      "language": "en",
+      "id": "minerals",
+      "label": "minerals"
+    },
+    {
+      "language": "nor",
+      "id": "mineraler",
+      "label": "mineraler"
+    },
+    {
+      "language": "en",
+      "id": "norway",
+      "label": "Norway"
+    },
+    {
+      "language": "en",
+      "id": "prospecting",
+      "label": "prospecting"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/0f0967bf-05e6-4dbc-b483-3ce342e4993a",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:32:18Z",
+        "issued": "2024-06-11T17:48:14Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:32:18Z",
+        "issued": "2024-06-11T17:48:14Z"
+      }
+    },
+    "full_available_languages": [
+      "nor",
+      "en"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Dataene viser områder som er belagt med bergrettigheter for statens mineraler, som definert av \"Lov om erverv og utvinning av mineralressurser (mineralloven)\" §7. Datasettet inneholder definerte områder for undersøkelses (UND)- og utvinningsretter (UTV). Det kan være utstedt flere bergrettigheter for samme geografiske område; datasettet har overlappende flater, men de individuelle rettighetene har forskjellig prioritet. \n\nFørste prioritet gjelder basert på mottatt dato, beskrevet i attributtet InnsendtDato. Direktoratet for mineralforvaltning med Bergmesteren for Svalbard (DMF) er eier av datasettet. \n\nEn undersøkelsesrett på statens mineraler tildeles som en rett på et bestemt område, og ikke som en rettighet til en bestemt forekomst. Den som har undersøkelsesrett med best prioritet, dvs. den som søkte om retten først, har enerett til å søke om utvinningsrett etter minerallovens § 29. Gyldighet for undersøkelsesretter er 7 år fra best prioritet, utvinningsrettigheter har 10 års gyldighet. Rettigheter kan forlenges ved vedtak, jf. mineralloven § 23 og §§ 33 - 34.\n\nRettigheter er definert av lov om erverv og utvinning av mineralressurser (mineralloven) §7. Undersøkelsesrettigheter er merket \"UND\", utvinningsrettigheter er merket \"UTV\". Kandidat til det offentlige kartlaget (DOK).\nDatasettet brukes av myndighetene til å forvalte rettighetsområdene og å gi interessenter innsyn i hvilke områder som er belagt, og inngår i WMS-tjenesten Bergrettigheter. Kandidat til det offentlige kartlaget (DOK).",
+    "en": "The data display areas covered with mineral permits for the Norwegian state’s minerals, according to the \"Lov om erverv og utvinning av mineralressurser (mineralloven)\" §7; the Minerals Act. The data set contains areas defining active exploration permits (UND) and extraction permits (UTV). The data set has overlapping surfaces; several mineral rights can be issued for the same geographical area, but then have different priorities. \n\nThe mineral Exploration or extraction permit with highest priority, i.e. the first applicant for the right, in a given area is determined by the date The Directorate of Mining with the Commissioner of Mines at Svalbard (DMF) received the application. This is recorded in the attribute InnsendtDato.\n\nAn exploration permit to the State’s minerals is awarded as a right to a defined area and not as a right to a specific deposit. The owner of an exploration permit with the best priority has the exclusive right to apply for an extraction permit following the Minerals Act § 29.\n\nThe validity of the exploration permits is 7 years from the best priority whereas extraction permits have 10 years validity. This date is defined from the attribute \"UtstedtDato\".\n\nDMF is the owner of the data set. The data set is included in the WMS-service Bergrettigheter."
+  },
+  "index": "dataset",
+  "title": {
+    "nor": "Bergrettigheter WFS",
+    "en": "Mineral exploration- and extraction permits"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/CONT",
+    "label": "continuous"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply",
+        "id": "http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply",
+        "label": "http://inspire.ec.europa.eu/metadata-codelist/ConditionsApplyingToAccessAndUse/noConditionsApply"
+      },
+      "access_url": [
+        "https://wfs.geonorge.no/skwms1/wfs.bergrettigheter?request=GetCapabilities&service=WFS"
+      ],
+      "format": {
+        "id": "INSPIRE DOWNLOAD SERVICE",
+        "label": "INSPIRE DOWNLOAD SERVICE"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "d38c3963-ff8e-49ab-b38d-d800085da1ba",
+      "title": {
+        "de": "herunterladen",
+        "fi": "lataa",
+        "pt": "baixar",
+        "bg": "изтегли",
+        "lt": "atsiųsti",
+        "hr": "preuzimanje",
+        "lv": "lejupielādēt",
+        "fr": "télécharger",
+        "hu": "letöltés",
+        "uk": "Завантажити",
+        "sk": "stiahnuť",
+        "sl": "prenos",
+        "ga": "íoslódáil",
+        "sv": "nedladdning",
+        "el": "τηλεφόρτωση",
+        "mt": "tniżżil",
+        "en": "download",
+        "it": "scarica",
+        "es": "descargar",
+        "et": "allalaadimine",
+        "cs": "stáhnout",
+        "pl": "Pobierz",
+        "da": "download",
+        "ro": "Descarcă",
+        "nl": "download"
+      },
+      "issued": "2009-06-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 190
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosesshistorie tilgjengelig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "0001-01-01T00:00:00Z",
+  "publisher": {
+    "name": "Kartverket",
+    "type": "Organization",
+    "email": "mailto:wms-drift@kartverket.no"
+  },
+  "id": "0f0967bf-05e6-4dbc-b483-3ce342e4993a",
+  "categories": [],
+  "issued": "2009-06-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            72
+          ],
+          [
+            33,
+            72
+          ],
+          [
+            33,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:14Z",
+    "issued": "2021-10-15T08:49:20Z"
+  }
+}

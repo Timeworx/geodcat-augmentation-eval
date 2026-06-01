@@ -1,0 +1,404 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "topografisk",
+      "label": "topografisk"
+    },
+    {
+      "language": "nor",
+      "id": "jan-mayen",
+      "label": "Jan Mayen"
+    },
+    {
+      "language": "nor",
+      "id": "basiskart",
+      "label": "basiskart"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/6bf84018-1724-4ba9-9c25-879b5d204a19",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:20Z",
+        "issued": "2024-06-11T17:48:09Z"
+      }
+    },
+    "full_available_languages": [
+      "da",
+      "fr",
+      "hr",
+      "fi",
+      "pt",
+      "pl",
+      "mt",
+      "es",
+      "nl",
+      "lv",
+      "et",
+      "nor",
+      "sl",
+      "sk",
+      "hu",
+      "uk",
+      "sv",
+      "ga",
+      "bg",
+      "el",
+      "de",
+      "en",
+      "cs",
+      "ro",
+      "it",
+      "lt"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Tjenesten inneholder de offisielle topografiske data over Jan Mayen. Innholdet er begrenset i forhold til WMTS-tjenesten.",
+    "en": "The service contains the official topographical data of Jan Mayen. The content is limited compared to the WMTS service."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "NP_Base map_JanMayen_WMS",
+    "fi": "NP_Peruskartta_JanMayen_WMS",
+    "pt": "NP_Mapa de base_JanMayen_WMS",
+    "bg": "NP_Base map_JanMayen_WMS",
+    "lt": "NP_Base map_JanMayen_WMS",
+    "hr": "NP_Osnovna karta_JanMayen_WMS",
+    "lv": "NP_bāzes karte_JanMayen_WMS",
+    "fr": "Carte NP_Base_JanMayen_WMS",
+    "hu": "NP_Alap térkép_JanMayen_WMS",
+    "nor": "NP Basiskart Jan Mayen WMS",
+    "uk": "NP_Base map_JanMayen_WMS",
+    "sk": "NP_Base mapa_JanMayen_WMS",
+    "sl": "NP_Base map_JanMayen_WMS",
+    "ga": "Léarscáil NP_Base_JanMayen_WMS",
+    "sv": "NP_Base map_JanMayen_WMS",
+    "mt": "NP_Base map_JanMayen_WMS",
+    "el": "NP_Base map_JanMayen_WMS",
+    "en": "NP_Base map_JanMayen_WMS",
+    "it": "NP_Mappa di base_JanMayen_WMS",
+    "es": "NP_Mapa de base_JanMayen_WMS",
+    "et": "NP_Base map_JanMayen_WMS",
+    "cs": "NP_Base mapa_JanMayen_WMS",
+    "pl": "NP_Base mapa_JanMayen_WMS",
+    "da": "NP_Base map_JanMayen_WMS",
+    "ro": "NP_Base hartă_JanMayen_WMS",
+    "nl": "NP_Base map_JanMayen_WMS"
+  },
+  "accrual_periodicity": {
+    "resource": "http://publications.europa.eu/resource/authority/frequency/IRREG",
+    "label": "irregular"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "https://creativecommons.org/licenses/by/4.0/deed.no",
+        "id": "https://creativecommons.org/licenses/by/4.0/deed.no",
+        "label": "https://creativecommons.org/licenses/by/4.0/deed.no"
+      },
+      "access_url": [
+        "https://geodata.npolar.no/arcgis/services/Basisdata/NP_Basiskart_JanMayen_WMS/MapServer/WMSServer?request=GetCapabilities&service=WMS"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2013-11-14T00:00:00Z",
+      "id": "14fc6146-d4e8-482e-b196-753334d14e85",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://geodata.npolar.no/arcgis/services/Basisdata/NP_Basiskart_JanMayen_WMS/MapServer/WMSServer"
+          ],
+          "endpoint_description": [
+            "https://geodata.npolar.no/arcgis/services/Basisdata/NP_Basiskart_JanMayen_WMS/MapServer/WMSServer?request=GetCapabilities&service=WMS"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "mt": "ħarsa",
+        "el": "προβολή",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "da": "udsigt",
+        "ro": "vizualizare",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 170
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "publisher": {
+    "name": "Anders Skoglund",
+    "type": "Person",
+    "email": "mailto:anders.skoglund@npolar.no"
+  },
+  "modified": "2013-11-14T00:00:00Z",
+  "id": "6bf84018-1724-4ba9-9c25-879b5d204a19",
+  "categories": [],
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            -9.986722,
+            71.451619
+          ],
+          [
+            -7.005336,
+            71.451619
+          ],
+          [
+            -7.005336,
+            70.344849
+          ],
+          [
+            -9.986722,
+            70.344849
+          ],
+          [
+            -9.986722,
+            71.451619
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "issued": "0001-01-01T00:00:00Z",
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-06T18:06:16Z",
+    "issued": "2021-10-15T08:49:22Z"
+  }
+}

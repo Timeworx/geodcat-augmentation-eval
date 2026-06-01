@@ -1,0 +1,142 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/e655b5f7-2c65-459b-97cb-f74ca1a3ac14~~1",
+      "@type": "dcat:Dataset",
+      "dct:identifier": [
+        "e655b5f7-2c65-459b-97cb-f74ca1a3ac14"
+      ],
+      "dct:title": {
+        "@language": "en",
+        "@value": "Register of Auditors and Sub-’s of Audit Activity"
+      },
+      "dct:description": {
+        "@language": "en",
+        "@value": "The data set contains information from “Register of Auditors and ʼ Sub-Audit Entities. There are two resources in the dataset: subjects - information about ʼ subjects of audit activities and auditors - information about auditors. Access to the registry is also possible through a public web interface on the official website of OSNAD, at the link: https://register.apob.org.ua/uk/search"
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "@id": "https://data.gov.ua/organization/f26c3aa1-2386-4dac-b3e8-122b0b74ffc6",
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Державна установа \"Орган суспільного нагляду за аудиторською діяльністю\""
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "id",
+          "@value": "аудит"
+        },
+        {
+          "@language": "id",
+          "@value": "перелік"
+        },
+        {
+          "@language": "id",
+          "@value": "кваліфікація"
+        },
+        {
+          "@language": "id",
+          "@value": "стягнення"
+        },
+        {
+          "@language": "id",
+          "@value": "перевірка"
+        },
+        {
+          "@language": "id",
+          "@value": "аудитор"
+        },
+        {
+          "@language": "id",
+          "@value": "освіта"
+        },
+        {
+          "@language": "id",
+          "@value": "реєстр"
+        },
+        {
+          "@language": "id",
+          "@value": "оснад"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "ua"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "data-gov-ua",
+        "modified": "2023-02-10T20:19:48.373074",
+        "issued": "2022-11-21T05:36:39Z",
+        "publisher": {
+          "type": "Agent",
+          "name": "States site of Ukraine",
+          "email": "mailto:admin@data.gov.ua",
+          "homepage": "https://www.kmu.gov.ua/en"
+        },
+        "language": [
+          {
+            "id": "uk",
+            "label": "Ukrainian",
+            "resource": "http://publications.europa.eu/resource/authority/language/UKR"
+          }
+        ],
+        "homepage": "https://data.gov.ua",
+        "source_type": "dcat-ap",
+        "description": {
+          "en": "Open Data Portal Ukraine"
+        },
+        "title": {
+          "en": "data.gov.ua"
+        },
+        "country": {
+          "label": "Ukraine",
+          "id": "ua",
+          "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Ukraine",
+            "id": "ua",
+            "resource": "http://publications.europa.eu/resource/authority/country/UKR"
+          }
+        ],
+        "spatial": []
+      },
+      "deuropa:language": [
+        {
+          "id": "ua",
+          "label": "ua"
+        }
+      ],
+      "deuropa:version_info": "1.0",
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 205
+      },
+      "deuropa:catalog_record": {
+        "issued": "2025-04-25T20:15:15Z",
+        "modified": "2026-05-31T20:50:01Z"
+      }
+    }
+  ]
+}

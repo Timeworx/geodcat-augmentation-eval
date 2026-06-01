@@ -1,0 +1,1807 @@
+{
+  "identifier": [
+    "frauenfeld-2@kanton-thurgau"
+  ],
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/CHE",
+    "label": "Switzerland",
+    "id": "ch"
+  },
+  "keywords": [
+    {
+      "language": "de",
+      "id": "intelligenz",
+      "label": "intelligenz"
+    },
+    {
+      "language": "de",
+      "id": "belegung",
+      "label": "belegung"
+    },
+    {
+      "language": "de",
+      "id": "ausfahrt",
+      "label": "ausfahrt"
+    },
+    {
+      "language": "de",
+      "id": "parken",
+      "label": "parken"
+    },
+    {
+      "language": "de",
+      "id": "kamera",
+      "label": "kamera"
+    },
+    {
+      "language": "de",
+      "id": "smart",
+      "label": "smart"
+    },
+    {
+      "language": "de",
+      "id": "marktplatz",
+      "label": "marktplatz"
+    },
+    {
+      "language": "de",
+      "id": "zurcherstrasse",
+      "label": "zurcherstrasse"
+    },
+    {
+      "language": "de",
+      "id": "frauenfeld",
+      "label": "frauenfeld"
+    },
+    {
+      "language": "de",
+      "id": "kunstliche",
+      "label": "kunstliche"
+    },
+    {
+      "language": "de",
+      "id": "altstatdt",
+      "label": "altstatdt"
+    },
+    {
+      "language": "de",
+      "id": "pilotprojekt",
+      "label": "pilotprojekt"
+    },
+    {
+      "language": "de",
+      "id": "ki",
+      "label": "ki"
+    },
+    {
+      "language": "de",
+      "id": "regio-frauenfeld-app",
+      "label": "regio-frauenfeld-app"
+    },
+    {
+      "language": "de",
+      "id": "parking",
+      "label": "parking"
+    },
+    {
+      "language": "de",
+      "id": "app",
+      "label": "app"
+    },
+    {
+      "language": "de",
+      "id": "parquery",
+      "label": "parquery"
+    },
+    {
+      "language": "de",
+      "id": "frei",
+      "label": "frei"
+    },
+    {
+      "language": "de",
+      "id": "live",
+      "label": "live"
+    },
+    {
+      "language": "de",
+      "id": "parkplatz",
+      "label": "parkplatz"
+    },
+    {
+      "language": "de",
+      "id": "oberes-matteli",
+      "label": "oberes-matteli"
+    },
+    {
+      "language": "de",
+      "id": "standzeit",
+      "label": "standzeit"
+    },
+    {
+      "language": "de",
+      "id": "belegt",
+      "label": "belegt"
+    },
+    {
+      "language": "de",
+      "id": "region-frauenfeld",
+      "label": "region-frauenfeld"
+    },
+    {
+      "language": "de",
+      "id": "einfahrt",
+      "label": "einfahrt"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/frauenfeld-2-kanton-thurgau",
+  "catalog": {
+    "id": "opendata-swiss",
+    "description": {
+      "en": "Open Data Portal Switzerland"
+    },
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:opendata@bfs.admin.ch",
+      "name": "Federal Statistical Office",
+      "homepage": "https://www.bfs.admin.ch"
+    },
+    "source_type": "dcat-ap",
+    "title": {
+      "de": "opendata.swiss"
+    },
+    "modified": "2024-03-12T10:32:33Z",
+    "homepage": "https://opendata.swiss",
+    "issued": "2024-03-12T10:32:33Z",
+    "country": {
+      "label": "Switzerland",
+      "id": "ch",
+      "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+    },
+    "spatial_resource": [
+      {
+        "label": "Switzerland",
+        "id": "ch",
+        "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "de",
+        "label": "German",
+        "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+      }
+    ]
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": false,
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-12T19:39:34Z",
+        "issued": "2026-02-11T20:05:10Z"
+      }
+    },
+    "full_available_languages": [
+      "sv",
+      "pl",
+      "lt",
+      "fi",
+      "el",
+      "pt",
+      "nl",
+      "ro",
+      "es",
+      "cs",
+      "lv",
+      "sk",
+      "uk",
+      "mt",
+      "ga",
+      "bg",
+      "de",
+      "en",
+      "hu",
+      "it",
+      "fr",
+      "hr",
+      "da",
+      "et",
+      "sl"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Der Datensatz beinhaltet Daten zur Parkplatzbelegung auf fünf öffentlichen Parkplätzen in Frauenfeld, die in städtischer Hand sind: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 Stunden und 10 Stunden), Altstadt (Freie-Strasse, Bankplatz) sowie Zürcherstrasse (Abschnitt Innenstadt). Die Daten sind auf Stundenbasis aggregiert und beinhalten die durchschnittliche Belegung in %, die Anzahl der Aus- und Einfahrten sowie die mittlere Standzeit (Median) der Fahrzeuge. Alle Parkplätze sind zudem geokodiert. Die Daten werden jeden Tag aktualisiert und beinhalten Daten bis zum Vortag.Die Daten sind Teil des Pilotprojekts Smart Parking Frauenfeld. Mithilfe von Kameras und künstlicher Intelligenz werden hier Daten zur Parksituation auf den jeweiligen Parkplätzen ermittelt.Über die [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) kann die aktuelle Parksituation auf den fünf Parkplätze anhand von Echtzeit-Daten geprüft werden.[Link zur Desktopansicht der App](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Datenquelle: Stadt Frauenfeld",
+    "fi": "Aineisto sisältää tietoja pysäköinnistä viidellä Frauenfeldin julkisella pysäköintialueella, jotka ovat kunnallisessa käytössä: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 tuntia ja 10 tuntia), Altstadt (Freie-Strasse, Bankplatz) ja Zürcherstrasse (keskusta). Tiedot aggregoidaan tuntikohtaisesti, ja ne sisältävät keskimääräisen käyttöasteen prosentteina, poistumisten ja sisääntulojen lukumäärän sekä ajoneuvojen keskimääräisen käyttöiän (mediaani). Kaikki pysäköintipaikat ovat myös geokoodattuja. Tiedot päivittyvät päivittäin ja sisältävät tietoja edelliseen päivään asti. [Regio Frauenfeld -sovelluksella](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) voidaan tarkistaa viiden pysäköintialueen nykyinen pysäköintitilanne reaaliaikaisten tietojen avulla.[Linkki sovelluksen työpöytänäkymään](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Tietolähde: Frauenfeldin kaupunki",
+    "pt": "O conjunto de dados inclui dados sobre a ocupação de estacionamento em cinco parques de estacionamento públicos em Frauenfeld, que estão nas mãos dos municípios: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 horas e 10 horas), Altstadt (Freie-Strasse, Bankplatz) e Zürcherstrasse (secção centro). Os dados são agregados numa base horária e incluem a ocupação média em %, o número de saídas e entradas, bem como a vida útil média (mediana) dos veículos. Todos os parques de estacionamento são também geocodificados. Os dados são atualizados todos os dias e incluem dados até ao dia anterior.Os dados fazem parte do projeto-piloto Smart Parking Frauenfeld. A [Aplicação Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) pode ser utilizada para verificar a situação atual do estacionamento nos cinco parques de estacionamento utilizando dados em tempo real.[Link para a vista de secretária da aplicação](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Fonte de dados: Frauenfeld (Califórnia)",
+    "bg": "Наборът от данни включва данни за заетостта на паркингите в пет обществени паркинга във Фрауенфелд, които са в общински ръце: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 часа и 10 часа), Altstadt (Freie-Strasse, Bankplatz) и Zürcherstrasse (секция в центъра). Данните се обобщават на почасова база и включват средната заетост в %, броя на изходите и влизанията, както и средния експлоатационен срок (медиана) на превозните средства. Всички паркоместа също са геокодирани. Данните се актуализират всеки ден и включват данни до предишния ден.Данните са част от пилотния проект Smart Parking Frauenfeld. [Приложението Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) може да се използва за проверка на текущото положение с паркирането на петте паркинга, като се използват данни в реално време.[Връзка към изгледа на приложението на работния плот](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Източник на данни: Фрауенфелд",
+    "lt": "Į duomenų rinkinį įtraukti duomenys apie automobilių stovėjimo aikštelių užimtumą penkiose viešosiose Frauenfeldo automobilių stovėjimo aikštelėse, kurios yra savivaldybės rankose: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 val. ir 10 val.), Altstadt (Freie-Strasse, Bankplatz) ir Zürcherstrasse (sekcijos centras). Duomenys apibendrinami kas valandą ir apima vidutinį transporto priemonių užimtumą procentais, išvažiavimų ir įvažiavimų skaičių, taip pat vidutinę transporto priemonių eksploatavimo trukmę (medianą). Visos automobilių stovėjimo vietos taip pat yra geokoduotos. Duomenys atnaujinami kiekvieną dieną ir apima duomenis iki praėjusios dienos.Duomenys yra \"Smart Parking Frauenfeld\" bandomojo projekto dalis. [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) gali būti naudojamas dabartinei automobilių stovėjimo padėčiai penkiose automobilių stovėjimo aikštelėse tikrinti naudojant tikralaikius duomenis.[Nuoroda į programėlės darbalaukio vaizdą](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Duomenų šaltinis: Frauenfeldo miestas",
+    "hr": "Skup podataka uključuje podatke o popunjenosti parkirališta na pet javnih parkirališta u Frauenfeldu, koja su u općinskim rukama: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 sata i 10 sati), Altstadt (Freie-Strasse, Bankplatz) i Zürcherstrasse (dio grada). Podaci se zbrajaju po satu i uključuju prosječnu popunjenost u %, broj izlazaka i ulazaka te prosječni vijek trajanja (medijan) vozila. Sva parkirna mjesta su također geokodirana. Podaci se ažuriraju svaki dan i uključuju podatke do prethodnog dana.Podaci su dio pilot projekta Smart Parking Frauenfeld. [Aplikacija Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) može se upotrijebiti za provjeru trenutačnog stanja parkiranja na pet parkirališta s pomoću podataka u stvarnom vremenu.[Povezanost s prikazom aplikacije na radnoj površini](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Izvor podataka: Grad Frauenfeld",
+    "lv": "Datu kopa ietver datus par stāvvietu izmantojumu piecās publiskās autostāvvietās Frauenfeldē, kas ir pašvaldību pārziņā: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 stundas un 10 stundas), Altstadt (Freie-Strasse, Bankplatz) un Zürcherstrasse (posma centrs). Dati tiek apkopoti pa stundām un ietver vidējo noslogojumu %, izeju un ieeju skaitu, kā arī transportlīdzekļu vidējo darbmūžu (vidējo). Visas stāvvietas ir arī ģeokodētas. Dati tiek atjaunināti katru dienu un ietver datus līdz iepriekšējai dienai. [Regio Frauenfeld lietotni] (https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) var izmantot, lai pārbaudītu pašreizējo stāvvietu situāciju piecās stāvvietās, izmantojot reāllaika datus.[Saite uz lietotnes darbvirsmas skatu](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Datu avots: Frauenfeldes pilsēta",
+    "fr": "L'ensemble de données comprend des données sur l'occupation des places de stationnement dans cinq parkings publics de Frauenfeld, qui sont entre les mains de la ville: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 heures et 10 heures), Altstadt (Freie-Strasse, Bankplatz) et Zürcherstrasse (section centre-ville). Les données sont agrégées sur une base horaire et comprennent l'occupation moyenne en %, le nombre de sorties et d'entrées et la durée moyenne d'immobilisation (médiane) des véhicules. Tous les parkings sont géocodés. Les données sont mises à jour tous les jours et contiennent des données jusqu'à la veille.Les données font partie du projet pilote Smart Parking Frauenfeld. À l'aide de caméras et de l'intelligence artificielle, des données sur la situation de stationnement sur les parkings respectifs sont déterminées ici.À l'aide de l'application [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913), la situation de stationnement actuelle sur les cinq parkings peut être vérifiée à l'aide de données en temps réel.[Lien vers la vue du bureau de l'application](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Source de données: Ville de Frauenfeld",
+    "hu": "Az adatkészlet Frauenfeld öt nyilvános parkolójának kihasználtságára vonatkozó adatokat tartalmaz, amelyek önkormányzati kézben vannak: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 óra és 10 óra), Altstadt (Freie-Strasse, Bankplatz) és Zürcherstrasse (a belváros része). Az adatokat óránként összesítik, és tartalmazzák az átlagos kihasználtságot %-ban, a ki- és belépések számát, valamint a járművek átlagos élettartamát (medián). Minden parkolóhely geokódolt. Az adatok naponta frissülnek, és az előző napig tartalmaznak adatokat.Az adatok a Smart Parking Frauenfeld kísérleti projekt részét képezik. A [Regio Frauenfeld alkalmazás] (https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) segítségével valós idejű adatok felhasználásával ellenőrizhető az öt parkoló aktuális parkolási helyzete [Link az alkalmazás asztali nézetéhez] (https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Adatforrás: Frauenfeld városa",
+    "uk": "Набір даних включає дані про заповнюваність парковок на п'яти громадських стоянках у Фрауенфельді, які знаходяться в муніципальних руках: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 години і 10 годин), Altstadt (Freie-Strasse, Bankplatz) і Zürcherstrasse (секція в центрі міста). Дані агрегуються щогодини та включають середню завантаженість у %, кількість виїздів та в'їздів, а також середній термін служби (медіану) транспортних засобів. Всі паркувальні місця також геокодовані. Дані оновлюються щодня і включають дані до попереднього дня.Дані є частиною пілотного проекту Smart Parking Frauenfeld. [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) можна використовувати для перевірки поточної ситуації з паркуванням на п'яти стоянках за допомогою даних у режимі реального часу.[Посилання на робочий стіл програми](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Джерело даних: Місто Фрауенфельд",
+    "sk": "Súbor údajov obsahuje údaje o obsadenosti parkovísk na piatich verejných parkoviskách vo Frauenfelde, ktoré sú v rukách obcí: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 hodiny a 10 hodín), Altstadt (Freie-Strasse, Bankplatz) a Zürcherstrasse (sekcia v centre mesta). Údaje sa agregujú na hodinovom základe a zahŕňajú priemernú obsadenosť v %, počet výstupov a vstupov, ako aj priemernú životnosť (medián) vozidiel. Všetky parkovacie miesta sú tiež geokódované. Údaje sa aktualizujú každý deň a zahŕňajú údaje do predchádzajúceho dňa.Údaje sú súčasťou pilotného projektu Smart Parking Frauenfeld. [Aplikáciu Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) možno použiť na kontrolu aktuálnej parkovacej situácie na piatich parkoviskách pomocou údajov v reálnom čase.[Odkaz na zobrazenie aplikácie na ploche](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Zdroj údajov: Preskúmať mesto Frauenfeld",
+    "sl": "Podatkovni niz vključuje podatke o zasedenosti parkirišč na petih javnih parkiriščih v Frauenfeldu, ki so v občinskih rokah: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 uri in 10 ur), Altstadt (Freie-Strasse, Bankplatz) in Zürcherstrasse (odsek v središču mesta). Podatki se zbirajo vsako uro in vključujejo povprečno zasedenost v %, število izstopov in vstopov ter povprečno življenjsko dobo (mediano) vozil. Vsa parkirna mesta so tudi geokodirana. Podatki se posodabljajo vsak dan in vključujejo podatke do prejšnjega dne.Podatki so del pilotnega projekta Smart Parking Frauenfeld. Aplikacija [Regio Frauenfeld App] (https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) se lahko uporablja za preverjanje trenutnega stanja parkiranja na petih parkiriščih s podatki v realnem času.[Povezava na namizni pogled aplikacije] (https://frauenfeld.citymobile.ch/index.php?apid=2096681313) Vir podatkov: Občina Frauenfeld",
+    "ga": "Áirítear sa tacar sonraí sonraí maidir le háitíocht páirceála i gcúig luchtóg páirceála phoiblí in Frauenfeld, atá i lámha bardasacha: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 uair an chloig agus 10 n-uair an chloig), Altstadt (Freie-Strasse, Bankplatz) agus Zürcherstrasse (roinn lár na cathrach). Déantar na sonraí a chomhiomlánú in aghaidh na huaire agus áirítear leo an mheánáitíocht in %, líon na n-imeachtaí agus na n-iontrálacha chomh maith le meánsaolré seirbhíse (airmheán) na bhfeithiclí. Tá gach spás páirceála geochódaithe freisin. Déantar na sonraí a nuashonrú gach lá agus cuimsíonn siad sonraí suas go dtí an lá roimhe sin.Tá na sonraí mar chuid den tionscadal píolótach Smart Parking Frauenfeld. Is féidir [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) a úsáid chun staid reatha na páirceála ar na cúig charrchlós a sheiceáil trí shonraí fíor-ama a úsáid.[Nasc le radharc deisce na haipe](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Foinse sonraí: Comhrá randamach Frauenfeld",
+    "sv": "Datasetet innehåller uppgifter om parkeringsbeläggning på fem offentliga parkeringsplatser i Frauenfeld, som är i kommunala händer: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 timmar och 10 timmar), Altstadt (Freie-Strasse, Bankplatz) och Zürcherstrasse (del av centrum). Uppgifterna aggregeras per timme och omfattar den genomsnittliga beläggningsgraden i %, antalet utgångar och ingångar samt fordonens genomsnittliga livslängd (median). Alla parkeringsplatser är geokodade. Uppgifterna uppdateras varje dag och innehåller uppgifter fram till föregående dag.Uppgifterna är en del av pilotprojektet Smart Parking Frauenfeld. [Regio Frauenfeld-appen](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) kan användas för att kontrollera den aktuella parkeringssituationen på de fem parkeringsplatserna med hjälp av realtidsdata.[Länk till appens skrivbordsvy](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Datakälla: Områden i Frauenfeld",
+    "el": "Το σύνολο δεδομένων περιλαμβάνει δεδομένα σχετικά με την πληρότητα στάθμευσης σε πέντε δημόσιους χώρους στάθμευσης στο Frauenfeld, οι οποίοι βρίσκονται σε δημοτικά χέρια: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 ώρες και 10 ώρες), Altstadt (Freie-Strasse, Bankplatz) και Zürcherstrasse (τμήμα στο κέντρο της πόλης). Τα δεδομένα συγκεντρώνονται σε ωριαία βάση και περιλαμβάνουν τη μέση πληρότητα σε %, τον αριθμό των εξόδων και των εισόδων, καθώς και τη μέση ωφέλιμη διάρκεια ζωής (διάμεση) των οχημάτων. Όλοι οι χώροι στάθμευσης είναι επίσης γεωκωδικοποιημένοι. Τα δεδομένα επικαιροποιούνται καθημερινά και περιλαμβάνουν δεδομένα έως και την προηγούμενη ημέρα.Τα δεδομένα αποτελούν μέρος του πιλοτικού έργου Smart Parking Frauenfeld. Η [Εφαρμογή Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) μπορεί να χρησιμοποιηθεί για τον έλεγχο της τρέχουσας κατάστασης στάθμευσης στους πέντε χώρους στάθμευσης με τη χρήση δεδομένων σε πραγματικό χρόνο.[Σύνδεση με την προβολή επιφάνειας εργασίας της εφαρμογής](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Πηγή δεδομένων: Φράουενφελντ",
+    "mt": "Is-sett tad-data jinkludi data dwar l-okkupanza tal-parkeġġ f’ħames parkeġġi pubbliċi fi Frauenfeld, li huma f’idejn muniċipali: Unteres Mätteli, Oberes Mätteli, Marktplatz (sagħtejn u 10 sigħat), Altstadt (Freie-Strasse, Bankplatz) u Zürcherstrasse (sezzjoni fiċ-ċentru). Id-data tiġi aggregata fuq bażi ta’ kull siegħa u tinkludi l-okkupanza medja f’%, l-għadd ta’ ħruġ u dħul kif ukoll il-ħajja medja tas-servizz (medjan) tal-vetturi. L-ispazji kollha tal-parkeġġ huma wkoll ġeokodifikati. Id-data tiġi aġġornata kuljum u tinkludi data sal-jum ta’ qabel. Id-data hija parti mill-proġett pilota Smart Parking Frauenfeld. Ir-[Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) jista’ jintuża biex tiġi vverifikata s-sitwazzjoni attwali tal-parkeġġ fuq il-ħames lottijiet tal-parkeġġ bl-użu ta’ data f’ħin reali.[Link għall-viżwalizzazzjoni desktop tal-app](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Sors tad-data: Il-Belt ta' Frauenfeld",
+    "en": "The dataset includes data on parking occupancy in five public parking lots in Frauenfeld, which are in municipal hands: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 hours and 10 hours), Altstadt (Freie-Strasse, Bankplatz) and Zürcherstrasse (section downtown). The data are aggregated on an hourly basis and include the average occupancy in %, the number of exits and entries as well as the average service life (median) of the vehicles. All parking spaces are also geocoded. The data is updated every day and includes data up to the previous day.The data are part of the Smart Parking Frauenfeld pilot project. The [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) can be used to check the current parking situation on the five parking lots using real-time data.[Link to the desktop view of the app](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Data source: City of Frauenfeld",
+    "it": "Il set di dati comprende i dati sull'occupazione dei parcheggi in cinque parcheggi pubblici a Frauenfeld, che sono in mani comunali: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 ore e 10 ore), Altstadt (Freie-Strasse, Bankplatz) e Zürcherstrasse (sezione centro). I dati sono aggregati su base oraria e comprendono l'occupazione media in %, il numero di uscite e ingressi nonché la durata media (mediana) dei veicoli. Tutti i posti auto sono anche geocodificati. I dati vengono aggiornati ogni giorno e includono dati fino al giorno precedente.I dati fanno parte del progetto pilota Smart Parking Frauenfeld. L'[App Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) può essere utilizzata per verificare la situazione attuale del parcheggio sui cinque parcheggi utilizzando dati in tempo reale.[Link alla visualizzazione desktop dell'app](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Fonte dei dati: Città di Frauenfeld",
+    "es": "El conjunto de datos incluye datos sobre la ocupación del estacionamiento en cinco estacionamientos públicos en Frauenfeld, que están en manos municipales: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 horas y 10 horas), Altstadt (Freie-Strasse, Bankplatz) y Zürcherstrasse (sección del centro). Los datos se agregan por hora e incluyen la ocupación media en %, el número de salidas y entradas, así como la vida útil media (mediana) de los vehículos. Todas las plazas de aparcamiento también están geocodificadas. Los datos se actualizan todos los días e incluyen datos hasta el día anterior.Los datos forman parte del proyecto piloto Smart Parking Frauenfeld. La [Aplicación Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) se puede utilizar para comprobar la situación actual del aparcamiento en los cinco aparcamientos utilizando datos en tiempo real.[Enlace a la vista de escritorio de la aplicación](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Fuente de datos: Frauenfeld (ciudad)",
+    "et": "Andmestik sisaldab andmeid hõivatuse kohta Frauenfeldi viies avalikus parklas, mis on munitsipaalomandis: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 tundi ja 10 tundi), Altstadt (Freie-Strasse, Bankplatz) ja Zürcherstrasse (kesklinna lõik). Andmed koondatakse tunnipõhiselt ja need hõlmavad sõidukite keskmist täituvust protsentides, väljumiste ja sisenemiste arvu ning sõidukite keskmist kasutusiga (mediaan). Kõik parkimiskohad on samuti geokodeeritud. Andmeid uuendatakse iga päev ja need sisaldavad andmeid kuni eelmise päevani.Andmed on osa pilootprojektist Smart Parking Frauenfeld. Rakendust [Regio Frauenfeld] (https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) saab kasutada viie parkla praeguse parkimisolukorra kontrollimiseks, kasutades reaalajas andmeid.[Link rakenduse töölauavaatele](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Andmeallikas: Frauenfeldi linn",
+    "cs": "Datový soubor obsahuje údaje o obsazenosti parkovacích míst na pěti veřejných parkovištích ve Frauenfeldu, která jsou v rukou obcí: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 hodiny a 10 hodin), Altstadt (Freie-Strasse, Bankplatz) a Zürcherstrasse (sekce v centru města). Údaje jsou agregovány na hodinovém základě a zahrnují průměrnou obsazenost v %, počet východů a vstupů, jakož i průměrnou životnost (medián) vozidel. Všechna parkovací místa jsou také geokódována. Údaje jsou aktualizovány každý den a zahrnují údaje až do předchozího dne.Údaje jsou součástí pilotního projektu Smart Parking Frauenfeld. [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) lze použít ke kontrole aktuální parkovací situace na pěti parkovištích pomocí údajů v reálném čase.[Odkaz na zobrazení aplikace na ploše](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Zdroj údajů: Město Frauenfeld",
+    "pl": "Zbiór danych obejmuje dane dotyczące obłożenia parkingów na pięciu publicznych parkingach w Frauenfeld, które znajdują się w rękach gmin: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 godziny i 10 godzin), Altstadt (Freie-Strasse, Bankplatz) i Zürcherstrasse (odcinek centrum miasta). Dane są agregowane co godzinę i obejmują średnie obłożenie w %, liczbę wyjść i wejść, a także średni okres użytkowania (mediana) pojazdów. Wszystkie miejsca parkingowe są również geokodowane. Dane są aktualizowane codziennie i obejmują dane do poprzedniego dnia.Dane są częścią projektu pilotażowego Smart Parking Frauenfeld. [Aplikacja Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) może być użyta do sprawdzenia bieżącej sytuacji parkingowej na pięciu parkingach przy użyciu danych w czasie rzeczywistym.[Link do widoku pulpitu aplikacji](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Źródło danych: Frauenfeld (miasto)",
+    "da": "Datasættet indeholder data om antallet af parkeringspladser på fem offentlige parkeringspladser i Frauenfeld, som er på kommunale hænder: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 timer og 10 timer), Altstadt (Freie-Strasse, Bankplatz) og Zürcherstrasse (afsnit downtown). Dataene aggregeres på timebasis og omfatter den gennemsnitlige belægning i %, antallet af udgange og indsejlinger samt køretøjernes gennemsnitlige levetid (median). Alle parkeringspladser er geokodede. Dataene opdateres hver dag og omfatter data op til den foregående dag.Dataene er en del af Smart Parking Frauenfeld pilotprojektet. [Regio Frauenfeld App](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) kan bruges til at kontrollere den aktuelle parkeringssituation på de fem parkeringspladser ved hjælp af realtidsdata.[Link til appens skrivebordsvisning](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Datakilde: Kategori: Frauenfeld",
+    "ro": "Setul de date include date privind ocuparea locurilor de parcare în cinci locuri de parcare publice din Frauenfeld, care se află în mâinile municipalității: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 ore și 10 ore), Altstadt (Freie-Strasse, Bankplatz) și Zürcherstrasse (secțiune centrală). Datele sunt agregate pe oră și includ gradul mediu de ocupare în %, numărul de ieșiri și intrări, precum și durata medie de viață (mediana) a vehiculelor. Toate locurile de parcare sunt, de asemenea, geocodificate. Datele sunt actualizate în fiecare zi și includ date până în ziua precedentă.Datele fac parte din proiectul pilot Smart Parking Frauenfeld. [Aplicația Regio Frauenfeld](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) poate fi utilizată pentru a verifica situația actuală a parcării pe cele cinci locuri de parcare utilizând date în timp real.[Link către vizualizarea de pe desktop a aplicației](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Sursa datelor: Poziția localității Frauenfeld",
+    "nl": "De dataset bevat gegevens over de parkeerbezetting op vijf openbare parkeerplaatsen in Frauenfeld, die in gemeentelijke handen zijn: Unteres Mätteli, Oberes Mätteli, Marktplatz (2 uur en 10 uur), Altstadt (Freie-Strasse, Bankplatz) en Zürcherstrasse (sectie binnenstad). De gegevens worden op uurbasis geaggregeerd en omvatten de gemiddelde bezettingsgraad in %, het aantal uitgangen en binnenkomsten en de gemiddelde levensduur (mediaan) van de voertuigen. Alle parkeerplaatsen zijn ook gegeocodeerd. De gegevens worden dagelijks bijgewerkt en bevatten gegevens tot de vorige dag.De gegevens maken deel uit van het proefproject Smart Parking Frauenfeld. De [Regio Frauenfeld-app](https://regiofrauenfeld.citymobile.ch/index.php?brandid=11579&apid=1155685913) kan worden gebruikt om de huidige parkeersituatie op de vijf parkeerplaatsen te controleren met behulp van realtimegegevens.[Link naar de desktopweergave van de app](https://frauenfeld.citymobile.ch/index.php?apid=2096681313)Gegevensbron: Categorie: Frauenfeld"
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.tg.ch/explore/dataset/frauenfeld-2/"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+      "id": "de",
+      "label": "German"
+    }
+  ],
+  "title": {
+    "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden",
+    "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia",
+    "pt": "Estacionamento ocupação cidade Frauenfeld por horas",
+    "bg": "Паркомясто в град Фрауенфелд по часове",
+    "lt": "Automobilių stovėjimo aikštelė mieste Frauenfeld pagal valandas",
+    "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām",
+    "hr": "Parkiranje zauzetost grad Frauenfeld po satima",
+    "fr": "Occupation du parking de la ville de Frauenfeld en heures",
+    "hu": "Parkolás foglaltság város Frauenfeld óra",
+    "uk": "Парковка заповнюваність місто Фрауенфельд по годинах",
+    "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín",
+    "sl": "Parkirišče zasedenost mesta Frauenfeld po urah",
+    "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig",
+    "sv": "Parkering beläggning stad Frauenfeld av timmar",
+    "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες",
+    "mt": "Parking okkupanza belt Frauenfeld mill-sigħat",
+    "en": "Parking occupancy city Frauenfeld by hours",
+    "it": "Città di occupazione del parcheggio Frauenfeld per ore",
+    "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas",
+    "et": "Parkimine linna Frauenfeld tundide kaupa",
+    "cs": "Parkování obsazenost města Frauenfeld podle hodin",
+    "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin",
+    "ro": "Parcare oraș ocuparea Frauenfeld de ore",
+    "da": "Parkering belægning byen Frauenfeld af timer",
+    "nl": "Parkeerbezetting stad Frauenfeld per uur"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/vnd.ms-excel",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/xls?use_labels=true"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/xls?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLS",
+        "id": "XLS",
+        "label": "Excel XLS"
+      },
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (xls)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (xls)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (xls)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (xls)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (xls)",
+        "hr": "Parkiranje popunjenost grada Frauenfeld po satima (xls)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (xls)",
+        "fr": "Occupation du parking de la ville de Frauenfeld en heures (xls)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (xls)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (xls)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (xls)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (xls)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (xls)",
+        "sv": "Parkering beläggning stad Frauenfeld av timmar (xls)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (xls)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (xls)",
+        "en": "Parking occupancy city Frauenfeld by hours (xls)",
+        "it": "Città di occupazione del parcheggio Frauenfeld per ore (xls)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (xls)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (xls)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (xls)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (xls)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (xls)",
+        "da": "Parkering belægning by Frauenfeld af timer (xls)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (xls)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "69bdcfad-e27a-4e6a-b660-4c1d7bc51958",
+      "title": {
+        "de": "xls",
+        "fi": "xls",
+        "pt": "xls",
+        "bg": "xls",
+        "lt": "xls",
+        "hr": "xls",
+        "lv": "xls",
+        "fr": "xls",
+        "hu": "xls",
+        "uk": "xls",
+        "sk": "xls",
+        "sl": "xls",
+        "ga": "xls",
+        "sv": "xls",
+        "el": "xls",
+        "mt": "xls",
+        "en": "xls",
+        "it": "xls",
+        "es": "xls",
+        "et": "xls",
+        "cs": "xls",
+        "pl": "xls",
+        "da": "xls",
+        "ro": "xls",
+        "nl": "xls"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/fgb"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/OCTET",
+        "id": "OCTET",
+        "label": "Octet Stream"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/fgb"
+      ],
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (fgb)",
+        "fi": "Pysäköintimahdollisuus Frauenfeldin kaupunki tunneittain (fgb)",
+        "pt": "Ocupação do estacionamento Cidade de Frauenfeld por horas (fgb)",
+        "bg": "Наемане на паркинг Град Фрауенфелд по часове (fgb)",
+        "lt": "Savivaldybė Frauenfeld pagal valandas (fgb)",
+        "lv": "Pilsētas Frauenfeld pa stundām (fgb)",
+        "hr": "Popunjenost parkirališta Grad Frauenfeld po satima (fgb)",
+        "fr": "Occupation du parking de la ville de Frauenfeld en heures (fgb)",
+        "hu": "Parkolás foglaltság Város Frauenfeld óraszámban (fgb)",
+        "uk": "Заповнення парковки Місто Фрауенфельд по годинах (fgb)",
+        "sk": "Obsadenosť parkoviska Mesto Frauenfeld podľa hodín (fgb)",
+        "sl": "Mesto Frauenfeld po urah (fgb)",
+        "ga": "Páirceáil áitíochta Cathair na Frauenfeld de réir uair an chloig (fgb)",
+        "sv": "Parkering beläggning Stad Frauenfeld av timmar (fgb)",
+        "mt": "L-okkupanza tal-parkeġġ fil-Belt ta’ Frauenfeld f’sigħat (fgb)",
+        "el": "Χωρητικότητα στάθμευσης Πόλη του Frauenfeld ανά ώρες (fgb)",
+        "en": "Parking occupancy City of Frauenfeld by hours (fgb)",
+        "it": "Occupazione parcheggio Città di Frauenfeld per ore (fgb)",
+        "es": "Ocupación de aparcamiento Ciudad de Frauenfeld por horas (fgb)",
+        "et": "Frauenfeldi linn tundide kaupa (fgb)",
+        "cs": "Obsazenost parkoviště Město Frauenfeld podle hodin (fgb)",
+        "pl": "Obłożenie parkingu Miasto Frauenfeld według godzin (fgb)",
+        "da": "Parkering belægning Byen Frauenfeld af timer (fgb)",
+        "ro": "Gradul de ocupare a locurilor de parcare Orașul Frauenfeld pe ore (fgb)",
+        "nl": "Parkeerbezetting Stad Frauenfeld per uur (fgb)"
+      },
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "62775c50-b3a1-462b-a9b6-b0b7138094fc",
+      "title": {
+        "de": "fgb",
+        "fi": "fgb",
+        "pt": "fgb",
+        "bg": "fgb",
+        "lt": "fgb",
+        "lv": "fgb",
+        "hr": "fgb",
+        "fr": "fgb",
+        "hu": "fgb",
+        "uk": "fgb",
+        "sk": "fgb",
+        "sl": "fgb",
+        "ga": "fgb",
+        "sv": "fgb",
+        "el": "fgb",
+        "mt": "fgb",
+        "en": "fgb",
+        "it": "fgb",
+        "es": "fgb",
+        "et": "fgb",
+        "cs": "fgb",
+        "pl": "fgb",
+        "da": "fgb",
+        "ro": "fgb",
+        "nl": "fgb"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "http://www.iana.org/assignments/media-types/text/plain",
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/ov2"
+      ],
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/ov2"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/TXT",
+        "id": "TXT",
+        "label": "Plain text"
+      },
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (ov2)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (ov2)",
+        "pt": "Ocupação de estacionamento da cidade Frauenfeld por horas (ov2)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (ov2)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (ov2)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (ov2)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (ov2)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (ov2)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (ov2)",
+        "uk": "Заповнення парковки місто Фрауенфельд по годинах (ov2)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (ov2)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (ov2)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (ov2)",
+        "sv": "Parkering beläggning stad Frauenfeld av timmar (ov2)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (ov2)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (ov2)",
+        "en": "Parking occupancy city Frauenfeld by hours (ov2)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (ov2)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (ov2)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (ov2)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (ov2)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (ov2)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (ov2)",
+        "da": "Parkering belægning byen Frauenfeld af timer (ov2)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (ov2)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "31bedbb7-aab3-48df-aaab-69c504e23ba7",
+      "title": {
+        "de": "ov2",
+        "fi": "ov2",
+        "pt": "ov2",
+        "bg": "ov2",
+        "lt": "ov2",
+        "lv": "ov2",
+        "hr": "ov2",
+        "fr": "ov2",
+        "hu": "ov2",
+        "uk": "ov2",
+        "sk": "ov2",
+        "sl": "ov2",
+        "ga": "ov2",
+        "sv": "ov2",
+        "el": "ω2",
+        "mt": "ov2",
+        "en": "ov2",
+        "it": "ov2",
+        "es": "ov2",
+        "et": "ov2",
+        "cs": "ov2",
+        "pl": "ov2",
+        "da": "ov2",
+        "ro": "ov2",
+        "nl": "ov2"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "text/n3",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/n3"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/N3",
+        "id": "N3",
+        "label": "N3"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/n3"
+      ],
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (n3)",
+        "fi": "Pysäköintimahdollisuus Frauenfeldin kaupunki tunneittain (n3)",
+        "pt": "Ocupação do estacionamento Cidade de Frauenfeld por horas (n3)",
+        "bg": "Наемане на паркинг Град Фрауенфелд по часове (n3)",
+        "lt": "Užimtumas automobilių stovėjimo aikštelėje Miestas Frauenfeld pagal valandas (n3)",
+        "lv": "Pilsētas Frauenfeld pa stundām (n3)",
+        "hr": "Popunjenost parkirališta Grad Frauenfeld po satima (n3)",
+        "fr": "Occupation du parking Ville de Frauenfeld en heures (n3)",
+        "hu": "Parkolás foglaltság Város Frauenfeld óraszámban (n3)",
+        "uk": "Заповнення парковки Місто Фрауенфельд по годинах (n3)",
+        "sk": "Obsadenosť parkoviska Mesto Frauenfeld podľa hodín (n3)",
+        "sl": "Mesto Frauenfeld po urah (n3)",
+        "ga": "Páirceáil áitíocht Cathair na Frauenfeld de réir uair an chloig (n3)",
+        "sv": "Parkering beläggning Stad Frauenfeld av timmar (n3)",
+        "el": "Χωρητικότητα στάθμευσης Πόλη του Frauenfeld κατά ώρες (n3)",
+        "mt": "L-okkupanza tal-parkeġġ fil-Belt ta’ Frauenfeld f’sigħat (n3)",
+        "en": "Parking occupancy City of Frauenfeld by hours (n3)",
+        "it": "Occupazione del parcheggio Città di Frauenfeld per ore (n3)",
+        "es": "Ocupación de aparcamiento Ciudad de Frauenfeld por horas (n3)",
+        "et": "Frauenfeldi linn tundide kaupa (n3)",
+        "cs": "Obsazenost parkoviště Město Frauenfeld podle hodin (n3)",
+        "pl": "Obłożenie parkingu Miasto Frauenfeld według godzin (n3)",
+        "ro": "Gradul de ocupare a locurilor de parcare Orașul Frauenfeld pe ore (n3)",
+        "da": "Parkering belægning Byen Frauenfeld af timer (n3)",
+        "nl": "Parkeerbezetting Stad Frauenfeld per uur (n3)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "79ae82f9-9ad1-4a9b-a891-97b4432899b7",
+      "title": {
+        "de": "n3",
+        "fi": "n3",
+        "pt": "n3",
+        "bg": "n3",
+        "lt": "n3",
+        "hr": "n3",
+        "lv": "n3",
+        "fr": "n3",
+        "hu": "n3",
+        "uk": "n3",
+        "sk": "n3",
+        "sl": "n3",
+        "ga": "n3",
+        "sv": "n3",
+        "el": "ν3",
+        "mt": "n3",
+        "en": "n3",
+        "it": "n3",
+        "es": "n3",
+        "et": "n3",
+        "cs": "n3",
+        "pl": "n3",
+        "da": "n3",
+        "ro": "n3",
+        "nl": "n3"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/json",
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/geojson"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/geojson"
+      ],
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (geojson)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (geojson)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (geojson)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (geojson)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (geojson)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (geojson)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (geojson)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (geojson)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (geojson)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (геойсон)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (geojson)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (geojson)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (geojson)",
+        "sv": "Parkering beläggning stad Frauenfeld av timmar (geojson)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (geojson)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (geojson)",
+        "en": "Parking occupancy city Frauenfeld by hours (geojson)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (geojson)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (geojson)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (geojson)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (geojson)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (geojson)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (geojson)",
+        "da": "Parkering belægning byen Frauenfeld af timer (geojson)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (geojson)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "6f3b495c-701d-4d3a-a160-61fdd256d5b6",
+      "title": {
+        "de": "geojson",
+        "fi": "geojson",
+        "pt": "geojson",
+        "bg": "Геойсон",
+        "lt": "geojson",
+        "hr": "geojson",
+        "lv": "geojson",
+        "fr": "geojson",
+        "hu": "geojson",
+        "uk": "geojson",
+        "sk": "geojson",
+        "sl": "geojson",
+        "ga": "geojson",
+        "sv": "geojson",
+        "mt": "ġeojson",
+        "el": "Γκέιτζσον",
+        "en": "geojson",
+        "it": "geojson",
+        "es": "geojson",
+        "et": "geojson",
+        "cs": "geojson",
+        "pl": "geojson",
+        "da": "geojson",
+        "ro": "geojson",
+        "nl": "geojson"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/json",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/json"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/json"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (json)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (json)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (json)",
+        "bg": "Паркинг заетост град Frauenfeld от часа (json)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (json)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (sin)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (json)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (json)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (json)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (json)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (json)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (json)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (json)",
+        "sv": "Parkering beläggning stad Frauenfeld timmar (json)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (json)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (json)",
+        "en": "Parking occupancy city Frauenfeld by hours (json)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (json)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (json)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (json)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (json)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (json)",
+        "da": "Parkering belægning byen Frauenfeld af timer (json)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (json)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (json)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "01926fe2-fb9c-4446-a216-6ff587ae324f",
+      "title": {
+        "de": "json",
+        "fi": "json",
+        "pt": "json",
+        "bg": "йсон",
+        "lt": "json",
+        "hr": "json",
+        "lv": "json",
+        "fr": "json",
+        "hu": "json",
+        "uk": "JSON (англ.)",
+        "sk": "json",
+        "sl": "json",
+        "ga": "json",
+        "sv": "json",
+        "el": "Ισον",
+        "mt": "json",
+        "en": "json",
+        "it": "json",
+        "es": "json",
+        "et": "json",
+        "cs": "json",
+        "pl": "json",
+        "ro": "json",
+        "da": "json",
+        "nl": "json"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/vnd.google-earth.kml+xml",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/kml"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/KML",
+        "id": "KML",
+        "label": "KML"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/kml"
+      ],
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (kml)",
+        "fi": "Pysäköintiasukas Frauenfeldin kaupunki tunneittain (kml)",
+        "pt": "Ocupação do estacionamento Cidade de Frauenfeld por horas (kml)",
+        "bg": "Наемане на паркинг Град Фрауенфелд по часове (кмл)",
+        "lt": "Savivaldybė Frauenfeld pagal valandas (kml)",
+        "lv": "Pilsētas Frauenfeld pēc stundām (kml)",
+        "hr": "Popunjenost parkirališta Grad Frauenfeld po satima (kml)",
+        "fr": "Occupation du parking de la ville de Frauenfeld en heures (kml)",
+        "hu": "Parkolás foglaltság Város Frauenfeld óraszámban (kml)",
+        "uk": "Заповнення парковки Місто Фрауенфельд по годинах (кмл)",
+        "sk": "Obsadenosť parkoviska Mesto Frauenfeld podľa hodín (kml)",
+        "sl": "Mesto Frauenfeld po urah (kml)",
+        "ga": "Áitíocht páirceála Cathair Frauenfeld de réir uair an chloig (kml)",
+        "sv": "Parkering beläggning Stad Frauenfeld av timmar (kml)",
+        "mt": "L-okkupanza tal-parkeġġ fil-Belt ta’ Frauenfeld f’sigħat (kml)",
+        "el": "Χωρητικότητα στάθμευσης Πόλη του Frauenfeld κατά ώρες (kml)",
+        "en": "Parking occupancy City of Frauenfeld by hours (kml)",
+        "it": "Occupazione parcheggio Città di Frauenfeld per ore (kml)",
+        "es": "Ocupación de aparcamiento Ciudad de Frauenfeld por horas (kml)",
+        "et": "Frauenfeldi linn tundide kaupa (kml)",
+        "cs": "Obsazenost parkoviště Město Frauenfeld podle hodin (kml)",
+        "pl": "Obłożenie parkingu Miasto Frauenfeld według godzin (kml)",
+        "da": "Parkering belægning Byen Frauenfeld af timer (kml)",
+        "ro": "Gradul de ocupare a locurilor de parcare Orașul Frauenfeld pe ore (kml)",
+        "nl": "Parkeerbezetting Stad Frauenfeld per uur (kml)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "64c2b012-48b6-4674-9791-7ce2fda1c86f",
+      "title": {
+        "de": "kml",
+        "fi": "kml",
+        "pt": "kml",
+        "bg": "кмл",
+        "lt": "kml",
+        "lv": "kml",
+        "hr": "kml",
+        "fr": "kml",
+        "hu": "kml",
+        "uk": "kml",
+        "sk": "kml",
+        "sl": "kml",
+        "ga": "kml",
+        "sv": "kml",
+        "mt": "kml",
+        "el": "kml",
+        "en": "kml",
+        "it": "kml",
+        "es": "kml",
+        "et": "kml",
+        "cs": "kml",
+        "pl": "kml",
+        "da": "kml",
+        "ro": "kml",
+        "nl": "kml"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/rdf+xml",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/rdfxml"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+        "id": "RDF_XML",
+        "label": "RDF XML"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/rdfxml"
+      ],
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (rdfxml)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (rdfxml)",
+        "pt": "Ocupação de estacionamento na cidade Frauenfeld por horas (rdfxml)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (rdfxml)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (rdfxml)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (rdfxml)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (rdfxml)",
+        "fr": "Occupation du parking de la ville de Frauenfeld en heures (rdfxml)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (rdfxml)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (rdfxml)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (rdfxml)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (rdfxml)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (rdfxml)",
+        "sv": "Parkering beläggning stad Frauenfeld av timmar (rdfxml)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (rdfxml)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (rdfxml)",
+        "en": "Parking occupancy city Frauenfeld by hours (rdfxml)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (rdfxml)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (rdfxml)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (rdfxml)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (rdfxml)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (rdfxml)",
+        "da": "Parkering belægning by Frauenfeld af timer (rdfxml)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (rdfxml)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (rdfxml)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "136495c2-14ff-4a80-b76c-febd86f7ba3f",
+      "title": {
+        "de": "rdfxml",
+        "fi": "rdfxml",
+        "pt": "rdfxml",
+        "bg": "rdfxml",
+        "lt": "rdfxml",
+        "lv": "rdfxml",
+        "hr": "rdfxml",
+        "fr": "rdfxml",
+        "hu": "rdfxml",
+        "uk": "rdfxml",
+        "sk": "rdfxml",
+        "sl": "rdfxml",
+        "ga": "rdfxml",
+        "sv": "rdfxml",
+        "el": "rdfxml",
+        "mt": "rdfxml",
+        "en": "rdfxml",
+        "it": "rdfxml",
+        "es": "rdfxml",
+        "et": "rdfxml",
+        "cs": "rdfxml",
+        "pl": "rdfxml",
+        "ro": "rdfxml",
+        "da": "rdfxml",
+        "nl": "rdfxml"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/csv?use_labels=true"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV",
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/csv?use_labels=true"
+      ],
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (csv)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (csv)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (csv)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (csv)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (csv)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (csv)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (csv)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (csv)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (csv)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (csv)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (csv)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (csv)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (csv)",
+        "sv": "Parkering beläggning stad Frauenfeld timmar (csv)",
+        "mt": "Il-belt ta' okkupanza tal-parkeġġ Frauenfeld f'sigħat (csv)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (csv)",
+        "en": "Parking occupancy city Frauenfeld by hours (csv)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (csv)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (csv)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (csv)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (csv)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (csv)",
+        "da": "Parkering belægning byen Frauenfeld af timer (csv)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (csv)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (csv)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "b890822e-68cb-4135-95b2-cd8dc9d9900a",
+      "title": {
+        "de": "csv",
+        "fi": "csv",
+        "pt": "csv",
+        "bg": "csv",
+        "lt": "csv",
+        "hr": "csv",
+        "lv": "csv",
+        "fr": "csv",
+        "hu": "csv",
+        "uk": "csv",
+        "sk": "csv",
+        "sl": "csv",
+        "ga": "csv",
+        "sv": "csv",
+        "el": "csv",
+        "mt": "csv",
+        "en": "csv",
+        "it": "csv",
+        "es": "csv",
+        "et": "csv",
+        "cs": "csv",
+        "pl": "csv",
+        "da": "csv",
+        "ro": "csv",
+        "nl": "csv"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/json",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/jsonl"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/jsonl"
+      ],
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (jsonl)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (jsonl)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (jsonl)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (jsonl)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (jsonl)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (jsonl)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (jsonl)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (jsonl)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (jsonl)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (jsonl)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (jsonl)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (jsonl)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (jsonl)",
+        "sv": "Parkering beläggning stad Frauenfeld timmar (jsonl)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (jsonl)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (jsonl)",
+        "en": "Parking occupancy city Frauenfeld by hours (jsonl)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (jsonl)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (jsonl)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (jsonl)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (jsonl)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (jsonl)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (jsonl)",
+        "da": "Parkering belægning byen Frauenfeld af timer (jsonl)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (jsonl)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "2bc239f8-05c9-4953-a4cb-d85db9e801a1",
+      "title": {
+        "de": "jsonl",
+        "fi": "jsonl",
+        "pt": "jsonl",
+        "bg": "йсонл",
+        "lt": "jsonl",
+        "lv": "jsonl",
+        "hr": "jsonl",
+        "fr": "jsonl",
+        "hu": "jsonl",
+        "uk": "jsonl",
+        "sk": "jsonl",
+        "sl": "jsonl",
+        "ga": "jsonl",
+        "sv": "jsonl",
+        "mt": "ġsonl",
+        "el": "Ισονλ",
+        "en": "jsonl",
+        "it": "jsonl",
+        "es": "jsonl",
+        "et": "jsonl",
+        "cs": "jsonl",
+        "pl": "jsonl",
+        "ro": "jsonl",
+        "da": "jsonl",
+        "nl": "jsonl"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/zip",
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/shp"
+      ],
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/shp"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/ZIP",
+        "id": "ZIP",
+        "label": "ZIP"
+      },
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (shp)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (shp)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (shp)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (shp)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (hp)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (shp)",
+        "hr": "Parkiranje popunjenost grada Frauenfeld po satima (shp)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (shp)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (shp)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (шп)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (shp)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (shp)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (shp)",
+        "sv": "Parkering beläggning stad Frauenfeld av timmar (shp)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (shp)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (shp)",
+        "en": "Parking occupancy city Frauenfeld by hours (shp)",
+        "it": "Città di occupazione del parcheggio Frauenfeld per ore (shp)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (shp)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (shp)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (shp)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (shp)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (shp)",
+        "da": "Parkering belægning byen Frauenfeld af timer (shp)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (shp)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "79d64b36-3469-42d8-a93a-3cde63d6c17f",
+      "title": {
+        "de": "shp",
+        "fi": "shp",
+        "pt": "shp",
+        "bg": "шп",
+        "lt": "shp",
+        "lv": "shp",
+        "hr": "shp",
+        "fr": "shp",
+        "hu": "shp",
+        "uk": "шп",
+        "sk": "shp",
+        "sl": "shp",
+        "ga": "shp",
+        "sv": "shp",
+        "mt": "bċejjeċ ta’ art",
+        "el": "σσπ",
+        "en": "shp",
+        "it": "shp",
+        "es": "shp",
+        "et": "shp",
+        "cs": "shp",
+        "pl": "shp",
+        "ro": "shp",
+        "da": "shp",
+        "nl": "shp"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/parquet"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/parquet"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/PARQUET",
+        "id": "PARQUET",
+        "label": "Parquet"
+      },
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (parquet)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (parquet)",
+        "pt": "Parque de estacionamento da cidade Frauenfeld por horas (parquet)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (паркет)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (parketas)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (parket)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (parkets)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (parquet)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (parketta)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (паркет)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (parkety)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (parket)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (parquet)",
+        "sv": "Parkering beläggning stad Frauenfeld timmar (parkett)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (παρκέ)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (parquet)",
+        "en": "Parking occupancy city Frauenfeld by hours (parquet)",
+        "it": "Città di occupazione del parcheggio Frauenfeld per ore (parquet)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (parquet)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (parkett)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (parkety)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (parkiet)",
+        "da": "Parkering belægning byen Frauenfeld af timer (parkering)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (parchet)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (parket)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "a99bf012-86bc-4efb-ba03-b2658db0c821",
+      "title": {
+        "de": "parquet",
+        "fi": "parketti",
+        "pt": "parquet",
+        "bg": "паркет",
+        "lt": "parketo",
+        "hr": "parket",
+        "lv": "parkets",
+        "fr": "parquet",
+        "hu": "parketta",
+        "uk": "паркетна дошка",
+        "sk": "parkety",
+        "sl": "parket",
+        "ga": "iontlaise",
+        "sv": "parkett",
+        "mt": "parquet",
+        "el": "παρκέ",
+        "en": "parquet",
+        "it": "parquet",
+        "es": "parquet",
+        "et": "parkett",
+        "cs": "parkety",
+        "pl": "parkiet",
+        "da": "parket",
+        "ro": "parchet",
+        "nl": "parket"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/jsonld"
+      ],
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/jsonld"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+        "id": "JSON_LD",
+        "label": "JSON-LD"
+      },
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (jsonld)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (jsonld)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (jsonld)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (jsonld)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (jsonld)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (jsonld)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (jsonld)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (jsonld)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (jsonld)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (jsonld)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (jsonld)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (jsonld)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (jsonld)",
+        "sv": "Parkering beläggning stad Frauenfeld timmar (jsonld)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (jsonld)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (jsonld)",
+        "en": "Parking occupancy city Frauenfeld by hours (jsonld)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (jsonld)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (jsonld)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (jsonld)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (jsonld)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (jsonld)",
+        "ro": "Parcare oraș ocuparea Frauenfeld de ore (jsonld)",
+        "da": "Parkering belægning byen Frauenfeld af timer (jsonld)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (jsonld)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "8e5e179d-dd3e-42ae-96a7-ab7ba2b59d65",
+      "title": {
+        "de": "jsonld",
+        "fi": "jsonld",
+        "pt": "jsonld",
+        "bg": "йсонлд",
+        "lt": "jsonld",
+        "hr": "jsonld",
+        "lv": "jsonld",
+        "fr": "jsonld",
+        "hu": "jsonld",
+        "uk": "jsonld",
+        "sk": "jsonld",
+        "sl": "jsonld",
+        "ga": "jsonld",
+        "sv": "jsonld",
+        "el": "Τζσονλντ",
+        "mt": "jsonld",
+        "en": "jsonld",
+        "it": "jsonld",
+        "es": "jsonld",
+        "et": "jsonld",
+        "cs": "jsonld",
+        "pl": "jsonld",
+        "ro": "jsonld",
+        "da": "jsonld",
+        "nl": "jsonld"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/gpx"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/gpx"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/GPX",
+        "id": "GPX",
+        "label": "GPX"
+      },
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (gpx)",
+        "fi": "Pysäköintimahdollisuus Frauenfeldin kaupunki tunneittain (gpx)",
+        "pt": "Ocupação do estacionamento Cidade de Frauenfeld por horas (gpx)",
+        "bg": "Наемане на паркинг Град Фрауенфелд по часове (gpx)",
+        "lt": "Savivaldybė Frauenfeld pagal valandas (gpx)",
+        "hr": "Popunjenost parkirališta Grad Frauenfeld po satima (gpx)",
+        "lv": "Pilsētas Frauenfeld pa stundām (gpx)",
+        "fr": "Occupation du parking de la ville de Frauenfeld en heures (gpx)",
+        "hu": "Parkolás foglaltság Város Frauenfeld óraszámban (gpx)",
+        "uk": "Заповнення парковки Місто Фрауенфельд по годинах (gpx)",
+        "sk": "Obsadenosť parkoviska Mesto Frauenfeld podľa hodín (gpx)",
+        "sl": "Mesto Frauenfeld po urah (gpx)",
+        "ga": "Páirceáil áitíochta Cathair na Frauenfeld de réir uair an chloig (gpx)",
+        "sv": "Parkering beläggning Stad Frauenfeld av timmar (gpx)",
+        "el": "Χωρητικότητα στάθμευσης Πόλη του Frauenfeld ανά ώρες (gpx)",
+        "mt": "L-okkupanza tal-parkeġġ fil-Belt ta’ Frauenfeld f’sigħat (gpx)",
+        "en": "Parking occupancy City of Frauenfeld by hours (gpx)",
+        "it": "Occupazione parcheggio Città di Frauenfeld per ore (gpx)",
+        "es": "Ocupación de aparcamiento Ciudad de Frauenfeld por horas (gpx)",
+        "et": "Frauenfeldi linn tundide kaupa (gpx)",
+        "cs": "Obsazenost parkoviště Město Frauenfeld podle hodin (gpx)",
+        "pl": "Obłożenie parkingu Miasto Frauenfeld według godzin (gpx)",
+        "da": "Parkering belægning Byen Frauenfeld af timer (gpx)",
+        "ro": "Gradul de ocupare a locurilor de parcare Orașul Frauenfeld pe ore (gpx)",
+        "nl": "Parkeerbezetting Stad Frauenfeld per uur (gpx)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "993a1892-df6d-4a2c-a6a2-96040d2ef064",
+      "title": {
+        "de": "gpx",
+        "fi": "gpx",
+        "pt": "gpx",
+        "bg": "gpx",
+        "lt": "gpx",
+        "lv": "gpx",
+        "hr": "gpx",
+        "fr": "gpx",
+        "hu": "gpx",
+        "uk": "gpx",
+        "sk": "gpx",
+        "sl": "gpx",
+        "ga": "gpx",
+        "sv": "gpx",
+        "mt": "gpx",
+        "el": "gpx",
+        "en": "gpx",
+        "it": "gpx",
+        "es": "gpx",
+        "et": "gpx",
+        "cs": "gpx",
+        "pl": "gpx",
+        "da": "gpx",
+        "ro": "gpx",
+        "nl": "gpx"
+      },
+      "issued": "2026-05-31T04:52:53.044000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "text/turtle",
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/turtle"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
+        "id": "RDF_TURTLE",
+        "label": "RDF Turtle"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/frauenfeld-2/exports/turtle"
+      ],
+      "description": {
+        "de": "Parkplatzbelegung Stadt Frauenfeld nach Stunden (turtle)",
+        "fi": "Pysäköinti asukas kaupunki Frauenfeld tuntia (kilpikonna)",
+        "pt": "Estacionamento ocupação cidade Frauenfeld por horas (tartaruga)",
+        "bg": "Паркинг заетост град Frauenfeld по часове (костенурка)",
+        "lt": "Automobilių stovėjimo aikštelė užimtas miestas Frauenfeld pagal valandas (vėžlys)",
+        "lv": "Autostāvvieta apdzīvotā pilsēta Frauenfeld pēc stundām (bruņurupucis)",
+        "hr": "Parkiralište zauzet grad Frauenfeld po satima (kornjača)",
+        "fr": "Occupation du parking Ville de Frauenfeld par heures (turtle)",
+        "hu": "Parkolás foglaltság város Frauenfeld óra (teknős)",
+        "uk": "Парковка заповнюваність місто Фрауенфельд по годинах (черепаха)",
+        "sk": "Parkovanie obsadenosť mesto Frauenfeld podľa hodín (korytnačka)",
+        "sl": "Parkirišče zasedenost mesta Frauenfeld po urah (želva)",
+        "ga": "Páirceáil áitíochta chathair Frauenfeld de réir uair an chloig (turtar)",
+        "sv": "Parkering beläggning stad Frauenfeld timmar (sköldpadda)",
+        "el": "Χώρος στάθμευσης στην πόλη Frauenfeld ανά ώρες (χελώνα)",
+        "mt": "Il-belt tal-okkupanza tal-parkeġġ Frauenfeld bis-sigħat (fekruna)",
+        "en": "Parking occupancy city Frauenfeld by hours (turtle)",
+        "it": "Città di occupazione di parcheggio Frauenfeld per ore (tartaruga)",
+        "es": "Ocupación de aparcamiento en la ciudad de Frauenfeld por horas (tortuga)",
+        "et": "Parkimine linna Frauenfeld tundide kaupa (kilpkonn)",
+        "cs": "Parkování obsazenost města Frauenfeld podle hodin (želva)",
+        "pl": "Liczba miejsc parkingowych w mieście Frauenfeld według godzin (żółw)",
+        "ro": "Gradul de ocupare a locurilor de parcare în orașul Frauenfeld pe ore (țestoasă)",
+        "da": "Parkering belægning byen Frauenfeld af timer (skildpadde)",
+        "nl": "Parkeerbezetting stad Frauenfeld per uur (schildpad)"
+      },
+      "modified": "2026-05-31T04:52:53.044000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "473514a9-9ab2-4da7-bf04-b5dade8b53c1",
+      "issued": "2026-05-31T04:52:53.044000+00:00",
+      "title": {
+        "de": "turtle",
+        "fi": "kilpikonna",
+        "pt": "tartaruga",
+        "bg": "костенурка",
+        "lt": "vėžlys",
+        "hr": "kornjača",
+        "lv": "bruņurupucis",
+        "fr": "turtle",
+        "hu": "teknős",
+        "uk": "черепаха",
+        "sk": "korytnačka",
+        "sl": "Turtle",
+        "ga": "turtar",
+        "sv": "sköldpadda",
+        "mt": "fekruna",
+        "el": "χελώνα",
+        "en": "turtle",
+        "it": "tartaruga",
+        "es": "tortuga",
+        "et": "kilpkonn",
+        "cs": "želva",
+        "pl": "żółw",
+        "da": "skildpadde",
+        "ro": "Turtle",
+        "nl": "schildpad"
+      }
+    }
+  ],
+  "relation": [
+    "https://www.frauenfeld.ch/wohnen-mobilitaet/mobilitaet/smart-parking.html/2327"
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 335
+  },
+  "publisher": {
+    "resource": "https://data.tg.ch/explore/?refine.dcat_ap_ch.domain=kanton-thurgau",
+    "name": "kanton-thurgau",
+    "type": "Agent"
+  },
+  "modified": "2026-05-31T04:52:53.044000+00:00",
+  "id": "frauenfeld-2-kanton-thurgau",
+  "categories": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/TRAN",
+      "id": "TRAN",
+      "label": {
+        "nn": "Transport",
+        "de": "Verkehr",
+        "no": "Transport",
+        "fi": "Liikenne",
+        "pt": "Transportes",
+        "bg": "Транспорт",
+        "lt": "Transportas",
+        "lv": "Transports",
+        "hr": "Promet",
+        "fr": "Transports",
+        "hu": "Közlekedés",
+        "sk": "Doprava",
+        "sl": "Transport",
+        "ga": "Iompar",
+        "sv": "Transport",
+        "mt": "Trasport",
+        "el": "Μεταφορές",
+        "en": "Transport",
+        "it": "Trasporti",
+        "es": "Transporte",
+        "et": "Transport",
+        "cs": "Doprava",
+        "nb": "Transport",
+        "pl": "Transport",
+        "ro": "Transport",
+        "da": "Transport",
+        "nl": "Vervoer"
+      }
+    },
+    {
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/REGI",
+      "id": "REGI",
+      "label": {
+        "nn": "Regionar og byar",
+        "de": "Regionen und Städte",
+        "no": "Regioner og byer",
+        "fi": "Alueet ja kaupungit",
+        "pt": "Regiões e cidades",
+        "bg": "Региони и градове",
+        "lt": "Regionai ir miestai",
+        "lv": "Reģioni un pilsētas",
+        "hr": "Regije i gradovi",
+        "fr": "Régions et villes",
+        "hu": "Régiók és városok",
+        "sk": "Regióny a mestá",
+        "sl": "Regije in mesta",
+        "ga": "Réigiúin agus cathracha",
+        "sv": "Regioner och städer",
+        "el": "Περιφέρειες και πόλεις",
+        "mt": "Reġjuni u bliet",
+        "en": "Regions and cities",
+        "it": "Regioni e città",
+        "es": "Regiones y ciudades",
+        "et": "Piirkonnad ja linnad",
+        "cs": "Regiony a města",
+        "nb": "Regioner og byer",
+        "pl": "Regiony i miasta",
+        "da": "Regioner og byer",
+        "ro": "Regiuni şi orașe",
+        "nl": "Regio's en steden"
+      }
+    }
+  ],
+  "issued": "2026-05-31T04:52:53.044000+00:00",
+  "catalog_record": {
+    "modified": "2026-05-31T20:05:07Z",
+    "issued": "2025-10-16T20:06:07Z"
+  },
+  "contact_point": [
+    {
+      "name": "OGD-Koordinationsstelle Kanton Thurgau",
+      "type": "Organization",
+      "email": "mailto:ogd@tg.ch"
+    }
+  ]
+}

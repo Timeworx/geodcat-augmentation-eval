@@ -1,0 +1,43 @@
+{
+  "info": {
+    "description": "Timeworx Instance Segmentation (Wieselburg 2025)",
+    "version": "1.0",
+    "year": 2025,
+    "contributor": "Timeworx.io",
+    "date_created": "2026-04-11T15:11:03+03:00"
+  },
+  "licenses": [],
+  "images": [
+    { "id": 1, "width": 4000, "height": 3000, "file_name": "0001.png", "date_captured": "2025-07-28" }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "maize plant",
+      "supercategory": "plant",
+      "semantic_uri": "http://aims.fao.org/aos/agrovoc/c_12332"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": { "size": [3000, 4000], "counts": "dabc:2em22N2O1N2O...00000SPO" },
+      "area": 125430.5,
+      "bbox": [3710.606201171875, 344.92376708984375, 289.393798828125, 120.87930297851565],
+      "iscrowd": 0,
+      "score": 0.55078125
+    },
+    {
+      "id": 2,
+      "image_id": 1,
+      "category_id": 1,
+      "segmentation": { "size": [3000, 4000], "counts": "U[d\\82em22N3M3O0...1O00000000000000SPO" },
+      "area": 845000.0,
+      "bbox": [2941.244873046875, 657.191162109375, 1058.755126953125, 1128.08642578125],
+      "iscrowd": 0,
+      "score": 0.90625
+    }
+  ]
+}

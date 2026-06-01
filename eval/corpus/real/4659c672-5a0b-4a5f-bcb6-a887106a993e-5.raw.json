@@ -1,0 +1,437 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "norges-maritime-grenser",
+      "label": "Norges maritime grenser"
+    },
+    {
+      "language": "nor",
+      "id": "fastlands-norge",
+      "label": "Fastlands-Norge"
+    },
+    {
+      "language": "nor",
+      "id": "1-nm",
+      "label": "1 NM"
+    },
+    {
+      "language": "nor",
+      "id": "grunnlinje",
+      "label": "Grunnlinje"
+    },
+    {
+      "language": "nor",
+      "id": "1-nautical-mile",
+      "label": "1 Nautical Mile"
+    },
+    {
+      "language": "nor",
+      "id": "norwegian-maritime-boundaries",
+      "label": "Norwegian Maritime Boundaries"
+    },
+    {
+      "language": "nor",
+      "id": "sjøgrenser",
+      "label": "sjøgrenser"
+    },
+    {
+      "language": "nor",
+      "id": "1-nautisk-mil",
+      "label": "1 nautisk mil"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/4659c672-5a0b-4a5f-bcb6-a887106a993e~~5",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:31:46Z",
+        "issued": "2024-06-11T17:48:13Z"
+      }
+    },
+    "full_available_languages": [
+      "nor",
+      "sv",
+      "de",
+      "hr",
+      "el",
+      "lv",
+      "uk",
+      "pt",
+      "sk",
+      "it",
+      "hu",
+      "sl",
+      "es",
+      "cs",
+      "nl",
+      "fr",
+      "lt",
+      "fi",
+      "ro",
+      "ga",
+      "mt",
+      "pl",
+      "da",
+      "en",
+      "et",
+      "bg"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Maritim grense beregnet 1 nm utenfor og parallelt med grunnlinjen ved Fastlands-Norge",
+    "en": "The line every point of which is at a distance of 1 NM (1852 m) from the nearest point of the Baseline of Norway Mainland"
+  },
+  "index": "dataset",
+  "title": {
+    "de": "1 Nautische Meile",
+    "fi": "1 merimaili",
+    "pt": "1 Milha Náutica",
+    "bg": "1 Морска миля",
+    "lt": "1 Jūrinė mylia",
+    "hr": "1 Nautička milja",
+    "lv": "1 jūras jūdze",
+    "fr": "1 mille nautique",
+    "hu": "1 tengeri mérföld",
+    "nor": "1 nautisk mil",
+    "uk": "1 Морська миля",
+    "sk": "1 námorná míľa",
+    "sl": "1 Navtična milja",
+    "ga": "1 Míle Loingseoireachta",
+    "sv": "1 sjömil",
+    "el": "1 ναυτικό μίλι",
+    "mt": "1 Mil nawtiku",
+    "en": "1 Nautical Mile",
+    "it": "1 Miglio nautico",
+    "es": "1 milla náutica",
+    "et": "1 meremiil",
+    "cs": "1 námořní míle",
+    "pl": "1 mila morska",
+    "ro": "1 milă nautică",
+    "da": "1 sømil",
+    "nl": "1 nautische mijl"
+  },
+  "accrual_periodicity": {},
+  "distributions": [
+    {
+      "license": {
+        "resource": "https://creativecommons.org/licenses/by/4.0/",
+        "id": "https://creativecommons.org/licenses/by/4.0/",
+        "label": "https://creativecommons.org/licenses/by/4.0/"
+      },
+      "access_url": [
+        "https://wms.geonorge.no/skwms1/wms.nmg?"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "2012-08-10T00:00:00Z",
+      "id": "e84cd40e-2f78-4300-a1c5-c3dad57e389b",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://wms.geonorge.no/skwms1/wms.nmg"
+          ],
+          "endpoint_description": [
+            "https://wms.geonorge.no/skwms1/wms.nmg?"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "el": "προβολή",
+        "mt": "ħarsa",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "da": "udsigt",
+        "ro": "vizualizare",
+        "nl": "Bekijk"
+      },
+      "issued": "0001-01-01T00:00:00Z"
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 240
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "2012-08-10T00:00:00Z",
+  "publisher": {
+    "name": "Kartverket",
+    "type": "Organization",
+    "email": "mailto:kundesenter@kartverket.no"
+  },
+  "id": "4659c672-5a0b-4a5f-bcb6-a887106a993e~~5",
+  "categories": [],
+  "issued": "0001-01-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            -16,
+            85
+          ],
+          [
+            45,
+            85
+          ],
+          [
+            45,
+            -56
+          ],
+          [
+            -16,
+            -56
+          ],
+          [
+            -16,
+            85
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:12Z",
+    "issued": "2023-08-01T17:48:10Z"
+  },
+  "contact_point": [
+    {
+      "address": "Kartverket, Hønefoss, 3507, Norway",
+      "name": "Carina Tolpinrud Jøntvedt",
+      "type": "Individual",
+      "email": "mailto:tolcar@kartverket.no",
+      "url": [
+        "http://geoh.conterra:8080/oai-pmh-geo-harvest/harvesters/www.kartverket.no"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1175 @@
+{
+  "identifier": [
+    "dek-gs-15@kanton-thurgau"
+  ],
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/CHE",
+    "label": "Switzerland",
+    "id": "ch"
+  },
+  "keywords": [
+    {
+      "language": "de",
+      "id": "bildung",
+      "label": "bildung"
+    },
+    {
+      "language": "de",
+      "id": "matura",
+      "label": "matura"
+    },
+    {
+      "language": "de",
+      "id": "gymnasien",
+      "label": "gymnasien"
+    },
+    {
+      "language": "de",
+      "id": "mittelschule",
+      "label": "mittelschule"
+    },
+    {
+      "language": "de",
+      "id": "lernende",
+      "label": "lernende"
+    },
+    {
+      "language": "de",
+      "id": "ausbildung",
+      "label": "ausbildung"
+    },
+    {
+      "language": "de",
+      "id": "berufsmaturitaet",
+      "label": "berufsmaturitaet"
+    },
+    {
+      "language": "de",
+      "id": "gsdek",
+      "label": "gsdek"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/dek-gs-15-kanton-thurgau",
+  "catalog": {
+    "id": "opendata-swiss",
+    "description": {
+      "en": "Open Data Portal Switzerland"
+    },
+    "publisher": {
+      "type": "Agent",
+      "email": "mailto:opendata@bfs.admin.ch",
+      "name": "Federal Statistical Office",
+      "homepage": "https://www.bfs.admin.ch"
+    },
+    "source_type": "dcat-ap",
+    "title": {
+      "de": "opendata.swiss"
+    },
+    "modified": "2024-03-12T10:32:33Z",
+    "homepage": "https://opendata.swiss",
+    "issued": "2024-03-12T10:32:33Z",
+    "country": {
+      "label": "Switzerland",
+      "id": "ch",
+      "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+    },
+    "spatial_resource": [
+      {
+        "label": "Switzerland",
+        "id": "ch",
+        "resource": "http://publications.europa.eu/resource/authority/country/CHE"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "de",
+        "label": "German",
+        "resource": "http://publications.europa.eu/resource/authority/language/DEU"
+      }
+    ]
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": false,
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "en": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "de",
+        "received": "2026-05-28T20:48:51Z",
+        "issued": "2026-05-28T20:05:04Z"
+      }
+    },
+    "full_available_languages": [
+      "ga",
+      "hr",
+      "pl",
+      "lt",
+      "cs",
+      "uk",
+      "bg",
+      "fi",
+      "fr",
+      "es",
+      "nl",
+      "hu",
+      "da",
+      "it",
+      "et",
+      "sv",
+      "ro",
+      "pt",
+      "de",
+      "mt",
+      "lv",
+      "en",
+      "el",
+      "sk",
+      "sl"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen und Berufsmaturitätsschulen im Kanton Thurgau nach Mittelschultyp seit dem Kalenderjahr 2000. Die Daten sind differenziert nach Jahr und Abschlusstyp. Ausgewiesen werden die Anzahl Abschlüsse an Mittelschulen im Kanton Thurgau. Die Daten werden im Rahmen der Statistik der Bildungsabschlüsse für das Bundesamtes für Statistik erhoben. Es handelt sich um eine Vollerhebung. Die Daten werden Jährlich im Januar/Februar erhoben.",
+    "fi": "Keskiasteen ja ammatillisten keskiasteen oppilaitosten tutkintojen kehittäminen Thurgaun kantonissa lukiotyypeittäin kalenterivuodesta 2000 alkaen. Tiedot eritellään vuoden ja tutkintotyypin mukaan. Thurgaun kantonin keskiasteen koulujen tutkintojen määrä on esitetty. Tiedot kerätään osana liittovaltion tilastoviraston tutkintotilastoja. Kysely on täysimittainen. Tiedot kerätään vuosittain tammi-helmikuussa.",
+    "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias e escolas secundárias profissionais no cantão de Thurgau por tipo de escola secundária desde o ano civil de 2000. Os dados são diferenciados por ano e tipo de grau. O número de graus em escolas secundárias no cantão de Thurgau é mostrado. Os dados são coletados como parte das estatísticas de qualificações educacionais para o Serviço Federal de Estatística. Este é um inquérito completo. Os dados são recolhidos anualmente em janeiro/fevereiro.",
+    "bg": "Развитие на образователните квалификации в средните училища и професионалните гимназии в кантон Търгау по видове средни училища от календарната 2000 г. насам. Данните са диференцирани по година и степен. Показва се броят на степените в средните училища в кантон Тургау. Данните се събират като част от статистиката на образователните квалификации за Федералната статистическа служба. Това е пълно проучване. Данните се събират ежегодно през януари/февруари.",
+    "lt": "Nuo 2000 kalendorinių metų Thurgau kantono vidurinėse ir profesinėse vidurinėse mokyklose pagal vidurinės mokyklos tipą ugdoma kvalifikacija. Duomenys skirstomi pagal metus ir laipsnio tipą. Rodomas laipsnių skaičius vidurinėse mokyklose Thurgau kantone. Duomenys renkami kaip Federalinės statistikos tarnybos švietimo kvalifikacijų statistikos dalis. Tai yra išsami apklausa. Duomenys renkami kasmet sausio–vasario mėn.",
+    "lv": "Izglītības kvalifikāciju attīstība Thurgau kantona vidusskolās un profesionālajās vidusskolās pēc vidusskolas veida kopš 2000. kalendārā gada. Datus diferencē pēc gada un grāda veida. Tiek parādīts grādu skaits Thurgau kantona vidusskolās. Dati tiek vākti kā daļa no Federālā statistikas biroja izglītības kvalifikāciju statistikas. Šī ir pilna aptauja. Dati tiek vākti katru gadu janvārī/februārī.",
+    "hr": "Razvoj obrazovnih kvalifikacija u srednjim i srednjim strukovnim školama u kantonu Thurgau prema vrsti srednje škole od kalendarske godine 2000. Podaci se razlikuju prema godini i vrsti stupnja. Prikazan je broj stupnjeva u srednjim školama u kantonu Thurgau. Podaci se prikupljaju kao dio statistike obrazovnih kvalifikacija za Savezni zavod za statistiku. Ovo je cjelovita anketa. Podaci se prikupljaju svake godine u siječnju/veljači.",
+    "fr": "Evolution des diplômes des écoles secondaires et des écoles de maturité professionnelle dans le canton de Thurgovie par type d'école secondaire depuis l'année civile 2000. Les données sont différenciées selon l'année et le type de clôture. Le nombre de diplômes délivrés dans les écoles secondaires du canton de Thurgovie est indiqué. Les données sont collectées dans le cadre de la statistique des diplômes de l'Office fédéral de la statistique. Il s'agit d'une enquête complète. Les données sont collectées annuellement en janvier/février.",
+    "hu": "Thurgau kanton középiskolai és szakközépiskolai végzettségének alakulása a középiskola típusa szerint a 2000. naptári évtől kezdődően. Az adatok év és fokozat szerint különböznek. A Thurgau kantonban a középiskolai végzettségek száma látható. Az adatokat a Szövetségi Statisztikai Hivatal oktatási képesítéseire vonatkozó statisztikák részeként gyűjtik. Ez egy teljes felmérés. Az adatokat évente, januárban/februárban gyűjtik.",
+    "uk": "Розвиток освітньо-кваліфікаційних рівнів у загальноосвітніх та професійно-технічних навчальних закладах кантону Тургау за типами загальноосвітніх шкіл з 2000 календарного року. Дані диференціюються за роками та типом ступеня. Показано кількість ступенів у середніх школах кантону Тургау. Дані збираються в рамках статистики освітніх кваліфікацій для Федерального статистичного управління. Це повне опитування. Дані збираються щорічно в січні/лютому.",
+    "sk": "Rozvoj vzdelania na stredných školách a odborných stredných školách v kantóne Thurgau podľa typu strednej školy od kalendárneho roku 2000. Údaje sú rozlíšené podľa roku a typu titulu. Ukazuje sa počet stupňov na stredných školách v kantóne Thurgau. Údaje sa zbierajú ako súčasť štatistík o vzdelaní pre Spolkový štatistický úrad. Toto je úplný prieskum. Údaje sa zbierajú každoročne v januári/februári.",
+    "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah in poklicnih srednjih šolah v kantonu Thurgau po vrsti srednje šole od koledarskega leta 2000. Podatki se razlikujejo glede na leto in vrsto stopnje. Prikazano je število diplom na srednjih šolah v kantonu Thurgau. Podatki se zbirajo kot del statističnih podatkov o izobraževalnih kvalifikacijah za Zvezni statistični urad. To je popolna raziskava. Podatki se zbirajo vsako leto januarja/februarja.",
+    "ga": "Cáilíochtaí oideachais a fhorbairt i meánscoileanna agus i ngairm-mheánscoileanna i gcantún Thurgau de réir cineál meánscoile ón mbliain féilire 2000 i leith. Déantar na sonraí a dhifreáil de réir bliana agus cineál céime. Taispeántar líon na gcéimeanna ag meánscoileanna i gcantún Thurgau. Bailítear na sonraí mar chuid de na staitisticí ar cháilíochtaí oideachais don Oifig Staidrimh Chónaidhme. Is suirbhé iomlán é seo. Bailítear sonraí gach bliain i mí Eanáir/Feabhra.",
+    "sv": "Utveckling av utbildningskvalifikationer vid gymnasier och yrkesgymnasier i kantonen Thurgau efter typ av gymnasieskola sedan kalenderåret 2000. Uppgifterna är differentierade efter år och examenstyp. Antalet examina vid gymnasieskolor i kantonen Thurgau visas. Uppgifterna samlas in som en del av statistiken över utbildningskvalifikationer för den federala statistikbyrån. Detta är en fullständig undersökning. Uppgifterna samlas in årligen i januari/februari.",
+    "mt": "L-iżvilupp ta’ kwalifiki edukattivi fl-iskejjel sekondarji u fl-iskejjel sekondarji vokazzjonali fil-canton ta’ Thurgau skont it-tip ta’ skola sekondarja mis-sena kalendarja 2000. Id-data hija differenzjata skont is-sena u t-tip ta’ grad. Jintwera n-numru ta’ lawrji fl-iskejjel sekondarji fil-canton ta’ Thurgau. Id-data tinġabar bħala parti mill-istatistika tal-kwalifiki edukattivi għall-Uffiċċju Federali tal-Istatistika. Dan huwa stħarriġ sħiħ. Id-data tinġabar kull sena f’Jannar/Frar.",
+    "el": "Ανάπτυξη των εκπαιδευτικών προσόντων στα σχολεία δευτεροβάθμιας εκπαίδευσης και επαγγελματικής δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau ανά τύπο δευτεροβάθμιας εκπαίδευσης από το ημερολογιακό έτος 2000. Τα στοιχεία διαφοροποιούνται ανά έτος και τύπο πτυχίου. Εμφανίζεται ο αριθμός των πτυχίων στα σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau. Τα στοιχεία συλλέγονται στο πλαίσιο των στατιστικών για τα εκπαιδευτικά προσόντα για την Ομοσπονδιακή Στατιστική Υπηρεσία. Αυτή είναι μια πλήρης έρευνα. Τα στοιχεία συλλέγονται ετησίως τον Ιανουάριο/Φεβρουάριο.",
+    "en": "Development of educational qualifications at secondary schools and vocational secondary schools in the canton of Thurgau by type of secondary school since the calendar year 2000. The data are differentiated by year and degree type. The number of degrees at secondary schools in the canton of Thurgau is shown. The data are collected as part of the statistics of educational qualifications for the Federal Statistical Office. This is a full survey. Data are collected annually in January/February.",
+    "it": "Sviluppo dei titoli di studio nelle scuole secondarie e secondarie professionali del cantone di Turgovia per tipo di scuola secondaria a partire dall'anno civile 2000. I dati sono differenziati per anno e tipo di laurea. È indicato il numero di diplomi nelle scuole secondarie del cantone di Turgovia. I dati sono raccolti nell'ambito delle statistiche dei titoli di studio dell'Ufficio federale di statistica. Questo è un sondaggio completo. I dati vengono raccolti annualmente a gennaio/febbraio.",
+    "es": "Desarrollo de las calificaciones educativas en las escuelas secundarias y las escuelas secundarias de formación profesional en el cantón de Thurgau por tipo de escuela secundaria desde el año civil 2000. Los datos se diferencian por año y tipo de grado. Se muestra el número de grados en las escuelas secundarias del cantón de Thurgau. Los datos se recopilan como parte de las estadísticas de calificaciones educativas para la Oficina Federal de Estadística. Esta es una encuesta completa. Los datos se recogen anualmente en enero/febrero.",
+    "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides ja kutsekeskkoolides keskkooli liigi järgi alates 2000. kalendriaastast. Andmed on eristatud aasta ja kraadi tüübi järgi. Näidatakse Thurgau kantoni keskkoolide kraadide arvu. Andmeid kogutakse föderaalse statistikaameti hariduskvalifikatsioonide statistika osana. See on täielik uuring. Andmeid kogutakse igal aastal jaanuaris/veebruaris.",
+    "cs": "Rozvoj vzdělání na středních školách a odborných středních školách v kantonu Thurgau podle typu střední školy od kalendářního roku 2000. Údaje jsou rozlišeny podle roku a typu stupně. Počet stupňů na středních školách v kantonu Thurgau je uveden. Údaje jsou shromažďovány jako součást statistik o dosaženém vzdělání pro Spolkový statistický úřad. Jedná se o kompletní průzkum. Údaje jsou shromažďovány každoročně v lednu/únoru.",
+    "pl": "Rozwój kwalifikacji w szkołach ponadgimnazjalnych i zawodowych w kantonie Thurgau według rodzaju szkoły ponadgimnazjalnej od roku kalendarzowego 2000. Dane są zróżnicowane według roku i rodzaju stopnia. Pokazana jest liczba stopni w szkołach średnich w kantonie Thurgau. Dane są zbierane w ramach statystyk kwalifikacji edukacyjnych dla Federalnego Urzędu Statystycznego. To jest pełna ankieta. Dane zbierane są corocznie w styczniu/lutym.",
+    "ro": "Dezvoltarea calificărilor educaționale în școlile gimnaziale și profesionale din cantonul Thurgau pe tipuri de școli gimnaziale începând cu anul calendaristic 2000. Datele sunt diferențiate în funcție de an și de tipul de grad. Numărul de grade la școlile secundare din cantonul Thurgau este indicat. Datele sunt colectate ca parte a statisticilor privind calificările educaționale pentru Oficiul Federal de Statistică. Acesta este un sondaj complet. Datele sunt colectate anual în ianuarie/februarie.",
+    "da": "Udvikling af uddannelsesmæssige kvalifikationer på sekundærtrinnet og erhvervsskoler på sekundærtrinnet i kantonen Thurgau efter skoletype siden kalenderåret 2000. Dataene er opdelt efter år og gradstype. Antallet af grader på gymnasier i kantonen Thurgau er vist. Dataene indsamles som en del af statistikken over uddannelsesmæssige kvalifikationer til det føderale statistiske kontor. Dette er en fuld undersøgelse. Data indsamles årligt i januar/februar.",
+    "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen en middelbare scholen voor beroepsonderwijs in het kanton Thurgau per type middelbare school sinds het kalenderjaar 2000. De gegevens worden gedifferentieerd naar jaar en graadtype. Het aantal graden op middelbare scholen in het kanton Thurgau wordt getoond. De gegevens worden verzameld als onderdeel van de statistieken van onderwijskwalificaties voor het Federaal Bureau voor de Statistiek. Dit is een volledige enquête. De gegevens worden jaarlijks verzameld in januari/februari."
+  },
+  "landing_page": [
+    {
+      "resource": "https://data.tg.ch/explore/dataset/dek-gs-15/"
+    }
+  ],
+  "index": "dataset",
+  "language": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+      "id": "de",
+      "label": "German"
+    }
+  ],
+  "title": {
+    "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000",
+    "fi": "Thurgaun kantonin toisen asteen oppilaitosten tutkintojen kehittäminen vuodesta 2000",
+    "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000",
+    "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г.",
+    "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m.",
+    "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine",
+    "lv": "Izglītības kvalifikācijas attīstība Tūrgau kantona vidusskolās no 2000. gada",
+    "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000",
+    "hu": "A Thurgau kanton középiskolai végzettségének fejlesztése 2000-től",
+    "uk": "Розвиток освітніх кваліфікацій в середніх школах кантону Тургау з 2000 року",
+    "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000",
+    "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000",
+    "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000",
+    "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000",
+    "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000",
+    "el": "Ανάπτυξη των εκπαιδευτικών προσόντων σε σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000",
+    "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000",
+    "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000",
+    "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000",
+    "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast",
+    "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000",
+    "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r.",
+    "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000",
+    "ro": "Dezvoltarea calificărilor educaționale în școlile gimnaziale din cantonul Thurgau începând cu anul 2000",
+    "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000"
+  },
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/jsonld"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON_LD",
+        "id": "JSON_LD",
+        "label": "JSON-LD"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/jsonld"
+      ],
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (jsonld)",
+        "fi": "Keskiasteen koulutuksen kehittäminen Thurgaun kantonissa vuodesta 2000 (jsonld)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (jsonld)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (йсонлд)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (jsonld)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (jsonld)",
+        "lv": "Izglītības kvalifikācijas attīstība Tūrgau kantona vidusskolās no 2000. gada (jsonld)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (jsonld)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (jsonld)",
+        "uk": "Розвиток освітніх кваліфікацій в середніх школах в кантоні Тургау з 2000 року (jsonld)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (jsonld)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (jsonld)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (jsonld)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (jsonld)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (jsonld)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων σε σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (jsonld)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (jsonld)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (jsonld)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (jsonld)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (jsonld)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (jsonld)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (jsonld)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile secundare din cantonul Thurgau din 2000 (jsonld)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000 (jsonld)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (jsonld)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "d3e76e80-d6b1-443c-9bcf-5191756489fe",
+      "title": {
+        "de": "jsonld",
+        "fi": "jsonld",
+        "pt": "jsonld",
+        "bg": "йсонлд",
+        "lt": "jsonld",
+        "lv": "jsonld",
+        "hr": "jsonld",
+        "fr": "jsonld",
+        "hu": "jsonld",
+        "uk": "jsonld",
+        "sk": "jsonld",
+        "sl": "jsonld",
+        "ga": "jsonld",
+        "sv": "jsonld",
+        "el": "Τζσονλντ",
+        "mt": "jsonld",
+        "en": "jsonld",
+        "it": "jsonld",
+        "es": "jsonld",
+        "et": "jsonld",
+        "cs": "jsonld",
+        "pl": "jsonld",
+        "da": "jsonld",
+        "ro": "jsonld",
+        "nl": "jsonld"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/json",
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/jsonl"
+      ],
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/jsonl"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (jsonl)",
+        "fi": "Keskiasteen koulutuksen kehittäminen Thurgaun kantonissa vuodesta 2000 (jsonl)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (jsonl)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (jsonl)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (jsonl)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (jsonl)",
+        "lv": "Izglītības kvalifikācijas attīstība Tūrgau kantona vidusskolās no 2000. gada (jsonl)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (jsonl)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (jsonl)",
+        "uk": "Розвиток освітніх кваліфікацій в середніх школах в кантоні Тургау з 2000 року (jsonl)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (jsonl)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (jsonl)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (jsonl)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (jsonl)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων σε σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (jsonl)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (jsonl)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (jsonl)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (jsonl)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (jsonl)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (jsonl)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (jsonl)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (jsonl)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile secundare din cantonul Thurgau din 2000 (jsonl)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000 (jsonl)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (jsonl)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "3ecd8167-2fc0-4d95-88ad-238d7e412608",
+      "title": {
+        "de": "jsonl",
+        "fi": "jsonl",
+        "pt": "jsonl",
+        "bg": "йсонл",
+        "lt": "jsonl",
+        "hr": "jsonl",
+        "lv": "jsonl",
+        "fr": "jsonl",
+        "hu": "jsonl",
+        "uk": "jsonl",
+        "sk": "jsonl",
+        "sl": "jsonl",
+        "ga": "jsonl",
+        "sv": "jsonl",
+        "el": "Ισονλ",
+        "mt": "ġsonl",
+        "en": "jsonl",
+        "it": "jsonl",
+        "es": "jsonl",
+        "et": "jsonl",
+        "cs": "jsonl",
+        "pl": "jsonl",
+        "ro": "jsonl",
+        "da": "jsonl",
+        "nl": "jsonl"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "text/n3",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/n3"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/N3",
+        "id": "N3",
+        "label": "N3"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/n3"
+      ],
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (n3)",
+        "fi": "Keskiasteen oppilaitosten tutkintojen kehittäminen Thurgaun kantonissa vuodesta 2000 (n3)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (n3)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (n3)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (n3)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (n3)",
+        "lv": "Izglītības kvalifikāciju attīstība Thurgau kantona vidusskolās no 2000. gada (n3)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (n3)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (n3)",
+        "uk": "Розвиток освітньо-кваліфікаційних рівнів у загальноосвітніх школах кантону Тургау з 2000 року (n3)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (n3)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (n3)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (n3)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (n3)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (n3)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων σε σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (n3)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (n3)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (n3)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (n3)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (n3)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (n3)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (n3)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile gimnaziale din cantonul Thurgau începând cu anul 2000 (n3)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på sekundærtrinnet i kantonen Thurgau fra 2000 (n3)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (n3)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "966e22ec-9548-4fe5-b70f-c17994df5f7f",
+      "title": {
+        "de": "n3",
+        "fi": "n3",
+        "pt": "n3",
+        "bg": "n3",
+        "lt": "n3",
+        "lv": "n3",
+        "hr": "n3",
+        "fr": "n3",
+        "hu": "n3",
+        "uk": "n3",
+        "sk": "n3",
+        "sl": "n3",
+        "ga": "n3",
+        "sv": "n3",
+        "el": "ν3",
+        "mt": "n3",
+        "en": "n3",
+        "it": "n3",
+        "es": "n3",
+        "et": "n3",
+        "cs": "n3",
+        "pl": "n3",
+        "ro": "n3",
+        "da": "n3",
+        "nl": "n3"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/parquet"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/PARQUET",
+        "id": "PARQUET",
+        "label": "Parquet"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/parquet"
+      ],
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (parquet)",
+        "fi": "Keskiasteen koulutuksen kehittäminen Thurgaun kantonissa vuodesta 2000 (parquet)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (parquet)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (паркет)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (parketas)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (parket)",
+        "lv": "Izglītības kvalifikācijas attīstība Tūrgau kantona vidusskolās no 2000. gada (parkets)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (parquet)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (parketta)",
+        "uk": "Розвиток освітньо-кваліфікаційних рівнів у загальноосвітніх школах кантону Тургау з 2000 року (паркет)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (parkety)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (parquet)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (parquet)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (parkett)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (parquet)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων στα σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (parquet)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (parquet)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (parquet)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (parquet)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (parkett)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (parket)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (parkiet)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000 (parquet)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile gimnaziale din cantonul Thurgau din 2000 (parchet)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (parket)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "565fa887-b843-4329-bdb0-507575b976c3",
+      "title": {
+        "de": "parquet",
+        "fi": "parketti",
+        "pt": "parquet",
+        "bg": "паркет",
+        "lt": "parketo",
+        "lv": "parkets",
+        "hr": "parket",
+        "fr": "parquet",
+        "hu": "parketta",
+        "uk": "паркетна дошка",
+        "sk": "parkety",
+        "sl": "parket",
+        "ga": "iontlaise",
+        "sv": "parkett",
+        "el": "παρκέ",
+        "mt": "parquet",
+        "en": "parquet",
+        "it": "parquet",
+        "es": "parquet",
+        "et": "parkett",
+        "cs": "parkety",
+        "pl": "parkiet",
+        "da": "parket",
+        "ro": "parchet",
+        "nl": "parket"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "text/csv",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/csv?use_labels=true"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/csv?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/CSV",
+        "id": "CSV",
+        "label": "CSV"
+      },
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (csv)",
+        "fi": "Keskiasteen oppilaitosten tutkintojen kehittäminen Thurgaun kantonissa vuodesta 2000 (csv)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (csv)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (csv)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (csv)",
+        "lv": "Izglītības kvalifikāciju attīstība Thurgau kantona vidusskolās no 2000. gada (csv)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (csv)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (csv)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (csv)",
+        "uk": "Розвиток освітніх кваліфікацій у середніх школах кантону Тургау з 2000 року (csv)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (csv)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (csv)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (csv)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (csv)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων στα σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (csv)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (csv)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (csv)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (csv)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (csv)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (csv)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (csv)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (csv)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile secundare din cantonul Thurgau din 2000 (csv)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000 (csv)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (csv)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "f3c395f6-b00d-442a-b01e-32b76897dc1e",
+      "title": {
+        "de": "csv",
+        "fi": "csv",
+        "pt": "csv",
+        "bg": "csv",
+        "lt": "csv",
+        "lv": "csv",
+        "hr": "csv",
+        "fr": "csv",
+        "hu": "csv",
+        "uk": "csv",
+        "sk": "csv",
+        "sl": "csv",
+        "ga": "csv",
+        "sv": "csv",
+        "mt": "csv",
+        "el": "csv",
+        "en": "csv",
+        "it": "csv",
+        "es": "csv",
+        "et": "csv",
+        "cs": "csv",
+        "pl": "csv",
+        "da": "csv",
+        "ro": "csv",
+        "nl": "csv"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "text/turtle",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/turtle"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_TURTLE",
+        "id": "RDF_TURTLE",
+        "label": "RDF Turtle"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/turtle"
+      ],
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (turtle)",
+        "fi": "Keskiasteen oppilaitosten tutkintojen kehittäminen Thurgaun kantonissa vuodesta 2000 (kilpikonna)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (tartaruga)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (костенурка)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (vėžlys)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (kornjača)",
+        "lv": "Izglītības kvalifikācijas attīstība Tūrgau kantona vidusskolās no 2000. gada (bruņurupucis)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (turtle)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (teknős)",
+        "uk": "Розвиток освітньо-кваліфікаційних рівнів у загальноосвітніх школах кантону Тургау з 2000 року (черепаха)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (korytnačka)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (želva)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (turtar)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (sköldpadda)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων σε σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (χελώνα)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (fekruna)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (turtle)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (tartaruga)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (tortuga)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (kilpkonn)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (želva)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (żółw)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000 (skildpadde)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile secundare din cantonul Thurgau din 2000 (țestoasă)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (schildpad)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "3e0536cb-b64a-4c6b-abab-57ea5e2ea47b",
+      "title": {
+        "de": "turtle",
+        "fi": "kilpikonna",
+        "pt": "tartaruga",
+        "bg": "костенурка",
+        "lt": "vėžlys",
+        "lv": "bruņurupucis",
+        "hr": "kornjača",
+        "fr": "turtle",
+        "hu": "teknős",
+        "uk": "черепаха",
+        "sk": "korytnačka",
+        "sl": "Turtle",
+        "ga": "turtar",
+        "sv": "sköldpadda",
+        "el": "χελώνα",
+        "mt": "fekruna",
+        "en": "turtle",
+        "it": "tartaruga",
+        "es": "tortuga",
+        "et": "kilpkonn",
+        "cs": "želva",
+        "pl": "żółw",
+        "ro": "Turtle",
+        "da": "skildpadde",
+        "nl": "schildpad"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/vnd.ms-excel",
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/xls?use_labels=true"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/XLS",
+        "id": "XLS",
+        "label": "Excel XLS"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/xls?use_labels=true"
+      ],
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (xls)",
+        "fi": "Keskiasteen oppilaitosten tutkintojen kehittäminen Thurgaun kantonissa vuodesta 2000 (xls)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (xls)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (xls)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (xls)",
+        "lv": "Izglītības kvalifikācijas attīstība Tūrgau kantona vidusskolās no 2000. gada (xls)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (xls)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (xls)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (xls)",
+        "uk": "Розвиток освітніх кваліфікацій у середніх школах кантону Тургау з 2000 року (xls)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (xls)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (xls)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (xls)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (xls)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων στα σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (xls)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (xls)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (xls)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (xls)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (xls)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (xls)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (xls)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (xls)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på sekundærtrinnet i kantonen Thurgau fra 2000 (xls)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile secundare din cantonul Thurgau din 2000 (xls)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (xls)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "77713800-3e89-4afa-a61b-fb0acb06a18b",
+      "title": {
+        "de": "xls",
+        "fi": "xls",
+        "pt": "xls",
+        "bg": "xls",
+        "lt": "xls",
+        "hr": "xls",
+        "lv": "xls",
+        "fr": "xls",
+        "hu": "xls",
+        "uk": "xls",
+        "sk": "xls",
+        "sl": "xls",
+        "ga": "xls",
+        "sv": "xls",
+        "el": "xls",
+        "mt": "xls",
+        "en": "xls",
+        "it": "xls",
+        "es": "xls",
+        "et": "xls",
+        "cs": "xls",
+        "pl": "xls",
+        "ro": "xls",
+        "da": "xls",
+        "nl": "xls"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/json",
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/json"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/JSON",
+        "id": "JSON",
+        "label": "JSON"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/json"
+      ],
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (json)",
+        "fi": "Keskiasteen oppilaitosten tutkintojen kehittäminen Thurgaun kantonissa vuodesta 2000 (json)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (json)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (йсон)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas Thurgau kantono vidurinėse mokyklose nuo 2000 m. (json)",
+        "lv": "Izglītības kvalifikācijas attīstība Thurgau kantona vidusskolās no 2000. gada (json)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (json)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (json)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (json)",
+        "uk": "Розвиток освітніх кваліфікацій в середніх школах в кантоні Тургау з 2000 року (json)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (json)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (json)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (json)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (json)",
+        "mt": "Żvilupp ta' kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta' Thurgau mis-sena 2000 (json)",
+        "el": "Ανάπτυξη των εκπαιδευτικών προσόντων σε σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (json)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (json)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (json)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (json)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (json)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (json)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (json)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile secundare din cantonul Thurgau din 2000 (json)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000 (json)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (json)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "e8861a0f-c8b2-4353-87bb-bcc75c80a08a",
+      "title": {
+        "de": "json",
+        "fi": "json",
+        "pt": "json",
+        "bg": "йсон",
+        "lt": "json",
+        "lv": "json",
+        "hr": "json",
+        "fr": "json",
+        "hu": "json",
+        "uk": "JSON (англ.)",
+        "sk": "json",
+        "sl": "json",
+        "ga": "json",
+        "sv": "json",
+        "mt": "json",
+        "el": "Ισον",
+        "en": "json",
+        "it": "json",
+        "es": "json",
+        "et": "json",
+        "cs": "json",
+        "pl": "json",
+        "da": "json",
+        "ro": "json",
+        "nl": "json"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    },
+    {
+      "license": {
+        "resource": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "id": "http://dcat-ap.ch/vocabulary/licenses/terms_open",
+        "label": "http://dcat-ap.ch/vocabulary/licenses/terms_open"
+      },
+      "media_type": "application/rdf+xml",
+      "access_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/rdfxml"
+      ],
+      "rights": {
+        "resource": "https://creativecommons.org/publicdomain/zero/1.0/"
+      },
+      "download_url": [
+        "https://data.tg.ch/api/v2/catalog/datasets/dek-gs-15/exports/rdfxml"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/RDF_XML",
+        "id": "RDF_XML",
+        "label": "RDF XML"
+      },
+      "description": {
+        "de": "Entwicklung der Bildungsabschlüsse an Mittelschulen im Kanton Thurgau ab 2000 (rdfxml)",
+        "fi": "Thurgaun kantonin toisen asteen oppilaitosten tutkintojen kehittäminen vuodesta 2000 (rdfxml)",
+        "pt": "Desenvolvimento de qualificações educacionais em escolas secundárias no cantão de Thurgau a partir de 2000 (rdfxml)",
+        "bg": "Развитие на образователните квалификации в средните училища в кантон Тургау от 2000 г. (rdfxml)",
+        "lt": "Ugdymo kvalifikacijų tobulinimas vidurinėse mokyklose Thurgau kantone nuo 2000 m. (rdfxml)",
+        "lv": "Izglītības kvalifikāciju attīstība Thurgau kantona vidusskolās no 2000. gada (rdfxml)",
+        "hr": "Razvoj obrazovnih kvalifikacija u srednjim školama u kantonu Thurgau od 2000. godine (rdfxml)",
+        "fr": "Evolution des diplômes de l'enseignement secondaire dans le canton de Thurgovie à partir de 2000 (rdfxml)",
+        "hu": "Thurgau kanton középiskolai végzettségének fejlesztése 2000-től (rdfxml)",
+        "uk": "Розвиток освітніх кваліфікацій у середніх школах кантону Тургау з 2000 року (rdfxml)",
+        "sk": "Rozvoj vzdelania na stredných školách v kantóne Thurgau od roku 2000 (rdfxml)",
+        "sl": "Razvoj izobrazbenih kvalifikacij na srednjih šolah v kantonu Thurgau od leta 2000 (rdfxml)",
+        "ga": "Forbairt cáilíochtaí oideachais ag meánscoileanna i gcantún Thurgau ó 2000 (rdfxml)",
+        "sv": "Utveckling av utbildningskvalifikationer vid gymnasieskolor i kantonen Thurgau från 2000 (rdfxml)",
+        "el": "Ανάπτυξη εκπαιδευτικών προσόντων σε σχολεία δευτεροβάθμιας εκπαίδευσης στο καντόνι του Thurgau από το 2000 (rdfxml)",
+        "mt": "L-iżvilupp ta’ kwalifiki edukattivi fl-iskejjel sekondarji fil-canton ta’ Thurgau mis-sena 2000 (rdfxml)",
+        "en": "Development of educational qualifications at secondary schools in the canton of Thurgau from 2000 (rdfxml)",
+        "it": "Sviluppo dei titoli di studio nelle scuole secondarie del Canton Turgovia a partire dal 2000 (rdfxml)",
+        "es": "Desarrollo de las cualificaciones educativas en las escuelas secundarias del cantón de Thurgau a partir de 2000 (rdfxml)",
+        "et": "Hariduskvalifikatsioonide arendamine Thurgau kantoni keskkoolides alates 2000. aastast (rdfxml)",
+        "cs": "Rozvoj vzdělání na středních školách v kantonu Thurgau od roku 2000 (rdfxml)",
+        "pl": "Rozwój kwalifikacji edukacyjnych w szkołach średnich w kantonie Thurgau od 2000 r. (rdfxml)",
+        "da": "Udvikling af uddannelsesmæssige kvalifikationer på gymnasier i kantonen Thurgau fra 2000 (rdfxml)",
+        "ro": "Dezvoltarea calificărilor educaționale în școlile secundare din cantonul Thurgau din 2000 (rdfxml)",
+        "nl": "Ontwikkeling van onderwijskwalificaties op middelbare scholen in het kanton Thurgau vanaf 2000 (rdfxml)"
+      },
+      "modified": "2026-05-31T11:00:03.142000+00:00",
+      "language": [
+        {
+          "resource": "http://publications.europa.eu/resource/authority/language/DEU",
+          "id": "de",
+          "label": "German"
+        }
+      ],
+      "id": "979cc7be-0700-428f-9714-3499ed9e8500",
+      "title": {
+        "de": "rdfxml",
+        "fi": "rdfxml",
+        "pt": "rdfxml",
+        "bg": "rdfxml",
+        "lt": "rdfxml",
+        "lv": "rdfxml",
+        "hr": "rdfxml",
+        "fr": "rdfxml",
+        "hu": "rdfxml",
+        "uk": "rdfxml",
+        "sk": "rdfxml",
+        "sl": "rdfxml",
+        "ga": "rdfxml",
+        "sv": "rdfxml",
+        "el": "rdfxml",
+        "mt": "rdfxml",
+        "en": "rdfxml",
+        "it": "rdfxml",
+        "es": "rdfxml",
+        "et": "rdfxml",
+        "cs": "rdfxml",
+        "pl": "rdfxml",
+        "da": "rdfxml",
+        "ro": "rdfxml",
+        "nl": "rdfxml"
+      },
+      "issued": "2026-05-31T11:00:03.142000+00:00"
+    }
+  ],
+  "relation": [
+    "https://pub.bista.tg.ch/"
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 335
+  },
+  "publisher": {
+    "resource": "https://data.tg.ch/explore/?refine.dcat_ap_ch.domain=kanton-thurgau",
+    "name": "kanton-thurgau",
+    "type": "Agent"
+  },
+  "modified": "2026-05-31T11:00:03.142000+00:00",
+  "id": "dek-gs-15-kanton-thurgau",
+  "categories": [
+    {
+      "resource": "http://publications.europa.eu/resource/authority/data-theme/EDUC",
+      "id": "EDUC",
+      "label": {
+        "nn": "Utdanning, kultur og sport",
+        "no": "Utdanning, kultur og sport",
+        "de": "Bildung, Kultur und Sport",
+        "fi": "Koulutus, kulttuuri ja urheilu",
+        "pt": "Educação, cultura e desporto",
+        "bg": "Образование, култура и спорт",
+        "lt": "Švietimas, kultūra ir sportas",
+        "lv": "Izglītība, kultūra un sports",
+        "hr": "Obrazovanje, kultura i sport",
+        "fr": "Éducation, culture et sport",
+        "hu": "Oktatás, kultúra és sport",
+        "sk": "Vzdelávanie, kultúra a šport",
+        "sl": "Izobraževanje, kultura in šport",
+        "ga": "Oideachas, cultúr agus spórt",
+        "sv": "Utbildning, kultur och sport",
+        "el": "Παιδεία, πολιτιστικά θέματα και αθλητισμός",
+        "mt": "Edukazzjoni, kultura u sport",
+        "en": "Education, culture and sport",
+        "it": "Istruzione, cultura e sport",
+        "es": "Educación, cultura y deportes",
+        "et": "Haridus, kultuur ja sport",
+        "cs": "Vzdělávání, kultura a sport",
+        "nb": "Utdanning, kultur og sport",
+        "pl": "Edukacja, kultura i sport",
+        "da": "Uddannelse, kultur og sport",
+        "ro": "Educaţie, cultură şi sport",
+        "nl": "Onderwijs, cultuur en sport"
+      }
+    }
+  ],
+  "issued": "2026-05-31T11:00:03.142000+00:00",
+  "catalog_record": {
+    "modified": "2026-05-31T20:05:07Z",
+    "issued": "2026-05-28T20:05:04Z"
+  },
+  "contact_point": [
+    {
+      "name": "OGD-Koordinationsstelle Kanton Thurgau",
+      "type": "Organization",
+      "email": "mailto:ogd@tg.ch"
+    }
+  ]
+}

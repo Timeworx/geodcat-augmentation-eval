@@ -1,0 +1,129 @@
+{
+  "@context": {
+    "dcat": "http://www.w3.org/ns/dcat#",
+    "dct": "http://purl.org/dc/terms/",
+    "foaf": "http://xmlns.com/foaf/0.1/",
+    "skos": "http://www.w3.org/2004/02/skos/core#",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "xsd": "http://www.w3.org/2001/XMLSchema#",
+    "geo": "http://www.opengis.net/ont/geosparql#",
+    "deuropa": "https://data.europa.eu/api/ext#"
+  },
+  "@graph": [
+    {
+      "@id": "https://data.europa.eu/data/datasets/fa6a495d-05a1-4c0d-ba67-45a1d47fca92",
+      "@type": "dcat:Dataset",
+      "dct:identifier": "fa6a495d-05a1-4c0d-ba67-45a1d47fca92",
+      "dct:title": {
+        "@language": "en",
+        "@value": "Protected sites WMS"
+      },
+      "dct:description": {
+        "@language": "nor",
+        "@value": "Tjenesten gir en oversikt over hvilke områder som er vernet etter følgende lover: naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, lov om naturvern av 1954, lov om Jan Mayen av 1930 og lov om naturfredning av 1910. I tillegg inneholder det områder vernet etter følgende lovverk på Svalbard: Svalbardloven av 1925 og Svalbardmiljøloven av 2002. Datasettet gir også tilgang til lovforskriften som gjelder for hvert enkelt vernevedtak.\\\\n\\\\nTjenesten gir også oversikt over foreslåtte naturvernområder som er under planlegging og kunngjort (§ 42) etter lov om Naturmangfold - Kapittel V (Områdevern). Tjenesten viser avgrensingen til området i høringsforslaget (§ 43).\\\\n\\\\nVerneområder opprettes først og fremst for å bevare naturverdier av nasjonal betydning. Dette er verdier vi skal ta vare på for all overskuelig framtid, også med tanke på naturopplevelse og kunnskap om naturen. Verneområdene forvaltes av fylkesmannen, kommunen eller et interkommunalt verneområdestyre."
+      },
+      "dct:publisher": {
+        "@type": [
+          "foaf:Organization",
+          "foaf:Agent"
+        ],
+        "foaf:name": {
+          "@language": "en",
+          "@value": "Miljødirektoratet"
+        }
+      },
+      "dcat:keyword": [
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        },
+        {
+          "@language": "language",
+          "@value": "nor"
+        }
+      ],
+      "dct:spatial": {
+        "@type": [
+          "dct:Location",
+          "skos:Concept"
+        ],
+        "skos:prefLabel": {
+          "@language": "en",
+          "@value": "no"
+        }
+      },
+      "deuropa:catalog": {
+        "id": "geonorge",
+        "homepage": "https://www.geonorge.no",
+        "description": {
+          "en": "Geo Data Portal Norway"
+        },
+        "title": {
+          "no": "Geonorge"
+        },
+        "source_type": "geospatial",
+        "issued": "2022-11-21T05:38:23Z",
+        "country": {
+          "label": "Norway",
+          "id": "no",
+          "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+        },
+        "spatial_resource": [
+          {
+            "label": "Norway",
+            "id": "no",
+            "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+          }
+        ],
+        "spatial": [],
+        "language": [
+          {
+            "id": "no",
+            "label": "Norwegian",
+            "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+          }
+        ],
+        "modified": "2022-11-21T05:38:23Z",
+        "publisher": {
+          "type": "Agent",
+          "homepage": "https://www.kartverket.no",
+          "email": "mailto:post@kartverket.no",
+          "name": "Kartverket"
+        },
+        "count": 352
+      },
+      "deuropa:is_hvd": false,
+      "deuropa:quality_meas": {
+        "scoring": 170
+      },
+      "deuropa:provenance": [
+        {
+          "label": "Ingen prosseshistorie tilgjenglig."
+        }
+      ],
+      "deuropa:spatial_resource": [
+        {}
+      ],
+      "deuropa:catalog_record": {
+        "modified": "2026-03-07T17:48:02Z",
+        "issued": "2021-10-15T08:49:22Z"
+      }
+    }
+  ]
+}

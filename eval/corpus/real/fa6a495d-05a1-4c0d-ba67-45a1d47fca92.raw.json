@@ -1,0 +1,415 @@
+{
+  "country": {
+    "resource": "http://publications.europa.eu/resource/authority/country/NOR",
+    "label": "Norway",
+    "id": "no"
+  },
+  "keywords": [
+    {
+      "language": "nor",
+      "id": "foreslåtte-verneområder",
+      "label": "Foreslåtte verneområder"
+    },
+    {
+      "language": "nor",
+      "id": "naturvernområder",
+      "label": "Naturvernområder"
+    },
+    {
+      "language": "nor",
+      "id": "verneområder",
+      "label": "Verneområder"
+    },
+    {
+      "language": "nor",
+      "id": "naturreservat",
+      "label": "Naturreservat"
+    },
+    {
+      "language": "nor",
+      "id": "nasjonalpark",
+      "label": "Nasjonalpark"
+    },
+    {
+      "language": "nor",
+      "id": "landskapsvern",
+      "label": "Landskapsvern"
+    }
+  ],
+  "resource": "http://data.europa.eu/88u/dataset/fa6a495d-05a1-4c0d-ba67-45a1d47fca92",
+  "catalog": {
+    "id": "geonorge",
+    "homepage": "https://www.geonorge.no",
+    "description": {
+      "en": "Geo Data Portal Norway"
+    },
+    "title": {
+      "no": "Geonorge"
+    },
+    "source_type": "geospatial",
+    "issued": "2022-11-21T05:38:23Z",
+    "country": {
+      "label": "Norway",
+      "id": "no",
+      "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+    },
+    "spatial_resource": [
+      {
+        "label": "Norway",
+        "id": "no",
+        "resource": "http://publications.europa.eu/resource/authority/country/NOR"
+      }
+    ],
+    "spatial": [],
+    "language": [
+      {
+        "id": "no",
+        "label": "Norwegian",
+        "resource": "http://publications.europa.eu/resource/authority/language/NOR"
+      }
+    ],
+    "modified": "2022-11-21T05:38:23Z",
+    "publisher": {
+      "type": "Agent",
+      "homepage": "https://www.kartverket.no",
+      "email": "mailto:post@kartverket.no",
+      "name": "Kartverket"
+    },
+    "count": 352
+  },
+  "translation_meta": {
+    "details": {
+      "de": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "fi": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "pt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "bg": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "lt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "hr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "lv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "fr": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "hu": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "nor": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "uk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "sk": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "sl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "ga": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "sv": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "mt": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "el": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "en": {
+        "machine_translated": false,
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "it": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "es": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "et": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "cs": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "pl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "da": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "ro": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      },
+      "nl": {
+        "machine_translated": true,
+        "original_language": "en",
+        "received": "2024-09-07T15:29:01Z",
+        "issued": "2024-06-11T17:48:01Z"
+      }
+    },
+    "full_available_languages": [
+      "ga",
+      "uk",
+      "it",
+      "nor",
+      "cs",
+      "es",
+      "lt",
+      "fi",
+      "da",
+      "pt",
+      "nl",
+      "hu",
+      "sl",
+      "hr",
+      "mt",
+      "bg",
+      "et",
+      "ro",
+      "lv",
+      "el",
+      "sv",
+      "de",
+      "en",
+      "fr",
+      "pl",
+      "sk"
+    ],
+    "status": "completed"
+  },
+  "description": {
+    "nor": "Tjenesten gir en oversikt over hvilke områder som er vernet etter følgende lover: naturmangfoldloven av 2009, biotopvern etter viltloven av 1981, naturvernloven av 1970, lov om naturvern av 1954, lov om Jan Mayen av 1930 og lov om naturfredning av 1910. I tillegg inneholder det områder vernet etter følgende lovverk på Svalbard: Svalbardloven av 1925 og Svalbardmiljøloven av 2002. Datasettet gir også tilgang til lovforskriften som gjelder for hvert enkelt vernevedtak.\\\\n\\\\nTjenesten gir også oversikt over foreslåtte naturvernområder som er under planlegging og kunngjort (§ 42) etter lov om Naturmangfold - Kapittel V (Områdevern). Tjenesten viser avgrensingen til området i høringsforslaget (§ 43).\\\\n\\\\nVerneområder opprettes først og fremst for å bevare naturverdier av nasjonal betydning. Dette er verdier vi skal ta vare på for all overskuelig framtid, også med tanke på naturopplevelse og kunnskap om naturen. Verneområdene forvaltes av fylkesmannen, kommunen eller et interkommunalt verneområdestyre."
+  },
+  "index": "dataset",
+  "title": {
+    "de": "Geschützte Standorte WMS",
+    "fi": "WMS Suojatut sivustot",
+    "pt": "Sites protegidos WMS",
+    "bg": "Защитени обекти WMS",
+    "lt": "Saugomos svetainės WMS",
+    "hr": "Zaštićena područja WMS",
+    "lv": "Aizsargājamās teritorijas WMS",
+    "fr": "Sites protégés WMS",
+    "hu": "Védett webhelyek WMS",
+    "nor": "Naturvernområder WMS",
+    "uk": "Охоронювані сайти WMS",
+    "sk": "Chránené lokality WMS",
+    "sl": "Zaščitena območja WMS",
+    "ga": "Láithreáin faoi chosaint WMS",
+    "sv": "Skyddade webbplatser WMS",
+    "mt": "Siti protetti WMS",
+    "el": "Προστατευόμενες τοποθεσίες WMS",
+    "en": "Protected sites WMS",
+    "it": "Siti protetti WMS",
+    "es": "Sitios protegidos WMS",
+    "et": "Kaitstavad alad WMS",
+    "cs": "Chráněná místa WMS",
+    "pl": "Chronione strony WMS",
+    "da": "Beskyttede websteder WMS",
+    "ro": "Site-uri protejate WMS",
+    "nl": "Beschermde sites WMS"
+  },
+  "accrual_periodicity": {},
+  "distributions": [
+    {
+      "license": {
+        "resource": "http://data.norge.no/nlod/no/1.0",
+        "id": "http://data.norge.no/nlod/no/1.0",
+        "label": "http://data.norge.no/nlod/no/1.0"
+      },
+      "access_url": [
+        "https://kart.miljodirektoratet.no/arcgis/services/vern/mapserver/WMSServer?service=wms&request=getcapabilities"
+      ],
+      "format": {
+        "resource": "http://publications.europa.eu/resource/authority/file-type/WMS_SRVC",
+        "id": "WMS_SRVC",
+        "label": "WMS"
+      },
+      "modified": "0001-01-01T00:00:00Z",
+      "id": "0f6b5cbc-fcf4-4a68-9601-6c1ac5727f6c",
+      "access_service": [
+        {
+          "endpoint_url": [
+            "https://kart.miljodirektoratet.no/arcgis/services/vern/mapserver/WMSServer"
+          ],
+          "endpoint_description": [
+            "https://kart.miljodirektoratet.no/arcgis/services/vern/mapserver/WMSServer?service=wms&request=getcapabilities"
+          ],
+          "title": {
+            "en": "WMS"
+          }
+        }
+      ],
+      "issued": "2011-09-01T00:00:00Z",
+      "title": {
+        "de": "Blick",
+        "fi": "näkymä",
+        "pt": "vista",
+        "bg": "изглед",
+        "lt": "peržiūrėti",
+        "hr": "pogled",
+        "lv": "apskatīt",
+        "fr": "vue",
+        "hu": "kilátás",
+        "uk": "перегляд",
+        "sk": "pohľad",
+        "sl": "pogled",
+        "ga": "amharc",
+        "sv": "vy",
+        "mt": "ħarsa",
+        "el": "προβολή",
+        "en": "view",
+        "it": "Visualizza",
+        "es": "vista",
+        "et": "vaade",
+        "cs": "Zobrazit",
+        "pl": "widok",
+        "da": "udsigt",
+        "ro": "vizualizare",
+        "nl": "Bekijk"
+      }
+    }
+  ],
+  "is_hvd": false,
+  "quality_meas": {
+    "scoring": 170
+  },
+  "provenance": [
+    {
+      "label": "Ingen prosseshistorie tilgjenglig."
+    }
+  ],
+  "spatial_resource": [
+    {}
+  ],
+  "modified": "0001-01-01T00:00:00Z",
+  "publisher": {
+    "name": "Miljødirektoratet",
+    "type": "Organization",
+    "email": "mailto:wms@miljodir.no"
+  },
+  "id": "fa6a495d-05a1-4c0d-ba67-45a1d47fca92",
+  "categories": [],
+  "issued": "2011-09-01T00:00:00Z",
+  "spatial": [
+    {
+      "coordinates": [
+        [
+          [
+            2,
+            72
+          ],
+          [
+            33,
+            72
+          ],
+          [
+            33,
+            57
+          ],
+          [
+            2,
+            57
+          ],
+          [
+            2,
+            72
+          ]
+        ]
+      ],
+      "type": "Polygon"
+    }
+  ],
+  "qualified_attribution": [],
+  "catalog_record": {
+    "modified": "2026-03-07T17:48:02Z",
+    "issued": "2021-10-15T08:49:22Z"
+  }
+}
